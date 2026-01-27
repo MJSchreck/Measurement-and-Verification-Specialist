@@ -1,0 +1,75 @@
+{
+  "metadata": {
+    "portfolio_lead": "Matthew Schreck",
+    "tracking_period_start": "YYYY-MM-DD",
+    "tracking_period_end": "2026-01-27",
+    "last_updated": "2026-01-27",
+    "data_status": "PLACEHOLDER - POPULATE WITH ACTUAL METRICS"
+  },
+  "summary_metrics": {
+    "total_contracts_managed": 15,
+    "total_portfolio_value": 300000000,
+    "active_contracts": 0,
+    "contracts_in_closeout": 0,
+    "contracts_post_acceptance": 0
+  },
+  "m_and_v_metrics": {
+    "total_reviews_completed": 0,
+    "reviews_this_fiscal_year": 0,
+    "reviews_pending": 0,
+    "average_review_time_days": 0,
+    "reviews_by_contract": {}
+  },
+  "payment_metrics": {
+    "total_payments_processed": 0,
+    "total_payment_value": 0,
+    "payments_this_fiscal_year": 0,
+    "payment_value_this_fy": 0,
+    "payments_on_hold": 0,
+    "hold_value": 0,
+    "average_processing_time_days": 0
+  },
+  "issue_resolution_metrics": {
+    "total_issues_identified": 0,
+    "issues_resolved": 0,
+    "issues_open": 0,
+    "issues_escalated": 0,
+    "average_resolution_time_days": 0,
+    "issues_by_category": {
+      "m_and_v_discrepancy": 0,
+      "payment_dispute": 0,
+      "contractor_performance": 0,
+      "savings_shortfall": 0,
+      "documentation": 0,
+      "compliance": 0,
+      "other": 0
+    }
+  },
+  "site_visit_metrics": {
+    "total_site_visits": 0,
+    "visits_this_fiscal_year": 0,
+    "facilities_visited": [],
+    "travel_days": 0
+  },
+  "contractor_engagement": {
+    "contractor_meetings": 0,
+    "disputes_handled": 0,
+    "disputes_resolved": 0,
+    "performance_reviews_conducted": 0
+  },
+  "documentation_produced": {
+    "annual_reports": 0,
+    "m_and_v_reports": 0,
+    "briefings_prepared": 0,
+    "corrective_action_plans": 0,
+    "contract_modifications": 0
+  },
+  "training_and_development": {
+    "training_sessions_attended": 0,
+    "certifications_maintained": [],
+    "training_delivered_to_others": 0
+  },
+  "monthly_breakdown": [],
+  "quarterly_breakdown": [],
+  "fiscal_year_breakdown": []
+}

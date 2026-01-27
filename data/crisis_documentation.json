@@ -1,0 +1,78 @@
+{
+  "metadata": {
+    "document_title": "Staffing Crisis Documentation - 80% Reduction",
+    "prepared_by": "Matthew Schreck",
+    "organization": "GSA Zone C",
+    "last_updated": "2026-01-27",
+    "classification": "Internal Use - Leadership Briefing",
+    "data_status": "PLACEHOLDER - POPULATE WITH ACTUAL DATA"
+  },
+  "crisis_overview": {
+    "crisis_name": "Zone C Staffing Reduction",
+    "crisis_start_date": "YYYY-MM-DD",
+    "crisis_type": "Staffing/Resource",
+    "severity": "Critical",
+    "status": "Ongoing",
+    "summary": "80% reduction in M&V/Energy Program staff resulting in significant workload redistribution"
+  },
+  "staffing_impact": {
+    "original_team_size": 0,
+    "current_team_size": 0,
+    "reduction_percentage": 80,
+    "positions_lost": [],
+    "positions_retained": [
+      {
+        "name": "Matthew Schreck",
+        "title": "Energy Program Specialist / M&V Specialist",
+        "role": "Zone C MVP Lead",
+        "responsibilities_before": [],
+        "responsibilities_after": [],
+        "workload_increase_percentage": 0
+      }
+    ],
+    "departure_timeline": []
+  },
+  "workload_redistribution": {
+    "contracts_redistributed": 0,
+    "original_contracts_managed": 0,
+    "current_contracts_managed": 15,
+    "additional_responsibilities": [],
+    "tasks_deferred": [],
+    "tasks_eliminated": [],
+    "tasks_outsourced": []
+  },
+  "impact_assessment": {
+    "service_level_impacts": [],
+    "delayed_deliverables": [],
+    "risk_areas": [],
+    "mitigation_actions": []
+  },
+  "resource_requests": {
+    "additional_fte_requested": 0,
+    "contractor_support_requested": false,
+    "budget_impact": 0,
+    "request_status": "",
+    "request_dates": []
+  },
+  "leadership_communications": [
+    {
+      "date": "YYYY-MM-DD",
+      "audience": "",
+      "topic": "",
+      "outcome": "",
+      "follow_up_required": false
+    }
+  ],
+  "metrics_during_crisis": {
+    "contracts_maintained": 15,
+    "m_and_v_reviews_completed": 0,
+    "payments_processed": 0,
+    "issues_resolved": 0,
+    "on_time_delivery_rate": 0,
+    "critical_deadlines_met": 0,
+    "critical_deadlines_total": 0
+  },
+  "lessons_learned": [],
+  "recommendations": [],
+  "evidence_and_documentation": []
+}

@@ -1,0 +1,29 @@
+# Generated reports (contain potentially sensitive data)
+reports/*.txt
+reports/*.pdf
+reports/*.xlsx
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+.env
+.venv
+env/
+venv/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Sensitive data backups
+*.bak
+*.backup

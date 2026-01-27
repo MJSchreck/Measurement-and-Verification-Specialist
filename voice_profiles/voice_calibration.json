@@ -1,0 +1,116 @@
+{
+  "metadata": {
+    "owner": "Matthew Schreck",
+    "title": "Energy Program Specialist / M&V Specialist",
+    "organization": "GSA",
+    "last_updated": "2026-01-27",
+    "status": "AWAITING CALIBRATION - PROVIDE SAMPLE EMAILS"
+  },
+  "base_profile": {
+    "name": "Matthew Schreck",
+    "preferred_name": "Matt",
+    "signature_block": "Matthew Schreck\nEnergy Program Specialist / M&V Specialist\nGSA Zone C MVP Lead",
+    "default_tone": "professional",
+    "communication_style": {
+      "formality_level": "professional",
+      "typical_greeting": "",
+      "typical_closing": "",
+      "uses_contractions": true,
+      "sentence_length": "medium",
+      "paragraph_length": "short-medium",
+      "bullet_point_preference": "moderate",
+      "emoji_usage": "never"
+    }
+  },
+  "recipient_profiles": [
+    {
+      "profile_id": "LEADERSHIP",
+      "description": "Senior leadership, Regional Administrators, Directors",
+      "tone": "formal-professional",
+      "formality": "high",
+      "typical_recipients": [],
+      "greeting_style": "",
+      "closing_style": "",
+      "key_phrases": [],
+      "avoid_phrases": [],
+      "sample_emails": [],
+      "notes": "Focus on outcomes, metrics, and strategic impact"
+    },
+    {
+      "profile_id": "ESCO_CONTRACTORS",
+      "description": "ESCO partners, contractors, project managers",
+      "tone": "professional-direct",
+      "formality": "medium-high",
+      "typical_recipients": [],
+      "greeting_style": "",
+      "closing_style": "",
+      "key_phrases": [],
+      "avoid_phrases": [],
+      "sample_emails": [],
+      "notes": "Technical, contract-focused, clear expectations"
+    },
+    {
+      "profile_id": "UTILITY_PARTNERS",
+      "description": "Utility company representatives for UESC contracts",
+      "tone": "professional-collaborative",
+      "formality": "medium-high",
+      "typical_recipients": [],
+      "greeting_style": "",
+      "closing_style": "",
+      "key_phrases": [],
+      "avoid_phrases": [],
+      "sample_emails": [],
+      "notes": "Partnership emphasis, mutual benefit focus"
+    },
+    {
+      "profile_id": "INTERNAL_TEAM",
+      "description": "GSA colleagues, fellow energy specialists, PBS staff",
+      "tone": "collegial-professional",
+      "formality": "medium",
+      "typical_recipients": [],
+      "greeting_style": "",
+      "closing_style": "",
+      "key_phrases": [],
+      "avoid_phrases": [],
+      "sample_emails": [],
+      "notes": "Collaborative, process-oriented"
+    },
+    {
+      "profile_id": "FACILITY_MANAGERS",
+      "description": "Building managers, facility staff at contract sites",
+      "tone": "approachable-professional",
+      "formality": "medium",
+      "typical_recipients": [],
+      "greeting_style": "",
+      "closing_style": "",
+      "key_phrases": [],
+      "avoid_phrases": [],
+      "sample_emails": [],
+      "notes": "Clear, practical, supportive"
+    },
+    {
+      "profile_id": "AUDITORS_COMPLIANCE",
+      "description": "IG auditors, compliance officers, oversight bodies",
+      "tone": "formal-precise",
+      "formality": "high",
+      "typical_recipients": [],
+      "greeting_style": "",
+      "closing_style": "",
+      "key_phrases": [],
+      "avoid_phrases": [],
+      "sample_emails": [],
+      "notes": "Documentation-focused, precise, responsive"
+    }
+  ],
+  "calibration_samples": {
+    "instructions": "Paste 3-5 sample emails below for voice calibration",
+    "samples": []
+  },
+  "extracted_patterns": {
+    "common_phrases": [],
+    "greeting_variations": [],
+    "closing_variations": [],
+    "technical_terminology": [],
+    "acronyms_used": []
+  }
+}

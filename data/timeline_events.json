@@ -1,0 +1,92 @@
+{
+  "metadata": {
+    "description": "Portfolio Timeline: IG Audit → MVP Charter → Present",
+    "maintainer": "Matthew Schreck",
+    "last_updated": "2026-01-27",
+    "data_status": "PLACEHOLDER - POPULATE WITH ACTUAL DATES"
+  },
+  "key_milestones": {
+    "ig_audit_date": "YYYY-MM-DD",
+    "ig_audit_findings_released": "YYYY-MM-DD",
+    "mvp_charter_established": "YYYY-MM-DD",
+    "zone_c_lead_start_date": "YYYY-MM-DD",
+    "staffing_crisis_start": "YYYY-MM-DD",
+    "current_date": "2026-01-27"
+  },
+  "phases": [
+    {
+      "phase_id": "PHASE-1",
+      "name": "Pre-IG Audit",
+      "start_date": "",
+      "end_date": "",
+      "description": "Operations before IG Audit findings",
+      "team_size": 0,
+      "key_events": []
+    },
+    {
+      "phase_id": "PHASE-2",
+      "name": "IG Audit Response",
+      "start_date": "",
+      "end_date": "",
+      "description": "Response to IG Audit findings, program restructuring",
+      "team_size": 0,
+      "key_events": []
+    },
+    {
+      "phase_id": "PHASE-3",
+      "name": "MVP Charter Implementation",
+      "start_date": "",
+      "end_date": "",
+      "description": "New charter established, processes reformed",
+      "team_size": 0,
+      "key_events": []
+    },
+    {
+      "phase_id": "PHASE-4",
+      "name": "Staffing Crisis",
+      "start_date": "",
+      "end_date": "",
+      "description": "80% reduction in staff, workload redistribution",
+      "team_size": 0,
+      "key_events": []
+    },
+    {
+      "phase_id": "PHASE-5",
+      "name": "Current Operations",
+      "start_date": "",
+      "end_date": "ongoing",
+      "description": "Present state operations",
+      "team_size": 0,
+      "key_events": []
+    }
+  ],
+  "events": [
+    {
+      "event_id": "EVT-001",
+      "date": "YYYY-MM-DD",
+      "phase": "PHASE-1",
+      "category": "Audit",
+      "title": "IG Audit Initiated",
+      "description": "",
+      "impact": "High",
+      "contracts_affected": [],
+      "action_taken": "",
+      "outcome": "",
+      "evidence_links": []
+    }
+  ],
+  "event_categories": [
+    "Audit",
+    "Staffing",
+    "Contract Award",
+    "Contract Closeout",
+    "M&V Review",
+    "Payment Issue",
+    "Contractor Dispute",
+    "Policy Change",
+    "Training",
+    "Site Visit",
+    "Leadership Briefing",
+    "Crisis Response"
+  ]
+}
