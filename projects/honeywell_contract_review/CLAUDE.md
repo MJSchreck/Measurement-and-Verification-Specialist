@@ -6,10 +6,10 @@ Dedicated workspace for managing Honeywell ESPC contracts (NDER2 SF and NDER2 LA
 
 ## Contracts
 
-| Contract | Location | CO | EMP2 Support |
-|----------|----------|----|--------------|
-| NDER2 SF | San Francisco | Patrick Chapman | David Frank |
-| NDER2 LA | Los Angeles | Patrick Chapman | David Frank |
+| Contract | Contract Number | Location | CO | EMP2 Support |
+|----------|-----------------|----------|----|--------------|
+| NDER2 SF | GS-P-08-16-JE-7140 | San Francisco | Patrick Chapman | David Frank |
+| NDER2 LA | DEAM3609GO29035, Order GS-P-08-16-JE-7081 | Los Angeles | Patrick Chapman | David Frank |
 
 ## Key Contacts
 
@@ -18,12 +18,28 @@ Dedicated workspace for managing Honeywell ESPC contracts (NDER2 SF and NDER2 LA
 - **Patrick Chapman** - GSA CO (patrick.chapman@gsa.gov)
 - **David Frank** - EMP2 (david.frank@emp2.com)
 
+## Document Retrieval
+
+When searching Google Drive for contract documents:
+
+### NDER2 SF (7140)
+- `"7140" AND "M&V report"`
+- `"Honeywell" AND "annual report" AND "2024 OR 2025"`
+- `"NDER2 SF" AND "Year 6"`
+- `"GS-P-08-16-JE-7140"`
+
+### NDER2 LA (7081)
+- `"7081" AND "M&V report"`
+- `"NDER2 LA" AND "Honeywell"`
+- `"DEAM3609GO29035"`
+
 ## Directory Structure
 
 ```
 /honeywell_contract_review
 ├── CLAUDE.md           # This file
-├── /retrieved_docs     # Contract docs, M&V reports, mods
+├── /retrieved_docs     # M&V reports pulled from Drive
+├── /analysis           # Working calculations
 └── /outputs            # Review notes, action items, memos
 ```
 
