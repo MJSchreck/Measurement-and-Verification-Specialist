@@ -102,6 +102,19 @@ This project supports AI-assisted management of a $286M ESPC/UESC contract portf
 4. **Knowledge persists across sessions**
 5. **60% reduction in invoice processing time**
 
+## Project Structure
+
+```
+/
+├── CLAUDE.md                 # Project instructions and context
+├── README.md                 # Project description
+└── corpus/                   # Document corpus for RAG
+    ├── raw_documents/        # Source documents (PDFs, DOCX, etc.)
+    ├── embeddings/           # Vector store (Chroma, Pinecone, etc.)
+    ├── index_builder.py      # One-time indexing script
+    └── query_service.py      # API to retrieve relevant chunks
+```
+
 ## Commands
 
 No build, test, or lint commands are configured yet.
