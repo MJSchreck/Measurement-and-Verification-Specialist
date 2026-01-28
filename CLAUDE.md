@@ -126,7 +126,31 @@ This project supports AI-assisted management of a $286M ESPC/UESC contract portf
 
 ## Commands
 
-No build, test, or lint commands are configured yet.
+### Corpus Indexing (one-time or periodic)
+```bash
+# Index all documents in the corpus
+claude-code "Index all documents in /corpus/raw_documents using text-embedding-3-small"
+
+# Re-index after adding new documents
+claude-code "Update the corpus index with new documents added since last indexing"
+```
+
+### Project Workflows
+```bash
+# Query corpus and analyze in a project context
+claude-code "Query the corpus for all M&V reports from 2024-2025,
+             copy relevant docs to /retrieved_docs,
+             then analyze savings shortfalls"
+
+# Contract-specific queries
+claude-code "Find all NDER2 SF Year 6 documents, summarize key findings"
+
+# Generate outputs
+claude-code "Review retrieved_docs and draft a memo on baseline adjustment issues"
+```
+
+### Build/Test
+No build or test commands configured yet.
 
 ## Conventions
 
