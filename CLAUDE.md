@@ -2,21 +2,21 @@
 
 ## Project Overview
 
-**Cyborg Workflow System** for Matt Schreck, GSA Energy Division Zone C M&V Lead.
+**Cyborg Workflow System** for Matt Schreck, GSA Energy Division Zone 7 M&V Lead.
 
 This project supports AI-assisted management of a $286M ESPC/UESC contract portfolio (16 contracts) following an 80% team reduction. The system integrates Claude AI with Asana, Gmail, Google Drive, and Calendar to maintain 100% operational effectiveness as a solo COR.
 
 ## Role Context
 
 - **User:** Matt Schreck
-- **Position:** Zone C M&V Lead, GSA PBS Energy Division
+- **Position:** Zone 7 M&V Lead, GSA PBS Energy Division
 - **Supervisor:** Nathan Ingersoll
 - **Portfolio:** 16 contracts, $286M total value
 - **Key Achievement:** 100% witnessing rate (vs 38% national average), zero PPA violations
 
 ## Contract Portfolio
 
-### Primary Contracts (Zone C)
+### Primary Contracts (Zone 7)
 
 | Contract | Vendor | Type | Status |
 |----------|--------|------|--------|
