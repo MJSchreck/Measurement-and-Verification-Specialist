@@ -108,11 +108,20 @@ This project supports AI-assisted management of a $286M ESPC/UESC contract portf
 /
 ├── CLAUDE.md                 # Project instructions and context
 ├── README.md                 # Project description
-└── corpus/                   # Document corpus for RAG
-    ├── raw_documents/        # Source documents (PDFs, DOCX, etc.)
-    ├── embeddings/           # Vector store (Chroma, Pinecone, etc.)
-    ├── index_builder.py      # One-time indexing script
-    └── query_service.py      # API to retrieve relevant chunks
+├── corpus/                   # Document corpus for RAG
+│   ├── raw_documents/        # Source documents (PDFs, DOCX, etc.)
+│   ├── embeddings/           # Vector store (Chroma, Pinecone, etc.)
+│   ├── index_builder.py      # One-time indexing script
+│   └── query_service.py      # API to retrieve relevant chunks
+└── projects/                 # Task-specific workspaces
+    ├── espc_mv_analysis/     # M&V report analysis
+    │   ├── CLAUDE.md         # Project context
+    │   ├── retrieved_docs/   # Docs pulled from corpus
+    │   └── outputs/          # Analysis results
+    └── honeywell_contract_review/
+        ├── CLAUDE.md         # Project context
+        ├── retrieved_docs/   # Contract docs
+        └── outputs/          # Review outputs
 ```
 
 ## Commands
