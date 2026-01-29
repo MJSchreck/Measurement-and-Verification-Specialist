@@ -108,6 +108,7 @@ This project supports AI-assisted management of a $286M ESPC/UESC contract portf
 /
 ├── CLAUDE.md                 # Project instructions and context
 ├── README.md                 # Project description
+├── setup.sh                  # Setup script
 ├── corpus/                   # Document corpus for RAG
 │   ├── raw_documents/        # Source documents (PDFs, DOCX, etc.)
 │   ├── embeddings/           # Vector store (Chroma, Pinecone, etc.)
@@ -125,6 +126,17 @@ This project supports AI-assisted management of a $286M ESPC/UESC contract portf
 ```
 
 ## Commands
+
+### Setup
+```bash
+# 1. Run the setup script
+chmod +x setup.sh && ./setup.sh
+
+# 2. Add documents to corpus/raw_documents/
+
+# 3. Initialize and test
+claude "Search Drive for the FY2025 Portfolio Review and summarize the Tier 1 issues"
+```
 
 ### Corpus Indexing (one-time or periodic)
 ```bash
