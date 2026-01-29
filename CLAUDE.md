@@ -102,6 +102,23 @@ This project supports AI-assisted management of a $286M ESPC/UESC contract portf
 4. **Knowledge persists across sessions**
 5. **60% reduction in invoice processing time**
 
+## Document Retrieval Strategy
+
+Tiered approach for managing large document corpus:
+
+| Tier | Storage | Access Method | Use Case |
+|------|---------|---------------|----------|
+| Hot | Local `/retrieved_docs` | Direct file access | Active analysis |
+| Warm | Google Drive | Drive API search | On-demand retrieval |
+| Cold | Archived/historical | Drive search + fetch | Historical research |
+
+### Search Patterns
+- Contract number: `"GS-P-08-16-JE-7140"`
+- ESCO + type: `"Honeywell" AND "M&V report"`
+- Building + year: `"CA0641ZZ 2025"`
+
+Cache retrieved docs to `./retrieved_docs/` for faster iteration.
+
 ## Project Structure
 
 ```
@@ -114,15 +131,22 @@ This project supports AI-assisted management of a $286M ESPC/UESC contract portf
 │   ├── embeddings/           # Vector store (Chroma, Pinecone, etc.)
 │   ├── index_builder.py      # One-time indexing script
 │   └── query_service.py      # API to retrieve relevant chunks
+├── shared_prompts/           # Reusable prompt templates
+│   ├── mv_analysis.md        # M&V report analysis template
+│   └── easi_procedures.md    # EASi/RR workflow template
 └── projects/                 # Task-specific workspaces
     ├── espc_mv_analysis/     # M&V report analysis
     │   ├── CLAUDE.md         # Project context
     │   ├── retrieved_docs/   # Docs pulled from corpus
     │   └── outputs/          # Analysis results
-    └── honeywell_contract_review/
-        ├── CLAUDE.md         # Project context
-        ├── retrieved_docs/   # Contract docs
-        └── outputs/          # Review outputs
+    ├── honeywell_contract_review/
+    │   ├── CLAUDE.md         # Project context
+    │   ├── retrieved_docs/   # Contract docs
+    │   └── outputs/          # Review outputs
+    ├── honeywell_7140_shortfall/  # $95K shortfall analysis
+    ├── abm-anderson-battery/      # $6.68M BESS settlement
+    ├── fy26-mv-compliance/        # Portfolio compliance
+    └── easi-automation/           # Invoice/RR automation
 ```
 
 ## Commands
