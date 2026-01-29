@@ -185,6 +185,21 @@ claude-code "Find all NDER2 SF Year 6 documents, summarize key findings"
 claude-code "Review retrieved_docs and draft a memo on baseline adjustment issues"
 ```
 
+### Common Query Patterns
+```bash
+# Status tracking
+claude "What items are still open for Honeywell to address?"
+claude "What does EMP2 need to review before we can accept?"
+
+# Communications
+claude "Draft a status update email for the 7140 Y6 review"
+claude "Summarize this week's action items for Nathan check-in"
+
+# Analysis
+claude "Compare guaranteed vs actual savings for NDER2 SF Year 6"
+claude "List all contracts with overdue M&V reports"
+```
+
 ### Build/Test
 No build or test commands configured yet.
 
