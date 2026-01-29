@@ -1,38 +1,50 @@
 #!/bin/bash
-# Setup script for M&V Specialist Cyborg Workflow System
+# Claude Code GSA Energy Projects Setup Script
+# Run this to create the project structure on your machine
 
 set -e
 
-echo "Setting up M&V Specialist workspace..."
+echo "Setting up Claude Code projects for GSA Energy Portfolio..."
 
-# Create directory structure
-mkdir -p corpus/{raw_documents,embeddings}
-mkdir -p projects/espc_mv_analysis/{retrieved_docs,analysis,outputs}
-mkdir -p projects/honeywell_contract_review/{retrieved_docs,analysis,outputs}
-mkdir -p projects/honeywell_7140_shortfall/{retrieved_docs,analysis}
+# Base directory
+BASE_DIR="$HOME/claude-projects"
+mkdir -p "$BASE_DIR"
 
-echo "Directory structure created."
+# Create project directories
+PROJECTS=(
+    "gsa-energy-central"
+    "honeywell-7140-shortfall"
+    "abm-anderson-battery"
+    "fy26-mv-compliance"
+    "easi-automation"
+)
 
-# Check for required tools
-echo "Checking dependencies..."
+for project in "${PROJECTS[@]}"; do
+    PROJECT_DIR="$BASE_DIR/$project"
+    mkdir -p "$PROJECT_DIR"
+    mkdir -p "$PROJECT_DIR/retrieved_docs"
+    mkdir -p "$PROJECT_DIR/analysis"
+    mkdir -p "$PROJECT_DIR/outputs"
+    echo "Created $project"
+done
 
-if command -v claude &> /dev/null; then
-    echo "✓ Claude CLI found"
-else
-    echo "✗ Claude CLI not found - install from https://claude.ai/code"
-fi
+# Create shared resources in central project
+mkdir -p "$BASE_DIR/gsa-energy-central/shared_prompts"
+mkdir -p "$BASE_DIR/gsa-energy-central/corpus/raw_documents"
+mkdir -p "$BASE_DIR/gsa-energy-central/corpus/embeddings"
 
-if command -v python3 &> /dev/null; then
-    echo "✓ Python 3 found"
-else
-    echo "✗ Python 3 not found"
-fi
+# Create scripts directory for easi-automation
+mkdir -p "$BASE_DIR/easi-automation/scripts"
 
 echo ""
-echo "Setup complete!"
+echo "Project structure created at: $BASE_DIR"
 echo ""
 echo "Next steps:"
-echo "  1. Add documents to corpus/raw_documents/"
-echo "  2. Run: claude \"Index all documents in /corpus/raw_documents\""
-echo "  3. Start a project: cd projects/honeywell_7140_shortfall"
-echo "  4. Query: claude \"Search Drive for 7140 M&V report and analyze shortfalls\""
+echo "1. Copy the CLAUDE.md files to each project directory"
+echo "2. Run 'cd $BASE_DIR/gsa-energy-central && claude init'"
+echo "3. Test with: claude 'What documents do I need for the 7140 analysis?'"
+echo ""
+echo "Project locations:"
+for project in "${PROJECTS[@]}"; do
+    echo "  - $BASE_DIR/$project"
+done
