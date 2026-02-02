@@ -4,8 +4,7 @@ GSA Payment Authorization Tool - MCP Server
 ============================================
 
 An MCP (Model Context Protocol) server for GSA ESPC/UESC payment authorization.
-Provides tools for calculating shortfalls, validating payments, and generating
-authorization packages.
+Dynamically reads contract data from knowledge-base/ files.
 
 Tools Available:
 - calculate_shortfall: Calculate energy savings shortfall
@@ -17,15 +16,17 @@ Tools Available:
 Usage:
     python server.py
 
-Integration:
-    Add to Claude Desktop config (claude_desktop_config.json)
+Data Sources:
+    knowledge-base/contracts/*.md - Contract-specific data
+    knowledge-base/payments/*.md - Payment schedules
+    knowledge-base/compliance/*.md - OIG requirements
 """
 
 import json
 import os
 import re
-from datetime import datetime, timedelta
-from typing import Any
+from datetime import datetime
+from typing import Any, Optional
 from pathlib import Path
 
 # MCP imports
@@ -42,163 +43,230 @@ server = Server("gsa-payment-authorization")
 
 # Get the project root (two levels up from this file)
 PROJECT_ROOT = Path(__file__).parent.parent.parent
+KNOWLEDGE_BASE = PROJECT_ROOT / "knowledge-base"
 
-# Contract data (loaded from portfolio baseline)
-CONTRACT_DATA = {
-    "NDER2_SD_Ameresco": {
-        "vendor": "Ameresco",
-        "type": "ESPC NDER2",
-        "region": "R9",
-        "co": "Felipe Jolles",
-        "total_value": 53687414,
-        "annual_payment": 1684326,
-        "payment_due": "April 1",
-        "delegation_status": "No Delegation",
-        "watch_list": True,
-        "variance": -1.0
-    },
-    "NDER2_SF_Honeywell": {
-        "vendor": "Honeywell",
-        "type": "ESPC NDER2",
-        "region": "R9",
-        "co": "Heidi Johnson",
-        "total_value": None,
-        "annual_payment": None,
-        "payment_due": "March 1",
-        "delegation_status": "On File",
-        "watch_list": True,
-        "variance": -4.5,
-        "shortfall_amount": 95000
-    },
-    "NDER2_LA_Honeywell": {
-        "vendor": "Honeywell",
-        "type": "ESPC NDER2",
-        "region": "R9",
-        "co": "Heidi Johnson",
-        "total_value": None,
-        "annual_payment": None,
-        "payment_due": "March 1",
-        "delegation_status": "No Delegation",
-        "watch_list": True,
-        "variance": -7.5,
-        "shortfall_amount": 35000
-    },
-    "LA_ESPC_ABM": {
-        "vendor": "ABM Industries",
-        "type": "ESPC",
-        "region": "R9",
-        "co": "Heidi Johnson",
-        "total_value": 143903595,
-        "annual_payment": 3821698,
-        "payment_due": "May 1",
-        "delegation_status": "No Delegation",
-        "watch_list": False,
-        "variance": 0
-    },
-    "UESC_SD_SDGandE": {
-        "vendor": "SDG&E",
-        "type": "UESC",
-        "region": "R9",
-        "co": "Felipe Jolles",
-        "total_value": 8384152,
-        "annual_payment": 586201,
-        "payment_due": "May 1",
-        "delegation_status": "On File",
-        "watch_list": False,
-        "variance": 0
-    },
-    "PJKK_JCI": {
-        "vendor": "Johnson Controls",
-        "type": "ESPC",
-        "region": "R9",
-        "co": "Miles Conant",
-        "total_value": None,
-        "annual_payment": 236941,
-        "payment_due": "July 31",
-        "delegation_status": "Nomination Issued",
-        "watch_list": False,
-        "variance": 0,
-        "final_year": True,
-        "contract_end": "September 30, 2025"
-    },
-    "McKinstry_R8": {
-        "vendor": "McKinstry",
-        "type": "ESPC",
-        "region": "R8",
-        "co": "Felipe Jolles",
-        "total_value": 18494626,
-        "annual_payment": None,
-        "payment_due": "December 31",
-        "delegation_status": "On File",
-        "watch_list": True,
-        "variance": 0,
-        "issue": "0% report submission"
-    },
-    "UESC_Sansome_PGE": {
-        "vendor": "PG&E",
-        "type": "UESC",
-        "region": "R9",
-        "co": "Felipe Jolles",
-        "total_value": 11564801,
-        "annual_payment": 112670,
-        "payment_due": "December 1",
-        "delegation_status": "No Delegation",
-        "watch_list": True,
-        "variance": 0,
-        "issue": "0% NCMMS"
-    },
-    "ENABLE_Detroit_Honeywell": {
-        "vendor": "Honeywell",
-        "type": "ENABLE",
-        "region": "R5",
-        "co": "Jerrud Parker",
-        "total_value": 24670720,
-        "annual_payment": None,
-        "payment_due": "March",
-        "delegation_status": "Nomination Issued",
-        "watch_list": False,
-        "variance": 0
-    },
-    "NDER1_Chicago_Noresco": {
-        "vendor": "Noresco",
-        "type": "ESPC NDER1",
-        "region": "R5",
-        "co": "Krystal Blue",
-        "total_value": None,
-        "annual_payment": None,
-        "payment_due": "July",
-        "delegation_status": "Nomination Issued",
-        "watch_list": False,
-        "variance": 0
-    },
-    "ABM_ENABLE_R8": {
-        "vendor": "ABM Industries",
-        "type": "ENABLE",
-        "region": "R8",
-        "co": "Felipe Jolles",
-        "total_value": 17906204,
-        "annual_payment": None,
-        "payment_due": "July 1, 2026",
-        "delegation_status": "On File",
-        "watch_list": True,
-        "variance": 0,
-        "issue": "0% report submission"
+
+def parse_markdown_table(content: str, table_header: str) -> dict:
+    """Parse a markdown table and return key-value pairs."""
+    result = {}
+    lines = content.split('\n')
+    in_table = False
+
+    for i, line in enumerate(lines):
+        # Look for the table header pattern
+        if '|' in line and ('Field' in line or 'Metric' in line or table_header in line):
+            in_table = True
+            continue
+
+        # Skip separator line
+        if in_table and re.match(r'^\|[-\s|]+\|$', line):
+            continue
+
+        # Parse table rows
+        if in_table and '|' in line:
+            parts = [p.strip() for p in line.split('|')]
+            parts = [p for p in parts if p]  # Remove empty parts
+            if len(parts) >= 2:
+                key = parts[0].strip('*').strip()
+                value = parts[1].strip('*').strip()
+                result[key] = value
+        elif in_table and '|' not in line:
+            break
+
+    return result
+
+
+def parse_contract_file(file_path: Path) -> dict:
+    """Parse a contract markdown file and extract structured data."""
+    if not file_path.exists():
+        return {}
+
+    content = file_path.read_text()
+    data = {}
+
+    # Extract contract details table
+    details = parse_markdown_table(content, "Field")
+
+    # Map common fields
+    field_mapping = {
+        "Contract ID": "contract_id",
+        "Vendor": "vendor",
+        "Contract Type": "type",
+        "Region": "region",
+        "Contracting Officer": "co",
+        "COR": "cor",
+        "Delegation Status": "delegation_status",
+        "Current COR in EASi": "current_cor_easi",
+        "Proposed COR": "proposed_cor",
     }
-}
 
-# Payment schedule
-PAYMENT_SCHEDULE = [
-    {"month": "January", "contract": "NDER1_Battle_Creek", "vendor": "Trane", "amount": None},
-    {"month": "March", "contract": "ENABLE_Detroit_Honeywell", "vendor": "Honeywell", "amount": None},
-    {"month": "April 1", "contract": "NDER2_SD_Ameresco", "vendor": "Ameresco", "amount": 1684326},
-    {"month": "May 1", "contract": "LA_ESPC_ABM", "vendor": "ABM", "amount": 3821698},
-    {"month": "May 1", "contract": "UESC_SD_SDGandE", "vendor": "SDG&E", "amount": 586201},
-    {"month": "July 31", "contract": "PJKK_JCI", "vendor": "JCI", "amount": 236941, "final": True},
-    {"month": "July", "contract": "NDER1_Chicago_Noresco", "vendor": "Noresco", "amount": None},
-    {"month": "November", "contract": "Harold_Washington", "vendor": "Ameresco", "amount": None},
-    {"month": "December 1", "contract": "UESC_Sansome_PGE", "vendor": "PG&E", "amount": 112670},
-    {"month": "December 31", "contract": "McKinstry_R8", "vendor": "McKinstry", "amount": None},
-]
+    for md_field, json_field in field_mapping.items():
+        if md_field in details:
+            data[json_field] = details[md_field]
+
+    # Extract financial summary
+    financial = parse_markdown_table(content, "Metric")
+
+    financial_mapping = {
+        "Total Contract Value": "total_value",
+        "Annual Payment": "annual_payment",
+        "Final Payment Amount": "annual_payment",
+        "Payment Due": "payment_due",
+        "Watch List": "watch_list",
+        "Variance": "variance",
+        "Shortfall Amount": "shortfall_amount",
+    }
+
+    for md_field, json_field in financial_mapping.items():
+        if md_field in financial:
+            value = financial[md_field]
+            # Parse numeric values
+            if json_field in ["total_value", "annual_payment", "shortfall_amount"]:
+                # Remove $ and commas, convert to number
+                clean = re.sub(r'[$,]', '', value)
+                try:
+                    data[json_field] = float(clean) if '.' in clean else int(clean)
+                except ValueError:
+                    data[json_field] = None
+            elif json_field == "variance":
+                # Parse percentage
+                try:
+                    data[json_field] = float(value.replace('%', ''))
+                except ValueError:
+                    data[json_field] = 0
+            elif json_field == "watch_list":
+                data[json_field] = value.lower() == "yes"
+            else:
+                data[json_field] = value
+
+    # Check for FINAL YEAR
+    if "FINAL YEAR" in content or "final year" in content.lower():
+        data["final_year"] = True
+
+    # Extract issues from content
+    if "### Issues" in content:
+        issues_section = content.split("### Issues")[1].split("###")[0]
+        issues = re.findall(r'[-*]\s+(.+)', issues_section)
+        if issues:
+            data["issues"] = issues
+
+    return data
+
+
+def load_contract_data(contract_id: str) -> Optional[dict]:
+    """Load contract data from knowledge-base/contracts/ directory."""
+    contracts_dir = KNOWLEDGE_BASE / "contracts"
+
+    # Try exact match first
+    exact_path = contracts_dir / f"{contract_id}.md"
+    if exact_path.exists():
+        return parse_contract_file(exact_path)
+
+    # Try fuzzy match
+    if contracts_dir.exists():
+        for file_path in contracts_dir.glob("*.md"):
+            if contract_id.lower() in file_path.stem.lower():
+                return parse_contract_file(file_path)
+            # Also check content
+            content = file_path.read_text()
+            if contract_id.lower() in content.lower():
+                return parse_contract_file(file_path)
+
+    return None
+
+
+def list_all_contracts() -> list[str]:
+    """List all available contract files."""
+    contracts_dir = KNOWLEDGE_BASE / "contracts"
+    if not contracts_dir.exists():
+        return []
+
+    contracts = []
+    for file_path in contracts_dir.glob("*.md"):
+        if file_path.stem != "Portfolio_Baseline_2026":
+            contracts.append(file_path.stem)
+    return contracts
+
+
+def load_payment_schedule() -> list[dict]:
+    """Load payment schedule from knowledge-base/payments/."""
+    payments_file = KNOWLEDGE_BASE / "payments" / "Deadline_Tracker_FY2025_2026.md"
+
+    if not payments_file.exists():
+        return []
+
+    content = payments_file.read_text()
+    payments = []
+
+    # Parse payment tables from content
+    # Look for tables with payment information
+    lines = content.split('\n')
+    in_payment_table = False
+
+    for line in lines:
+        # Detect payment table rows
+        if '|' in line and ('$' in line or 'TBD' in line):
+            parts = [p.strip() for p in line.split('|')]
+            parts = [p for p in parts if p]
+
+            if len(parts) >= 4:
+                contract = parts[0] if len(parts) > 0 else ""
+                vendor = parts[1] if len(parts) > 1 else ""
+                amount_str = parts[2] if len(parts) > 2 else "TBD"
+                due_date = parts[3] if len(parts) > 3 else ""
+
+                # Skip header rows
+                if "Contract" in contract or "---" in contract:
+                    continue
+
+                # Parse amount
+                amount = None
+                if '$' in amount_str:
+                    clean = re.sub(r'[$,]', '', amount_str)
+                    try:
+                        amount = int(float(clean))
+                    except ValueError:
+                        pass
+
+                payments.append({
+                    "contract": contract.replace("**", "").strip(),
+                    "vendor": vendor.replace("**", "").strip(),
+                    "amount": amount,
+                    "payment_due": due_date.replace("**", "").strip(),
+                    "final": "FINAL" in line.upper()
+                })
+
+    return payments
+
+
+def load_oig_requirements() -> dict:
+    """Load OIG compliance requirements."""
+    oig_file = KNOWLEDGE_BASE / "compliance" / "OIG_A240046_Requirements.md"
+
+    if not oig_file.exists():
+        return {
+            "audit_number": "A240046",
+            "requirements": [
+                "Independent government M&V witnessing required",
+                "No contractor employees as witnesses",
+                "CO authorization for scope changes",
+                "Documentation timing must align with activities"
+            ]
+        }
+
+    content = oig_file.read_text()
+
+    return {
+        "audit_number": "A240046",
+        "deadline": "September 2026",
+        "status": "Active Corrective Actions",
+        "findings": {
+            "001": "M&V Witnessing - Independent government witnessing required",
+            "002": "Contract Modifications - Proper CO authorization required",
+            "003": "Unauthorized Changes - Only CO/COR can authorize"
+        },
+        "full_document": str(oig_file)
+    }
 
 
 @server.list_tools()
@@ -207,7 +275,7 @@ async def list_tools() -> list[Tool]:
     return [
         Tool(
             name="calculate_shortfall",
-            description="Calculate energy savings shortfall for a contract period. Returns shortfall amount, percentage, and remediation options.",
+            description="Calculate energy savings shortfall for a contract. Reads from knowledge-base/contracts/{contract_id}.md",
             inputSchema={
                 "type": "object",
                 "properties": {
@@ -233,7 +301,7 @@ async def list_tools() -> list[Tool]:
         ),
         Tool(
             name="validate_payment_request",
-            description="Validate a payment request against contract terms, delegation status, and OIG compliance requirements.",
+            description="Validate payment against OIG A240046 compliance. Reads from knowledge-base/compliance/.",
             inputSchema={
                 "type": "object",
                 "properties": {
@@ -251,11 +319,11 @@ async def list_tools() -> list[Tool]:
                     },
                     "mv_witnessed": {
                         "type": "boolean",
-                        "description": "Whether M&V activities were independently witnessed by government COR"
+                        "description": "Whether M&V was witnessed by government COR"
                     },
                     "co_authorized": {
                         "type": "boolean",
-                        "description": "Whether all scope changes have CO authorization"
+                        "description": "Whether scope changes have CO authorization"
                     }
                 },
                 "required": ["contract_id", "payment_amount", "period"]
@@ -263,37 +331,22 @@ async def list_tools() -> list[Tool]:
         ),
         Tool(
             name="generate_authorization_package",
-            description="Generate a complete payment authorization package with all required documentation checklist.",
+            description="Generate payment authorization package. Combines contract data with templates.",
             inputSchema={
                 "type": "object",
                 "properties": {
-                    "contract_id": {
-                        "type": "string",
-                        "description": "Contract identifier"
-                    },
-                    "period": {
-                        "type": "string",
-                        "description": "Payment period"
-                    },
-                    "payment_amount": {
-                        "type": "number",
-                        "description": "Payment amount"
-                    },
-                    "shortfall_amount": {
-                        "type": "number",
-                        "description": "Shortfall amount if any (default 0)"
-                    },
-                    "cor_name": {
-                        "type": "string",
-                        "description": "COR name for authorization"
-                    }
+                    "contract_id": {"type": "string", "description": "Contract identifier"},
+                    "period": {"type": "string", "description": "Payment period"},
+                    "payment_amount": {"type": "number", "description": "Payment amount"},
+                    "shortfall_amount": {"type": "number", "description": "Shortfall if any"},
+                    "cor_name": {"type": "string", "description": "COR name"}
                 },
                 "required": ["contract_id", "period", "payment_amount"]
             }
         ),
         Tool(
             name="get_contract_info",
-            description="Retrieve detailed contract information from the portfolio baseline.",
+            description="Get contract details from knowledge-base/contracts/{contract_id}.md",
             inputSchema={
                 "type": "object",
                 "properties": {
@@ -307,18 +360,12 @@ async def list_tools() -> list[Tool]:
         ),
         Tool(
             name="list_upcoming_payments",
-            description="List all payments due within a specified timeframe.",
+            description="List payments from knowledge-base/payments/Deadline_Tracker_FY2025_2026.md",
             inputSchema={
                 "type": "object",
                 "properties": {
-                    "months_ahead": {
-                        "type": "integer",
-                        "description": "Number of months to look ahead (default 3)"
-                    },
-                    "include_watch_list": {
-                        "type": "boolean",
-                        "description": "Include watch list status in output (default true)"
-                    }
+                    "months_ahead": {"type": "integer", "description": "Months to look ahead"},
+                    "include_watch_list": {"type": "boolean", "description": "Include watch list info"}
                 },
                 "required": []
             }
@@ -329,7 +376,6 @@ async def list_tools() -> list[Tool]:
 @server.call_tool()
 async def call_tool(name: str, arguments: dict[str, Any]) -> list[TextContent]:
     """Handle tool calls."""
-
     if name == "calculate_shortfall":
         return await calculate_shortfall(arguments)
     elif name == "validate_payment_request":
@@ -345,11 +391,14 @@ async def call_tool(name: str, arguments: dict[str, Any]) -> list[TextContent]:
 
 
 async def calculate_shortfall(args: dict) -> list[TextContent]:
-    """Calculate energy savings shortfall."""
+    """Calculate energy savings shortfall - reads from knowledge-base/contracts/"""
     contract_id = args["contract_id"]
     period = args["period"]
     guaranteed = args["guaranteed_savings"]
     verified = args["verified_savings"]
+
+    # Load contract data from file
+    contract = load_contract_data(contract_id)
 
     shortfall = guaranteed - verified
     shortfall_pct = (shortfall / guaranteed) * 100 if guaranteed > 0 else 0
@@ -362,142 +411,134 @@ async def calculate_shortfall(args: dict) -> list[TextContent]:
         "shortfall_amount": shortfall,
         "shortfall_percentage": round(shortfall_pct, 2),
         "status": "SHORTFALL" if shortfall > 0 else "MET_GUARANTEE",
+        "data_source": f"knowledge-base/contracts/{contract_id}.md",
         "remediation_options": []
     }
+
+    # Add contract context if found
+    if contract:
+        result["contract_info"] = {
+            "vendor": contract.get("vendor"),
+            "type": contract.get("type"),
+            "delegation_status": contract.get("delegation_status"),
+            "existing_variance": contract.get("variance")
+        }
+
+        if contract.get("watch_list"):
+            result["watch_list_alert"] = f"Contract on watch list with {contract.get('variance', 0)}% variance"
 
     if shortfall > 0:
         result["remediation_options"] = [
             f"1. Contractor payment reduction: ${shortfall:,.2f}",
-            "2. ECM performance optimization required",
-            "3. Baseline adjustment review (if conditions changed)",
-            "4. Extended measurement period to verify savings"
+            "2. ECM performance optimization",
+            "3. Baseline adjustment review",
+            "4. Extended measurement period"
         ]
-        result["oig_compliance_note"] = (
-            "Per OIG A240046: Document all shortfall calculations with independent "
-            "government witnessing verification. Ensure no contractor employees "
-            "served as witnesses for M&V activities."
-        )
 
-    # Check if contract is on watch list
-    if contract_id in CONTRACT_DATA:
-        contract = CONTRACT_DATA[contract_id]
-        if contract.get("watch_list"):
-            result["watch_list_alert"] = f"Contract is on watch list with {contract.get('variance', 0)}% variance"
+        # Load OIG requirements
+        oig = load_oig_requirements()
+        result["oig_compliance"] = {
+            "audit": oig["audit_number"],
+            "requirement": "Document shortfall with independent government witnessing"
+        }
 
     return [TextContent(type="text", text=json.dumps(result, indent=2))]
 
 
 async def validate_payment_request(args: dict) -> list[TextContent]:
-    """Validate payment request against requirements."""
+    """Validate payment - reads from knowledge-base/contracts/ and compliance/"""
     contract_id = args["contract_id"]
     payment_amount = args["payment_amount"]
     period = args["period"]
     mv_witnessed = args.get("mv_witnessed", False)
     co_authorized = args.get("co_authorized", True)
 
-    validation_result = {
+    # Load contract data
+    contract = load_contract_data(contract_id)
+    oig = load_oig_requirements()
+
+    result = {
         "contract_id": contract_id,
         "payment_amount": payment_amount,
         "period": period,
         "validation_status": "PENDING",
         "checks": [],
         "blockers": [],
-        "warnings": []
+        "warnings": [],
+        "data_sources": [
+            f"knowledge-base/contracts/{contract_id}.md",
+            "knowledge-base/compliance/OIG_A240046_Requirements.md"
+        ]
     }
 
-    # Check contract exists
-    contract = CONTRACT_DATA.get(contract_id)
     if not contract:
-        # Try fuzzy match
-        for key in CONTRACT_DATA:
-            if contract_id.lower() in key.lower():
-                contract = CONTRACT_DATA[key]
-                contract_id = key
-                break
+        result["validation_status"] = "FAILED"
+        result["blockers"].append(f"Contract '{contract_id}' not found")
+        result["available_contracts"] = list_all_contracts()
+        return [TextContent(type="text", text=json.dumps(result, indent=2))]
 
-    if not contract:
-        validation_result["validation_status"] = "FAILED"
-        validation_result["blockers"].append(f"Contract '{contract_id}' not found in portfolio")
-        return [TextContent(type="text", text=json.dumps(validation_result, indent=2))]
-
-    # Check 1: Delegation status
+    # Check delegation status
     delegation = contract.get("delegation_status", "Unknown")
     if delegation == "On File":
-        validation_result["checks"].append("✅ COR delegation letter on file")
+        result["checks"].append("✅ COR delegation on file")
     elif delegation == "Nomination Issued":
-        validation_result["warnings"].append("⚠️ Nomination issued but delegation pending - request letter before payment")
+        result["warnings"].append("⚠️ Nomination issued but delegation pending")
     else:
-        validation_result["blockers"].append("❌ No COR delegation - cannot authorize payment")
+        result["blockers"].append("❌ No COR delegation - cannot authorize")
 
-    # Check 2: OIG Compliance - M&V Witnessing
+    # OIG Compliance checks
     if mv_witnessed:
-        validation_result["checks"].append("✅ M&V activities independently witnessed by government COR")
+        result["checks"].append("✅ M&V independently witnessed by government COR")
     else:
-        validation_result["blockers"].append(
-            "❌ OIG A240046 Violation: M&V activities must be witnessed by government COR "
-            "(not contractor employees)"
-        )
+        result["blockers"].append(f"❌ OIG {oig['audit_number']}: M&V must be witnessed by government COR")
 
-    # Check 3: CO Authorization for scope changes
     if co_authorized:
-        validation_result["checks"].append("✅ All scope changes have CO authorization")
+        result["checks"].append("✅ Scope changes have CO authorization")
     else:
-        validation_result["blockers"].append("❌ OIG A240046 Violation: Scope changes require CO authorization")
+        result["blockers"].append(f"❌ OIG {oig['audit_number']}: Scope changes require CO authorization")
 
-    # Check 4: Watch list status
+    # Watch list check
     if contract.get("watch_list"):
-        variance = contract.get("variance", 0)
-        validation_result["warnings"].append(
-            f"⚠️ Contract on watch list ({variance}% variance) - verify shortfall remediation"
-        )
+        result["warnings"].append(f"⚠️ Watch list contract ({contract.get('variance', 0)}% variance)")
 
-    # Check 5: Payment amount validation
-    expected = contract.get("annual_payment")
-    if expected and payment_amount > expected * 1.1:
-        validation_result["warnings"].append(
-            f"⚠️ Payment ${payment_amount:,.2f} exceeds expected annual amount ${expected:,.2f}"
-        )
-
-    # Check 6: Final year handling
+    # Final year check
     if contract.get("final_year"):
-        validation_result["warnings"].append("⚠️ FINAL YEAR - Ensure closeout documentation prepared")
+        result["warnings"].append("⚠️ FINAL YEAR - Closeout documentation required")
 
-    # Determine overall status
-    if validation_result["blockers"]:
-        validation_result["validation_status"] = "BLOCKED"
-    elif validation_result["warnings"]:
-        validation_result["validation_status"] = "APPROVED_WITH_WARNINGS"
+    # Determine status
+    if result["blockers"]:
+        result["validation_status"] = "BLOCKED"
+    elif result["warnings"]:
+        result["validation_status"] = "APPROVED_WITH_WARNINGS"
     else:
-        validation_result["validation_status"] = "APPROVED"
+        result["validation_status"] = "APPROVED"
 
-    # Add prompt payment act reminder
-    validation_result["prompt_payment_act"] = {
+    result["prompt_payment_act"] = {
         "payment_due_days": 30,
-        "documentation_deadline_days": 15,
-        "late_payment_penalty": "Automatic interest accrual"
+        "documentation_deadline_days": 15
     }
 
-    return [TextContent(type="text", text=json.dumps(validation_result, indent=2))]
+    return [TextContent(type="text", text=json.dumps(result, indent=2))]
 
 
 async def generate_authorization_package(args: dict) -> list[TextContent]:
-    """Generate complete payment authorization package."""
+    """Generate authorization package - combines contract data with templates."""
     contract_id = args["contract_id"]
     period = args["period"]
     payment_amount = args["payment_amount"]
     shortfall = args.get("shortfall_amount", 0)
     cor_name = args.get("cor_name", "Matthew Schreck, CEM")
 
-    # Get contract info
-    contract = CONTRACT_DATA.get(contract_id, {})
+    contract = load_contract_data(contract_id)
+    oig = load_oig_requirements()
 
     package = {
         "authorization_package": {
             "contract_id": contract_id,
-            "vendor": contract.get("vendor", "Unknown"),
-            "contract_type": contract.get("type", "Unknown"),
-            "region": contract.get("region", "Unknown"),
-            "contracting_officer": contract.get("co", "Unknown"),
+            "vendor": contract.get("vendor", "Unknown") if contract else "Unknown",
+            "contract_type": contract.get("type", "Unknown") if contract else "Unknown",
+            "region": contract.get("region", "Unknown") if contract else "Unknown",
+            "contracting_officer": contract.get("co", "Unknown") if contract else "Unknown",
             "cor": cor_name,
             "period": period,
             "payment_amount": payment_amount,
@@ -505,94 +546,63 @@ async def generate_authorization_package(args: dict) -> list[TextContent]:
             "net_payment": payment_amount - shortfall,
             "generated_date": datetime.now().isoformat()
         },
+        "data_sources": {
+            "contract": f"knowledge-base/contracts/{contract_id}.md",
+            "compliance": "knowledge-base/compliance/OIG_A240046_Requirements.md",
+            "templates": "knowledge-base/templates/"
+        },
         "required_documentation": {
             "pre_payment": [
                 "☐ M&V Report (reviewed and approved)",
                 "☐ Savings verification calculations",
-                "☐ Government witnessing forms (Appendix B) - signed by COR",
+                "☐ Government witnessing forms (Appendix B)",
                 "☐ Invoice with supporting documentation",
-                "☐ COR delegation letter (on file)"
+                "☐ COR delegation letter"
             ],
             "oig_compliance": [
-                "☐ Independent government witnessing confirmed (no contractor witnesses)",
-                "☐ Witnessing form signatures align with activity dates",
-                "☐ All scope changes have CO authorization",
-                "☐ No unauthorized contract modifications"
-            ],
-            "financial": [
-                "☐ Invoice reconciled with M&V report",
-                "☐ Shortfall calculations verified (if applicable)",
-                "☐ Payment within Prompt Payment Act timeline",
-                "☐ Budget availability confirmed"
+                f"☐ {oig['findings']['001']}",
+                f"☐ {oig['findings']['002']}",
+                f"☐ {oig['findings']['003']}"
             ]
         },
         "authorization_statement": (
-            f"I, {cor_name}, Contracting Officer's Representative, hereby certify that:\n"
-            f"1. The contractor has performed satisfactorily for period {period}\n"
-            f"2. All M&V activities were independently witnessed by government personnel\n"
-            f"3. The payment amount of ${payment_amount:,.2f} is accurate and supported\n"
-            f"4. All documentation requirements have been met\n"
-            f"5. This authorization complies with OIG A240046 corrective actions"
-        ),
-        "workflow": {
-            "step_1": "COR completes documentation checklist",
-            "step_2": "COR signs authorization statement",
-            "step_3": f"Submit to CO ({contract.get('co', 'Unknown')}) for approval",
-            "step_4": "CO reviews and approves payment",
-            "step_5": "Finance processes payment within PPA timeline"
-        }
+            f"I, {cor_name}, COR, certify that:\n"
+            f"1. Contractor performed satisfactorily for {period}\n"
+            f"2. M&V independently witnessed by government personnel\n"
+            f"3. Payment ${payment_amount:,.2f} is accurate and supported\n"
+            f"4. Complies with OIG {oig['audit_number']} corrective actions"
+        )
     }
 
-    if shortfall > 0:
-        package["shortfall_handling"] = {
-            "shortfall_amount": shortfall,
-            "net_payment": payment_amount - shortfall,
-            "action_required": "Document shortfall in M&V report with remediation plan",
-            "contractor_notification": "Required per contract terms"
-        }
-
-    if contract.get("final_year"):
-        package["closeout_requirements"] = {
-            "note": "FINAL YEAR - Additional closeout documentation required",
-            "items": [
-                "☐ Final M&V report",
-                "☐ O&M transition plan",
-                "☐ Contract closeout package",
-                "☐ Final inspection report",
-                "☐ Release of claims"
-            ]
-        }
+    if contract and contract.get("final_year"):
+        package["closeout_requirements"] = [
+            "☐ Final M&V report",
+            "☐ O&M transition plan",
+            "☐ Contract closeout package"
+        ]
 
     return [TextContent(type="text", text=json.dumps(package, indent=2))]
 
 
 async def get_contract_info(args: dict) -> list[TextContent]:
-    """Get contract information."""
+    """Get contract info - reads from knowledge-base/contracts/{contract_id}.md"""
     contract_id = args["contract_id"]
 
-    # Try exact match first
-    contract = CONTRACT_DATA.get(contract_id)
-
-    # Try fuzzy match
-    if not contract:
-        for key, value in CONTRACT_DATA.items():
-            if contract_id.lower() in key.lower() or contract_id.lower() in value.get("vendor", "").lower():
-                contract = value
-                contract_id = key
-                break
+    contract = load_contract_data(contract_id)
 
     if not contract:
         return [TextContent(type="text", text=json.dumps({
             "error": f"Contract '{contract_id}' not found",
-            "available_contracts": list(CONTRACT_DATA.keys())
+            "searched": f"knowledge-base/contracts/{contract_id}.md",
+            "available_contracts": list_all_contracts()
         }, indent=2))]
 
     result = {
         "contract_id": contract_id,
+        "data_source": f"knowledge-base/contracts/{contract_id}.md",
         **contract
     }
 
-    # Add delegation action if needed
     if contract.get("delegation_status") != "On File":
         result["action_required"] = "Request COR delegation letter from CO"
 
@@ -600,55 +610,16 @@ async def get_contract_info(args: dict) -> list[TextContent]:
 
 
 async def list_upcoming_payments(args: dict) -> list[TextContent]:
-    """List upcoming payments."""
+    """List payments - reads from knowledge-base/payments/"""
     months_ahead = args.get("months_ahead", 3)
-    include_watch_list = args.get("include_watch_list", True)
 
-    # Get current month
-    current_month = datetime.now().month
-
-    # Map month names to numbers for filtering
-    month_map = {
-        "January": 1, "February": 2, "March": 3, "April": 4,
-        "April 1": 4, "May": 5, "May 1": 5, "June": 6,
-        "July": 7, "July 31": 7, "August": 8, "September": 9,
-        "October": 10, "November": 11, "November 1": 11,
-        "December": 12, "December 1": 12, "December 31": 12
-    }
-
-    upcoming = []
-    for payment in PAYMENT_SCHEDULE:
-        month_str = payment["month"]
-        month_num = month_map.get(month_str, 0)
-
-        # Check if within range (simplified - doesn't handle year boundary)
-        if month_num >= current_month and month_num <= current_month + months_ahead:
-            entry = {
-                "payment_due": month_str,
-                "contract": payment["contract"],
-                "vendor": payment["vendor"],
-                "amount": f"${payment['amount']:,.2f}" if payment["amount"] else "TBD"
-            }
-
-            if payment.get("final"):
-                entry["note"] = "FINAL PAYMENT"
-
-            # Add watch list info
-            if include_watch_list:
-                contract_data = CONTRACT_DATA.get(payment["contract"], {})
-                if contract_data.get("watch_list"):
-                    entry["watch_list"] = True
-                    entry["variance"] = contract_data.get("variance", 0)
-                    if contract_data.get("issue"):
-                        entry["issue"] = contract_data["issue"]
-
-            upcoming.append(entry)
+    payments = load_payment_schedule()
 
     result = {
+        "data_source": "knowledge-base/payments/Deadline_Tracker_FY2025_2026.md",
         "timeframe": f"Next {months_ahead} months",
         "generated": datetime.now().isoformat(),
-        "upcoming_payments": upcoming,
-        "total_scheduled": sum(p.get("amount", 0) or 0 for p in PAYMENT_SCHEDULE if month_map.get(p["month"], 0) >= current_month),
+        "payments": payments[:10],  # Limit to 10
         "prompt_payment_reminder": "Documentation due 15 days before payment date"
     }
 
@@ -659,12 +630,13 @@ async def main():
     """Run the MCP server."""
     print("MCP Server running on stdio transport")
     print("Server: GSA Payment Authorization Tool")
+    print(f"Knowledge Base: {KNOWLEDGE_BASE}")
     print("Tools: 5 tools available")
-    print("  - calculate_shortfall")
-    print("  - validate_payment_request")
-    print("  - generate_authorization_package")
-    print("  - get_contract_info")
-    print("  - list_upcoming_payments")
+    print("  - calculate_shortfall (reads contracts/*.md)")
+    print("  - validate_payment_request (reads contracts/ + compliance/)")
+    print("  - generate_authorization_package (reads all)")
+    print("  - get_contract_info (reads contracts/*.md)")
+    print("  - list_upcoming_payments (reads payments/*.md)")
 
     async with stdio_server() as (read_stream, write_stream):
         await server.run(read_stream, write_stream, server.create_initialization_options())
