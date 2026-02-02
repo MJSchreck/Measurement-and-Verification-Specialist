@@ -1,0 +1,97 @@
+================================================================================
+                    MEASUREMENT & VERIFICATION ANNUAL REPORT
+                           ENERGY SAVINGS PERFORMANCE CONTRACT
+================================================================================
+
+Contract No.: GS-07P-14-MK-C-0042
+Task Order: TO-001
+Project Name: Federal Building Energy Retrofit - Detroit
+Facility: Patrick V. McNamara Federal Building
+
+PERFORMANCE PERIOD
+------------------
+Performance Period: October 1, 2024 to September 30, 2025
+Contract Year: 8 of 23
+
+CONTRACTOR INFORMATION
+----------------------
+ESCO: Honeywell Building Solutions
+Project Manager: J. Smith
+M&V Engineer: R. Johnson
+
+================================================================================
+                              SAVINGS SUMMARY
+================================================================================
+
+GUARANTEED VS. VERIFIED SAVINGS
+-------------------------------
+Annual Guaranteed Savings:     $1,247,832.00
+Verified Savings:              $1,198,456.00
+Variance:                      -$49,376.00 (-3.96%)
+
+SAVINGS BY ECM
+--------------
+ECM-001: Lighting Retrofit
+  Guaranteed: $312,000.00
+  Verified:   $298,450.00
+  Variance:   -$13,550.00
+
+ECM-002: HVAC Controls Optimization
+  Guaranteed: $489,832.00
+  Verified:   $478,206.00
+  Variance:   -$11,626.00
+
+ECM-003: Building Envelope Improvements
+  Guaranteed: $246,000.00
+  Verified:   $221,800.00
+  Variance:   -$24,200.00
+
+ECM-004: Water Conservation
+  Guaranteed: $200,000.00
+  Verified:   $200,000.00
+  Variance:   $0.00
+
+================================================================================
+                           BASELINE ADJUSTMENTS
+================================================================================
+
+The following adjustments were applied to the baseline:
+
+1. Weather Normalization Adjustment: $18,432.00
+   - Heating degree days were 8% above normal
+   - Cooling degree days were 3% below normal
+
+2. Occupancy Adjustment: -$12,500.00
+   - Building occupancy decreased from 94% to 87%
+   - Adjustment calculated per contract methodology
+
+3. Rate Adjustment: $4,200.00
+   - Utility rate increase of 2.3% applied per Appendix C
+
+Net Baseline Adjustment: $10,132.00
+
+================================================================================
+                              M&V METHODOLOGY
+================================================================================
+
+Option C - Whole Building Analysis was used for this annual report.
+Utility bills were analyzed using IPMVP protocols.
+
+Metering: Revenue-grade utility meters
+Analysis Tool: Energy Expert Pro v4.2
+Weather Data: NOAA Station 725370
+
+================================================================================
+                               CERTIFICATION
+================================================================================
+
+I certify that this M&V report accurately represents the energy savings
+achieved during the performance period stated above.
+
+Prepared by: R. Johnson, PE, CEM
+Date: October 15, 2025
+
+Reviewed by: GSA M&V Specialist
+Date: October 20, 2025
+
+================================================================================
