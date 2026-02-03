@@ -10,16 +10,21 @@ This repository contains documentation and tools for managing Zone 7 M&V operati
 
 - **GSA-Energy-COR-Initialization.md** - Core initialization script defining role, portfolio context, workflows, and technical reference materials
 - **folder-structure-reference.md** - Google Drive folder structure, filing rules, and contract-specific locations
+- **portfolio-dashboard.html** - Interactive portfolio command center dashboard (open in browser)
 
-## Portfolio Coverage
+## Portfolio Coverage (14 Active Contracts)
 
-| Contractor | Key Contracts |
-|------------|---------------|
-| Honeywell | Sacramento, Fresno, San Francisco, Honolulu |
-| Johnson Controls | Chicago Federal, SSA Harold Washington |
-| ABM Industries | LA BESS, Southeast Zone, Northern CA, San Diego |
-| Ameresco | Denver Federal Center, Wyoming-Montana, Dakotas, San Diego NDER |
-| Other | McKinstry Seattle, Trane Manhattan, PG&E |
+| Contractor | Contracts | CO |
+|------------|-----------|-----|
+| McKinstry | DFC (47PJ0024F0020) | Felipe Jolles |
+| Ameresco | San Diego NDER2, Harold Washington, WY-MT, Dakotas | Felipe/Jerrud |
+| PG&E | UESC Sansome (GS-P-09-17-KS-0009) | Felipe Jolles |
+| SDG&E | UESC San Diego (47PK0222F0014) | Felipe Jolles |
+| ABM | LA Phase I & IIA (47PK0324C0001) | Heidi Johnson |
+| Honeywell | LA NDER2, SF NDER2, Detroit ENABLE | Heidi/Jerrud |
+| Noresco | Chicago NDER1 (47PF0023F0723) | Krystal Blue |
+| Trane | Battle Creek NDER1 (47PF0024F0107) | Miles Conant |
+| JCI | PJKK Hawaii (47PK0223F0041) | Miles Conant |
 
 ## Key Workflows
 
