@@ -19,13 +19,34 @@ This directory contains Model Context Protocol (MCP) servers for automating GSA 
 
 **Quick Start**: See `payment-authorization-tool/QUICKSTART.md`
 
+---
+
+### mv-report-analyzer
+
+**Purpose**: Parse and analyze M&V reports to extract savings data, identify variances, and generate authorization summaries.
+
+**Tools**:
+| Tool | Description |
+|------|-------------|
+| `parse_mv_report` | Parse raw M&V report text and extract structured data |
+| `analyze_mv_file` | Analyze a report file from the knowledge base |
+| `check_performance_status` | Quick check of savings variance and performance status |
+| `list_mv_reports` | List all M&V reports in the knowledge base |
+| `generate_mv_summary` | Create formatted summary for payment authorization |
+
+**Quick Start**: See `mv-report-analyzer/QUICKSTART.md`
+
 ## Architecture
 
 ```
 mcp-servers/
 ├── README.md                          # This file
-└── payment-authorization-tool/
-    ├── server.py                      # MCP server implementation
+├── payment-authorization-tool/
+│   ├── server.py                      # MCP server implementation
+│   ├── requirements.txt               # Python dependencies
+│   └── QUICKSTART.md                  # Setup guide
+└── mv-report-analyzer/
+    ├── server.py                      # M&V parsing and analysis
     ├── requirements.txt               # Python dependencies
     └── QUICKSTART.md                  # Setup guide
 ```
@@ -40,6 +61,10 @@ Add to `claude_desktop_config.json`:
     "payment-authorization": {
       "command": "python",
       "args": ["/path/to/mcp-servers/payment-authorization-tool/server.py"]
+    },
+    "mv-report-analyzer": {
+      "command": "python",
+      "args": ["/path/to/mcp-servers/mv-report-analyzer/server.py"]
     }
   }
 }
@@ -71,7 +96,6 @@ All servers enforce OIG A240046 compliance:
 ## Future Servers (Planned)
 
 - `cpars-generator` - Automated CPARS assessment generation
-- `mv-analyzer` - M&V report analysis and shortfall calculation
 - `compliance-monitor` - Real-time compliance tracking
 - `delegation-tracker` - COR delegation status management
 
