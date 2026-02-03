@@ -1,0 +1,318 @@
+{
+  "contract": {
+    "number": "GS-P-08-16-JE-7140",
+    "esco": "Honeywell Building Solutions",
+    "project_name": "NDER2 San Francisco Federal Buildings",
+    "implementation_cost": 22900000,
+    "contract_term_years": 20,
+    "performance_start_date": "2020-03-01"
+  },
+  "performance_period": {
+    "year": 6,
+    "start_date": "2025-03-01",
+    "end_date": "2026-02-28",
+    "report_date": "2025-12-01",
+    "report_version": "V01"
+  },
+  "savings_summary": {
+    "verified_savings": 1172688,
+    "guaranteed_savings": 1397628,
+    "shortfall": -224940,
+    "performance_ratio": 83.9,
+    "cumulative_shortfall": -873482
+  },
+  "savings_by_utility": {
+    "electric": {
+      "kwh_saved": 4250000,
+      "kw_reduced": 890,
+      "dollar_savings": 765000
+    },
+    "gas": {
+      "therms_saved": 125000,
+      "dollar_savings": 187500
+    },
+    "water": {
+      "gallons_saved": 8500000,
+      "dollar_savings": 220188
+    }
+  },
+  "buildings": [
+    {
+      "name": "San Francisco Federal Building (SFFB)",
+      "address": "90 7th Street, San Francisco, CA",
+      "square_footage": 652000,
+      "building_type": "Office",
+      "ecms": [
+        {
+          "ecm_number": "4.1",
+          "ecm_type": "HVAC Optimization",
+          "description": "Chiller plant optimization and controls",
+          "ipmvp_option": "B",
+          "verified_savings": 285000,
+          "guaranteed_savings": 320000,
+          "status": "deficient"
+        },
+        {
+          "ecm_number": "13.1",
+          "ecm_type": "Water Conservation",
+          "description": "Low-flow fixtures",
+          "ipmvp_option": "A",
+          "verified_savings": 42000,
+          "guaranteed_savings": 61328,
+          "status": "deficient"
+        },
+        {
+          "ecm_number": "13.6",
+          "ecm_type": "Xeriscaping",
+          "description": "Irrigation reduction",
+          "ipmvp_option": "A",
+          "verified_savings": 0,
+          "guaranteed_savings": 360,
+          "status": "deficient"
+        }
+      ]
+    },
+    {
+      "name": "Burton Federal Building",
+      "address": "450 Golden Gate Ave, San Francisco, CA",
+      "square_footage": 485000,
+      "building_type": "Office",
+      "ecms": [
+        {
+          "ecm_number": "8.1",
+          "ecm_type": "VFD Installation",
+          "description": "Supply/return fan VFDs",
+          "ipmvp_option": "B",
+          "verified_savings": 125000,
+          "guaranteed_savings": 126071,
+          "status": "performing"
+        },
+        {
+          "ecm_number": "13.1",
+          "ecm_type": "Water Conservation",
+          "description": "Low-flow fixtures",
+          "ipmvp_option": "A",
+          "verified_savings": 28000,
+          "guaranteed_savings": 34967,
+          "status": "deficient"
+        }
+      ]
+    },
+    {
+      "name": "Cottage Way",
+      "address": "Sacramento, CA",
+      "square_footage": 180000,
+      "building_type": "Office",
+      "ecms": [
+        {
+          "ecm_number": "13.1",
+          "ecm_type": "Water Conservation",
+          "description": "Low-flow fixtures",
+          "ipmvp_option": "A",
+          "verified_savings": 12000,
+          "guaranteed_savings": 13536,
+          "status": "deficient"
+        },
+        {
+          "ecm_number": "13.6",
+          "ecm_type": "Xeriscaping",
+          "description": "Irrigation reduction",
+          "ipmvp_option": "A",
+          "verified_savings": 0,
+          "guaranteed_savings": 7896,
+          "status": "deficient"
+        }
+      ]
+    },
+    {
+      "name": "Matsui Federal Building",
+      "address": "San Jose, CA",
+      "square_footage": 220000,
+      "building_type": "Office",
+      "ecms": [
+        {
+          "ecm_number": "17.1",
+          "ecm_type": "Retro-Commissioning",
+          "description": "HVAC optimization",
+          "ipmvp_option": "C",
+          "verified_savings": 85000,
+          "guaranteed_savings": 85427,
+          "status": "deficient"
+        }
+      ]
+    },
+    {
+      "name": "Ryan Federal Building",
+      "address": "Fresno, CA",
+      "square_footage": 150000,
+      "building_type": "Office",
+      "ecms": [
+        {
+          "ecm_number": "8.1",
+          "ecm_type": "VFD Installation",
+          "description": "AHU optimization",
+          "ipmvp_option": "B",
+          "verified_savings": 45000,
+          "guaranteed_savings": 49205,
+          "status": "deficient"
+        },
+        {
+          "ecm_number": "13.6",
+          "ecm_type": "Xeriscaping",
+          "description": "Irrigation controls",
+          "ipmvp_option": "A",
+          "verified_savings": 0,
+          "guaranteed_savings": 5000,
+          "status": "deficient"
+        }
+      ]
+    }
+  ],
+  "deficiencies": [
+    {
+      "ecm_number": "13.1",
+      "building": "SFFB",
+      "issue": "Water fixture flow rates not meeting targets",
+      "impact": -19328,
+      "responsible_party": "GSA",
+      "status": "unresolved",
+      "first_identified": "Year 2",
+      "co_comment": "Flow rate measurements consistently below IGA targets"
+    },
+    {
+      "ecm_number": "13.6",
+      "building": "SFFB",
+      "issue": "No irrigation meter readings available",
+      "impact": -360,
+      "responsible_party": "HW",
+      "status": "unresolved",
+      "first_identified": "Year 5"
+    },
+    {
+      "ecm_number": "4.1",
+      "building": "SFFB",
+      "issue": "Fan schedule at 100% operation",
+      "impact": -21071,
+      "responsible_party": "GSA",
+      "status": "unresolved",
+      "first_identified": "Year 2",
+      "co_comment": "GSA operational issue - fans running continuously"
+    },
+    {
+      "ecm_number": "13.1",
+      "building": "Cottage Way",
+      "issue": "Water fixture flow rates below target",
+      "impact": -1536,
+      "responsible_party": "GSA",
+      "status": "unresolved",
+      "first_identified": "Year 3"
+    },
+    {
+      "ecm_number": "13.6",
+      "building": "Cottage Way",
+      "issue": "No irrigation meter readings",
+      "impact": -7896,
+      "responsible_party": "HW",
+      "status": "unresolved",
+      "first_identified": "Year 5"
+    },
+    {
+      "ecm_number": "8.1",
+      "building": "Moss",
+      "issue": "CWP speed trends unavailable (1 of 2)",
+      "impact": -925,
+      "responsible_party": "GSA",
+      "status": "unresolved",
+      "first_identified": "Year 4"
+    },
+    {
+      "ecm_number": "17.1",
+      "building": "Matsui",
+      "issue": "Boiler reset to 160°F instead of 140°F",
+      "impact": -427,
+      "responsible_party": "HW",
+      "status": "unresolved",
+      "first_identified": "Year 5",
+      "co_comment": "CWP operation not as expected"
+    },
+    {
+      "ecm_number": "13.6",
+      "building": "Ryan",
+      "issue": "Xeriscaping controls removed",
+      "impact": -5000,
+      "responsible_party": "GSA",
+      "status": "unresolved",
+      "first_identified": "Year 2"
+    },
+    {
+      "ecm_number": "8.1",
+      "building": "Ryan",
+      "issue": "AC-4/EF-10 OAD operation not verified in PICR",
+      "impact": -4205,
+      "responsible_party": "HW",
+      "status": "unresolved",
+      "first_identified": "Year 5"
+    },
+    {
+      "ecm_number": "3.1",
+      "building": "Coyle",
+      "issue": "OA damper min position",
+      "impact": 0,
+      "responsible_party": "GSA",
+      "status": "resolved",
+      "first_identified": "Year 4",
+      "corrective_action": "Now operating as expected"
+    },
+    {
+      "ecm_number": "3.1",
+      "building": "Peckham",
+      "issue": "OA damper min position",
+      "impact": 0,
+      "responsible_party": "GSA",
+      "status": "resolved",
+      "first_identified": "Year 4",
+      "corrective_action": "Now operating as expected"
+    },
+    {
+      "ecm_number": "17.1",
+      "building": "801-I 1st St",
+      "issue": "OA damper position",
+      "impact": 0,
+      "responsible_party": "HW",
+      "status": "resolved",
+      "first_identified": "Year 3",
+      "corrective_action": "HW deficiency ($6,421) removed - now as expected"
+    },
+    {
+      "ecm_number": "8.1",
+      "building": "Burton",
+      "issue": "SF/RF fan at 100% speed",
+      "impact": -1071,
+      "responsible_party": "GSA",
+      "status": "partial",
+      "first_identified": "Year 3",
+      "corrective_action": "Reduced from ($9,316) to ($1,071) - now at 60%"
+    }
+  ],
+  "historical_performance": [
+    {"year": 1, "verified": 1001391, "guaranteed": 1202284, "shortfall": -200893},
+    {"year": 2, "verified": 1181646, "guaranteed": 1411948, "shortfall": -230302},
+    {"year": 3, "verified": 1061553, "guaranteed": 1295238, "shortfall": -233685},
+    {"year": 4, "verified": 1121394, "guaranteed": 1330664, "shortfall": -209269},
+    {"year": 5, "verified": 1137874, "guaranteed": 1363722, "shortfall": -225848},
+    {"year": 6, "verified": 1172688, "guaranteed": 1397628, "shortfall": -224940}
+  ],
+  "payment_calculation": {
+    "verified_savings": 1172688,
+    "hw_deficiencies": -142396,
+    "gsa_deficiencies": -82544,
+    "shortfall_deduction": -224940,
+    "net_payable": 947748
+  },
+  "metadata": {
+    "extracted_date": "2026-02-03",
+    "extracted_by": "M&V Specialist",
+    "source_document": "NDER2 SF Year 6 M&V Report V01",
+    "notes": "Draft report - final acceptance pending"
+  }
+}

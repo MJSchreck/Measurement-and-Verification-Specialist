@@ -1,0 +1,243 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "M&V Report Data Structure",
+  "description": "Standard schema for ESPC M&V report data extraction",
+  "type": "object",
+  "required": ["contract", "performance_period", "savings_summary"],
+  "properties": {
+    "contract": {
+      "type": "object",
+      "required": ["number", "esco", "project_name"],
+      "properties": {
+        "number": {
+          "type": "string",
+          "description": "Contract number (e.g., GS-P-08-16-JE-7140)"
+        },
+        "esco": {
+          "type": "string",
+          "description": "Energy Service Company name"
+        },
+        "project_name": {
+          "type": "string",
+          "description": "Project identifier"
+        },
+        "implementation_cost": {
+          "type": "number",
+          "description": "Total project cost in dollars"
+        },
+        "contract_term_years": {
+          "type": "integer",
+          "description": "Total contract duration"
+        },
+        "performance_start_date": {
+          "type": "string",
+          "format": "date",
+          "description": "First day of performance period"
+        }
+      }
+    },
+    "performance_period": {
+      "type": "object",
+      "required": ["year", "start_date", "end_date"],
+      "properties": {
+        "year": {
+          "type": "integer",
+          "description": "Performance year number"
+        },
+        "start_date": {
+          "type": "string",
+          "format": "date"
+        },
+        "end_date": {
+          "type": "string",
+          "format": "date"
+        },
+        "report_date": {
+          "type": "string",
+          "format": "date"
+        },
+        "report_version": {
+          "type": "string",
+          "description": "Report version (e.g., V01, Final)"
+        }
+      }
+    },
+    "savings_summary": {
+      "type": "object",
+      "required": ["verified_savings", "guaranteed_savings"],
+      "properties": {
+        "verified_savings": {
+          "type": "number",
+          "description": "Total verified savings in dollars"
+        },
+        "guaranteed_savings": {
+          "type": "number",
+          "description": "Contractual guarantee amount"
+        },
+        "shortfall": {
+          "type": "number",
+          "description": "Negative if under guarantee"
+        },
+        "performance_ratio": {
+          "type": "number",
+          "description": "Verified/Guaranteed as percentage"
+        },
+        "cumulative_shortfall": {
+          "type": "number",
+          "description": "Total shortfall since contract start"
+        }
+      }
+    },
+    "savings_by_utility": {
+      "type": "object",
+      "properties": {
+        "electric": {
+          "type": "object",
+          "properties": {
+            "kwh_saved": { "type": "number" },
+            "kw_reduced": { "type": "number" },
+            "dollar_savings": { "type": "number" }
+          }
+        },
+        "gas": {
+          "type": "object",
+          "properties": {
+            "therms_saved": { "type": "number" },
+            "dollar_savings": { "type": "number" }
+          }
+        },
+        "water": {
+          "type": "object",
+          "properties": {
+            "gallons_saved": { "type": "number" },
+            "dollar_savings": { "type": "number" }
+          }
+        }
+      }
+    },
+    "buildings": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": ["name", "ecms"],
+        "properties": {
+          "name": { "type": "string" },
+          "address": { "type": "string" },
+          "square_footage": { "type": "number" },
+          "building_type": { "type": "string" },
+          "ecms": {
+            "type": "array",
+            "items": {
+              "type": "object",
+              "required": ["ecm_number", "ecm_type", "ipmvp_option"],
+              "properties": {
+                "ecm_number": { "type": "string" },
+                "ecm_type": { "type": "string" },
+                "description": { "type": "string" },
+                "ipmvp_option": {
+                  "type": "string",
+                  "enum": ["A", "B", "C", "D"]
+                },
+                "verified_savings": { "type": "number" },
+                "guaranteed_savings": { "type": "number" },
+                "status": {
+                  "type": "string",
+                  "enum": ["performing", "underperforming", "deficient"]
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "deficiencies": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": ["ecm_number", "building", "issue", "impact", "responsible_party"],
+        "properties": {
+          "ecm_number": { "type": "string" },
+          "building": { "type": "string" },
+          "issue": { "type": "string" },
+          "impact": {
+            "type": "number",
+            "description": "Negative dollar impact"
+          },
+          "responsible_party": {
+            "type": "string",
+            "enum": ["HW", "GSA", "SHARED"]
+          },
+          "status": {
+            "type": "string",
+            "enum": ["unresolved", "resolved", "partial", "disputed"]
+          },
+          "first_identified": {
+            "type": "string",
+            "description": "Year first identified"
+          },
+          "co_comment": { "type": "string" },
+          "corrective_action": { "type": "string" }
+        }
+      }
+    },
+    "adjustments": {
+      "type": "object",
+      "properties": {
+        "routine": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "properties": {
+              "type": { "type": "string" },
+              "description": { "type": "string" },
+              "impact": { "type": "number" }
+            }
+          }
+        },
+        "non_routine": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "properties": {
+              "type": { "type": "string" },
+              "description": { "type": "string" },
+              "impact": { "type": "number" },
+              "justification": { "type": "string" }
+            }
+          }
+        }
+      }
+    },
+    "historical_performance": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "year": { "type": "integer" },
+          "verified": { "type": "number" },
+          "guaranteed": { "type": "number" },
+          "shortfall": { "type": "number" }
+        }
+      }
+    },
+    "payment_calculation": {
+      "type": "object",
+      "properties": {
+        "verified_savings": { "type": "number" },
+        "hw_deficiencies": { "type": "number" },
+        "gsa_deficiencies": { "type": "number" },
+        "shortfall_deduction": { "type": "number" },
+        "net_payable": { "type": "number" }
+      }
+    },
+    "metadata": {
+      "type": "object",
+      "properties": {
+        "extracted_date": { "type": "string", "format": "date" },
+        "extracted_by": { "type": "string" },
+        "source_document": { "type": "string" },
+        "notes": { "type": "string" }
+      }
+    }
+  }
+}
