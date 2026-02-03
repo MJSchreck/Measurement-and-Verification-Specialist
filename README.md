@@ -9,6 +9,7 @@ This repository contains documentation and tools for managing Zone 7 M&V operati
 ## Contents
 
 - **GSA-Energy-COR-Initialization.md** - Core initialization script defining role, portfolio context, workflows, and technical reference materials
+- **folder-structure-reference.md** - Google Drive folder structure, filing rules, and contract-specific locations
 
 ## Portfolio Coverage
 
