@@ -13,6 +13,7 @@ This repository contains documentation and tools for managing Zone 7 M&V operati
 - **portfolio-dashboard.html** - Interactive portfolio command center dashboard (open in browser)
 - **zone7-master-tracker.md** - Consolidated tracking file with contracts, M&V status, payments, and critical issues
 - **portfolio-context.md** - Quick reference for Claude AI context
+- **email-triage-handoff.md** - Email processing guide with categorization rules and progress tracker (2000 emails)
 
 ## Portfolio Coverage (14 Active Contracts)
 
@@ -37,5 +38,6 @@ This repository contains documentation and tools for managing Zone 7 M&V operati
 
 ## Recent Updates
 
+- **2026-02-04**: Added email-triage-handoff.md for processing 2000 emails with categorization rules and batch tracking
 - **2026-02-04**: Added zone7-master-tracker.md with consolidated contract, M&V, payment, and issue tracking
 - **2026-02-03**: SF ESPC Honeywell folder restructure (Patrick Chapman) - New COR tabs and shared M&V working folder created
