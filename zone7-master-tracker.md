@@ -121,7 +121,7 @@
 | Issue | Contract | PIID | Owner | Deadline | Status |
 |-------|----------|------|-------|----------|--------|
 | BESS Fire Settlement | ABM LA | 47PK0324C0001 | Heidi Johnson | TBD | $6.68M dispute in negotiation |
-| ~~Pegasys Exception~~ | Honeywell SF | GSP0816JE7140 | Matt Schreck | 02/04/26 | **RESOLVED** - Manual RR processed, PBS AP confirmed |
+| Pegasys Validation Failed | Honeywell SF | GSP0816JE7140 | Tamira Mitchell | 02/04/26 | Manual RR requested - disposed assets & building # mismatch |
 | Invoice Processing | PJKK Hawaii | 47PK0223F0041 | Matt Schreck | 02/14/26 | Invoice #136498 received |
 
 ### Priority 2: This Month
@@ -173,7 +173,7 @@
 ### Week of 2026-02-03
 
 - [ ] Process PJKK Hawaii Invoice #136498
-- [x] ~~Follow up with Tamira Mitchell on Honeywell SF RR~~ - RESOLVED 02/04/26
+- [x] Request manual RR processing from Tamira Mitchell - Email sent 02/04/26, awaiting response
 - [ ] Prepare ENABLE Detroit PR (due 02/17/26)
 - [ ] Follow up on 3 M&V reports due 02/28/26
 - [ ] Review SDG&E YR2/YR3 M&V reports
