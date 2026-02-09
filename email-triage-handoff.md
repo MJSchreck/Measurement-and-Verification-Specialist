@@ -347,38 +347,29 @@ Unknown Email
 ## Filing Locations (Google Drive)
 
 ```
-Zone 7/
-├── 01_McKinstry_DFC_47PJ0024F0020/
-├── 02_Ameresco_SD_GSP0816JE7074/
-├── 03_PGE_Sansome_GSP0917KS0009/
-├── 04_SDGE_SD_47PK0222F0014/
-├── 05_ABM_LA_47PK0324C0001/
-├── 06_Honeywell_LA_GSP0816JE7081/
-├── 07_Honeywell_SF_GSP0816JE7140/
-├── 08_Ameresco_HW_GSP0517GB0001/
-├── 09_Honeywell_Detroit_47PF0020F0671/
-├── 10_Noresco_Chicago_47PF0023F0723/
-├── 11_Trane_BC_47PF0024F0107/
-├── 12_JCI_PJKK_47PK0223F0041/
-├── 13_Ameresco_WYMT_DEAM3608GO18051/
-└── 14_Ameresco_Dakotas_DEAM3611GO11027/
-
-Standard Subfolders:
-├── 00_Contract_Admin/
-│   ├── Award_Documents/
-│   ├── Modifications/
-│   └── CPARS/
-├── 01_MV_Reports/
-│   └── PY##/
-├── 02_Invoices_RRs/
-│   └── FY##/
-├── 03_Correspondence/
-│   ├── CO/
-│   ├── Contractor/
-│   └── Meetings/
-├── 04_Witnessing/
-└── 05_ECM_Documentation/
+Zone 7/[Contract]/
+├── CONTRACT File
+├── 01_Contract Docs
+├── 02_Annual MV Reports
+├── 03_Payments PRs
+├── 04_Site Visits
+├── 05_Correspondence
+├── 06_Performance Issues
+└── 07_CPARS
 ```
+
+### Filing by Email Category
+
+| Category | File To |
+|----------|---------|
+| A - Invoices | 03_Payments PRs |
+| B - M&V Reports | 02_Annual MV Reports |
+| C - Modifications | 01_Contract Docs |
+| D - Meetings | 05_Correspondence |
+| E - Correspondence | 05_Correspondence |
+| F - System Notifications | Archive |
+| G - Newsletters | Archive |
+| H - Spam | Delete |
 
 ---
 

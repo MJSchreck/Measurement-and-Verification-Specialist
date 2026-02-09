@@ -21,27 +21,17 @@ Zone 7 M&V Portfolio/
 └── 00_Portfolio_Admin
 ```
 
-### Standard Subfolders (Each Contract)
+### Standard Tabs (Each Contract)
 ```
 [Contract Folder]/
-├── 00_Contract_Admin/
-│   ├── Award_Documents/
-│   ├── Modifications/
-│   ├── COR_Appointment/
-│   └── Contacts/
-├── 01_MV_Reports/
-│   └── PY01, PY02, ... (varies by contract)
-├── 02_Invoices_RRs/
-│   ├── FY24/
-│   ├── FY25/
-│   └── FY26/
-├── 03_Correspondence/
-│   ├── Contractor/
-│   ├── CO/
-│   └── Facility/
-├── 04_Site_Visits/
-├── 05_CPARS/
-└── 06_Issues/
+├── CONTRACT File
+├── 01_Contract Docs
+├── 02_Annual MV Reports
+├── 03_Payments PRs
+├── 04_Site Visits
+├── 05_Correspondence
+├── 06_Performance Issues
+└── 07_CPARS
 ```
 
 ### Portfolio Admin Subfolders
@@ -76,21 +66,18 @@ Zone 7 M&V Portfolio/
 
 | Document Type | Where to Save |
 |---------------|---------------|
-| Task Order, DOE IA | 00_Contract_Admin/Award_Documents |
-| SF30 Modifications | 00_Contract_Admin/Modifications |
-| COR Appointment Letter | 00_Contract_Admin/COR_Appointment |
-| Contractor POC List | 00_Contract_Admin/Contacts |
-| M&V Reports (drafts) | 01_MV_Reports/PY## |
-| M&V Reports (final) | 01_MV_Reports/PY## + EASi |
-| Invoices | 02_Invoices_RRs/FY## |
-| Receiving Reports | 02_Invoices_RRs/FY## |
-| Emails from Contractor | 03_Correspondence/Contractor |
-| Emails from/to CO | 03_Correspondence/CO |
-| Facility Coordination | 03_Correspondence/Facility |
-| Site Visit Photos/Notes | 04_Site_Visits/YYYY-MM-DD_Visit |
-| Witnessing Forms | 04_Site_Visits/YYYY-MM-DD_Visit |
-| CPARS Evaluations | 05_CPARS/FY## |
-| Active Issues Tracker | 06_Issues |
+| Task Order, DOE IA | CONTRACT File or 01_Contract Docs |
+| SF30 Modifications | 01_Contract Docs |
+| COR Appointment Letter | 01_Contract Docs |
+| M&V Reports | 02_Annual MV Reports |
+| Invoices | 03_Payments PRs |
+| Receiving Reports | 03_Payments PRs |
+| Payment Requests | 03_Payments PRs |
+| Site Visit Photos/Notes | 04_Site Visits |
+| Witnessing Forms | 04_Site Visits |
+| Emails (all types) | 05_Correspondence |
+| Issues/Disputes | 06_Performance Issues |
+| CPARS Evaluations | 07_CPARS |
 
 ---
 
@@ -126,11 +113,13 @@ Zone 7 M&V Portfolio/
 ## Quick Reference: Where Does This Go?
 
 **"I just got an M&V report from Honeywell SF"**
-→ Save draft to: Zone 7 → 07_Honeywell_SF → 01_MV_Reports → PY06
-→ When reviewed, share via: Patrick's SF ESPC M&V Reports (Shared Working Folder)
+→ Save to: Zone 7 → 07_Honeywell_SF → 02_Annual MV Reports
 
 **"I need to file an invoice from McKinstry"**
-→ Save to: Zone 7 → 01_McKinstry_DFC → 02_Invoices_RRs → FY26
+→ Save to: Zone 7 → 01_McKinstry_DFC → 03_Payments PRs
 
 **"CO sent me an SF30 for ABM LA"**
-→ Save to: Zone 7 → 05_ABM_LA → 00_Contract_Admin → Modifications
+→ Save to: Zone 7 → 05_ABM_LA → 01_Contract Docs
+
+**"I have a performance issue with Honeywell"**
+→ Save to: Zone 7 → 07_Honeywell_SF → 06_Performance Issues
