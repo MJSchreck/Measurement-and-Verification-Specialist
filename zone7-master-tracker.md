@@ -34,7 +34,7 @@
 |---|----------|------|------------|--------|-----|--------|
 | 01 | McKinstry DFC | 47PJ0024F0020 | McKinstry | R8 | PY13 | Active |
 | 02 | NDER2 San Diego | GS-P-08-16-JE-7074 | Ameresco | R9 | PY10 | Pending SF30 (drone mod) |
-| 03 | UESC Sansome | GS-P-09-17-KS-0009 | PG&E | R9 | PY09 | RR Pending |
+| 03 | UESC Sansome | GS-P-09-17-KS-0009 | PG&E | R9 | PY09 | ✅ Designation received |
 | 04 | UESC San Diego | 47PK0222F0014 | SDG&E | R9 | PY04 | YR2/YR3 M&V review |
 | 13 | Wyoming-Montana | DE-AM36-08GO18051 | Ameresco | R8 | - | Active |
 | 14 | Dakotas | DE-AM36-11GO11027 | Ameresco | R8 | - | Active |
