@@ -52,13 +52,15 @@ Your Gmail labels / mental model map onto the compliant Tab structure as follows
 | Working category (Gmail label) | → COR Tab folder |
 |---|---|
 | `01_Contract_Docs` | Tab 40 Contract Documentation (+ Tab 37 Pre-Award, Tab 39 Design Docs) |
-| `02_Annual_M&V_Reports` | Tab 42 COR Submittals (acceptance memos → Tab 40) |
+| `02_Annual_M&V_Reports` | Reports → Tab 42 COR Submittals; **approval/acceptance documentation → Tab 44** |
 | `03_Payments_PRs` | Tab 38 CPR Budget/Funding (+ Tab 44 Invoicing) |
-| `04_Site_Visits` | Tab 44 COR Invoicing and Inspection Reports |
+| `04_Site_Visits` | **Inspection forms/reports → Tab 44**; **routine site-visit reports & meeting minutes → Tab 43 Correspondence** |
 | `05_Correspondence` | Tab 43 COR Correspondence |
 | `06_Performance_Issues` | Tab 40 (cure notices, CO final decisions, claims) + Tab 43 (related correspondence) |
-| `07_CPARS` | Tab 45 COR Project Closeout (CPARS/performance evaluation) |
+| `07_CPARS` | **CO-owned — filed by the Contracting Officer in acquisition Tabs 31 & 36, *not* a COR tab.** Hand off to the CO; the COR keeps only a reference/working copy (do **not** treat COR Tab 45 as the system of record) |
 | `08_HSPD-12` | Tab 41 COR Security Badging and Escorting |
+
+> **Crosswalk notes (per GSA PBS External Agency COR Toolkit — *Example Documents for COR Files*):** annual M&V/PA *reports* live in Tab 42 but their *approval/acceptance* documentation files in Tab 44; *inspection* reports go to Tab 44 while routine site-visit reports/minutes are Tab 43 correspondence; **CPARS and releases of claims are CO acquisition-file items (Tabs 31 & 36), not COR-file items** — the COR's role is to provide input and hand off, so flag CPARS for the CO rather than filing it under closeout.
 
 ---
 
@@ -93,7 +95,7 @@ For each of the 15 contracts:
 1. **Confirm tabs exist** — if the contract folder is missing any Tab 37–45 / 00 / 99 subfolder, copy them from `TEMPLATE DO NOT USE`.
 2. **Pull from the duplicate hierarchies** — locate the same contract in `Zone 7 M&V Portfolio` and `NEW - ZONE 7` (see §6 mapping) and **move** (not copy) each file into the matching Tab using the §3 crosswalk.
 3. **De-duplicate** — where the same document exists in multiple hierarchies, keep the most recent/most complete; delete the rest. Note conflicts in `99 Working Drafts` if unsure.
-4. **Normalize file names** — `YYYY-MM-DD_<PIID>_<DocType>_<desc>` for sortability and auditability.
+4. **Normalize file names per PBS file-naming requirements** — date as `YYYY MM DD`, the **complete PIID with no dashes**, and **no `_` or `-` separators** (use spaces). Example: `2026 06 15 47PK0324C0001 Mod PA0005 Obligation`. *(Per GSA PBS External Agency COR Toolkit — File-Naming Requirements; verify against the current toolkit page, which returned 403 to automated fetch.)*
 5. **Verify** — each contract should end with documents in the correct Tab and an empty `99 Working Drafts` (or only true drafts).
 
 ---
@@ -117,12 +119,12 @@ Confirm every unique file has been moved into the canonical hierarchy, then **ar
 - [ ] Single authoritative folder under `🌎 Zone 7 Contract Files`; no live copies elsewhere
 - [ ] All Tab 37–45 present (replicated from template)
 - [ ] Contract/award docs & mods in Tab 40; design in Tab 39; pre-award in Tab 37
-- [ ] Funding/PRs in Tab 38; invoices & inspection/site-visit reports in Tab 44
-- [ ] Contractor submittals incl. annual M&V reports in Tab 42; acceptance memos in Tab 40
+- [ ] Funding/PRs in Tab 38; invoices, receiving reports & **inspection** reports in Tab 44; **routine site-visit reports/minutes in Tab 43**
+- [ ] Annual M&V/PA **reports in Tab 42**; their **approval/acceptance documentation in Tab 44**
 - [ ] Correspondence in Tab 43; performance actions (cure notices, claims, CO final decisions) in Tab 40
 - [ ] HSPD-12 / PIV / badging in Tab 41
-- [ ] CPARS / closeout in Tab 45
-- [ ] File names normalized `YYYY-MM-DD_<PIID>_<DocType>`
+- [ ] **CPARS handed off to the CO for acquisition Tabs 31 & 36 (not filed in COR Tab 45)**; closeout docs in Tab 45
+- [ ] File names per PBS rule: `YYYY MM DD <PIID no dashes> <DocType>` (no `_` or `-`)
 - [ ] `99 Working Drafts` emptied of finalized records
 - [ ] Duplicate hierarchies (§6) archived/deleted
 
@@ -132,3 +134,5 @@ Confirm every unique file has been moved into the canonical hierarchy, then **ar
 - FAR 4.801–4.805 — Government Contract Files (content & retention)
 - GSAM 504.8 — Government Contract Files
 - GSA PBS COR electronic file "Tab 37–45" convention (Energy/ESPC COR file)
+- GSA PBS External Agency COR Toolkit — *Example Documents for COR Files* (tab placement of M&V approvals, site visits, CPARS)
+- GSA PBS External Agency COR Toolkit — *File-Naming Requirements*
