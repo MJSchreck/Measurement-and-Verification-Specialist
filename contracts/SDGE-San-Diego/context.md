@@ -29,6 +29,14 @@
 ## Key Reviewers/Contacts
 - Felipe Jolles – Contracting Officer
 
+## Additional Detail (6/9/2026 COR tracker)
+- **Award Date:** 2/18/2022 | **End Date/PoP End:** 5/1/2035 (tracker also flags actual PoP as expired 5/1/2025 — reconcile these two dates)
+- **Obligated:** $2,180,376.83 | **Total Contract Value:** $8,384,152.20
+- Delegation in file: Y
+- 09/08/25: Comments for MVYr2 report ongoing; MVYr3 report review has started.
+- 10/3/25: Pending SF30 signature — CO & drone clauses change mod.
+- Note: "Matt to confirm that he's taking this one solo" plus instructional memo & LOC still needed.
+
 ## Drive Folder Structure (Shared Drive)
 - Not yet indexed — need shared drive link.
 

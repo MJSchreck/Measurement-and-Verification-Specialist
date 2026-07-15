@@ -26,7 +26,13 @@
 -
 
 ## Key Reviewers/Contacts
--
+- Patrick Chapman – Contracting Officer
+
+## Additional Detail (6/9/2026 COR tracker)
+- **Award Date:** 5/9/2016
+- **Note:** Partial termination on this contract.
+- EMP2 review ongoing for Year 8; will produce instructional memo (IM).
+- Matt to confirm he's taking this one solo, plus IM & LOC, for Year 9 and moving forward.
 
 ## Drive Folder Structure (Shared Drive)
 - Not yet indexed — need shared drive link.

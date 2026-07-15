@@ -1,10 +1,15 @@
 # Noresco – Chicago
 
 ## Identifiers
-- **Contract/PIID:** 47PF0023F0723 (NDER1 Chicago, per portfolio list — confirm)
+- **Contract/PIID:** 47PF0023F0723 (NDER1 Chicago)
 - **ESCO:** Noresco
 - **Region:** GSA R5
-- **COR:** TBD
+- **Contracting Officer:** Krystal Blue
+- **COR EASi (current):** Kendra Rudder
+- **Proposed COR:** Matthew Schreck (Nomination Letter Issued: X)
+- **Award Date:** 6/20/2023
+- **End Date / Ultimate Completion:** 6/30/2032
+- **Payment Date:** July
 
 ## Status (as of 2026-02-11 tracker)
 - **Status:** M&V Discussion
@@ -25,7 +30,11 @@
 -
 
 ## Key Reviewers/Contacts
--
+- Krystal Blue – Contracting Officer
+- Kendra Rudder – current COR of record
+
+## Additional Detail (6/9/2026 COR tracker)
+- Note: "Matt to confirm that he's taking M&V solo as well as IM" — COR transition from Kendra Rudder pending confirmation.
 
 ## Drive Folder Structure (Shared Drive)
 - Not yet indexed — need shared drive link.

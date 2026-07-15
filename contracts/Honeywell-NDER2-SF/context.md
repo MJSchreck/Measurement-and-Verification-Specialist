@@ -27,7 +27,13 @@
 - RR (Receiving Report) deletion is stuck in EASi — blocking payment processing pending resolution.
 
 ## Key Reviewers/Contacts
--
+- Patrick Chapman – Contracting Officer
+
+## Additional Detail (6/9/2026 COR tracker)
+- Delegation in file: Yes
+- CO change mod issued. Project performance period started in 2020 — 18-year term.
+- 4/29/2025: Contract does not interface with Pegasys — requires manual receiving report match (likely root cause of the stuck RR deletion above).
+- EMP2 to continue M&V review and IM production in coordination with Matt.
 
 ## Drive Folder Structure (Shared Drive)
 - Not yet indexed — need shared drive link.

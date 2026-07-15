@@ -28,6 +28,13 @@
 ## Key Reviewers/Contacts
 - Felipe Jolles – Contracting Officer
 
+## Additional Detail (6/9/2026 COR tracker)
+- **Award Date:** 9/27/2013 | **End Date:** 11/30/2035 | **Payment Date:** 12/31/2025
+- **Obligated:** $9,533,174.84 | **Total Contract Value:** $18,494,626.00
+- Delegation in file: Y (COR delegation confirmed for Matthew Schreck)
+- No instructional memo (IM) or Life of Contract (LOC) document exists for this contract yet.
+- EMP2 (support contractor) will share 2020 information they recorded while under contract to support this file.
+
 ## Drive Folder Structure (Shared Drive)
 - Not yet indexed — need shared drive link.
 
