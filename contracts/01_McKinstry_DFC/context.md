@@ -94,7 +94,28 @@
 **Latest status note (FY26 tracker):** Payment received by ESCO on 02/06/2026 — need to pay out late payment interest. (Note: this resolves the "$768K PR Mod conflict / payment hold" flagged in the 2/9/2026 tracker — PY12 payment appears to have gone through since; confirm current hold status is actually cleared.)
 
 ## Drive Folder Structure (Shared Drive)
-- Not yet indexed — need shared drive link.
+Indexed across four Drive locations; contract history is split between two "current" COR folders (mostly empty scaffolding) and several legacy folders (where the actual documents live):
+
+**"01 McKinstry DFC ESPC 47PJ0024F0020"** (id `1OspoSTPFhyVXewYUeqAStmtgKF9QAyKB`) — standard COR Tab structure (Tab 37 Pre-Award Admin, Tab 38 CPR Budget Funding, Tab 39 Design Documents, Tab 40 Contract Documentation, Tab 41 Security Badging/Escorting, Tab 42 Submittals, Tab 43 Correspondence, Tab 44 Invoicing/Inspection Reports, Tab 45 Project Closeout) plus `00 QuickRef` and `99 Working Drafts`. **All Tab folders appear empty** (no files found directly in any of them).
+
+**"02 DFC Mt Plains McKinstry 47PJ0024F0020"** (id `1Uph4ypXXoihX40HzurswzO2C5jzNuNRC`) — full GSA contract-file Tab structure (Tabs 1–45, covering acquisition planning through closeout). Nearly all Tab folders are empty. Populated exceptions:
+  - **"Matthew Schreck - McKinstry DFC COR Files"** — contains the "rescued" Year 11 M&V report PDF (recovered from the ESCO's personal drive, 73.9MB).
+  - **"Tab 30 - Payments, Inspections, M&V & Acceptance"** — contains sub-folders `McKinstry DFC M&V Acceptance Letters`, `M&V Report Timelines & Letters of Concern`, `Receiving Reports`, `Instructional Memos`, `T.O. Schedules Past & Present`, `Miscellaneous & Duplicate Documents` — **all currently empty**.
+  - **"03 MV Review"** (`Facility` / `CO` / `Contractor` sub-folders) — all empty.
+
+**Legacy folder: "R8 McKinstry"** (id `1zIEN_TQkk2tk5YgXLPlXbohPOtZywJQU`, owner sharon.conger@gsa.gov) — holds the original **TO-1/TO-2 pricing schedules** (guaranteed savings by PY, ECM implementation pricing) from the 9/2013 final proposal.
+
+**Legacy folder: "R8 NDER ESPC McKinstry"** (id `1Rqywrol39xkyNs8HmZVH893OIGslu-T-`) — full contract-administration archive (Award, Base Contract, Modifications, Correspondence, Bond, CPARS, Deliverables, IGA, Rebates, Warranty, Payroll, KPMG Audit, LED Lighting Info, etc.), including `GSA R8 ESPC ECM List 2014.xlsx`, `ECM Completion Tracking 4242014.xlsx`, `GSA Deficiency Log 082714.xlsx`, and `ESPC Contract File Inventory_12.10.14.xlsx`.
+
+**Legacy folder: "R8 DFC & Mt Plaines Mckinstry"** (id `1yk8n9nq45PQ74it8eKCYXVhRCdbqr-Vk`) — Year 1–6 M&V report folders, baseline/utility summary doc, and the original M&V Plan (H.6.3.B.2).
+
+**Legacy folder "02 MV Review"** (id `1TJdZ5hgefP0bQd67BMtZTQi2WytcjRmP`) — full M&V report PDFs for Years 5–11 (60–74MB each, several uploaded by a now-departed GSA staffer in Nov 2024–2025), plus a Year 7 executive-summary Google Doc and an EASi PR record mislabeled "Year 11 M&V Report."
 
 ## Source Documents Indexed
-- None yet.
+- **Pricing/proposal:** `Final TO Schedules for GSA 9 25 2013 rate locked rev whole dollars (1) FINAL FINAL FINAL (15).xlsx` and `GSA R8 Final TO Schedules (rate locked) updated 9.26.13.pdf` — Schedule TO-1 (guaranteed savings/payments by PY) and TO-2 (ECM implementation pricing).
+- **ECM reference:** `GSA R8 ESPC ECM List 2014.xlsx` (ECM-to-building crosswalk).
+- **M&V reports read for savings figures:** `FY16 - Y1 GSA R8 ESPC M&V Report Year 1.pdf`, `FY17 - Y2 GSA R8 M&V Report Year 2 (1).pdf`, `FY18 - Y3 R8 McKinstry YR3 M&V Exec Summary.pdf`, `FY19 - Y4 000 GSA R8 ESPC MV Report Year 4 (1).pdf`, `000 GSA R8 ESPC MV Report Year 5` (Google Doc), `FY21 - Y6 Report.pdf`, `GSA R8 ESPC MV Report Year 7 UPDATE 2024-11-08` (Google Doc).
+- **Portfolio-level context:** `Update_Portfolio Review Findings Report FY2025 ESPC/UESC Performance Analysis January 2026` (Google Doc) — national FY25 ESPC/UESC portfolio review naming this contract in the delinquent-reports and under-negotiation tables.
+- **Current status:** `FEMP LOC Post M&V Survey - McKinstry DFC 2026` (spreadsheet, dated 4/13/2026) — witnessing gaps, personnel transition, building disposals, outstanding action items.
+- **Post-reorg context:** `Post_Reorg_Performance_Tracker_Feb2026` (spreadsheet) — COR staffing/workload context following the Oct 2025 PBS reorg and April 2025 RIF.
+- **Not read (too large for text extraction, >60MB each):** Year 6, 7, 8, 9, 10, 11 full M&V report PDFs in the "02 MV Review" legacy folder — worth a follow-up pass with a tool that can chunk large PDFs, since these likely contain the PY8–PY11 verified-savings figures currently missing from the table above.
