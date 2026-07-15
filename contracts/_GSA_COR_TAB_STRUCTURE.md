@@ -47,6 +47,15 @@ Source: `Contract & Modification File Checklists - 47PF0023F0723 NDER1 Chicago E
 ## How this reshapes the earlier GSAMS/FAR folder-structure proposal
 My earlier proposed structure (00_Award_Documents, 01_IGA_Baseline, etc.) was a reasonable inference but doesn't match what GSA actually uses. For any new contract folder structure going forward, **use these real Tab numbers/names directly** rather than my invented categories — e.g., M&V reports and payment records should file under Tab 30 (or a contract-specific numbering scheme layered on top, as seen in the Battle Creek and Harold Washington drives, which subdivide Tab 30/34 into per-modification subfolders like `21 - PO21 - PY8 Pmt` or `45 - PS0005 M&V Report PY11`).
 
+## COR-specific overlay tabs (Tabs 37+)
+Per GSA's public PBS External Agency COR Toolkit (gsa.gov) and internal documents found in your Drive, EASi's Electronic Contract File (ECF) extends past Tab 36 with COR-specific tabs, used per-modification and closeout:
+- **Tab 43 — COR Correspondence/Email Correspondence.** CORs can email documents directly into this tab (and up to 2 subfolder levels deep) by addressing an email to the PIID + ";43" tab code — this is the "ECF Email Forwarding Tool."
+- **Tab 45 — COR Project Closeout.** Confirmed via an internal `TAB 45 Close out Checklist.docx`: a sign-off checklist covering punch-lists, O&M manuals/as-builts, PIV card collection status, confirmation that all files are uploaded to EASi, and a final COR checklist email to the CO confirming the file may be closed.
+- **Tab 36 also ties to "CLARA"** — an internal closeout-tracking tool/process referenced in a `Tab 36 EMAIL CLARA Closeout` document; worth treating CLARA as the system-of-record for closeout status alongside EASi itself.
+- The numbered per-modification subfolders found under Battle Creek's and Harold Washington's Tab 30/34 folders (e.g., `21 - PO21 - PY8 Pmt`, `45 - PS0005 M&V Report PY11`) likely correspond to this same extended tab range (37–45+), not an arbitrary sequential counter as I first assumed — each contract appears to allocate its own running tab numbers past 36 for its specific mod/payment/M&V history.
+
+EASi itself (Electronic Acquisition System Integrated) is GSA's system of record holding contract obligation values, accounting string balances, modification drafting, and project metadata — distinct from EDMS (the document management side) and CLARA (closeout tracking).
+
 ## Practical pattern observed across your active contracts
 Several contracts (Battle Creek, Harold Washington/Chicago SSA) subdivide Tab 30 (Payments) and Tab 34 (Modifications) into sequentially-numbered subfolders combining the mod number and a short description, e.g.:
 - `10 - PS10 MV Plan-x`
