@@ -46,7 +46,10 @@
 **Latest status note (FY26 tracker, 06/16/2026):** M0003 finalized — 20 strings committed across CLINs 0074 ($2,277,191) / 0075 ($495,499) / 0076 PAPPE ($445,335), total $3,218,025, ties to TO-1 Yr11 / TO-3 PS44. Funded CLINs noted in PR summary per Jerrud. Breakdown spreadsheet + TO schedule attached. Routing corrected per Krystal: Lupe Novoa → Nathan Ingersoll → OFM Energy Contracting → FCO Building Ops BA61 (Zones 2-4-5). Re-initiated; in review — **must clear the routing chain before 7/1 execution.** PY12 process going forward: Budget enters strings, COR supplies breakout + CLIN mapping.
 
 ## Drive Folder Structure (Shared Drive)
-- Not yet indexed — need shared drive link.
+Found under the national ESPC/UESC portfolio drive (`0ALoTdmHUP-XoUk9PVA`) → NDER 1 → `R5 Chicago ESPC - Noresco`. Uses the standard GSA Tab structure (see `_GSA_COR_TAB_STRUCTURE.md`): `00 COR Files`, `Old R5 Files`, `Tab 30 - Payments, Inspection, Acceptance` (subfolders `Yr 10 Pmt July 2025`, `Yr 11 Pmt July 2026`), `Tab 31 - CPARS`, `Tab 33 - Correspondence` (subfolders `MFRs`, `Meeting Minutes`, `M&V Reports`), `Tab 34 - Modifications`.
 
 ## Source Documents Indexed
-- None yet.
+- `Contract & Modification File Checklists - 47PF0023F0723 NDER1 Chicago ESPC (Noresco)` — the official GSA PBS Contract/Order File Checklist (see `_GSA_COR_TAB_STRUCTURE.md` for the full extracted tab list/authority citations).
+
+## Not Yet Reviewed
+- Contents of `00 COR Files`, `Old R5 Files`, `Tab 30` Yr10/Yr11 payment subfolders, `Tab 31 CPARS`, `Tab 33` MFRs/Meeting Minutes/M&V Reports subfolders, and `Tab 34 Modifications` — folder structure confirmed but individual documents not yet opened.

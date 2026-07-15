@@ -47,7 +47,12 @@
 - **FLAG:** Trane referenced a building closure on 5/1/26 — **requires CO verification before the next PR cycle.** Could materially affect PY13/14 funding if the building is actually closing.
 
 ## Drive Folder Structure (Shared Drive)
-- Not yet indexed — need shared drive link.
+Found under the national ESPC/UESC portfolio drive (`0ALoTdmHUP-XoUk9PVA`) → NDER 1 → `R5 Battle Creek - Trane`. Full standard GSA Tab structure present (Tabs 1, 4-8, 10-15, 17-18, 21-29, 30-35 — most comprehensive of any contract drive reviewed so far), suggesting this file has been maintained carefully over its life.
+
+**Tab 34 (Contract Modifications) reveals a detailed 12-payment-year modification history**, numbered sequentially with mod # + short description, e.g.: `08 - PS08 rebates`, `10 - PS10 MV Plan`, `11 - PO11 Yr2 Pmt`, `12/13/23/29/32 - MV Plan V2 through V6` (five separate M&V Plan revisions over the contract's life), `16 - PS16 YR1 MV`, `20/22/26/36/38/41 - MV YR2 through YR9`, `18/19/25 - Accounting Corrections/deob`, `28 - PS30 889-clause mod`, `34 - PS36 new clause`, `39 - PA41 convert`, `40 - GSA300 41-2 PY10`, `42/44/45 - PY11 Payment/PY12 Payment/M&V Report PY11`.
 
 ## Source Documents Indexed
-- None yet.
+- Modification folder names/sequence above (titles only — individual mod documents not yet opened).
+
+## Not Yet Reviewed
+- Actual contents of any Tab folder — only folder/subfolder names surveyed so far. Given the rich mod history here (5 M&V Plan revisions, multiple accounting corrections, a deobligation, an 889-clause mod), this contract likely has more nuance than the FY26 tracker notes alone suggest — worth a deeper pass given the flow of flow-meter failures and the pending building-closure question already flagged.

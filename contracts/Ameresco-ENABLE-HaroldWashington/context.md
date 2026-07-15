@@ -43,7 +43,7 @@ Note: appears in the funding workbook as **"CHI SSA ESPC"** (Chicago Social Secu
 **Latest status note (FY26 tracker):** Need to confirm the "date mod needed" and when funding should be requested — an RWA (Reimbursable Work Authorization) should be requested from SSA by 5/1/2026.
 
 ## Drive Folder Structure (Shared Drive)
-- Not yet indexed — need shared drive link.
+Found under the national ESPC/UESC portfolio drive (`0ALoTdmHUP-XoUk9PVA`) → NDER 1 → `R5 Chicago SSA - Ameresco`. Uses per-modification numbered subfolders under a "34" tab folder: `21 - PO21 - PY8 Pmt` and `22 - PS22 - PY7 Rpt` — confirming **PY7 report and PY8 payment are the current live items**, consistent with the "Matt to confirm he's taking this for Year 8" note above.
 
-## Source Documents Indexed
-- None yet.
+## Not Yet Reviewed
+- Contents of the `21 - PO21 - PY8 Pmt` and `22 - PS22 - PY7 Rpt` folders — structure confirmed but documents not yet opened. This drive appears sparser than others (only 2 items found at this level) — may need to check for additional Tab folders not yet surfaced.
