@@ -36,6 +36,12 @@
 - **Warranty expirations:** Fume hood controls (ECM 4.2) warranty expired Feb 2024; lighting ECMs (both buildings) expired 7/29/2024.
 - Utility rate/consumption data (actual bills) was only provided by ABM in Yr1 and Yr3 — not since, limiting GSA's ability to verify actual vs. escalated rates independently.
 
+## Current Status (as of 2026-02-09 tracker)
+- **Status:** Active
+- **Key Issue:** EASi RR (Receiving Report) overdue — showing $0.00 payment
+- **Next Action:** Review PG&E RR
+- **Due Date:** 2026-02-09
+
 ## Key Reviewers/Contacts
 - Michael W. Stevens (MWS) – Project Facilitator, 509-627-5401
 - Steve Lee (SL) – Reviewer/Mechanical Engineer, 415-244-5449
