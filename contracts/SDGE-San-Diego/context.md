@@ -54,11 +54,12 @@ Notice to Proceed (NTP) for this major mechanical equipment was issued 9/29/2022
 **Latest status note (FY26 tracker):** 4/16/26 — temporarily reassigned to Miles (Conant) to execute the funding modification (HNJ). CO requested PR 04/01/2026; CO routed RR 04/27/26; CO requested invoice submission from contractor 04/27/26; ESCO confirmed receipt of payment 05/01/2026. Note: this predates/coexists with the PoP-expired flag above — worth reconciling whether this PY4 payment closes out the contract or whether further M&V is still owed post-expiration.
 
 ## Drive Folder Structure (Shared Drive)
-Shares the same top-level shared drive (`0ACa-fCtxSaHNUk9PVA`) as NDER2 San Diego Ameresco: `Correspondence`, `Contract Documents`, `As-Builts`, `Trends Requests`, `Retro Commissioning`, `Closeout Docs`, `IGA`, `M&V Reports & Reviews`, `Training Items`, `PIR's & Reviews`. Not yet determined which M&V year subfolders belong to this UESC vs. the Ameresco ESPC — needs a closer pass to separate the two contracts' documents within the shared tree.
+Shares the same top-level shared drive (`0ACa-fCtxSaHNUk9PVA`) as NDER2 San Diego Ameresco. After reviewing every folder, **almost everything in this shared drive actually belongs to the Ameresco NDER2 San Diego ESPC, not this UESC** — the SOW, all As-Builts (Schwartz/Lloyd George/Tucson/Foley/Sandra Day O'Connor/DeConcini — none of which are Otay Mesa buildings), all M&V Reports & Reviews Yr2–Yr8 folders (explicitly Ameresco-branded, DE-AM-09GO29029), and the Correspondence/Trends Requests/Retro Commissioning content are all NDER2 SD Ameresco material.
+- **The only document found specific to this UESC (47PK0222F0014) is the NTP letter** for the Otay Mesa HVAC ECMs. This UESC's actual M&V reports, IGA, and PIR documentation do not appear to live in this shared drive at all — they're likely filed elsewhere (a separate SDG&E-specific drive/folder we haven't been given yet, or possibly within EASi only).
 
 ## Source Documents Indexed
 - `CO Signed NTP for HVAC Equip.pdf` — Notice to Proceed, 9/29/2022, signed by Carol Dones, covering the ECM list above.
 
-## Not Yet Reviewed
-- Full `M&V Reports & Reviews`, `Contract Documents`, `Correspondence`, `As-Builts`, `Closeout Docs`, `Retro Commissioning`, `Training Items`, `PIR's & Reviews` — need to identify which specific documents belong to this UESC (47PK0222F0014) vs. the co-located NDER2 San Diego ESPC.
-- `SDSC - ESPC flagged assets in NCMMS.xls` and COVID occupancy-impact spreadsheet at shared-drive top level — relevance to this contract specifically not yet confirmed.
+## Not Yet Reviewed / Still Missing
+- **This contract's actual M&V reports, PIRs, and IGA have not been located yet** — they are not in the shared drive reviewed so far (that drive belongs almost entirely to NDER2 San Diego Ameresco). Need to ask whether a separate SDG&E UESC-specific drive/folder exists.
+- `SDSC - ESPC flagged assets in NCMMS.xls` and COVID occupancy-impact spreadsheet at shared-drive top level — building list matches the Ameresco NDER2 SD portfolio, not Otay Mesa, so likely belong to that contract instead.
