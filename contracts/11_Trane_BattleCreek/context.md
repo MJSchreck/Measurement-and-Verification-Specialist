@@ -56,3 +56,19 @@ Found under the national ESPC/UESC portfolio drive (`0ALoTdmHUP-XoUk9PVA`) → N
 
 ## Not Yet Reviewed
 - Actual contents of any Tab folder — only folder/subfolder names surveyed so far. Given the rich mod history here (5 M&V Plan revisions, multiple accounting corrections, a deobligation, an 889-clause mod), this contract likely has more nuance than the FY26 tracker notes alone suggest — worth a deeper pass given the flow of flow-meter failures and the pending building-closure question already flagged.
+
+## R5 Master Tracker Detail (from "R5 ALL ESPC Verified Savings & Payments Tracker")
+Appears as **"HDI"** (Battle Creek), PIID 47PF0024F0107, IDV DE-AM36-09GO29044 (predecessor PIID GS-P-05-13-GA-0018 / GS-P-05-16-GA-7149, **closed 2/6/2024** — likely a prior contract vehicle that was closed out when this one took over, not this contract itself).
+- **Primary Trane contact transitioned mid-2023: Jon Kumi → Zhen Liu** (Zhen.Liu@trane.com as of 9/2023) — matches the "HDI PY11 Report (Zhen Liu)" reference from the Zone 7 filing guide.
+- **Recurring annual cadence** (2023 actuals, 2024 in parens):
+  - 1/1 — Start CPARS (2023: 3/6/23; 2024: 2/26/24)
+  - 1/25 — Verify COR completed Receiving Report, manual upload to PDE (2023: done; 2024: 2/5/24)
+  - 2/1 — Verify annual payment invoice submitted (2023: done; 2024: 2/1/24)
+  - 2/25 — Verify payment made (2023: done; 2024: 2/15/24)
+  - 3/1 — Receive Annual M&V Report (2023: 3/1/23, on time; 2024: 2/29/24, on time)
+  - 4/1 — Target date to send report comments (2023: 4/3/23; 2024: 3/29/24)
+  - 4/30 — CPARS due (2023: 3/31/23, actually early; 2024: finalized 3/21/24, also early)
+  - 11/30 — Obligation PR due (2023: 11/7/23, early)
+  - 12/15 — Target date to complete Obligation Mod (2023: 11/14/23, early)
+  - 12/15 — Request RR (2023: completed 2/5/24 — notably late relative to target)
+- **Notably, this is the one R5 contract where CPARS runs early/on-time rather than late** — the opposite pattern from Harold Washington, Detroit, and Chicago. Worth understanding what Trane/this COR relationship is doing differently and whether it's replicable on the others.

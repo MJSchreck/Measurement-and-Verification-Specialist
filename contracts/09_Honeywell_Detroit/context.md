@@ -49,3 +49,17 @@
 
 ## Source Documents Indexed
 - None yet.
+
+## R5 Master Tracker Detail (from "R5 ALL ESPC Verified Savings & Payments Tracker")
+Appears in the Energy Contracting Branch's cross-portfolio R5 tracker as **"Detroit ENABLE"**, PIID 47PF0020F0671, IDV 47QSWA18D0057.
+- **Primary Honeywell contact: Maury Hamilton** (Maury.Hamilton@honeywell.com).
+- **Recurring annual cadence** (2023 actuals, 2024 in parens):
+  - 1/15 — Target date to complete Obligation Mod (2023: 1/23/23; 2024: 1/11/24)
+  - 1/15 — Request RR in EASi (2023: 1/23/23; 2024: 2/7/24)
+  - 2/1 — Verify annual payment invoice submitted (2023: done; 2024: 2/1/24)
+  - 2/25 — Verify payment made (2023: done; 2024: 2/13/24)
+  - 3/1 — Start CPARS (2023: 6/23/23 — over 3 months late; 2024: drafted for review 4/2/24)
+  - 5/1 — Receive Annual M&V Report (2023: 4/28/23, on time)
+  - 6/1 — Target date to send report comments (2023: 6/13/23, on time)
+  - 6/30 — CPARS due (2023: 7/19/23 — ~3 weeks late)
+- **Pattern:** payment/obligation cadence runs on time consistently; CPARS is the recurring late item, similar to the Harold Washington contract. Given this session already found "Mike Podawiltz passed away" as the reason a PY4 M&V site visit was rescheduled (per the Zone 7 filing guide's critical items list), staffing turnover on the Honeywell side may be a contributing factor to CPARS delays — worth keeping in mind when following up.

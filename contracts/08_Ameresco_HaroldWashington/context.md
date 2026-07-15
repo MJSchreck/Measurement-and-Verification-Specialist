@@ -47,3 +47,20 @@ Found under the national ESPC/UESC portfolio drive (`0ALoTdmHUP-XoUk9PVA`) → N
 
 ## Not Yet Reviewed
 - Contents of the `21 - PO21 - PY8 Pmt` and `22 - PS22 - PY7 Rpt` folders — structure confirmed but documents not yet opened. This drive appears sparser than others (only 2 items found at this level) — may need to check for additional Tab folders not yet surfaced.
+
+## R5 Master Tracker Detail (from "R5 ALL ESPC Verified Savings & Payments Tracker")
+This contract appears in the Energy Contracting Branch's cross-portfolio R5 tracker as **"HWSSC"** (Harold Washington SSC ESPC), PIID GS-P-05-17-GB-0001, contract span 11/1/2018–10/31/2027.
+- **Primary Ameresco contact: Josh Fortman** (jfortman@ameresco.com) — same person who also serves as Ameresco's M&V Manager on the San Diego NDER2 contract; useful single point of contact across your Ameresco relationships.
+- **Recurring annual cadence** (dates below are actual completions in 2023, with 2024 in parens where available):
+  - 1/1 — Receive HWSSC Annual M&V Report (2023: 2/9/23; 2024: 1/5/24)
+  - 2/1 — Target date to send report comments (2023: 3/9/23; 2024: 2/12/24)
+  - 3/1 — Finalize Annual M&V Report (2023: signed 7/25/23 — nearly 5 months late relative to the 3/1 target; 2024: responses expected 4/12/24)
+  - 2/28 — CPARS due (2022 CPARS finalized 12/18/23 — also very late)
+  - 5/1 — Request RWA (Reimbursable Work Authorization) from SSA (2023: done; 2024: done 4/12/24)
+  - 8/31 — Obligation PR due (2023: 8/29/23, on time)
+  - 9/15 — Target date to complete Obligation Mod (2023: 8/31/23, on time)
+  - 9/15 — Request RR in EASi (2023: 9/28/23)
+  - 10/1 — Verify annual payment invoice submitted (2023: 10/1/23, on time)
+  - 10/25 — Verify payment made (2023: 10/12/23, on time)
+  - 11/1 — Start CPARS (2023: submitted to Ameresco 11/27/23)
+- **Pattern worth flagging:** the M&V report finalization and CPARS steps have run consistently and significantly behind their nominal 3/1 and 2/28 target dates (by months), while the funding/payment/obligation steps (PR, mod, RR, payment) have run on time. Reporting/CPARS timeliness looks like the actual chronic weak point on this contract, not the money side.

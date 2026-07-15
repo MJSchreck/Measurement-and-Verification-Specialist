@@ -53,3 +53,18 @@ Found under the national ESPC/UESC portfolio drive (`0ALoTdmHUP-XoUk9PVA`) → N
 
 ## Not Yet Reviewed
 - Contents of `00 COR Files`, `Old R5 Files`, `Tab 30` Yr10/Yr11 payment subfolders, `Tab 31 CPARS`, `Tab 33` MFRs/Meeting Minutes/M&V Reports subfolders, and `Tab 34 Modifications` — folder structure confirmed but individual documents not yet opened.
+
+## R5 Master Tracker Detail (from "R5 ALL ESPC Verified Savings & Payments Tracker")
+Appears as **"CHI ESPC"**, PIID 47PF0023F0723, IDV DE-AM36-09GO29039 (predecessor PIID GS-P-05-14-GA-0004 / GS-P-05-16-GA-7118).
+- **Primary Noresco contact: Brian Frederick** (bfrederick@noresco.com).
+- **Recurring annual cadence** (2023 actuals):
+  - 5/31 — Obligation PR due (2023: 6/13/23, ~2 weeks late)
+  - 6/15 — Target date to complete Obligation Mod (2023: 6/20/23, on time)
+  - 6/15 — Request RR, manual upload to PDE (2023: 7/3/23)
+  - 7/1 — Verify annual payment invoice submitted (2023: submitted 7/1/23, on time)
+  - 7/1 — Start CPARS (2023: 10/2/23 — 3 months late)
+  - 7/25 — Verify payment made (2023: 7/21/23, on time)
+  - 8/1 — Receive Annual M&V Report (2023: 7/31/23, on time)
+  - 9/1 — Target date to send report comments (2023: 9/11/23, ~10 days late)
+  - 10/31 — CPARS due (2023: sent to Noresco 11/15/23, ~2 weeks late)
+- **Pattern consistent with the other R5 contracts:** payment/obligation mechanics run close to on-time; CPARS is the recurring straggler across the board, not unique to this contract. Worth treating CPARS timeliness as a portfolio-wide process gap rather than a per-contract issue when you go to fix it.
