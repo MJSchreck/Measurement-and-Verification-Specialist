@@ -35,6 +35,15 @@
 - Felipe Jolles – Contracting Officer
 - Tyler Cooper – current COR of record in EASi
 
+## FY26–FY28 Funding Forecast (Annual Funding Requests workbook)
+| FY | Perf Period | Amount Required | Payment Date | Date Mod Needed |
+|----|-------------|------------------|--------------|------------------|
+| FY26 | PY6 | $920,290.00 | 2026-07-01 | 2026-06-01 |
+| FY27 | PY7 | $931,134.00 | TBD | 2027-06-01 |
+| FY28 | PY8 | $942,194.00 | TBD | 2028-06-01 |
+
+**Latest status note (FY26 tracker):** PR mod in draft 07/10/2026; PR routing, under FCO review as of 07/14/2026.
+
 ## Drive Folder Structure (Shared Drive)
 - Not yet indexed — need shared drive link.
 

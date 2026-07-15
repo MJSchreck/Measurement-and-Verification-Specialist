@@ -35,6 +35,15 @@
 - 4/29/2025: Contract does not interface with Pegasys — requires manual receiving report match (likely root cause of the stuck RR deletion above).
 - EMP2 to continue M&V review and IM production in coordination with Matt.
 
+## FY26–FY28 Funding Forecast (Annual Funding Requests workbook)
+| FY | Perf Period | Amount Required | Payment Date | Date Mod Needed |
+|----|-------------|------------------|--------------|------------------|
+| FY26 | PY6 | $1,271,861.30 | Pending T.O. Schedule incorporation | Pending T.O. Schedule incorporation |
+| FY27 | PY7 | $1,303,533.03 | 3/1/2027 (based on pending T.O. schedules) | 2027-02-01 |
+| FY28 | PY8 | $1,337,720.83 | 3/1/2028 (based on pending T.O. schedules) | 2028-02-01 |
+
+**Latest status note (FY26 tracker, 7/15/2026):** Modification PS30 to incorporate revised T.O. schedules is in review and pending — this is why PY6 has no firm payment date yet.
+
 ## Drive Folder Structure (Shared Drive)
 - Not yet indexed — need shared drive link.
 

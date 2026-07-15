@@ -37,6 +37,15 @@
 - **Outstanding: Year 5, 6, 7, and 8 annual report acceptance** — significant backlog.
 - EMP2 has produced the instructional memo (IM); still needs a Life of Contract (LOC) document.
 
+## FY26–FY28 Funding Forecast (Annual Funding Requests workbook)
+| FY | Perf Period | Amount Required | Payment Date | Date Mod Needed |
+|----|-------------|------------------|--------------|------------------|
+| FY26 | PY9 | $1,721,476.00 | 2026-04-01 | 2026-03-01 |
+| FY27 | PY10 | $1,763,301.00 | 2027-04-01 | 2027-03-01 |
+| FY28 | PY11 | TBD | 2026-04-01 | 2026-03-01 |
+
+**Latest status note (FY26 tracker):** PR funding mod request sent 03/17/2026; PR mod in draft 03/31/2026; pending Funds Certifying Official approval 04/03/2026; PR approved 04/06/2026. Pegasys mod award error — CO reached out to budget to resolve 04/07/26; budget resolved the accounting error 04/09/2026. **Paid out 04/20/2026** — PY9 funding action is now closed out despite the outstanding Yr5–8 annual report acceptance backlog noted above.
+
 ## Drive Folder Structure (Shared Drive)
 - Not yet indexed — need shared drive link.
 

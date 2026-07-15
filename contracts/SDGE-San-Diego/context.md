@@ -37,6 +37,15 @@
 - 10/3/25: Pending SF30 signature — CO & drone clauses change mod.
 - Note: "Matt to confirm that he's taking this one solo" plus instructional memo & LOC still needed.
 
+## FY26–FY28 Funding Forecast (Annual Funding Requests workbook)
+| FY | Perf Period | Amount Required | Payment Date | Date Mod Needed |
+|----|-------------|------------------|--------------|------------------|
+| FY26 | PY4 | $601,090.15 | 2026-05-01 | 2026-04-01 |
+| FY27 | PY5 | $616,357.84 | 2026-05-01 | 2026-04-01 |
+| FY28 | PY6 | $632,013.33 | 2026-05-01 | 2026-04-01 |
+
+**Latest status note (FY26 tracker):** 4/16/26 — temporarily reassigned to Miles (Conant) to execute the funding modification (HNJ). CO requested PR 04/01/2026; CO routed RR 04/27/26; CO requested invoice submission from contractor 04/27/26; ESCO confirmed receipt of payment 05/01/2026. Note: this predates/coexists with the PoP-expired flag above — worth reconciling whether this PY4 payment closes out the contract or whether further M&V is still owed post-expiration.
+
 ## Drive Folder Structure (Shared Drive)
 - Not yet indexed — need shared drive link.
 

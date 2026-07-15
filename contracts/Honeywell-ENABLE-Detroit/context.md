@@ -35,6 +35,15 @@
 - Jerrud Parker – Contracting Officer
 - Joseph Blake – current COR of record
 
+## FY26–FY28 Funding Forecast (Annual Funding Requests workbook)
+| FY | Perf Period | Amount Required | Payment Date | Date Mod Needed |
+|----|-------------|------------------|--------------|------------------|
+| FY26 | PY5 | $1,382,697.00 | 2026-03-01 | 2026-02-01 |
+| FY27 | PY6 | $1,429,230.00 | 2027-03-01 | 2027-02-01 |
+| FY28 | PY7 | $1,477,339.00 | 2028-03-01 | 2028-02-01 |
+
+**Latest status note (FY26 tracker, updated 5/5/2026):** Year 5 Funding Mod executed 1/7/26. Honeywell Invoice #5272089385CB received 2/3/26: $1,382,697 ($1,352,573 P&I + $30,124 M&V). RR EC2026020200179 approved 2/2/26. PY4 M&V site visits completed 3/23–24/26 (McNamara, Levin). PY4 Annual Report received 4/23/26 — **excess savings of $38,838 over guarantee, no shortfall.** CPARS COR review due 5/18/26; M&V comment log due 5/20/26. Processing on schedule.
+
 ## Drive Folder Structure (Shared Drive)
 - Not yet indexed — need shared drive link.
 

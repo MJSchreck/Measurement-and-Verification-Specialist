@@ -35,6 +35,15 @@
 - No instructional memo (IM) or Life of Contract (LOC) document exists for this contract yet.
 - EMP2 (support contractor) will share 2020 information they recorded while under contract to support this file.
 
+## FY26–FY28 Funding Forecast (Annual Funding Requests workbook)
+| FY | Perf Period | Amount Required | Payment Date | Date Mod Needed |
+|----|-------------|------------------|--------------|------------------|
+| FY26 | PY12 | $768,337.53 | 2026-12-01 | 2025-11-01 |
+| FY27 | PY13 | $789,142.93 | 2027-12-01 | 2026-11-01 |
+| FY28 | PY14 | $810,512.11 | 2028-12-01 | 2028-11-01 |
+
+**Latest status note (FY26 tracker):** Payment received by ESCO on 02/06/2026 — need to pay out late payment interest. (Note: this resolves the "$768K PR Mod conflict / payment hold" flagged in the 2/9/2026 tracker — PY12 payment appears to have gone through since; confirm current hold status is actually cleared.)
+
 ## Drive Folder Structure (Shared Drive)
 - Not yet indexed — need shared drive link.
 

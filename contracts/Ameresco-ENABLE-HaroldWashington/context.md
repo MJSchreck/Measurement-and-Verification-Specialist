@@ -33,6 +33,15 @@
 - Jerrud Parker – Contracting Officer
 - Johnny Zuzic – current COR of record
 
+## FY26–FY28 Funding Forecast (Annual Funding Requests workbook)
+Note: appears in the funding workbook as **"CHI SSA ESPC"** (Chicago Social Security Administration), PIID GS-P-05-17-GB-0001 — matches GSP0517GB0001 above.
+
+| FY | Perf Period | Amount Required | Payment Date | Date Mod Needed |
+|----|-------------|------------------|--------------|------------------|
+| FY26 | PY9 | $153,908.00 | 2026-11-01 | 2025-10-01 |
+
+**Latest status note (FY26 tracker):** Need to confirm the "date mod needed" and when funding should be requested — an RWA (Reimbursable Work Authorization) should be requested from SSA by 5/1/2026.
+
 ## Drive Folder Structure (Shared Drive)
 - Not yet indexed — need shared drive link.
 

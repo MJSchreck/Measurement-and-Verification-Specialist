@@ -56,6 +56,15 @@
 Top-level: `Closeout Docs`, `PA Reports & Reviews` (Yr1–Yr5 subfolders, plus Yr3 has `Archives` and `Witnessing Forms` subfolders), `Training Items`, `IGA`, `Commissioning Reports`.
 Note: `Closeout Docs`, `Training Items`, `IGA`, and `Commissioning Reports` top-level folders currently appear **empty** (no files found directly in them) — worth confirming these aren't populated elsewhere or under different names.
 
+## FY26–FY28 Funding Forecast (Annual Funding Requests workbook)
+| FY | Perf Period | Amount Required | Payment Date | Date Mod Needed |
+|----|-------------|------------------|--------------|------------------|
+| FY26 | PY9 | $107,981.00 | 2026-12-01 | 2025-11-01 |
+| FY27 | PY10 | $112,670.00 | 2027-12-01 | 2026-11-01 |
+| FY28 | PY11 | $117,492.00 | 2028-12-01 | 2028-11-01 |
+
+**Latest status note (FY26 tracker):** Payment due 12/1/2025. Needed FCO help for a Pegasys validation error at mod award (02/12/2026); final SF30 issued to vendor 02/17/2026.
+
 ## Source Documents Indexed
 - Yr1: `PGE GSA SF UESC - Yr 1 PA 20210202.pdf`; `SF UESC Yr 1 PA Comments ... FINAL Accepted.xlsx`
 - Yr2: `PGE GSA SF UESC - Yr 2 PA report.pdf`; `SF ABM UESC Yr 2 Performance Assurance Review ... FINAL Accepted 1.5.23`; CO acceptance letter (1/5/2023); PAR deadline adjustment letter (12/16/2022)
