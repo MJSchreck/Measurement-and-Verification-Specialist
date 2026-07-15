@@ -7,25 +7,31 @@ Source: "Zone7_MV Drive Filing Guide" in Drive, last updated 3/2/2026 by Matt Sc
 - `00_Portfolio_Admin` — cross-contract files
 - `01`–`14` — one folder per contract (numbering below)
 
-## Contract folder numbering (matches this repo's `contracts/` folders)
-| # | Drive folder name | Region | This repo's folder |
-|---|---|---|---|
-| 01 | McKinstry_DFC (47PJ0024F0020) | R8 | McKinstry-DFC-MtPlains |
-| 02 | Ameresco_SanDiego (GS-P-08-16-JE-7074) | R9 | Ameresco-NDER2-SD |
-| 03 | PGE_Sansome (GS-P-09-17-KS-0009) | R9 | ABM-UESC-SFSC |
-| 04 | SDGE_SanDiego (47PK0222F0014) | R9 | SDGE-San-Diego |
-| 05 | ABM_LA (47PK0324C0001) | R9 | ABM-LA-PhaseI-IIA |
-| 06 | Honeywell_LA (GSP0816JE7081) | R9 | Honeywell-NDER2-LA |
-| 07 | Honeywell_SF (GSP0816JE7140) | R9 | Honeywell-NDER2-SF |
-| 08 | Ameresco_HaroldWashington (GSP0517GB0001) | R5 | Ameresco-ENABLE-HaroldWashington |
-| 09 | Honeywell_Detroit (47PF0020F0671) | R5 | Honeywell-ENABLE-Detroit |
-| 10 | Noresco_Chicago (47PF0023F0723) | R5 | Noresco-Chicago |
-| 11 | Trane_BattleCreek (47PF0024F0107) | R5 | Trane-NDER1-BattleCreek |
-| 12 | JCI_PJKK (47PK0223F0041) | R9 | PJKK-Johnson-Controls |
-| 13 | EMP2_R9 (47PK0220F0064) | R9 | EMP2 |
-| 14 | Ameresco_NDER6 (R8, new award) | R8 | NDER6-R8 — **not yet a repo folder with this identity confirmed; verify** |
+## Contract folder numbering — this repo's `contracts/` folder now mirrors Drive exactly
+This repo's `contracts/` folders were renamed to match your real Zone 7 Drive naming 1:1, and each now contains the standard 7-subfolder template (currently empty `.gitkeep` placeholders, ready for documents as you/I file them):
 
-**This confirms your portfolio really is 14 contracts** (matching the COR Master Tracker header from earlier), and gives exact PIID-to-nickname mapping for all of them — including R8 NDER6 (Ameresco), which I have as a stub under a different working name.
+| # | Folder | PIID | Region |
+|---|---|---|---|
+| 01 | `01_McKinstry_DFC` | 47PJ0024F0020 | R8 |
+| 02 | `02_Ameresco_SanDiego` | GS-P-08-16-JE-7074 | R9 |
+| 03 | `03_PGE_Sansome` | GS-P-09-17-KS-0009 | R9 |
+| 04 | `04_SDGE_SanDiego` | 47PK0222F0014 | R9 |
+| 05 | `05_ABM_LA` | 47PK0324C0001 | R9 |
+| 06 | `06_Honeywell_LA` | GSP0816JE7081 | R9 |
+| 07 | `07_Honeywell_SF` | GSP0816JE7140 | R9 |
+| 08 | `08_Ameresco_HaroldWashington` | GSP0517GB0001 | R5 |
+| 09 | `09_Honeywell_Detroit` | 47PF0020F0671 | R5 |
+| 10 | `10_Noresco_Chicago` | 47PF0023F0723 | R5 |
+| 11 | `11_Trane_BattleCreek` | 47PF0024F0107 | R5 |
+| 12 | `12_JCI_PJKK` | 47PK0223F0041 | R9 |
+| 13 | `13_EMP2_R9` | 47PK0220F0064 | R9 |
+| 14 | `14_Ameresco_NDER6` | R8, new award | R8 |
+
+Each numbered folder retains its `context.md` working-notes file at the root (my synthesized extraction summary — not one of the 7 official subfolder types, kept as a quick-reference index) alongside the 7 subfolders.
+
+**Two contracts you'd mentioned earlier are NOT part of this official 14-contract Zone 7 list** — `ENABLE-R8-ABM` (47PJ0019F0379) and `NM-UESC` — moved to `contracts/_Other_Contracts/` since the Zone 7 guide doesn't list them as yours. Worth confirming whether they're actually in-scope for you or were a stale/incorrect addition from an earlier tracker.
+
+A top-level `contracts/00_Portfolio_Admin/` was also created (Dashboards, Templates, Training_Certs, Weekly_Reports subfolders) matching the guide's cross-contract admin structure.
 
 ## Standard 7-subfolder template (applies to every contract folder 01–14)
 1. `00_Contract_Admin` — COR appointment memo, mod packages, base contract docs, HSPD-12 verification, CO correspondence, delegation letters
