@@ -191,3 +191,16 @@ GSA posture 6/3/2026: PS92 Schedule 5 ceiling on **cost basis 81.16%** (delibera
 - The "R5 ALL ESPC Verified Savings & Payments Tracker" (1hldqNYgB-ZHIihlneNfuFqsDeniHF88DZM40lsj_Tec) was not used — it is Region 5 scoped; this is a Region 9 contract, and the consolidated Schedule #1 + RY11 report Table 8 provided the authoritative year-by-year series directly.
 
 *Every "report states X" above is a direct citation; trend readings, masking mechanics, and the $4.6M guarantee-reduction swing are analyst inferences and are labeled as such.*
+
+
+---
+
+## Addendum — 2026-08-24: constructive-change predicate rebutted
+
+The main analysis recorded ABM's "GSA policy change" constructive-change narrative as **unresolved but weak on the current record**. That assessment is now superseded.
+
+On 8/24/2026 CO Felipe Jolles searched both the contract file and the GSA policy corpus and stated on the record that he **can find no documentation that GSA disallowed alternative battery equipment**, citing 2024 P100 §7.11.11 (stricter codes, not prohibition), the PBS Pacific Rim OIG audit (fire-department pre-planning requirement), and the 2025 PBS Interim Core Building Standards memo. PF David Frank corroborated — his recollection is **fire risk and non-performance** as the removal drivers — and supplied a counter-example: GSA is **currently installing a large BESS on the White Oak campus**.
+
+**Revised classification:** ABM's asserted government-causation predicate for the Phase 2B descope is **rebutted on the current record**. The Phase 2B hole remains classified **CONTRACTOR-ATTRIBUTABLE — confidence raised from High to Very High.** Evidence chain: Anderson BESS fire 4/24/2023 → Reagan independent design failure → PS85 non-acceptance → R&R matrix → ABM's own 2% penalty concession → and now an affirmative CO finding of no supporting policy documentation, plus an active GSA indoor-BESS installation elsewhere.
+
+**Negotiation implication:** ABM's ~$3M "alternative battery equipment" cost and the $270K removal cost cannot rest on a government-caused-change theory. Any credit sought for them must stand on some other contractual basis.
