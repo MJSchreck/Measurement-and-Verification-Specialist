@@ -204,3 +204,22 @@ On 8/24/2026 CO Felipe Jolles searched both the contract file and the GSA policy
 **Revised classification:** ABM's asserted government-causation predicate for the Phase 2B descope is **rebutted on the current record**. The Phase 2B hole remains classified **CONTRACTOR-ATTRIBUTABLE — confidence raised from High to Very High.** Evidence chain: Anderson BESS fire 4/24/2023 → Reagan independent design failure → PS85 non-acceptance → R&R matrix → ABM's own 2% penalty concession → and now an affirmative CO finding of no supporting policy documentation, plus an active GSA indoor-BESS installation elsewhere.
 
 **Negotiation implication:** ABM's ~$3M "alternative battery equipment" cost and the $270K removal cost cannot rest on a government-caused-change theory. Any credit sought for them must stand on some other contractual basis.
+
+---
+
+## Addendum — 2026-08-24: Can Phase 1/2A surplus "supplement" the failed Phase 2B? (COR question, pre-8/25 call)
+
+**Question:** ABM's position that Phases 1 and 2A generated substantial surplus savings that can supplement/offset the failed Phase 2B (Becker 9/19/2025 single-guarantee argument; Lucas Price 6/17/2026 "$1.7M excess vs. $1.9M withheld" net-benefit math; recurring in the 8/11/2026 proposal framing).
+
+**Assessment: the argument works in one narrow place and fails everywhere the settlement lives.**
+
+**Where it works (concede narrowly):** PS92 consolidated the phases into one guarantee (Schedule #1; "replace and supersede all prior guaranteed savings, financial schedules and payment schedules"). Within a report year, Phase 1/2A surplus does count toward consolidated guarantee compliance, and GSA itself released the PY10 $457K withhold 6/10/2025 expressly on "consolidated guaranteed savings achieved." That release is ABM's best fact; it was a one-year guarantee-compliance determination made before RY10's results and before the termination posture.
+
+**Four independent failure walls:**
+
+1. **Surplus cannot buy acceptance.** The Phase 2B payment obligation never attached because the scope was never accepted (Mod PS85 — "the contract accepts nothing regarding Phase 2B PIR"; E.3.1/E.3.2 — no partial acceptance, payment only on acceptance; Stevens 6/9/2025 — report acceptance ≠ phase acceptance). Guarantee compliance and acceptance are separate gates; consolidated savings say nothing about whether the BESS hardware was delivered and functional.
+2. **No banking across years.** The guarantee reconciles annually; no Schedule #1 provision carries surplus forward. RY10 missed the consolidated guarantee by ($93,808) despite +$1.9M cumulative "excess to date" — the cumulative figure cured nothing, ABM never restated it, and it falsifies "we always made the guarantee." Consistent with the EMP2 IM no-carry-over doctrine and the White Oak IG-audit precedent GSA invoked internally 5/28/2026.
+3. **The "surplus" is rate windfall + unverified stipulation, not performance.** RY11's +$1,665,490 came on +43.4% dollars while verified energy fell 3% (73,181 → 70,906 MMBtu), on actual rates (84%/117%/182% decade growth) vs. ~2–3% modeled escalation. And 84% of all Phase 2B "verified" savings ($1,965,370 of $2,331,622) is the unverified 14.01a O&M stipulation on non-operational equipment. The proposed offset trades paper dollars against real withheld money for undelivered hardware (red-flag #8, above).
+4. **Wrong instrument for the settlement.** The negotiation prices PS92 Schedule 5 termination value of never-accepted scope (net $7,174,008 on the 81.16% cost basis) — a cancellation-ceiling calculation, not a savings ledger; "excess savings" is not a Schedule 5 input. ABM's own Schedule #1 Note 8 Year-22 push-over deliberately declines to apply Phase 2A surplus to Phase 2B principal (avoiding HASI's prepayment penalty) — they cannot withhold the surplus-netting logic when it costs their financier and invoke it when it offsets GSA's withhold.
+
+**Tactical note for the 8/25 1:00 PM PT call:** lead with acceptance-gate + wrong-instrument; hold the RY10 miss as rebuttal (leading with it invites relitigation of the mislabeled RY10 Table 6 "government responsibility" line, still open per EMP2 comment #3).
