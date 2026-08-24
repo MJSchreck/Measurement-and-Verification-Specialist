@@ -193,3 +193,18 @@
 ## Delta update — 2026-08-24 morning sweep
 
 - **8/24 8:25 AM PT — COR replied to HSPD-12 PR07 PIV Collection on Alejandro Gomez's card**: committed to contact NORESCO POCs (Anthony Cabana, T. Ryan) today and report back (Gmail 19fc8dc2faf4d668).
+
+---
+
+## Delta update — 2026-08-24 PM: ROCAL accuracy conflict (unresolved)
+
+HSPD-12 certificate-expiry notice for **Donald Stephen Hofmann** (Aqualogix, cert expires 11/22/2026) triggered a direct contradiction on the record (Gmail thread `1a03300a023b63d3`):
+
+- **Todd Ryan (NORESCO), 9:04 AM PT:** "This individual is no longer on our contract."
+- **Kirk Doll (GSA), 9:06 AM PT:** "hold up, he is and makes frequent visits for the Aqualogix systems"
+- **HSPD-12, 9:31 AM PT:** "Donald Stephen Hofmann is still active and PIV card still active… will need to schedule a PIV card certificate update prior to 11/22/2026"
+- **Todd Ryan, 11:51 AM PT:** "I just looked at the ROCAL for 47PF0023F0723 and Donald Stephen Hofmann is not listed for this contract."
+
+**COR significance:** the ROCAL for this PIID does not reflect a person GSA staff says is actively making site visits. Either the ROCAL is incomplete (access without a current contract-access listing) or the individual is working under a different vehicle (Energy Systems Group / Aqualogix are cc'd). Unresolved as of end of thread. This is the **same defect class** as the open Detroit ROCAL question (47PF0020F0671 — Gjeltema vs Sieglinde, Jerrud's 8/17 question still unanswered) — two ROCAL accuracy failures live in the portfolio simultaneously.
+
+🟠 **Action:** reconcile the 47PF0023F0723 ROCAL against actual site-access activity; determine which vehicle authorizes Hofmann's access; document the disposition. Ties to the standing HSPD-12/PIV process gap flagged in the portfolio overview.
