@@ -237,3 +237,9 @@ Key open M&V matters: $43,536 government-operational-impact claim challenged; NS
 **Local baseline:** /root/.claude/skills/synced/zone7/references/contracts.md (entry 06) and history.md.
 
 **Gaps (not found in Drive/Gmail):** PY4/PY5/PY7 verified-vs-guaranteed dollar figures; itemized composition of the $1,008,966.15 (2/2025) invoice; executed AS26 award-date artifacts confirming 5/9 vs 5/4/2016; the original award SF1449/300; any Honeywell buyout proposal or acknowledgment after the 8/18 extension.
+
+---
+
+## Delta update — 2026-08-24 morning sweep
+
+- **8/24 — Stacy Garvey (Honeywell) requested confirmation of PY9 yearly site inspection dates/times** per attached schedule, asking that the OM Engineer be notified of visits (to GSA LA facility team, cc COR; unread as of sweep — Gmail 1a0345d8a4af2088).

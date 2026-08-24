@@ -34,7 +34,7 @@ All 13 are covered here so nothing falls through. If one of them shouldn't be co
 
 | Date | Contract | Item |
 |------|----------|------|
-| **TODAY 8/24** | ABM LA | Phase 2B check-in 10:00 PT — first session on ABM's 8/14 BESS descope proposal ($10.75M gross / $7.17M net GSA posture) |
+| **8/25 1:00 PT** | ABM LA | Phase 2B check-in (moved from 8/24 by CO on 8/24 AM) — first session on ABM's 8/14 BESS descope proposal ($10.75M gross / $7.17M net GSA posture); EMP2 review requested 8/24 |
 | **TODAY 8/24** | Honeywell SF | PS30 SF30-language meeting 12:00 PT |
 | **TODAY 8/24** | Detroit | Hamilton PIV card terminated today — physically unreturned |
 | **8/25 (noon CST)** | Honeywell LA | N. Spring St buyout proposal due from Honeywell (govt estimate ~$2.87M) |

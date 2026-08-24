@@ -187,3 +187,9 @@
 - Earliest NDER1 record (6/12/25, PMO scorecard): 19765728c68b1994
 
 **Gaps (not found in Drive/Gmail):** Y10Q1 QVR email; full mod log between PS23 and PO0005; PY9 AVR document and post-reconsideration PY9 ratings; 7/14/26 COR M&V review memo file; completed 2026 annual site-inspection record; confirmation the CPARS narrative reached Krystal by 8/12.
+
+---
+
+## Delta update — 2026-08-24 morning sweep
+
+- **8/24 8:25 AM PT — COR replied to HSPD-12 PR07 PIV Collection on Alejandro Gomez's card**: committed to contact NORESCO POCs (Anthony Cabana, T. Ryan) today and report back (Gmail 19fc8dc2faf4d668).
