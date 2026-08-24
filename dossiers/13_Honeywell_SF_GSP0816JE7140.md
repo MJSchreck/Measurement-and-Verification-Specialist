@@ -239,3 +239,25 @@ The defining event of the record period is the **sale of the Menlo Park Complex*
 **Local baseline:** /root/.claude/skills/synced/zone7/references/contracts.md (contract 07 entry; BoA financier note; 4/1/26 vetting extension) and history.md (career timeline anchors).
 
 **Gaps / notes:** (1) The task brief's "6/2/2026 MFR" — record shows MFR dated 5/27/2026, CO acknowledgment 6/1/2026; no separate 6/2 MFR found in Drive/Gmail. (2) Direct email documenting the financier-vetting extension to 4/1/2026 not found in Gmail (carried from contracts.md). (3) Mod PC03 contents not read (zip). (4) The 6/28/2026 schedule submission is referenced in the 8/5 brief but its transmittal email was not separately located. (5) Pre-2025 contract history (award through 2024) exists only via mod PDFs and secondhand references — Matt's records begin 12/2024.
+
+---
+
+## Delta update — 2026-08-24, PS30 source documents read
+
+Read the two operative PS30 documents for the first time: the **Modification Decision Document** (Drive `1J1JaLKZtuFovqNsdnK-TlQxIfXs96fOZLtgTcoVkqAc`) and the **SF30 modification form** (Drive `1rV2ZFpNk10h_CrRixkIz6dfjZ8M5zPCx`), both linked in Chapman's 3/3/2026 legal-sufficiency request (Gmail `19cb53e6cb114d17`). They do not agree with each other, and both differ from figures previously carried in this dossier.
+
+**CORRECTION — de-obligation figure.** This dossier previously carried **$62,755.93**. The MDD states **$61,745.76**, and the MDD's five CLIN reductions sum to that figure exactly ($162.88 + $13,918.99 + $657.98 + $42,419.65 + $4,586.26). The $62,755.93 figure derives from the older CLIN 0030 residual of $3,269.66; the MDD now uses **$4,279.83** (early-2026 payments reduced the residual). Difference **$1,010.17**. The SF30 form still carries the old CLIN 0030 numbers in its narrative while stating the $61,745.76 total — it is internally inconsistent. **Confirm the operative figure with CO before execution; this is what posts to Pegasys.**
+
+**CORRECTION — total contract value.** This dossier previously carried the post-Menlo value as **$38,869,532.89** (SF30 basis, Menlo settlement only). The MDD supersedes this: total value reduced by **$8,115,716.57** — Menlo $1,897,982.31 **plus $6,217,734.26** of Years 2–5 annual funding obligations "erroneously added to the Contract Base and All Options amount" — to **$32,651,798.63**. Obligated order amount $10,433,458.51 → $10,371,712.75 (both documents agree).
+
+**Contractor's Statement of Release — actual text** (MDD): *"The contractor (Honeywell) hereby releases the Government from any and all liability under the contract for any future equitable adjustments or claims attributable to the facts or circumstances giving rise to the partial termination settlement mentioned in the modification."* Assessment: one-directional (Honeywell → GSA) and scoped to the Menlo partial termination, so it does not reach the lighting-measurement obligation or the 2021 M&V credit question. It contains **no affirmative reservation of Government rights** — recommend adding one.
+
+**Drafting defects identified for the 8/24 CO session:**
+- SF30 narrative CLIN 0030 arithmetic: $110,826.09 − $5,596.43 = $105,229.66, but the document states **$105,256.66** ($27.00 error).
+- MDD states the revised TO3/TO5a total payment as **$32,651,789.63** in two places vs the correct **$32,651,798.63** — transposed digits, $9.00.
+- SF30 attaches **"T.O. Schedules — Dated July 25, 2025"** (the version carrying the erroneous TO-3 R96 formula Frank caught 3/6/2026). MDD correctly attaches **August 10, 2026**.
+- MDD carries an unfilled placeholder: "partial cancellation in performance year **XX**"; signature block dated **8/00/2026**. GSA Legal (John Moore, 3/4/2026) expressly directed that the Effective Date (Box 3) be filled before signing.
+- MDD writes Menlo building code **CA091500** (numerals); the Pegasys interface failure is diagnosed against **CA0915OO** (letters). Verify against EASi — this typo class is the root of the manual-RR problem PS30 is meant to fix.
+- MDD header says award **10/1/2016**; MDD body and SF30 block 10B say **9/23/2016**.
+
+**MDD confirms on the record:** the termination fee is "established as a fixed, mutually agreed-upon settlement value, precluding any future reassessment of the underlying calculation methodology" — Matt's note #1 was adopted; the COR reconstruction "aligned with Honeywell's revised total within $95" and the Frank benefit read (~$212,800 to the Government) are both recited in the decision document. PS31 full schedule rebuild is committed in the MDD text for **Q4 of the calendar year**.

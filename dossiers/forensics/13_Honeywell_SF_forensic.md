@@ -204,3 +204,24 @@ PY7 = 3/1/2026–2/28/2027. Guarantee to be confirmed on corrected PS30 TO-1. Y6
 9. **Year 7 guarantee on corrected schedules** — pending PS30 execution.
 10. **Explanation for the Y1 verified restatement** ($1,061,472 → $1,019,109/$1,019,019) — record not found.
 11. The task-brief's "Year 6 report ~4 years late" — not reproducible from dated records (see R4); the documented lateness pattern is Hustrulid's "reports were multiple years behind so they were paid before verification occurred" (12/17/2024) plus the Y5 timeline (data through 8/31/2024; accepted 5/29/2025).
+
+
+---
+
+## Addendum — 2026-08-24: PS30 primary documents
+
+MDD (`1J1JaLKZtuFovqNsdnK-TlQxIfXs96fOZLtgTcoVkqAc`) and SF30 form (`1rV2ZFpNk10h_CrRixkIz6dfjZ8M5zPCx`) read directly.
+
+| Item | MDD (current) | SF30 (as drafted) | Delta |
+|---|---|---|---|
+| CLIN 0030 residual | $4,279.83 | $3,269.66 | $1,010.17 |
+| CLIN 0030 reduction | $4,586.26 | $5,596.43 | $1,010.17 |
+| Sum of 5 CLIN reductions | **$61,745.76** (ties to stated total) | **$62,755.93** (does not tie to its own stated $61,745.76) | $1,010.17 |
+| Total contract value | $32,651,798.63 (−$8,115,716.57) | $38,869,532.89 (−$1,897,982.31) | $6,217,734.26 |
+| Attached schedules | August 10, 2026 ✓ | July 25, 2025 ✗ (superseded, erroneous TO-3 R96) | — |
+
+**A11 (new) — De-obligation figure ambiguity.** $61,745.76 vs $62,755.93 unresolved between the two operative documents; $62,755.93 was the figure carried in the COR file and the 8/5 Cawthorne brief. **BASELINE/METHODOLOGY — GSA-side documentation defect.** Resolve before execution; the de-obligation posts to Pegasys. Confidence: High that the discrepancy exists.
+
+**A12 (new) — Total-contract-value restatement.** The MDD's additional $6,217,734.26 reduction (Years 2–5 obligations "erroneously added to the Contract Base and All Options amount") is a **GSA-side accounting correction**, not a Honeywell claim — it does not affect verified savings or the guarantee. It does mean the SF30 form, if executed as drafted, would state a total contract value $6.2M higher than the CO's own decision document supports.
+
+**Release clause — assessed.** One-directional, Menlo-scoped; does not reach the lighting-measurement obligation (F8) or the 2021 quarterly M&V credits (A10/F5). No affirmative reservation of Government rights — recommend adding one to preserve the §C.4.6 $229,317 offset, the TRM credit delta, and the PS31 rebuild findings expressly.
