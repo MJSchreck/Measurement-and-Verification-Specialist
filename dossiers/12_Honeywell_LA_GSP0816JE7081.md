@@ -243,3 +243,31 @@ Key open M&V matters: $43,536 government-operational-impact claim challenged; NS
 ## Delta update — 2026-08-24 morning sweep
 
 - **8/24 — Stacy Garvey (Honeywell) requested confirmation of PY9 yearly site inspection dates/times** per attached schedule, asking that the OM Engineer be notified of visits (to GSA LA facility team, cc COR; unread as of sweep — Gmail 1a0345d8a4af2088).
+
+---
+
+## Delta update — 2026-08-25: N. Spring St buyout escalates to FAR 49.109-7 unilateral path
+
+**Honeywell missed the extended deadline and asked for a second week.** Sequence per CO Chapman's 8/25 8:42 AM PT legal request (Gmail thread `1a0399622c60eaf5`, Matt cc'd):
+
+| Date | Event |
+|---|---|
+| 8/4/2026 | Early Partial Cancellation/Buyout Notice issued to Honeywell (N. Spring St US Courthouse, CA0041ZZ) |
+| 8/19/2026 | Original proposal due |
+| 8/18/2026 | CO reminder → Honeywell requests one-week extension; granted |
+| **8/25/2026 12 PM CST** | Extended due date — **missed**; on the CO's 8/24 reminder Honeywell **requested another week** |
+| 8/25/2026 8:42 AM PT | **CO requests legal sufficiency from FM Legal** on a Notice of Intent to Issue a **Unilateral Settlement Determination** |
+| 8/25/2026 9:24 AM PT | **John P. Moore, Assistant General Counsel** (Real Property Law Division): "Carey or I will review the notice and related issues and get back to you as soon as possible" |
+
+**CO's proposed posture (draft language under legal review):** final deadline **COB Monday 8/31/2026** (27 calendar days total from notice). If Honeywell misses again, GSA issues a Unilateral Settlement Determination Notice pursuant to **FAR 49.109-7 (Unilateral Determination)**, **FAR 52.249-2 (Termination for Convenience)**, and the terms of DE-AM3609GO29035 / GS-P-08-16-JE-7081. CO's stated rationale: the 9/30/2026 obligation deadline leaves no room for serial extensions, "especially given past issues with delayed responses and documentation from HW."
+
+### 🔴 COR significance — the government estimate becomes the operative number
+
+Under a unilateral determination the Government sets the settlement amount itself. That converts the COR's independent estimate from a *check* on Honeywell's proposal into **the primary evidentiary basis for the determination**. Consequences:
+
+1. **The ~$2.87M corrected government estimate must be audit-grade and fully sourced**, not a reasonableness benchmark. Every input needs a traceable schedule cite.
+2. **The phantom ECM 12.1 transformer savings must be excised on the record** — transformers never installed per settlement mod AS26. Carrying them into a unilateral figure would embed a known error in a determination GSA imposes.
+3. **Precedent already exists on the sister contract:** on SF (7140) the COR independently reconstructed Honeywell's Menlo termination value to within **$95**, a result ~$212,800 in GSA's favor. That methodology is the template and the credibility argument.
+4. Timeline: determination (if needed) must still permit obligation **before 9/30/2026**.
+
+🟠 **Action:** stand up the COR government-estimate package now rather than waiting on a proposal that may not come — sourced buildup, ECM 12.1 exclusion memo, and the SF reconstruction methodology as the stated basis. Coordinate with Chapman on what he needs from the COR side to support the determination, and watch for FM Legal's response (Moore/Carey).
