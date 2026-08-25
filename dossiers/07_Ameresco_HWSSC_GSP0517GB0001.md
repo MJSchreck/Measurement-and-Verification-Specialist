@@ -284,3 +284,9 @@ Note: File Memo PO21 mentions "twenty modifications" issued to date as of Aug 20
 **Local baseline:** /root/.claude/skills/synced/zone7/references/contracts.md; /root/.claude/skills/synced/zone7/references/history.md
 
 **Gaps (not found in Drive/Gmail reviewed):** PS01 SF30 copy (listed in File Memo only); PY7 CPARS final submission confirmation; the $17,193,924.68 obligated figure; PY1/PY2 M&V report reviews predate available email; no invoice/receiving-report records for this TO in Gmail reviewed (payments appear to run on the annual obligation cycle without monthly invoicing threads).
+
+---
+
+## Delta update — 2026-08-25 morning sweep
+
+- **New meeting today: "HWSSC PY9 Obligation PR," Tue 8/25 1:00–1:30 PM PT**, invite from CO Jerrud Parker (Gmail 1a038d3e89ebe3ac, sent 5:10 AM PT). This is the working session on the PY9 final-year PR mod ($153,908, RWA 3819340) that is due 8/28 — the runway item on the watchlist. Prep: the 8/4/2026 "Request for PR Mod by 8/28/2026" thread (19fce1c316d2304e) and the RWA figure.
