@@ -290,3 +290,11 @@ Note: File Memo PO21 mentions "twenty modifications" issued to date as of Aug 20
 ## Delta update — 2026-08-25 morning sweep
 
 - **New meeting today: "HWSSC PY9 Obligation PR," Tue 8/25 1:00–1:30 PM PT**, invite from CO Jerrud Parker (Gmail 1a038d3e89ebe3ac, sent 5:10 AM PT). This is the working session on the PY9 final-year PR mod ($153,908, RWA 3819340) that is due 8/28 — the runway item on the watchlist. Prep: the 8/4/2026 "Request for PR Mod by 8/28/2026" thread (19fce1c316d2304e) and the RWA figure.
+
+---
+
+## Delta update — 2026-08-26 sweep
+
+- The **8/25 1:00 PM PT "HWSSC PY9 Obligation PR" meeting with CO Parker** took place; **no post-meeting correspondence appears in Gmail/Drive**, and no EASi routing notice for the PY9 mod on EQ5PCCM-17-0001 was found. **PR mod status unconfirmed on the record as of this sweep.**
+- 🔴 **Jerrud's routing deadline is Fri 8/28** — two days out. If the mod is not yet routed, this is the tightest self-owned deadline in the portfolio after Battle Creek.
+- Build packet with verified figures ($129,205 / $293 / $24,410 = $153,908), PR description text, attachment checklist, and EASi sequence: Drive `10yidGzpd_oBBYjHh5gcIYzMZxO_LS7k-Md5f2D1P7cs`.

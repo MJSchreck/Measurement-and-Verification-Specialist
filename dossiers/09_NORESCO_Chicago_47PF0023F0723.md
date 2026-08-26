@@ -215,3 +215,10 @@ HSPD-12 certificate-expiry notice for **Donald Stephen Hofmann** (Aqualogix, cer
 
 - **8/24 monthly GSA/NORESCO/JLL partnering meeting produced no record**: Gemini notes doc (Drive 1XLbrhjEqOTFK-0oUn_UUAVd1ZRULRTQ0qOKh5YbkK_4, 12:25 PM PT) states no summary/details were generated ("not enough conversation in a supported language"). No substantive meeting content exists to file; next recurring instance 8/27 per the calendar reference in the doc.
 - **Backfill from 8/24 8:32 AM PT (missed in prior sweeps):** Kendra Rudder replied on the returned shutdown-support PR (EQPMAF-26-0825, IL0205ZZ Chicago) with the SOW, quote, and two supporting documents attached; POP set 9/30/26–10/31/26 for the October critical-systems shutdown (Gmail 1a01f7f15c278d1e). Matt's 8/20 guidance stands: execute as a mod to the existing NORESCO task order, not a new TO.
+
+---
+
+## Delta update — 2026-08-26 sweep
+
+- **8/25/2026 12:46 PM PT — HSPD-12 re-issued "RESPONSE REQUIRED — PR09: Verification of GSA Contractor"** (Gmail `1a01f7d8c5564cdb`) to NORESCO POCs Anthony Cabana and Todd Ryan, cc Krystal Blue, Kendra Rudder, Matt. This is a follow-up on the 8/20 request; Matt had separately put **Nicholas Martin Finder** to the same POCs on 8/20 (Gmail `1a01fb671d9f9b6b`) — still unanswered.
+- Adds to the **open ROCAL-accuracy cluster** on this PIID (the Hofmann/Aqualogix contradiction, 8/24). Three PIV/ROCAL items now pending contractor response on this contract.

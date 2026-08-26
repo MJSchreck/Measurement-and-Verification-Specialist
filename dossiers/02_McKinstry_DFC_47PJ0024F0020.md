@@ -166,3 +166,10 @@ Prepared for Matt Schreck (GSA Zone 7 COR, matthew.schreck@gsa.gov) — compiled
 - 194705b717d7336b (1/16/2025 CO handoff of Y5–10 reports) · 19489c604e6041d3 / 1949464868f5d189 / 194a8af9fa864814 (Jan 2025 meetings) · 19549e9b95242b6f (2/27/2025 Y6–10 analysis memo) · 196a636ba34984a2 / 198853478cf0515d (2025 biweekly witnessing/template work, non-core list) · 19a6e4babe9348fd (11/10/2025 Y11 report) · 19a9df4de065ede6 (ORNL pre-M&V survey, COR/CO confirmation) · 19aff2901abc6c66 / 19b70141757d6379 (COR designation memos) · 19b27e046971a3a3 (12/16/2025 PY12 PR mod) · 19b707e66320f9de / 19bdc139dd33d997 (Year 12 invoice saga) · 19b70c6ded4a53e2 (PR EQPMCDB-26-0001) · 19be7e44fcd2463d (HOT funding mod, CLIN math, PR cancel) · 19bfc7b4be36f8fb (Mod PA0008 finalized) · 19c049d915c94da8 (invoice 200901666 / RR EC2026012800190 / $0.20 short-pay) · 19dd07376ede3b54 (Eldehni status) · 19e4682a39154ff4 (SkySpark trend gaps) · 19f80c1051fa2c48 (7/20/2026 touch-base canceled) · 19faa1455560dee8 (7/28/2026 Term 7 residual verification) · 19ff6eda0186893d (8/12/2026 scorecard corrections) · 1a0010bcee8d698d (8/14/2026 CIW/ROCAL) · 1a01fb67ac5b3c93 (8/20–21/2026 McMullin PIV closure) · 19e421d3835edee5 / 19a0cff141c9e8a8 (CDs & Drones clause mods on sibling contracts — none found for this PIID)
 
 **Gaps noted:** executed CDs & Drones SF30 for 47PJ0024F0020 — not found in Drive/Gmail; building-disposal SF30 — not found; interest resolution on 200901666 — not found; HSPD-12 CIW/ROCAL response — not found; Y11 acceptance letter — not found. Obligated/total values and PDN PJ3IB1005 carried from task baseline (EASi-sourced), not re-verified this session.
+
+---
+
+## Delta update — 2026-08-26 sweep
+
+- **8/26/2026 2:02 AM PT — HSPD-12 certificate-expiry notice for Kolin Dean Christiansen** (McKinstry / MSS84), certificates expire **10/10/2026** (Gmail `1a03d4e509c7c45b`; Matt cc'd with Aaron Rock, Dylan White, Felipe Jolles, Kristen Christiansen, Shantelle Brungardt, Tracey C. at McKinstry). Routine renewal — card terminates if certificates are not updated before expiry.
+- Rides alongside the still-unanswered **CIW/ROCAL package from 8/14**.

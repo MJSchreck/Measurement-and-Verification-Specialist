@@ -261,3 +261,16 @@ Read the two operative PS30 documents for the first time: the **Modification Dec
 - MDD header says award **10/1/2016**; MDD body and SF30 block 10B say **9/23/2016**.
 
 **MDD confirms on the record:** the termination fee is "established as a fixed, mutually agreed-upon settlement value, precluding any future reassessment of the underlying calculation methodology" — Matt's note #1 was adopted; the COR reconstruction "aligned with Honeywell's revised total within $95" and the Frank benefit read (~$212,800 to the Government) are both recited in the decision document. PS31 full schedule rebuild is committed in the MDD text for **Q4 of the calendar year**.
+
+---
+
+## Delta update — 2026-08-26 sweep: Year 7 payment PR being chased by Budget
+
+- **8/25/2026 4:30 PM PT — Chris Brown (Financial Management Specialist, Building Operations Branch BDBC, Enterprise B Zones 3/6/7)** to Matt, cc Joshua Chung, Guadalupe Novoa, Jay Wong (Gmail `1a03b429c036788d`), re **EQ9P3PME-16-5068 — NDER2 SFSC ESPC — Year 7 Payment**:
+  > "Checking the status of the PR for this project. **The other NDER2's in LA and SD have been received.** Funding is available and ready to commit."
+
+**COR significance:** SF is the only NDER2 in the family whose Year 7 payment PR has not been submitted — LA (7081) and San Diego (7074) are already in. Funding is staged and waiting. This is a new open item not previously on the watchlist.
+
+⚠️ **Interaction to resolve before submitting:** PS30 carries the Year 6 acceptance letter (accepted 3/17/2026, **$229,317 shortfall offset per §C.4.6**), the **$61,745.76** de-obligation, payment true-ups, and the **CA0915OO** Pegasys fix. Whether the Year 7 payment PR should be built before or after PS30 executes — and whether the §C.4.6 offset applies against Year 7 — needs to be settled with Chapman rather than assumed. Note also this contract has **no Pegasys interface** (manual RR every invoice) until the CA0915OO fix lands.
+
+🟠 **Action:** reply to Chris Brown with status, and confirm the PS30 sequencing question with CO Chapman.

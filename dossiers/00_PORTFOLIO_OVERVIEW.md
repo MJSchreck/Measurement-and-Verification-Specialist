@@ -34,13 +34,13 @@ All 13 are covered here so nothing falls through. If one of them shouldn't be co
 
 | Date | Contract | Item |
 |------|----------|------|
-| **TODAY 8/25 8:00 PT** | ABM LA | GSA/EMP2 pre-call (Matt, Frank, Bonus, Jolles) — accept/reject/hold list per ABM figure + counter range; Fathom consent request pending |
-| **TODAY 8/25 1:00 PT** | HWSSC | "PY9 Obligation PR" meeting with CO Parker (Gmail 1a038d3e89ebe3ac) — working session for the 8/28 PR mod ($153,908, RWA 3819340) |
-| **TODAY 8/25 (noon CST)** | Honeywell LA | N. Spring St buyout proposal due from Honeywell (govt estimate ~$2.87M) — not yet received as of 6 AM PT |
-| **TODAY 8/25** | Ameresco SD | Ameresco response due to Matt's 8/11 four-question letter (Y8 71% step change, sign convention, witnessing, implementation guarantee) — not yet received as of 6 AM PT |
-| **9/1 1:00 PT** | ABM LA | Phase 2B check-in with ABM (moved 8/25 → 9/1 by CO, now 60 min; invite marks Matt "optional" — confirm) — first session on ABM's 8/11 BESS descope proposal ($10.75M gross / $7.17M net GSA posture) |
+| **TODAY 8/26** | Battle Creek | 🔴 Buyout PR **EQPMCDB-26-0006 routing CANCELLED by Budget** pending principal/interest/J-type itemization Trane hasn't provided. Awaiting CO Conant's determination on (a) who requests the payoff split from Trane, (b) O&M credit netting. Every day burns the 10/1 option ($16,276 delta) |
+| **TODAY 8/26** | Honeywell SF | Chris Brown (Budget) chasing the **Year 7 payment PR** on EQ9P3PME-16-5068 — LA and SD already received, funding staged. Resolve PS30 sequencing with Chapman first |
+| **8/28** | HWSSC | 🔴 **PY9 PR mod routing deadline** ($153,908, RWA 3819340) — status unconfirmed after the 8/25 meeting with CO Parker |
+| **8/31** | Honeywell LA | CO's final deadline to Honeywell for the N. Spring St proposal; then **FAR 49.109-7 unilateral settlement determination**. Government estimate (~$2.87M) becomes the operative number |
+| **8/31** | Battle Creek | Mod must execute today for the 10/1 settlement date ($4,283,210.17); COR recommends 11/1 ($4,299,486.37) as baseline |
+| **9/1 1:00 PT** | ABM LA | Phase 2B check-in (may move again for CO travel). COR deliverable: O&M + energy savings breakdown incl. JCI buyout data |
 | **8/27** | Honeywell LA | Year 8 M&V 12-comment sheet responses due from Honeywell |
-| **8/28** | HWSSC | PY9 final-year PR mod ($153,908, RWA 3819340) due |
 | **8/31** | PJKK | Performance completion — **end-date correction mod still not started**; copy JCI Tab 30 external-drive records before access change |
 | **9/4** | PJKK | Matt's 19-comment set on Y15 report due |
 | **9/8** | Honeywell SF | HSPD-12 renewal due |

@@ -182,3 +182,39 @@ The contract is performing above guarantee (PY11 +$32,267, accepted 7/6/2026) an
 **Local baseline:** /root/.claude/skills/synced/zone7/references/contracts.md, history.md
 
 **Gaps / not found in Drive/Gmail:** the executed 11/14/2023 conversion award document itself (only the GSA300 obligation copy); PY1–PY10 annual M&V report files (inventoried, not read); Michelle Munroe's COR designation record; the signed 8/3 notice letter PDF (contents reconstructed from MFR02 and the email thread); EASi confirmation that the 3/1/2026 payment disbursed (action still open); a dedicated "Tab 33" EASi filing thread (Tab 33 status known only via the Buyout Action Register and disposition MFR).
+
+---
+
+## Delta update — 2026-08-26 sweep: buyout PR built, then returned by Budget; CO determination pending
+
+Thread `1a03aac9ac7961dd` + EASi notice `1a03a3fd2686db94`.
+
+### CO Conant formally requests the buyout PR (8/25, 1:45 PM PT)
+Trane's proposal is in and **"aligns with the termination ceiling on our TO Schedule."** Two settlement figures:
+
+| Payment date | Settlement amount |
+|---|---|
+| 10/1/2026 | **$4,283,210.17** |
+| 11/1/2026 | **$4,299,486.37** |
+| *Delta* | *$16,276.20* |
+
+Miles: pursuing the earlier date requires executing the modification **by Mon 8/31**; asked Nathan Ingersoll and Chris Ellers for routing-timeline feedback.
+
+*(Note: these supersede the 8/14 quoted pair of $4,266,995.59 (9/10) / $4,283,210.17 (10/10) — the dates have shifted, and the COR's 8/14 memorandum O&M-credit figures were keyed to the superseded dates.)*
+
+### 🔴 Budget returned the PR — routing cancelled
+- **EASi, 8/25 11:47 AM PT:** "PR Routing for **EQPMCDB-26-0006** has been cancelled by **Christina Hale**." Title: NDER Battle Creek ESPC – Early Cancellation Buyout Settlement; requestor Matthew Schreck.
+- **Basis:** Budget requires an **itemized breakout of settlement costs by principal and interest, identified by J-type** — which they advise is required even for settlements.
+- **The problem:** Trane's 8/14 response provides no such split. **Annex I of Assignment Schedule No. 16 states a single payoff value per date**, and the annual principal/interest schedule cannot produce the split because those figures are scheduled payments, not a payoff.
+- Budget has also questioned the **standalone-PR structure** (EQPMCDB-26-0006 as a separate PR rather than a mod to EQ5P2SS2P1-24-0002). COR provided the basis; **question remains open on Budget's side.**
+
+### COR response to CO (8/25, 3:37 PM PT)
+1. PR built at $4,283,210.17 matching the 10/1 figure.
+2. **Request to Trane prepared** — payoff broken into **principal, interest, and prepayment premium**, built to a 10/1/2026 effective date. ⏳ **Awaiting Miles' determination: does the request go out from the COR, or does the CO make it directly?**
+3. **Recommendation against planning for 8/31.** Remaining schedule depends on Trane's turnaround, which the Government does not control. **Recommend 11/1 at $4,299,486.37 as the baseline**, holding 10/1 as upside if Trane responds within two business days. The 9/30 obligation deadline is satisfied either way — **the exposure is the $16,276.20 settlement delta, not fund availability.**
+4. **Determination required from CO — unearned prepaid O&M credit:** 92 days ≈ **$12,890** at 10/1 settlement, or 61 days ≈ **$8,547** at 11/1. COR recommends **netting the applicable credit against the settlement in the modification.**
+
+### Filing
+COR built `EQPMCDB260006_PR_Checklist_AsBuilt_20260825` and filed it to the Battle Creek **Tab 38 – COR Budget/Funding** folder (Drive `1X_xUKu8-ERQAIsFX8LJWMnUt1U3W5LdNkAZs-9IssnY`, folder `1E7O7C0HmlzvvMzm2uM_MliUQbh1AR3U4`).
+
+🔴 **Critical path:** every day without Miles' determination burns the 10/1 option. Two decisions are his: (a) who sends the payoff-itemization request to Trane, (b) the O&M credit netting. On receipt of Trane's itemization the COR returns the PR to routing same-day.
