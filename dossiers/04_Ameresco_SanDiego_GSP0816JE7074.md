@@ -273,3 +273,45 @@ CO succession (FAR 4.803(a)(41) MFR, 8/20/2025 + PS24): Taylor (4/7/16–5/25/16
 **Local baseline:** /root/.claude/skills/synced/zone7/references/contracts.md; /root/.claude/skills/synced/zone7/references/history.md
 
 **Coverage note:** All 7074-relevant Gmail threads returned by the searches were reviewed (full text for the substantive ones, previews for routine EASi/Smartsheet auto-notices). PDFs of the M&V reports themselves were not re-opened; their figures are taken from Matt's 8/11/2026 memoranda, which quote them with two-pass extraction. Y9 final disbursement confirmation and any executed escalation-reconciliation mod were searched for and **not found in Drive/Gmail**.
+
+---
+
+## Delta update — 2026-08-27 sweep: Ameresco's four-question response received (and it opens a new issue)
+
+**8/26/2026 11:29 AM PT — Brett Perron (Ameresco) responded** to the COR's 8/11 four-question letter, one day past the 8/25 due date (Gmail `1a03f55b6108a69e`; cc Karalus, Caplan, Cameron, Williams at Ameresco; Jolles, Ingersoll, Frank). Responses inline in red. Offered a call.
+
+### Q1 — Year 8's 71% verified-savings step change → 🔴 **answer raises a scope question**
+
+Ameresco's explanation: several smaller up/down impacts, but **the largest contributor was the Sandra Day O'Connor building controls work — specifically a demand control ventilation (DCV) sequence on AHU-P (~400,000 CFM)**, worth **≈25,000 MMBtu and ≈$425,000**. Their words:
+
+> "the result of the reprogramming of the large (~400k CFM) AHU-P with a demand control ventilation sequence **that was not originally part of the scope for that unit**."
+
+**COR significance — this is the $454,277 Y8 anomaly the forensic pass flagged as "one ECM at 6.5× proposed," and the explanation makes it *harder* to accept, not easier:**
+1. **Savings claimed from work outside the ECM scope.** Under ESPC doctrine verified savings must derive from the contracted measures. An unscoped sequence generating ~$425K/yr is not obviously creditable against the guarantee without a modification.
+2. **No modification is cited** authorizing the added scope.
+3. **The M&V-plan question went unanswered.** The COR expressly asked "whether any change requires a revision to the approved M&V plan." Ameresco did not address it. **TO §C.4.6.D makes report approval contingent on compliance with the approved M&V plan** — so this remains a live acceptance bar for Year 8.
+4. Forward exposure: if creditable, ~$425K/yr rides into every subsequent year's verified total; if not, Year 8 restates downward by roughly that amount.
+
+### Q2 — Government-impact sign convention → **partially answered**
+
+Ameresco: "The sign convention has remained the same." Year 8's −$68,000 is attributed mainly to **≈$60K at the James Walsh building**, where AHUs previously scheduled ran far longer than baseline — **147.5 verified hours/week against a 65-hour baseline and a proposed 55 hours**, which they characterize as an **825% impact relative to proposed savings**.
+
+**Gaps remaining:**
+- The COR asked them to **restate any year reported under a different convention**. They assert no change, so nothing was restated — but that leaves **Year 6's +11,719 MMBtu / +$196,103 unreconciled against Year 8's −2,182 MMBtu / −$68,000**. Under a single unchanged convention those signs mean opposite things; the reconciliation is still owed.
+- The **label change** between Y6 and Y7 ("Government impact on ECMs" → "Lost Cost Savings Opportunity due to Agency Impact on ECMs") was not addressed.
+- The Walsh over-run is plausibly a genuine **government-responsible adjustment** (GSA-side operational deviation), but an 825% figure warrants verification against the underlying trend data before it is accepted as a GRA.
+
+### Q3 — Witnessing documentation → **partially answered**
+
+Ameresco: signed witnessing forms for Years 7 and 8 are in **Appendix B** (not Appendix G), inside the "Combined Appendices" PDF, reachable by bookmark; both years use the same filename and structure. Per-ECM personnel appear in section **X.2.3** — example given: **§4.2.3 of the Year 8 report, survey date 10/14/2025, Ameresco's Robert Carter accompanied by Darrell McGirt, GSA building manager**, for the Foley water-savings ECM. (Consistent with the Y7/Y8 Appendix B forms located 8/12/2026 by Kory Swanson.)
+
+**Gap remaining:** the COR asked them to **explain the missing site documentation** — Year 7 Appendix G has no photo set for **Foley Federal or James Walsh**; Year 8 has none for **Phoenix, Bruce Thompson, or James Walsh** — all of which carry verified savings in Table 1.6. **Not addressed.**
+
+### Q4 — Implementation-period savings → ✅ **closed**
+
+Ameresco's accounting confirms receipt of the **$522,193** implementation-period guarantee via **Mods PA08 and PA10**; obligation closed, no outstanding claims. This matches GSA records and resolves the item.
+
+### Disposition
+**One of four fully answered.** Q4 closes. Q2 and Q3 are partial with specific unanswered sub-questions. Q1 is answered in a way that opens a larger scope/M&V-plan question that must be resolved before Year 8 acceptance.
+
+🟠 **Actions:** (1) take Brett up on the call, with the Q1 scope question as the agenda; (2) put the three unanswered sub-items back in writing (Y6-vs-Y8 sign reconciliation, label change, missing site documentation); (3) determine whether the O'Connor DCV sequence was authorized by modification and whether the approved M&V plan covers it — this is the Year 8 acceptance gate; (4) loop EMP2 (Frank) on the scope question, since it changes the forensic read of the $454,277 anomaly.

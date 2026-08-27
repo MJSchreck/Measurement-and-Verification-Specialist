@@ -298,3 +298,13 @@ Note: File Memo PO21 mentions "twenty modifications" issued to date as of Aug 20
 - The **8/25 1:00 PM PT "HWSSC PY9 Obligation PR" meeting with CO Parker** took place; **no post-meeting correspondence appears in Gmail/Drive**, and no EASi routing notice for the PY9 mod on EQ5PCCM-17-0001 was found. **PR mod status unconfirmed on the record as of this sweep.**
 - 🔴 **Jerrud's routing deadline is Fri 8/28** — two days out. If the mod is not yet routed, this is the tightest self-owned deadline in the portfolio after Battle Creek.
 - Build packet with verified figures ($129,205 / $293 / $24,410 = $153,908), PR description text, attachment checklist, and EASi sequence: Drive `10yidGzpd_oBBYjHh5gcIYzMZxO_LS7k-Md5f2D1P7cs`.
+
+---
+
+## Delta update — 2026-08-27 sweep: ✅ PY9 obligation APPROVED — two days ahead of deadline
+
+- **8/26/2026 1:37 PM PT — EASi: "Procurement request EQ5PCCM-17-0001-M0012 has been approved."** Title: **HWSSC ESPC – BA80 – Performance Year 9 Payment**; requestor Matthew Schreck, proxy Lupe Novoa (Gmail `1a03fcad32e6d389`).
+- **Routing fix that unblocked it:** at Jerrud's direction that morning, the COR **rerouted M0012 — removing the individual FCO carried over from the M0011 routing list and replacing it with the FCO BA80 group** — with no change to the obligation (Gmail `1a03f03abf0a5dc5`, 10:13 AM PT). Jerrud: *"Thanks, Matt!"*
+- This is consistent with the routing guidance obtained back on **8/7/2026 from Kenneth Connaire (OCFO)**: *"BA80 requests should be routed to the BA80 group, OCFO BA80, which all BA80 budget analysts can access"* (Gmail `19fd871fc8d92c22`, the RWA-routing thread Jerrud opened with James May on 8/6).
+- **Jerrud's 8/28 routing deadline is met with two days to spare.** The 8/25 1:00 PM PT meeting evidently resolved into the reroute; the PY9 final-year payment ($153,908 against RWA 3819340) is obligated.
+- ⏭️ Remaining on this contract: the five PY8 carry-forward watch items (Oct 1 2026 BAS/possession dependency) and closeout runway — contract ends **10/31/2027**, so final CPARS and PMO packaging can now be planned.

@@ -274,3 +274,12 @@ Read the two operative PS30 documents for the first time: the **Modification Dec
 ⚠️ **Interaction to resolve before submitting:** PS30 carries the Year 6 acceptance letter (accepted 3/17/2026, **$229,317 shortfall offset per §C.4.6**), the **$61,745.76** de-obligation, payment true-ups, and the **CA0915OO** Pegasys fix. Whether the Year 7 payment PR should be built before or after PS30 executes — and whether the §C.4.6 offset applies against Year 7 — needs to be settled with Chapman rather than assumed. Note also this contract has **no Pegasys interface** (manual RR every invoice) until the CA0915OO fix lands.
 
 🟠 **Action:** reply to Chris Brown with status, and confirm the PS30 sequencing question with CO Chapman.
+
+---
+
+## Delta update — 2026-08-27 sweep: Year 7 PR hold explained and accepted, with a year-end caveat
+
+- **8/26/2026 9:22 AM PT — COR replied to Chris Brown** (cc Chung, Novoa, Wong, Ingersoll; Gmail `1a03b429c036788d`): *"The SF Year 7 PR is not built yet, and that's deliberate. Modification PS30 removes Menlo Park from the Task Order Schedules and carries…"* — i.e. the hold is a sequencing decision, not an oversight.
+- **8/26/2026 3:12 PM PT — Chris Brown accepted with a caveat:** *"Thank you for the update Matthew. **We can hold off a little bit, but year end approaches and we don't want to let these funds expire.** Please let me know if you have any questions or I can assist."*
+
+🟠 **Net:** the sequencing rationale is on the record and Budget is standing by, but this now has a **soft FY-end clock**. PS30 execution is the gating event — the longer it slips, the tighter the Year 7 obligation window. Worth a status ping to Chapman on PS30 timing specifically framed around the expiring-funds risk.

@@ -271,3 +271,14 @@ Under a unilateral determination the Government sets the settlement amount itsel
 4. Timeline: determination (if needed) must still permit obligation **before 9/30/2026**.
 
 🟠 **Action:** stand up the COR government-estimate package now rather than waiting on a proposal that may not come — sourced buildup, ECM 12.1 exclusion memo, and the SF reconstruction methodology as the stated basis. Coordinate with Chapman on what he needs from the COR side to support the determination, and watch for FM Legal's response (Moore/Carey).
+
+---
+
+## Delta update — 2026-08-27 sweep: FM Legal review in progress, not concluded
+
+- **8/26/2026 10:06 AM PT — John P. Moore (Assistant General Counsel, Real Property Law Division)** replied to CO Chapman, cc **Carey Bergeron**, Heidi Johnson, Matt, Nathan Ingersoll — marked **"Attorney Client Privileged Communication"** (Gmail `1a0399622c60eaf5`):
+  > "When you have a moment, can you share the relevant contract/task order terms you are referring to in your draft message to HW? It might be helpful…"
+
+**Read:** counsel is testing the contractual predicate for the unilateral-determination notice before blessing it — specifically the task-order terms Chapman cited alongside FAR 49.109-7 and FAR 52.249-2. Legal sufficiency is **not yet granted**, and the CO's stated final deadline to Honeywell is **COB Monday 8/31**.
+
+**COR relevance:** if counsel asks for the contractual basis, the supporting record — the buyout notice, TO schedules/cancellation provisions, and the Government's independent settlement estimate — is COR-side material. Being ready to supply the schedule citations on short notice shortens the legal turn. The ~$2.87M government estimate (with phantom ECM 12.1 transformer savings excised) remains the operative number if the determination issues.

@@ -222,3 +222,10 @@ HSPD-12 certificate-expiry notice for **Donald Stephen Hofmann** (Aqualogix, cer
 
 - **8/25/2026 12:46 PM PT — HSPD-12 re-issued "RESPONSE REQUIRED — PR09: Verification of GSA Contractor"** (Gmail `1a01f7d8c5564cdb`) to NORESCO POCs Anthony Cabana and Todd Ryan, cc Krystal Blue, Kendra Rudder, Matt. This is a follow-up on the 8/20 request; Matt had separately put **Nicholas Martin Finder** to the same POCs on 8/20 (Gmail `1a01fb671d9f9b6b`) — still unanswered.
 - Adds to the **open ROCAL-accuracy cluster** on this PIID (the Hofmann/Aqualogix contradiction, 8/24). Three PIV/ROCAL items now pending contractor response on this contract.
+
+---
+
+## Delta update — 2026-08-27 sweep
+
+- **Injection-testing routing determination confirmed (backfill):** CO Parker directed on **8/21/2026 8:05 AM PT** — *"I believe the intent was to do this as a modification to the existing ESPC order. **Please proceed with completing a PR MOD for PR EQ5P2SS2P1-23-0002 under order 47PF0023F0723.**"* (Gmail `1a0218342b27110a`), answering the COR's 8/20 urgent routing escalation to Blue/Parker. This confirms the guidance Matt gave Kendra Rudder on 8/20 and closes the routing question; the PR mod itself is the remaining build (Kendra's SOW, quote, and supporting docs came 8/24; POP 9/30/26–10/31/26, shutdown 10/xx).
+- **8/27/2026 5:15 AM PT** — Joshua Bruschuk (JLL) **declined** the ESPC GSA/NORESCO/JLL Monthly Partnering Meeting (Gmail `1a04325927bb9efc`). Following the 8/24 session that produced no Gemini record, attendance on this recurring meeting is worth watching.

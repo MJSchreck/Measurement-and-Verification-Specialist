@@ -218,3 +218,28 @@ Miles: pursuing the earlier date requires executing the modification **by Mon 8/
 COR built `EQPMCDB260006_PR_Checklist_AsBuilt_20260825` and filed it to the Battle Creek **Tab 38 – COR Budget/Funding** folder (Drive `1X_xUKu8-ERQAIsFX8LJWMnUt1U3W5LdNkAZs-9IssnY`, folder `1E7O7C0HmlzvvMzm2uM_MliUQbh1AR3U4`).
 
 🔴 **Critical path:** every day without Miles' determination burns the 10/1 option. Two decisions are his: (a) who sends the payoff-itemization request to Trane, (b) the O&M credit netting. On receipt of Trane's itemization the COR returns the PR to routing same-day.
+
+---
+
+## Delta update — 2026-08-27 sweep: 11/1 settlement date established; superseding COR MFR issued
+
+The 8/25 blockage resolved through a same-week budget review.
+
+| When (8/26) | Event |
+|---|---|
+| 7:15 AM PT | **CO Parker sends the Battle Creek TO Schedules MOD PS07** to Ingersoll, Conant, Schreck — *"This set of TOs match the MOD 07 PDF version"* (Gmail `1a03e6d898df323b`) |
+| 8:43 AM PT | **Ingersoll convenes "Battle Creek PR / Budget Review," Wed 8/26 12:00–12:25 PT** (Matt, Miles, Heidi) — agenda seeded with the COR's 8/25 position (Gmail `1a03ebd7a5767e2b`) |
+| 8:46 AM PT | **Heidi Johnson:** *"Before this meeting, please share the associated TO Schedules indicating the settlement amount"* (Gmail `1a03ec0a95dfff8d`) |
+| 9:22 AM PT | **COR sends executed PS07 TO Schedules** for 47PF0024F0107, **including Schedule TO-5 Cancellation Ceiling**; Heidi: *"Looking forward to our discussion this afternoon"* |
+| 9:07 AM PT | **Chris Ellers (OCFO) challenges the COR's framing:** *"I don't understand the reference to the September 30th obligation deadline being satisfied. Would you be able to clarify? I think we need to press Trane for this information"* (Gmail `1a03aac9ac7961dd`; adds Christina Hale, Shirlene Fauchier, James Nastasi) |
+| 9:15 AM PT | **CO Conant clarifies:** *"we are definitely targeting an award by the end of FY26. My original question pertained to whether we can complete the mod by 8/31, as this would result in a lower [settlement]"* |
+| 9:22 AM PT | **Ellers accepts:** *"Appreciate the clarification and the team working to pursue the lower cost option. Glad to hear the focus remains on awarding by 9/30 (for either buyout scenario)."* |
+| **3:19 PM PT** | **COR issues superseding Memorandum for Record** to CO Conant, cc Parker/Ingersoll/Johnson: *"which supersedes my August 14 memorandum. It is keyed to the **November 1, 2026 settlement date established at this afternoon's review**"* — with **November 1 settlement verification and corrected O&M credit** (Gmail `1a04021a676d43c7`) |
+
+### Outcome
+- **The 11/1/2026 settlement date is now established** — the COR's 8/25 recommendation was adopted over the 8/31-scramble option. Settlement value **$4,299,486.37**; the $16,276.20 delta versus the 10/1 figure is accepted as the cost of a schedule the Government controls.
+- **The 9/30 obligation deadline holds under either scenario** — Ellers confirmed this on the record after Conant's clarification, closing the point he initially challenged.
+- **O&M credit corrected** to the 11/1 basis (61 days ≈ $8,547) in the superseding MFR, replacing the 8/14 figures that were keyed to the now-superseded 9/10 and 10/10 dates.
+- The **principal/interest/J-type itemization** that caused Budget to cancel PR routing on 8/25 remains the open mechanical item; the superseding MFR is the COR's documentation basis for the settlement value.
+
+🟠 **Watch:** PR **EQPMCDB-26-0006** must return to routing and obligate NLT 9/30. Confirm Budget accepts the superseding MFR + PS07 TO-5 Cancellation Ceiling as the itemization basis, or that Trane's payoff split arrives.
