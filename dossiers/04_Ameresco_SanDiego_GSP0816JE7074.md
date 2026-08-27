@@ -315,3 +315,34 @@ Ameresco's accounting confirms receipt of the **$522,193** implementation-period
 **One of four fully answered.** Q4 closes. Q2 and Q3 are partial with specific unanswered sub-questions. Q1 is answered in a way that opens a larger scope/M&V-plan question that must be resolved before Year 8 acceptance.
 
 🟠 **Actions:** (1) take Brett up on the call, with the Q1 scope question as the agenda; (2) put the three unanswered sub-items back in writing (Y6-vs-Y8 sign reconciliation, label change, missing site documentation); (3) determine whether the O'Connor DCV sequence was authorized by modification and whether the approved M&V plan covers it — this is the Year 8 acceptance gate; (4) loop EMP2 (Frank) on the scope question, since it changes the forensic read of the $454,277 anomaly.
+
+### IGA verification — 2026-08-27 (Vol I Technical Rev 3, 3/4/2016; Vol II Price Rev 3)
+
+Checked Ameresco's Q1 answer against the source IGA. Findings:
+
+**O'Connor's awarded ECM set (AZ0303ZZ) — five measures plus one optional:**
+
+| ECM | Title | M&V total | M&V annual |
+|---|---|---|---|
+| **AZ0303ZZ-1** | **Control System Upgrade & Optimization** | **$170,285** | **$14,190** |
+| AZ0303ZZ-3 | Chiller Systems | $35,640 | $2,970 |
+| AZ0303ZZ-6 | Electrical Systems (High Efficiency Transformers) | $39,266 | $3,272 |
+| AZ0303ZZ-8a | Water Conservation & Wastewater Minimization | $6,525 | $544 |
+| AZ0303ZZ-9 | Building Envelope Improvements | $6,195 | $516 |
+| AZ0303ZZ-10 | Renewable Energy (roof PV) — **optional, excluded from base project** | $35,602 | $2,967 |
+
+**🔴 The magnitude problem.** IGA project summary table: **AZ0303 O'Connor total proposed annual dollar savings = $269,526/yr** across all five ECMs (35.2% electric / 35.2% gas / 5.9% water reduction; $2,432,686 implementation price). Project-wide total is **$1,412,567/yr** across all twelve buildings.
+
+Ameresco now claims **~$425,000/yr from one DCV sequence on one air handler** — that is:
+- **158% of O'Connor's entire proposed annual savings from every measure combined**, and
+- **~30% of the whole twelve-building project's proposed annual savings.**
+
+**Scope precedent on this very building.** ECM AZ0303-10 (roof PV) was carried in the IGA as *"fully developed during Ameresco's IGA, but…not included in the proposed project due to financial constraints and/or direction from the GSA SDSC project team."* It was added later by **Modification PC02 (9/15/2016)** — "fund an option for work within scope for a roof replacement and photovoltaic (PV) system at the Sandra Day O'Connor US Courthouse." Mods **AS04** (Tucson chiller), **PC06** (BAS network changes), and **PC07** (window inserts) follow the same pattern. **On this contract, added scope goes through a modification.**
+
+**M&V rigor expectation.** AZ0303ZZ-1 carries the **highest M&V price of any ECM in the project** ($170,285 / $14,190 per year, vs. next-highest CA0167ZZ-1 at $128,116). Ameresco's own Vol II rationale: *"Since the Controls work represents such a significant portion of the overall savings, Ameresco engaged three Controls Contractors…"* Climatec awarded. GSA is paying premium M&V on precisely this measure.
+
+**Cross-reference for Item 2:** Walsh (AZ0015) carries only two ECMs — AZ0015ZZ-1 Control System Upgrade & Optimization and AZ0015ZZ-5 Lighting & Lighting Controls — against **total proposed building savings of $24,944/yr**. A claimed ~$60,000 Government impact at Walsh is ~2.4× the building's entire proposed annual savings.
+
+⚠️ **What could NOT be verified.** IGA Vol I **pages 92–100 (§B.4.3.1, ECM AZ0303-01 detailed scope)** were not read. The Drive text extractor truncated mid-document at the Phoenix (B.3) section, and the 11 MB PDF (Drive `1q7eiNEFlFlBUURfyHBgyvKj-THQvDBbS`) exceeds the 10 MB download limit. **That section is the one that would state definitively whether an AHU-P demand-control-ventilation sequence is inside ECM AZ0303-01's developed scope.** It should be opened directly from Drive before the scope question is finally resolved. Note for context: Ameresco *did* scope DCV explicitly elsewhere in this same IGA — at Phoenix (AZ0052), Vol I: *"Ameresco proposes to implement a demand control ventilation strategy using CO2 sensors for 16 air handling units… install CO2 sensors in the return air ducts."* Whether comparable language appears in the O'Connor section is the open question.
+
+**Effect on the letter:** the COR response was revised to put the burden on Ameresco to cite the page and subsection of ECM AZ0303-01 where the sequence is described, rather than GSA asserting it is out of scope.
