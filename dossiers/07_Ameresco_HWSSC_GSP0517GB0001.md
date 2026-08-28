@@ -308,3 +308,13 @@ Note: File Memo PO21 mentions "twenty modifications" issued to date as of Aug 20
 - This is consistent with the routing guidance obtained back on **8/7/2026 from Kenneth Connaire (OCFO)**: *"BA80 requests should be routed to the BA80 group, OCFO BA80, which all BA80 budget analysts can access"* (Gmail `19fd871fc8d92c22`, the RWA-routing thread Jerrud opened with James May on 8/6).
 - **Jerrud's 8/28 routing deadline is met with two days to spare.** The 8/25 1:00 PM PT meeting evidently resolved into the reroute; the PY9 final-year payment ($153,908 against RWA 3819340) is obligated.
 - ⏭️ Remaining on this contract: the five PY8 carry-forward watch items (Oct 1 2026 BAS/possession dependency) and closeout runway — contract ends **10/31/2027**, so final CPARS and PMO packaging can now be planned.
+
+---
+
+## Delta update — 2026-08-28 sweep: ✅ PY9 fully executed — contract action complete
+
+- **8/27/2026 10:28 AM PT — EASi: "GS-P-05-17-GB-0001 Mod PA23 has been awarded and finalized."** Award title **"HWSSA ESPC – PY9 Payment 08-26,"** owner Jerrud Parker (Gmail `1a04443d722aa96f`).
+- **8/27/2026 12:54 PM PT — CO Parker transmitted the fully executed PA23 to Ameresco** (Nicole Bulgarino; cc Fortman, Dairo, Vass, Halverson at Ameresco, David Frank/EMP2, Zuzic, Lindsey, Berezovskiy, Matt): *"Please find attached the fully executed copy of modification PA23 to obligate the Performance Year 9 Payment for the Harold Washington Social Security Center ESPC. No action is required on your…"* (Gmail `1a044c9e84dbc076`).
+- COR added to the EASi Award Team for GS-P-05-17-GB-0001 (Gmail `1a043c77af7be96a`).
+
+**Closed.** PR M0012 → Mod PA23 → executed, all inside the 8/28 deadline. The final performance year is funded; remaining runway is closeout (contract ends **10/31/2027**): five PY8 carry-forward watch items with the Oct 1 2026 BAS/possession dependency, then final CPARS and the PMO package.

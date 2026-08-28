@@ -212,3 +212,36 @@ Key architecture points (from the 8/14/2026 MFR and executed TO):
 - Preview-level (search results; not opened in full): `19571b33f62610f7` (Chung transition 3/7/2025), `195f93276f669767` (Bogni transition Apr 2025), `19834092a49b734f`/`1988cce270e1e789`/`1989a0c5471e088f`/`198a05f8c0b2a467`/`198a425eb9c022d5` (PG&E audit walkthrough / demo pilot Jul–Aug 2025), `198a5605f7a11c53` (EASi award team 8/13/2025), `19a97b4744d50082`/`19ae5a39a2034a17`/`19aea4fd21a5e2da` (PY9 PR / PS11 / draft invoice, Dec 2025), `19b4c4a5cde2fd48`/`19b95e5d3eadae58` (invoice contact issue Dec 2025–Jan 2026), `19c44654a738dd3e`/`19c4896a906ce7a0`/`19c434d72b732364` (COR designation 2/9–2/10/2026), `19c4deee77ccd387`/`19c4e2f3640de878`/`19c4eab203c52eb6`/`19c54786eb6843b9` (PR M0017/M0018 approvals), `19ce268e0153538c` (proxy change 3/12/2026), `19ce29b2c4c77d6e` (M&V SOP/workshop), `19e0cc0cf38742f0`/`19e0cc12e2a61112` (FAC-COR reminders 5/9/2026), `19edc7a14f389298`/`19edc7aca07d1468` (CPARS self-assessment + ECF forwarding 6/18/2026).
 
 **Gaps (not found in Drive/Gmail):** Mod PS17 executed SF30; CO acceptance letters for PA Years 1/4/5; the Assignment of Claims instrument itself; the PA reports (Years 1–5) as files; Year 10 (Dec 2026) payment amount; CO concurrence on the 8/14 MFR; explicit EMP2 "savings shortfall" claim beyond the Year 6 chase; reconciliation of the $112,670 vs. $107,981 invoice figures.
+
+---
+
+## Delta update — 2026-08-28 sweep: 🔴 NEW — TEL fume hood controllers never worked, now failing
+
+**8/27/2026 3:25 PM PT — Rachel Almeida (Kwan), Building Manager, East Bay Field Office** (cc Bobby Townsend), Gmail `19ffc528ddb70983`:
+
+> "Related to UESC at Sansome, I have an issue with the **TEL Fume hood controllers. They were installed under this project and have never worked correctly.** Tenant is VERY dissatisfied; the devices are **no longer supported and are starting to fail.** Can we meet to discuss how to meet the tenant's needs **before this becomes a safety issue as it directly impacts their ability to maintain negative pressure in chemical lab areas?**"
+
+COR agreed same day; **meeting today, Fri 8/28, 12:30–1:00 PM PT** (invite `1a04588edb0318c6`, Matt + Bobby Townsend). Rachel is hunting project docs; Bobby holds some.
+
+### 🔴 Why this is more than a maintenance complaint
+
+**The lab fume hood controls are inside the UESC scope and have been carried through the annual M&V walkthroughs.** Matt's own 8/13/2026 witnessing reconstruction lists the ECMs covered in the ABM annual performance walkthroughs as: LED lighting and Encelium controls in both buildings, the chiller and chilled water pumps, **the lab fume hood controls**, the building automation system, the steam isolation valves, and the water fixtures.
+
+So equipment that a GSA building manager says **"never worked correctly"** has been walked, reported, and paid against for multiple performance years. That intersects directly with the forensic finding on this contract — *"No physical measurements were taken"* for any ECM in any year — and with the witnessing gaps already documented:
+
+| PY | Witnessing status |
+|---|---|
+| Year 3 (11/17/2022) | Single form, **Government Staff field blank** |
+| Year 4 (12/29/2023) | Seven forms listing **Fara Akrami** — on-site Chief Engineer employed by **Pundir Group, the O&M contractor**. PBS policy and the GSA OIG audit of ESPC witnessing practices bar O&M contractor employees from serving as Government witnesses |
+| Year 5 (11/23/2024) | Properly signed by Danielle Bogni ✅ |
+
+Rachel confirmed 8/20 she has **no documentation** of attending the Y3/Y4 ABM visits, though she was on site those days — so Years 3 and 4 stand as **documented witnessing gaps**.
+
+### Questions to carry into today's meeting
+1. **Which ECM** did the TEL controllers land under, and what savings were attributed to them in each PA report?
+2. **Were they ever commissioned/accepted?** Is there a PIR or functional test showing they worked at acceptance?
+3. **"No longer supported"** — is this obsolescence (a GSA lifecycle issue) or a product that never performed (a contractor deficiency)? The binary determines who pays.
+4. Does the PA Plan carry any performance-assurance obligation on this equipment, and is the 5-year PA reporting cap (expired 6/30/2020, per the phantom-deliverable MFR filed 8/14/2026) relevant to what recourse remains?
+5. Safety path: negative pressure in chemical labs is a life-safety function — separate the immediate tenant remedy from the contractual question so the fix isn't held up by the attribution argument.
+
+🟠 **Note:** this is the first *performance* issue surfaced on Sansome; the contract has otherwise been the portfolio's "stable" entry (94.7% realization, no guarantee). Its status headline may need to change after today.

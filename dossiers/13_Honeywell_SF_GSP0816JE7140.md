@@ -283,3 +283,14 @@ Read the two operative PS30 documents for the first time: the **Modification Dec
 - **8/26/2026 3:12 PM PT — Chris Brown accepted with a caveat:** *"Thank you for the update Matthew. **We can hold off a little bit, but year end approaches and we don't want to let these funds expire.** Please let me know if you have any questions or I can assist."*
 
 🟠 **Net:** the sequencing rationale is on the record and Budget is standing by, but this now has a **soft FY-end clock**. PS30 execution is the gating event — the longer it slips, the tighter the Year 7 obligation window. Worth a status ping to Chapman on PS30 timing specifically framed around the expiring-funds risk.
+
+---
+
+## Delta update — 2026-08-28 sweep: 🗓️ PS30 execution date set — 9/11/2026 or earlier
+
+- **8/27/2026 8:47 AM PT — Stacy Garvey (Honeywell)** to Chapman, Matt, Frank, Berezovskiy (cc Correa, Kroeger, Prager, Athar, Pitts, Khan, Ingersoll, Johnson), Gmail `1a043e7bf584a36d`: *"I believe discussions and revisions of the TO Schedules have been resolved for the above-mentioned report. With that said, **when can HW expect receipt of the Acceptance Letter and…**"*
+- **9:22 AM PT — CO Chapman:** *"Thanks for your inquiry regarding San Francisco ESPC modification PS30. **The estimated execution date is September 11, 2026 or earlier.**"*
+
+**Why this matters beyond PS30 itself.** PS30 is the gating event for four downstream items: the Year 6 acceptance letter (accepted 3/17/2026, $229,317 §C.4.6 shortfall offset), the **$61,745.76** de-obligation, the payment true-ups, and the **CA0915OO** Pegasys fix that ends the manual-RR-every-invoice era.
+
+🟠 **It also sets the clock on the Year 7 payment PR.** Chris Brown (Budget) accepted the sequencing hold on 8/26 but warned *"year end approaches and we don't want to let these funds expire."* With PS30 landing **9/11 or earlier**, the Year 7 PR has roughly **two and a half weeks** between execution and the 9/30 fiscal-year wall. That is workable but not comfortable — worth staging the PR build now so it can route the day PS30 executes.

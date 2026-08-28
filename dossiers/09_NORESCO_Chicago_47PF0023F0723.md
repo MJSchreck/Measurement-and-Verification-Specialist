@@ -229,3 +229,13 @@ HSPD-12 certificate-expiry notice for **Donald Stephen Hofmann** (Aqualogix, cer
 
 - **Injection-testing routing determination confirmed (backfill):** CO Parker directed on **8/21/2026 8:05 AM PT** — *"I believe the intent was to do this as a modification to the existing ESPC order. **Please proceed with completing a PR MOD for PR EQ5P2SS2P1-23-0002 under order 47PF0023F0723.**"* (Gmail `1a0218342b27110a`), answering the COR's 8/20 urgent routing escalation to Blue/Parker. This confirms the guidance Matt gave Kendra Rudder on 8/20 and closes the routing question; the PR mod itself is the remaining build (Kendra's SOW, quote, and supporting docs came 8/24; POP 9/30/26–10/31/26, shutdown 10/xx).
 - **8/27/2026 5:15 AM PT** — Joshua Bruschuk (JLL) **declined** the ESPC GSA/NORESCO/JLL Monthly Partnering Meeting (Gmail `1a04325927bb9efc`). Following the 8/24 session that produced no Gemini record, attendance on this recurring meeting is worth watching.
+
+---
+
+## Delta update — 2026-08-28 sweep: ✅ Injection-testing PR mod approved same day
+
+- **8/27/2026 6:48 AM PT — COR submitted PR Modification M0004** on base PR **EQ5P2SS2P1-23-0002** (NORESCO NDER Chicago ESPC, Award 47PF0023F0723) to fund NORESCO's support for the **EMD (Dirksen, IL0205ZZ) 3-year chiller injection testing**, notifying CO Blue (cc Rudder, Parker, Ingersoll) — Gmail `1a0437973093505f`.
+- **7:07 AM PT — Kendra Rudder** replied with an **updated SOW**, thanking the COR for "catching the contract number."
+- **11:19 AM PT — EASi: "Procurement request EQ5P2SS2P1-23-0002-M0004 has been approved."** Title: *NDER Chicago ESPC Contract – NORESCO – EMD Chiller Support for 3-Year Injection Testing* (Gmail `1a0447300bd736b4`).
+
+**Closed within one working day.** Executes CO Parker's 8/21 direction to run this as a mod to the existing task order rather than a new TO — the routing question first escalated 8/20 is now fully resolved and funded ahead of the **10/xx Dirksen shutdown** (POP 9/30/26–10/31/26).

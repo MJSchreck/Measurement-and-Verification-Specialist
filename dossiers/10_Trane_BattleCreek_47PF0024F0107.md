@@ -243,3 +243,12 @@ The 8/25 blockage resolved through a same-week budget review.
 - The **principal/interest/J-type itemization** that caused Budget to cancel PR routing on 8/25 remains the open mechanical item; the superseding MFR is the COR's documentation basis for the settlement value.
 
 🟠 **Watch:** PR **EQPMCDB-26-0006** must return to routing and obligate NLT 9/30. Confirm Budget accepts the superseding MFR + PS07 TO-5 Cancellation Ceiling as the itemization basis, or that Trane's payoff split arrives.
+
+---
+
+## Delta update — 2026-08-28 sweep: ✅ Buyout PR approved — acquisition package now assigned to the COR
+
+- **8/27/2026 7:46 AM PT — EASi: "Procurement request EQPMCDB-26-0006 has been approved."** Title: NDER Battle Creek ESPC – Early Cancellation Buyout Settlement. Notice distributed to Ingersoll, Nastasi, Wilburn, Lindsey, **Christina Hale**, Trinh, Fauchier, Alexander, Choy, Diederich, Cosby (Gmail `1a043afe8dd646a2`). **Budget released it** — the 8/25 routing cancellation is resolved.
+- **8/27/2026 7:46 AM PT — task assigned to the COR: "Submit PR Acquisition Package (EQPMCDB-26-0006)"** (Gmail `1a043affc5a898f4`, assigned 10:46 AM EDT, priority Normal).
+
+🟠 **Open action on Matt:** submit the acquisition package. This is the next gate before obligation; the settlement is keyed to the **11/1/2026 date at $4,299,486.37**, and funds must obligate **NLT 9/30/2026**.

@@ -282,3 +282,15 @@ Under a unilateral determination the Government sets the settlement amount itsel
 **Read:** counsel is testing the contractual predicate for the unilateral-determination notice before blessing it — specifically the task-order terms Chapman cited alongside FAR 49.109-7 and FAR 52.249-2. Legal sufficiency is **not yet granted**, and the CO's stated final deadline to Honeywell is **COB Monday 8/31**.
 
 **COR relevance:** if counsel asks for the contractual basis, the supporting record — the buyout notice, TO schedules/cancellation provisions, and the Government's independent settlement estimate — is COR-side material. Being ready to supply the schedule citations on short notice shortens the legal turn. The ~$2.87M government estimate (with phantom ECM 12.1 transformer savings excised) remains the operative number if the determination issues.
+
+---
+
+## Delta update — 2026-08-28 sweep: ✅ Government estimate delivered; legal predicate supplied
+
+- **8/27/2026 12:02 PM PT — COR transmitted the Spring St allocation basis and Government estimate to CO Chapman** (Gmail `1a04495e4059eabf`): *"The allocation basis for the Spring St buyout is complete and attached. **Nothing in the Task Order splits the outstanding balance by building, so the share is a Government determination rather than…**"*
+
+  This is the deliverable the FAR 49.109-7 posture depends on. The COR's framing is the right one: because the TO contains no per-building split of the outstanding balance, the allocation is necessarily a **Government determination** — which is precisely what a unilateral settlement determination requires and what Honeywell's silence cannot supply.
+
+- **8/27/2026 8:50 AM PT — CO Chapman answered FM Legal's request** (Gmail `1a0399622c60eaf5`, to John Moore, cc Carey Bergeron, Heidi Johnson, Ingersoll, Matt): *"The relevant contract and task order terms outline the specific rules, work scope, pricing, etc., and execution procedures for the services ordered under base…"* — supplying the contractual predicate Moore asked for on 8/26.
+
+**Status:** Honeywell's final deadline is **COB Monday 8/31**. Legal sufficiency is still pending Moore/Bergeron's review of Chapman's answer. If Honeywell misses, the determination issues on the COR's allocation basis, and funds must obligate **NLT 9/30**.
