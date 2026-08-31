@@ -294,3 +294,13 @@ Under a unilateral determination the Government sets the settlement amount itsel
 - **8/27/2026 8:50 AM PT — CO Chapman answered FM Legal's request** (Gmail `1a0399622c60eaf5`, to John Moore, cc Carey Bergeron, Heidi Johnson, Ingersoll, Matt): *"The relevant contract and task order terms outline the specific rules, work scope, pricing, etc., and execution procedures for the services ordered under base…"* — supplying the contractual predicate Moore asked for on 8/26.
 
 **Status:** Honeywell's final deadline is **COB Monday 8/31**. Legal sufficiency is still pending Moore/Bergeron's review of Chapman's answer. If Honeywell misses, the determination issues on the COR's allocation basis, and funds must obligate **NLT 9/30**.
+
+---
+
+## Delta update — 2026-08-31 sweep: legal working session set for tomorrow; today is Honeywell's final deadline
+
+- **8/28/2026 7:46 AM PT — CO Chapman convened "Legal: LA ESPC Unilateral Settlement Discussion," Tue Sep 1, 12:00–1:00 PM PT** — attendees **Matt and John P. Moore (Assistant General Counsel)**, cc Ingersoll and Heidi Johnson (Gmail `1a048d694c7520e6`). COR confirmed attendance 8:23 AM PT.
+
+**Sequence now set:** Honeywell's extended final deadline is **today, COB 8/31**. If nothing arrives, the legal working session tomorrow at noon is where the unilateral determination gets shaped — with the COR in the room alongside counsel, which is the right posture given that the **Government's allocation basis (delivered to Chapman 8/27) is the evidentiary foundation** for the determination.
+
+🟠 **Prep for tomorrow:** be ready to walk Moore through the allocation methodology — specifically why the per-building share is a Government determination (nothing in the TO splits the outstanding balance by building), and the ~$2.87M estimate with the phantom ECM 12.1 transformer savings excised. The SF Menlo reconstruction (within $95 of Honeywell's own figure, ~$212,800 GSA-favorable) is the credibility precedent for the methodology.

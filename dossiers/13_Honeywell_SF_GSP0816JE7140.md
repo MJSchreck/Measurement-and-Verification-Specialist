@@ -294,3 +294,21 @@ Read the two operative PS30 documents for the first time: the **Modification Dec
 **Why this matters beyond PS30 itself.** PS30 is the gating event for four downstream items: the Year 6 acceptance letter (accepted 3/17/2026, $229,317 §C.4.6 shortfall offset), the **$61,745.76** de-obligation, the payment true-ups, and the **CA0915OO** Pegasys fix that ends the manual-RR-every-invoice era.
 
 🟠 **It also sets the clock on the Year 7 payment PR.** Chris Brown (Budget) accepted the sequencing hold on 8/26 but warned *"year end approaches and we don't want to let these funds expire."* With PS30 landing **9/11 or earlier**, the Year 7 PR has roughly **two and a half weeks** between execution and the 9/30 fiscal-year wall. That is workable but not comfortable — worth staging the PR build now so it can route the day PS30 executes.
+
+---
+
+## Delta update — 2026-08-31 sweep: PS30 draft MDD + SF30 language circulated for pre-review
+
+- **8/28/2026 11:52 AM PT — CO Chapman circulated the pre-review package** (Gmail `1a049b8017ddc61b`) to **Matt, John P. Moore, and Carey Bergeron** (cc Heidi Johnson, Ingersoll):
+  > "Please find a pre-review of the SF PS30 Modification Decision Document (MDD) and the draft SF30 modification language. Please feel free to comment, or make suggestions. The full package…"
+
+**This is the COR's comment window**, and it lands against the **9/11-or-earlier execution date** Chapman gave Honeywell on 8/27. The COR already holds a full analysis of an earlier version of this same document set — the PS30 brief built 8/24 identified MDD-vs-SF30 discrepancies and four CO asks. Those should be checked against this draft:
+
+1. Whether the **operative CLIN 0030 figure** is stated correctly (de-obligation **$61,745.76**, CLIN 0030 residual **$4,279.83** — earlier drafts carried the superseded $62,755.93).
+2. Whether the SF30 is synced to the corrected **post-Menlo contract value $32,651,798.63** and the **Aug 10 2026** schedules.
+3. Whether an **affirmative reservation of Government rights** sentence was added — the release as drafted is one-directional (Honeywell→GSA) and Menlo-scoped, so the residual ask was only a rights reservation, not a lighting/M&V-credit carve-out.
+4. Housekeeping including the **CA091500 vs CA0915OO** building-code check that the Pegasys fix depends on.
+
+Note counsel (Moore, Bergeron) is on this distribution as well as tomorrow's LA unilateral-settlement call — the same two attorneys are now carrying both Chapman matters.
+
+- **9/3/2026 8:00–8:30 AM PT — NDER2 SF monthly Service Center cadence**; Jason Cawthorne accepted 8/28 (Gmail `1a04b2f0be20fede`).

@@ -346,3 +346,10 @@ Ameresco now claims **~$425,000/yr from one DCV sequence on one air handler** �
 ⚠️ **What could NOT be verified.** IGA Vol I **pages 92–100 (§B.4.3.1, ECM AZ0303-01 detailed scope)** were not read. The Drive text extractor truncated mid-document at the Phoenix (B.3) section, and the 11 MB PDF (Drive `1q7eiNEFlFlBUURfyHBgyvKj-THQvDBbS`) exceeds the 10 MB download limit. **That section is the one that would state definitively whether an AHU-P demand-control-ventilation sequence is inside ECM AZ0303-01's developed scope.** It should be opened directly from Drive before the scope question is finally resolved. Note for context: Ameresco *did* scope DCV explicitly elsewhere in this same IGA — at Phoenix (AZ0052), Vol I: *"Ameresco proposes to implement a demand control ventilation strategy using CO2 sensors for 16 air handling units… install CO2 sensors in the return air ducts."* Whether comparable language appears in the O'Connor section is the open question.
 
 **Effect on the letter:** the COR response was revised to put the burden on Ameresco to cite the page and subsection of ECM AZ0303-01 where the sequence is described, rather than GSA asserting it is out of scope.
+
+---
+
+## Delta update — 2026-08-31 sweep
+
+- **8/30/2026 2:00 AM PT — HSPD-12 certificate-expiry notice for Brett Perron** (Ameresco), certificates expire **11/13/2026** (Gmail `1a051e5f43579710`; Matt and CO Jolles cc'd). Routine.
+- No further response from Ameresco on the Year 7/Year 8 review questions over the weekend. The COR reply covering the O'Connor DCV scope question and the three unanswered sub-items **remains in draft, unsent.**

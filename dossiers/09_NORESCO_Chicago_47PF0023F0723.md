@@ -239,3 +239,43 @@ HSPD-12 certificate-expiry notice for **Donald Stephen Hofmann** (Aqualogix, cer
 - **11:19 AM PT — EASi: "Procurement request EQ5P2SS2P1-23-0002-M0004 has been approved."** Title: *NDER Chicago ESPC Contract – NORESCO – EMD Chiller Support for 3-Year Injection Testing* (Gmail `1a0447300bd736b4`).
 
 **Closed within one working day.** Executes CO Parker's 8/21 direction to run this as a mod to the existing task order rather than a new TO — the routing question first escalated 8/20 is now fully resolved and funded ahead of the **10/xx Dirksen shutdown** (POP 9/30/26–10/31/26).
+
+---
+
+## Delta update — 2026-08-31 sweep: 🔴 536 S. Clark scope-overlap analysis — COR rebuts the premise of today's meeting
+
+**Context.** GSA awarded a new ESPC (NDER7 Midwest, Ameresco) with controls and lighting work at **536 S. Clark (IL0054ZZ)** — a building already covered by NORESCO's 2016 Chicago ESPC **ECM-09**. CO Parker opened the coordination with NORESCO 8/3; Corey Lindemann cleared the scope-sharing language 8/7. **Nathan Ingersoll convened "NDER7 Midwest – 536 Controls Scope Overlap" for Mon 8/31, 9:00–9:25 AM PT** (Gmail `1a049eeecf1b2124`; attendees Matt, Parker, Wenninger, Marc/Wolff Building Solutions, DavidB/EMP2, Billstrom), writing 8/28:
+
+> "My suspicion is that the new equipment and sequences will be more efficient than the current baseline. We will need to evaluate and calculate this to determine whether we are negatively impacting the savings."
+
+**COR response, 8/28 3:56 PM PT** (Gmail `1a04a96d8bf55d51`) — after reviewing the three attachments, the Final M&V Plan, **both IGA volumes**, and the TO schedules under **Mod PS44**: *"I'm sending this to you first because it changes what Monday should decide."*
+
+### The finding: the savings number is structurally insulated from the engineering
+
+| Basis | Source |
+|---|---|
+| Both Clark Street measures are **IPMVP Option A** | M&V Plan |
+| **Final commissioning constitutes verification for ECM-09; no measurements are taken during the performance period.** Annual verification is a **sample inspection confirming the equipment remains in place** | **M&V Plan §J-8.3.8** |
+| Lighting **baseline and post-installation operating hours are agreed to be the same** | **Vol I Table 2.3** |
+
+→ **If Ameresco improves these systems, verified savings do not decline.** There is no mechanism by which they could.
+
+### 🔴 The Year 4 AVR proves it on its own pages
+
+- **§0.5** records the Clark inspection finding **four AHUs in alarm and all heat wheels not functioning.**
+- **§0.4 — one page earlier** — reports **ECM-09 verified savings match the IGA.**
+- The heat wheels constitute **the entire heat recovery sub-measure**. **Nothing was deducted.**
+
+Equipment documented as non-functional in the same report that books full IGA savings. This is the sharpest instance yet of the **pure-stipulation drift** flagged in the forensic file for this contract (no measurement has moved a number since PY5).
+
+### No adjustment path exists
+- The **equitable adjustment clause** covering GSA-directed sequence changes sits in the **ECM-07 chiller plant section** — it does not reach either Clark measure.
+- Under **TO-1 and TO-3**, the payment is **debt service on $28.6M of financed principal**, not a performance payment.
+
+### The real exposure is a GSA duty, not a savings loss
+**Vol I Section 3 obligates GSA to engage NORESCO in advance** to review and approve any system change that might impact savings. Per the COR: *"That duty is now ours and is not met by notifying Corey Lindemann after Ameresco's design is set."* CO Parker identified the same requirement on 8/3 — that GSA would "circle back to verify what is changing and how the changes will be captured in the NORESCO order."
+
+### COR recommendation for today
+**Finalize the Ameresco data request rather than attempt the calculation.** There is no Ameresco scope in the files or on the drive, so there is no second input to calculate against. The COR's draft request asks at the parameter level and is complete. Two questions put to Ingersoll: how he wants this handled Monday, and whether the group should be briefed beforehand — **no answer on the record as of this sweep.**
+
+🟠 **Today 9:00 AM PT.** The meeting was convened to evaluate a savings impact that the contract documents say cannot occur. The decision on the table should shift from *calculate the impact* to *issue the data request and document the advance-engagement duty.*
