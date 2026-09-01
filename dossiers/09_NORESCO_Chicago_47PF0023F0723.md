@@ -279,3 +279,35 @@ Equipment documented as non-functional in the same report that books full IGA sa
 **Finalize the Ameresco data request rather than attempt the calculation.** There is no Ameresco scope in the files or on the drive, so there is no second input to calculate against. The COR's draft request asks at the parameter level and is complete. Two questions put to Ingersoll: how he wants this handled Monday, and whether the group should be briefed beforehand — **no answer on the record as of this sweep.**
 
 🟠 **Today 9:00 AM PT.** The meeting was convened to evaluate a savings impact that the contract documents say cannot occur. The decision on the table should shift from *calculate the impact* to *issue the data request and document the advance-engagement duty.*
+
+---
+
+## Delta update — 2026-09-01 sweep: 536 S. Clark meeting → decision to buy out the remaining NORESCO term
+
+**8/31/2026 9:00–9:25 AM PT meeting held.** Gemini notes (Gmail `1a058b15e5183e3e`, auto-generated 9:37 AM — treat figures as approximate until sourced).
+
+### Outcome: a strategic pivot, not a calculation
+
+| Theme | Note |
+|---|---|
+| **Contractual/technical** | "The current contract **relies on stipulated savings**, creating conflicts with planned equipment upgrades. New system parameters threaten the existing savings framework managed by the current contractor." |
+| **Decision** | "The group decided to **pursue a buyout of the remaining 5-year contract** to eliminate operational conflicts." |
+| **Estimate** | "Financial estimates place the total buyout cost at **approximately $320,000**" ⚠️ *Gemini-derived; not yet traced to a schedule — verify against TO-5 / the termination estimator before it is used anywhere.* |
+| **Documentation** | "Lighting upgrades require simple documentation, while control system risks require further analysis regarding efficiency." |
+| **Posture** | "The team **delayed further external communication** until internal requirements are fully clarified." |
+
+### Action items assigned
+| Owner | Action |
+|---|---|
+| Marc Wolff, Dave | Outline technical requirements and identify blind spots for a **controls-efficiency memo** on the new EMCS sequence |
+| The group | **Plan the NORESCO contract buyout** — funding and project requirements for next fiscal year |
+| The group | Identify **specific clarification points to assign to Ameresco** on the new control sequence and equipment installation |
+
+### COR read
+The meeting landed where the COR's 8/28 analysis pointed, then went a step further. The analysis established that Ameresco's work **cannot** reduce ECM-09 verified savings (Option A, §J-8.3.8 takes no performance-period measurements, Vol I Table 2.3 fixes lighting hours) — so the exposure was never a savings calculation. The group's response is to remove the conflict at its source by **buying out the remaining term** rather than administering stipulated savings against equipment someone else is replacing. That is a defensible resolution to the same underlying problem the Year 4 AVR exposed: full IGA savings booked while four AHUs sat in alarm and every heat wheel was non-functional.
+
+🟠 **Two COR items follow:**
+1. **Verify the ~$320,000.** No source is cited in the notes. It needs to tie to TO-5 / the EPC Termination Estimator before it enters a funding plan — and the Battle Creek precedent (Budget requiring a principal/interest/J-type itemization even for settlements) says that breakout will be demanded.
+2. **The Vol I §3 advance-engagement duty is still live.** Delaying external communication is fine internally, but GSA's obligation to engage NORESCO *before* a system change that may affect savings does not pause. If a buyout is the path, that changes the vehicle — it does not retroactively cure the duty for the period between Ameresco's design freeze and the buyout's execution.
+
+- Separately, **8/31 11:17 AM PT — Kirk Doll forwarded "Aqualogix sand loss"** (from John Whitener, 7PSEL-C) to Ingersoll and the COR (Gmail `1a0590a6281efef6`, ~13 MB). Aqualogix is the same vendor at the center of the unresolved **Hofmann ROCAL contradiction** on this PIID. Contents not yet reviewed — flagged for triage.

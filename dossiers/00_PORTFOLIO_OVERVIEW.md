@@ -24,9 +24,9 @@ All 13 are covered here so nothing falls through. If one of them shouldn't be co
 | 06 | [SDG&E UESC San Diego](06_SDGE_SanDiego_47PK0222F0014.md) | 47PK0222F0014 | SDG&E | R9 SD | Jolles | $8.4M | Baseline error found Yrs 1–4 (EMP2-confirmed); Y4 findings package with CO |
 | 07 | [Ameresco HWSSC](07_Ameresco_HWSSC_GSP0517GB0001.md) | GSP0517GB0001 | Ameresco | R5 Chicago | Parker | $17.7M | ✅ **PY9 fully executed — Mod PA23 finalized 8/27**; closeout runway to 10/31/27 |
 | 08 | [Honeywell ENABLE Detroit](08_Honeywell_Detroit_47PF0020F0671.md) | 47PF0020F0671 | Honeywell | R5 Detroit | Parker | $24.7M | PY4 closed +$38,838 over guarantee; ROCAL/CIW resubmission outstanding |
-| 09 | [NORESCO NDER1 Chicago](09_NORESCO_Chicago_47PF0023F0723.md) | 47PF0023F0723 | NORESCO | R5 Chicago | Blue | $80.4M | 🔴 **536 S. Clark overlap: Y4 AVR books full IGA savings on non-functional equipment**; PY11 paid; CPARS in flight |
-| 10 | [Trane HDI Battle Creek](10_Trane_BattleCreek_47PF0024F0107.md) | 47PF0024F0107 | Trane | R5 Battle Creek | Conant | $13.2M | 11/1 settlement set ($4,299,486.37); **PR approved 8/27 — acquisition package due from COR**; obligate NLT 9/30 |
-| 11 | [JCI PJKK Honolulu](11_JCI_PJKK_47PK0223F0041.md) | 47PK0223F0041 | JCI | R9 Honolulu | Conant | $15.2M | Performance completes 8/31/26; end-date mod STILL NOT STARTED |
+| 09 | [NORESCO NDER1 Chicago](09_NORESCO_Chicago_47PF0023F0723.md) | 47PF0023F0723 | NORESCO | R5 Chicago | Blue | $80.4M | **536 S. Clark → buyout of remaining 5-yr term decided 8/31** (~$320K, unverified); Y4 AVR stipulation finding stands |
+| 10 | [Trane HDI Battle Creek](10_Trane_BattleCreek_47PF0024F0107.md) | 47PF0024F0107 | Trane | R5 Battle Creek | Conant | $13.2M | 🔴 **Acquisition package OVERDUE — EASi escalation 8/31**; 11/1 settlement $4,299,486.37; obligate NLT 9/30 |
+| 11 | [JCI PJKK Honolulu](11_JCI_PJKK_47PK0223F0041.md) | 47PK0223F0041 | JCI | R9 Honolulu | Conant | $15.2M | **Performance completed 8/31/26**; end-date correction mod STILL NOT STARTED; Y15 comments due 9/4 |
 | 12 | [Honeywell NDER2 LA](12_Honeywell_LA_GSP0816JE7081.md) | GS-P-08-16-JE-7081 | Honeywell | R9 LA | Chapman | $65.0M | Year 9 paid; **N. Spring St on the FAR 49.109-7 unilateral path** — FM Legal reviewing, HW final deadline 8/31 |
 | 13 | [Honeywell NDER2 SF](13_Honeywell_SF_GSP0816JE7140.md) | GS-P-08-16-JE-7140 | Honeywell | R9 SF | Chapman | $40.8M | PS30 Menlo cleanup moving; **Year 7 payment PR held behind PS30** with FY-end fund-expiry risk |
 
@@ -34,16 +34,14 @@ All 13 are covered here so nothing falls through. If one of them shouldn't be co
 
 | Date | Contract | Item |
 |------|----------|------|
-| **TODAY 8/31 9:00 PT** | NORESCO | 🔴 **536 S. Clark scope-overlap meeting** — COR's 8/28 analysis rebuts the premise: both Clark measures are Option A, §J-8.3.8 takes no performance-period measurements, and the **Year 4 AVR books full IGA savings on the same pages that record four AHUs in alarm and all heat wheels non-functional**. Recommend the meeting finalize the Ameresco data request, not attempt a calculation. Ingersoll has not answered |
-| **TODAY 8/31** | Honeywell LA | **Honeywell's extended final deadline (COB).** If it passes, the unilateral determination proceeds |
-| **TODAY 8/31** | Portfolio | ⚠️ **EASi–Pegasys interface partial outage** announced 5:46 AM PT — affects the Battle Creek acquisition package submission and any RR work |
-| **TODAY 8/31** | PJKK | Performance completion — **end-date correction mod still not started**; copy JCI Tab 30 external-drive records before access change |
-| **9/1 12:00 PT** | Honeywell LA | **"Legal: LA ESPC Unilateral Settlement Discussion"** — Matt + John Moore (AGC) with CO Chapman. Be ready to walk counsel through the allocation basis and the ~$2.87M estimate |
-| **9/2 1:00 PT** | ABM LA | Phase 2B check-in with ABM + EMP2. Stevens closed the policy question 8/28 — third voice confirming no policy basis; removal followed the companion-building fire |
-| **by 9/11** | Honeywell SF | **PS30 draft MDD + SF30 language circulated for COR comment 8/28** (Chapman, w/ Moore + Bergeron). Check against the four asks from the 8/24 brief; execution 9/11 or earlier |
-| **open** | Ameresco SD | Y8 acceptance gated on the O'Connor DCV scope question. COR reply still in draft, unsent |
-| **open** | Battle Creek | Acquisition package for PR EQPMCDB-26-0006 — obligate NLT 9/30 (watch the Pegasys outage) |
-| **open** | Sansome | TEL fume hood controllers — 8/28 meeting held; disposition not yet on the record |
+| **TODAY 9/1** | Battle Creek | 🔴 **OVERDUE — EASi escalation fired 8/31: acquisition package for EQPMCDB-26-0006 not submitted** more than 2 business days after approval. The Pegasys outage was resolved 8/31 6:58 AM, so nothing blocks it. Obligate NLT 9/30 |
+| **TODAY 9/1 12:00 PT** | Honeywell LA | **"Legal: LA ESPC Unilateral Settlement Discussion"** — Matt + John Moore (AGC) with CO Chapman. Honeywell's final deadline passed COB 8/31 with nothing on the record |
+| **9/2 1:00 PT** | ABM LA | Phase 2B check-in with ABM + EMP2 (Frank, Bonus). Three EMP2/GSA voices now close the constructive-change theory |
+| **9/3 8:00 PT** | Honeywell SF | NDER2 SF monthly Service Center cadence (Cawthorne accepted) |
+| **9/3 12:30 PT** | — | CO Cadence: Jerrud Parker biweekly 1:1 (moved from 9/2) |
+| **by 9/11** | Honeywell SF | **PS30 draft MDD + SF30 language awaiting COR comment** (circulated 8/28 w/ Moore + Bergeron). Check the four asks from the 8/24 brief; execution 9/11 or earlier, then the Year 7 PR before FY-end |
+| **next FY** | NORESCO | 🆕 **536 S. Clark resolved by decision to buy out the remaining 5-yr term** (~$320K, Gemini-derived — **verify against TO-5**). COR items: source the figure; the Vol I §3 advance-engagement duty is not cured by delaying external comms |
+| **open** | ABM LA / Detroit / McKinstry | **Three live CIW/ROCAL packages** — new request on 47PK0324C0001 (8/31), Detroit rebuild now unblocked (contact data collected 8/31), McKinstry outstanding since 8/14 |
 | **9/4** | PJKK | Matt's 19-comment set on Y15 report due |
 | **9/8** | Honeywell SF | HSPD-12 renewal due |
 | **~9/28** | ABM R8 | PY5 M&V report due from ABM |

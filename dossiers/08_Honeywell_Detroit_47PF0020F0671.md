@@ -233,3 +233,16 @@ Payee (all payments): The Bank of New York Mellon, per Notice of Assignment (PS0
 ## Delta update — 2026-08-24 morning sweep
 
 - **8/24 — HSPD-12 confirmed Hamilton's PIV card is now terminated** (certificates expired; individual made inactive in GCIMS); card still not returned. New PR07 PIV Collection thread opened to Detroit POCs (Gjeltema, Parker, Blake, Schreck) — Gmail threads 19ffcf5f29dcc02c, 1a0343e35ff49070. Jerrud's 8/17 ROCAL question (remove Gjeltema, designate Sieglinde) remains unanswered.
+
+---
+
+## Delta update — 2026-09-01 sweep: ✅ ROCAL contact data collected — resubmission unblocked
+
+The Detroit CIW/ROCAL rebuild moved forward on 8/31 after two prior HSPD-12 rejections for form deficiencies:
+
+- **8:46 AM PT — COR to Sieglinde Kinne (Honeywell)** (Gmail `1a0587be44159a19`, cc Parker): *"I am rebuilding the CIW and ROCAL for the Detroit ESPC (Contract 47PF0020F0671) for resubmission to GSA's HSPD-12 helpdesk. **The prior submission was returned for form**…"* — requesting her phone number.
+- **10:32 AM PT — CO Parker to Mela Sullivan (Honeywell)** (Gmail `1a058e17f412e239`, cc Matt): *"The HSPD-12 security office is requesting your phone number be added to the ROCAL (the security clearance tracking log)."*
+- **11:22 AM PT — Mela Sullivan replied** with **980-867-0512**, noting her work phone is currently very limited and **email is the preferred contact route**.
+- **11:23 AM PT — Parker acknowledged:** *"we will only look to contact you by email, if needed."*
+
+🟠 **Next:** with contact data in hand, the CIW/ROCAL can be resubmitted. This also bears on Jerrud's **8/17 question** — still unanswered on the record — about whether Susan Gjeltema was removed as POC and Sieglinde designated, or whether the continuing HSPD-12 notices to Susan are a helpdesk error. The rebuild is the moment to settle that.

@@ -252,3 +252,14 @@ The 8/25 blockage resolved through a same-week budget review.
 - **8/27/2026 7:46 AM PT — task assigned to the COR: "Submit PR Acquisition Package (EQPMCDB-26-0006)"** (Gmail `1a043affc5a898f4`, assigned 10:46 AM EDT, priority Normal).
 
 🟠 **Open action on Matt:** submit the acquisition package. This is the next gate before obligation; the settlement is keyed to the **11/1/2026 date at $4,299,486.37**, and funds must obligate **NLT 9/30/2026**.
+
+---
+
+## Delta update — 2026-09-01 sweep: 🔴 EASi escalation — acquisition package overdue
+
+- **8/31/2026 7:46 AM PT — EASi automated escalation** (Gmail `1a0584966d6745d0`), subject **"[ACTION REQUIRED] GSA EASi: Acquisition Package Not Submitted — EQPMCDB-26-0006"**:
+  > "EQPMCDB-26-0006 was approved more than 2 business days ago and **has not been submitted to an acquisition group for review**."
+
+- **The outage excuse is gone.** The EASi–Pegasys partial outage announced 8/31 5:46 AM PT was declared **RESOLVED at 6:58 AM PT** the same morning (Gmail `1a0581df041ed5c4`): *"normal operations can resume. If you received a Pegasys failure message please use the RETRY button on the failure Task."*
+
+🔴 **This is now the oldest unworked item with a hard money deadline.** PR approved 8/27; escalation fired 8/31; still unsubmitted as of this sweep. Settlement is keyed to **11/1/2026 at $4,299,486.37** and funds must obligate **NLT 9/30/2026**. Submitting the acquisition package is the next gate and it is entirely COR-side.
