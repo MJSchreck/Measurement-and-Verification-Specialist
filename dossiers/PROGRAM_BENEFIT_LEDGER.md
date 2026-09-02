@@ -65,6 +65,15 @@
 | 7/1/26 | 09 NORESCO + 03 ABM LA | On-time annual payments ($3.22M + $2.92M) — zero Prompt Payment Act interest across the portfolio in 2026 | Schreck, CO team |
 | 2025–26 | Portfolio | Forensic finding: every "perfect" M&V record is stipulation, not measurement (~$11M+ unverifiable-by-design) — the A240046 exposure map now documented | Schreck |
 
+### Added 2026-09-02
+
+| Date | Contract | Event | Actor(s) | Evidence |
+|---|---|---|---|---|
+| 8/26/2026 | 10 Trane Battle Creek | **COR self-corrected a materially overstated cancellation-ceiling margin before it entered the CO's determination record.** The 8/14 memorandum put the margin under the TO-5 GY12 ceiling at roughly $250–300K by interpolating between guarantee-year-end values. The superseding MFR recomputed the ceiling as outstanding balance × 1.03 at each month — **$4,303,896.43 at 11/1, a true margin of $4,410.06.** Per J-5.1.6 that margin is the cap on any termination cost above the payoff. The original figure would have told the CO there was negotiating room that does not exist. | Schreck (COR) | Gmail `1a04027d5b464aef`; PS07 TO-5 Cancellation Ceiling; Parker workbook |
+| 9/1/2026 | 10 Trane Battle Creek | **Prepaid performance-period credit re-derived and preserved.** The 8/14 memo assumed a calendar guarantee year (61 unearned days ≈ $8,547). The TO-5 year-end ceilings land on the February 1 amortization rows, fixing GY12 as 3/1/2026–2/28/2027 — **120 unearned days at an 11/1 settlement: $16,813.11 full pro rata, or $9,654.24 if the M&V line is treated as earned.** CO Conant determined 9/1 that the credit flows through PY12 M&V report review against the PY12 line item rather than the termination, so it remains recoverable — **open, not yet realized.** | Schreck (COR); determination by CO Conant | Gmail `1a04027d5b464aef`, `1a05f12215881a12` |
+
+*Rollup above unchanged — neither entry is a realized dollar movement. The first is an avoided misstatement; the second is identified value awaiting the PY12 review.*
+
 ## How to keep this current
 
 New benefit events are appended by the daily sweep when they close (a recovery collected, a claim stripped, a withhold released or converted). Cite the evidence, name the actors, date it. The rollup recomputes at the top. For the Friday one-pager: the rollup line IS your program-benefit sentence.

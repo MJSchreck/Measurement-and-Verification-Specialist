@@ -246,3 +246,17 @@ The Detroit CIW/ROCAL rebuild moved forward on 8/31 after two prior HSPD-12 reje
 - **11:23 AM PT — Parker acknowledged:** *"we will only look to contact you by email, if needed."*
 
 🟠 **Next:** with contact data in hand, the CIW/ROCAL can be resubmitted. This also bears on Jerrud's **8/17 question** — still unanswered on the record — about whether Susan Gjeltema was removed as POC and Sieglinde designated, or whether the continuing HSPD-12 notices to Susan are a helpdesk error. The rebuild is the moment to settle that.
+
+---
+
+## Delta update — 2026-09-02 sweep: Honeywell returns the CIW contact data — one contact is a dead end
+
+- **9/1/2026 8:15 AM PT — Sieglinde Kinne (Honeywell) responds** to the COR's 8/31 request (Gmail `1a05d89f6c7243b4`, thread `1a0587be44159a19`; cc CO Parker):
+  - **Mela Sullivan** work number: **+1 980-867-0512** — the missing field that caused the prior CIW/ROCAL rejection for form incompleteness.
+  - **M&V contacts confirmed** as previously listed.
+  - 🔴 **Maury Hamilton is no longer with Honeywell.** Kinne notes Honeywell has a number and email for him and that he confirmed [details truncated in the snippet — pull the full message before acting on his status].
+- **9/1/2026 8:21 AM PT — CO Parker acknowledges** (Gmail `1a05d8feb36e6d3a`): *"Thank you for the response. Understood. We will await further information."*
+
+**Effect on the ROCAL rebuild.** The 8/31 sweep recorded the resubmission as unblocked pending contact data; the phone number is now in hand. The open item narrows to **Maury Hamilton's disposition** — if he has departed Honeywell, he should not carry forward on the CIW as an active contractor, and any existing credential in his name is a HSPD-12 termination action, not a renewal. Confirm with Kinne which of the two he is before the package goes to the helpdesk; submitting a CIW that lists a departed employee is what triggered the last rejection cycle.
+
+🟠 **COR action:** read the full Kinne message for the Hamilton detail, then rebuild and submit the CIW/ROCAL with Sullivan's number populated and Hamilton's line resolved one way or the other.

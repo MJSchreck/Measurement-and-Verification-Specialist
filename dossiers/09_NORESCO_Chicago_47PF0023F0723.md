@@ -311,3 +311,29 @@ The meeting landed where the COR's 8/28 analysis pointed, then went a step furth
 2. **The Vol I §3 advance-engagement duty is still live.** Delaying external communication is fine internally, but GSA's obligation to engage NORESCO *before* a system change that may affect savings does not pause. If a buyout is the path, that changes the vehicle — it does not retroactively cure the duty for the period between Ameresco's design freeze and the buyout's execution.
 
 - Separately, **8/31 11:17 AM PT — Kirk Doll forwarded "Aqualogix sand loss"** (from John Whitener, 7PSEL-C) to Ingersoll and the COR (Gmail `1a0590a6281efef6`, ~13 MB). Aqualogix is the same vendor at the center of the unresolved **Hofmann ROCAL contradiction** on this PIID. Contents not yet reviewed — flagged for triage.
+
+---
+
+## Delta update — 2026-09-02 sweep: HSPD-12 PR09 verification closed out by NORESCO
+
+- **9/2/2026 5:44 AM PT — GSA HSPD-12 sends the third PR09 verification request** on this contract (Gmail thread `1a01f7d8c5564cdb`, message `1a06226711730d2b`; to NORESCO's A. Cabana and T. Ryan, cc Krystal Blue, Kendra Rudder, **Schreck**). Prior requests went out 8/20 and 8/25 with no response — this was the third ask.
+- **9/2/2026 5:58 AM PT — Todd Ryan (NORESCO, PM Operations & Maintenance) answers** (Gmail `1a0623343e2db7d1`):
+  > "The individual listed below is no longer working on the contract and is no longer in need of a GSA access card."
+
+✅ **Closed.** The PR09 verification loop on 47PF0023F0723 is resolved with a card-not-needed determination. No COR action; the credential termination is HSPD-12's to process. Worth noting for the CPARS record that it took three requests over 13 days to get a one-line answer from the vendor.
+
+*(Separately: the buyout decision on 536 S. Clark from the 8/31 meeting remains as recorded — ~$320K Gemini-derived and still unverified against TO-5. No new correspondence on it in this window.)*
+
+### ✏️ Correction to the 8/31 entry — no buyout was decided
+
+A separate live pass on **9/1 afternoon** read the 8/31 "NDER7 Midwest – 536 Controls Scope Overlap" meeting record more carefully than the sweep that produced the 8/31 delta above, and it **contradicts that entry**:
+
+- The 8/31 delta recorded a **decision to buy out the remaining five-year term at ~$320K**. That came from the meeting notes' auto-generated free-text summary.
+- The meeting's own **structured Decisions section** says the group will draft an **efficiency-equivalency memo** for the HVAC controls question and **defer any buyout consideration to next fiscal year** for budget reasons.
+- The **~$320,000 is a planning estimate for a deferred option** (lighting ECM ~$40K/yr + controls TC9 ECM1 ~$40K/yr extrapolated to term end in Aug 2031), **not an approved action**.
+- Attendees: Nathan Ingersoll, Erik Billstrom, Jerrud Parker, Sarah Wenninger, David B. (EMP2), Marc (Wolff Building Solutions).
+- The "Corey" in the branch-meeting action item ("coordinate with Nathan and Corey to secure the contractor's sign-off on the sequence of operations") is **Corey Lindemann, EIT — NORESCO's PM** (clindemann@noresco.com), who acknowledged the overlap flag 8/4 and cleared the ECM 9 language for sharing with Ameresco 8/7 (Gmail thread `19fc81867ffae9b2`). He is not on the invite list because he is the contractor.
+
+**The structured Decisions record is the stronger evidence and governs.** Treat the 8/31 delta's "buyout decided" framing as superseded. 🟡 Matt should still confirm this directly against his own meeting notes before it is repeated externally — two automated passes have now read the same document differently, which is itself a reason not to cite either summary without the underlying record.
+
+**Standing open item:** the efficiency-equivalency memo, and the Vol I §3 advance-engagement duty toward NORESCO, which is not cured by deferring the buyout.

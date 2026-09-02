@@ -304,3 +304,15 @@ Under a unilateral determination the Government sets the settlement amount itsel
 **Sequence now set:** Honeywell's extended final deadline is **today, COB 8/31**. If nothing arrives, the legal working session tomorrow at noon is where the unilateral determination gets shaped — with the COR in the room alongside counsel, which is the right posture given that the **Government's allocation basis (delivered to Chapman 8/27) is the evidentiary foundation** for the determination.
 
 🟠 **Prep for tomorrow:** be ready to walk Moore through the allocation methodology — specifically why the per-building share is a Government determination (nothing in the TO splits the outstanding balance by building), and the ~$2.87M estimate with the phantom ECM 12.1 transformer savings excised. The SF Menlo reconstruction (within $95 of Honeywell's own figure, ~$212,800 GSA-favorable) is the credibility precedent for the methodology.
+
+---
+
+## Delta update — 2026-09-02 sweep: 9/1 legal working session held — no outcome on the record
+
+- The **"Legal: LA ESPC Unilateral Settlement Discussion"** (Matt + John Moore, AGC + CO Chapman) was calendared for **9/1/2026 12:00 PT**. **No email, memo, or Drive artifact recording its outcome exists in this sweep window.** Honeywell's final deadline passed **COB 8/31** with nothing on the record from them.
+- Related but distinct: the FAR 49.109-7 legal-advice thread (Gmail `1a0399622c60eaf5`) shows no traffic since Chapman's 8/27 reply to Moore supplying the contract and task-order terms Moore asked for on 8/26. OGC has not returned a position.
+
+🟠 **COR action:** the working session happened with no written product. Whatever was decided about the **Notice of Intent to Issue a Unilateral Settlement Determination** needs to be memorialized — a short COR MFR or a note to Chapman confirming the path — before the **9/30** obligation wall. An unilateral determination on the N. Spring St partial buyout that has to be reconstructed from memory in October is a weak file, and this contract is already carrying a fifth straight shortfall year (−$18,972 in Y8).
+
+**Also this window (housekeeping, not COR-actionable):**
+- **9/1/2026 2:00 AM PT — HSPD-12 notice: Jose Topete's GSA Access Card *certificates* expire 09-08-2026** (Gmail `1a05c33224caeccf`; cc Susan Gjeltema/Honeywell, Chapman, Schreck). This is a certificate renewal, not a card replacement — the card itself is not expiring. No COR action unless Topete is blocked from site access.

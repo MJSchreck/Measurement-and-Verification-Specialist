@@ -245,3 +245,19 @@ Rachel confirmed 8/20 she has **no documentation** of attending the Y3/Y4 ABM vi
 5. Safety path: negative pressure in chemical labs is a life-safety function — separate the immediate tenant remedy from the contractual question so the fix isn't held up by the attribution argument.
 
 🟠 **Note:** this is the first *performance* issue surfaced on Sansome; the contract has otherwise been the portfolio's "stable" entry (94.7% realization, no guarantee). Its status headline may need to change after today.
+
+---
+
+## Delta update — 2026-09-02 sweep: 🔴 Fume-hood meeting convened for TODAY
+
+- **9/1/2026 9:54 AM PT — Jason Cawthorne issues the invitation: "Sansome Fume Hoods - CBP"**, **Wed 9/2/2026, 2:30–3:00 PM PT** (Gmail `1a05de4993b6d911`). Attendees: Matt Schreck, **Bobby Townsend**, **Joel Gomez**, **Rachel Almeida**.
+- This is the meeting Rachel Almeida proposed on 8/27 when she raised the issue (Gmail `1a04553e643200a8`): *"I have an issue with the TEL Fume hood controllers. They were installed under this project and have never worked correctly. Tenant is VERY dissatisfied."* Matt agreed the same day: *"Send me the invite and any documents you have and I'll dig in after tomorrow's meeting"* (Gmail `1a04562dd46285fd`).
+- No documents from Almeida have arrived in the record ahead of the meeting.
+
+🔴 **TODAY, 2:30 PM PT.** This is the tenant-safety item on the watchlist. The COR posture going in, from what this dossier already establishes:
+1. **The measure was installed under this UESC and has never performed.** That is not a performance-period variance question — it is an acceptance question, and acceptance of a measure that never worked is the thing to test first.
+2. **Ask what savings have been booked against these controllers** in every performance year since installation. If the fume-hood ECM carries stipulated or Option A savings and the devices never functioned, the Government has been paying for savings that cannot exist — the same stipulation-drift pattern flagged elsewhere in this portfolio.
+3. **The witnessing record on this contract is already thin** (Year 3 blank, Year 4 signed by the O&M contractor rather than a Government witness, Year 5 valid). A measure that never worked passing through three annual reviews is evidence about the review, not just the equipment.
+4. Get Almeida's documentation on the record — the tenant-dissatisfaction history is the factual basis for anything that follows.
+
+⏭️ Year 10 payment remains due **12/1** to MassMutual under the Assignment of Claims. Do not let the fume-hood finding get resolved informally before its effect on the payment position is understood.

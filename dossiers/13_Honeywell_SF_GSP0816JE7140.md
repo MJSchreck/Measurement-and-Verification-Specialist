@@ -312,3 +312,41 @@ Read the two operative PS30 documents for the first time: the **Modification Dec
 Note counsel (Moore, Bergeron) is on this distribution as well as tomorrow's LA unilateral-settlement call — the same two attorneys are now carrying both Chapman matters.
 
 - **9/3/2026 8:00–8:30 AM PT — NDER2 SF monthly Service Center cadence**; Jason Cawthorne accepted 8/28 (Gmail `1a04b2f0be20fede`).
+
+---
+
+## Delta update — 2026-09-02 sweep: ✅ PS30 re-submitted to OGC for legal sufficiency — COR comments delivered first
+
+- **8/31/2026 (evening) — COR comment set produced.** Four Drive artifacts created/revised:
+  - `PS30_MJS_Review_Comments_20260831` (three saves, 3:19 / 3:30 / 3:32 PM PT — Drive `1G1ojmirvmoCs0q8uslHEFIpgT2VhuhUbm3a-zsqbPUk`, `1tY9mZhKaduiw8CsXG9xGsp95qpUyVUCoYKF2fBn7ezQ`, `1rFxbcycN3l-RGWxQ4He1zIpKGXuZkrXz2MdjUuwE8MA`)
+  - `PS30_MDD_COR_Revised_20260831` (3:08 PM PT — Drive `1bNq9rGCQBvg7wmMZ5-IfDzGFYzlOPF9jEniQTMqQCE0`)
+  This closes the **"by 9/11 — PS30 draft MDD + SF30 language awaiting COR comment"** watchlist item ahead of schedule.
+
+- **9/1/2026 — the PS30 package documents were revised in Drive** ahead of transmittal: `Draft Modification Decision Document GSP0816JE7140 PS30` (11:15 AM PT, Drive `1J1JaLKZtuFovqNsdnK-TlQxIfXs96fOZLtgTcoVkqAc`) and `Modification PS30 - SF30 Modification Language` (11:12 AM PT, Drive `14CPJ94wIVmuo4rdSBeS2vfZh8cTDnZqBDPsGcbEvgRU`).
+
+- **9/1/2026 11:46 AM PT — CO Chapman re-submits PS30 to FM Legal** (Gmail `1a05e4ba86c0d0c0`; to John Moore, cc Healy, Bergeron, fmlegal, Johnson, **Schreck**):
+  > "I previously submitted this modification (PS30) for sufficiency review on March 3, 2026. John reviewed on March 4, 2026. **This modification wasn't awarded because the Task Order Schedules required many revisions between Honeywell and GSA over the past 5 months.** Please find the revised modification PS30 links for your review."
+
+  Package contents linked: the MDD, the **SF30 Modification** (Drive `16AbE6l6V-rFOae_euuWtjwivqjZPnr70`) with a **Task Order Schedule** attachment (Drive `12KiDwQPf1o4-v6tz-rB8hf5PBcVcjcKq`) **and an M&V Acceptance Letter** (Drive `1YKKeT2N9ZM5w7e5R_lkxdT86TgmjC8Vtni_BW4ju3G0`), plus the PS30 folder (`1DSkFhLpOwaZ8z3AVJPB7UBkFZndcFef_`).
+
+🆕 **New element vs. the March package: the M&V Acceptance Letter.** The March 3 submission listed only the MDD, SF30, and TO Schedule. The Year 6 acceptance letter now rides inside the same modification — which is consistent with this dossier's record that the **Y6 $229,317 recovery is embedded in PS30**. That makes PS30 the instrument that both de-obligates the Menlo residual and papers the Y6 M&V acceptance.
+
+🟠 **COR action, time-sensitive:** Matt is cc'd but the transmittal does not say whether his 8/31 comments were incorporated into the MDD/SF30 Chapman sent. The MDD was last touched 31 minutes before the email went out. **Verify the comment disposition before OGC signs off** — once Moore returns a sufficiency opinion on a version, reopening it costs another review cycle, and the March precedent shows Moore turns these around in about one day.
+
+⏭️ **Downstream, unchanged:** execution target 9/11 or earlier, then the **Year 7 payment PR** before FY-end. The Year 7 PR remains held behind PS30 with fund-expiry risk — the 9/1 re-submission is the event that unblocks it, so track Moore's response as the gating signal.
+
+### ⚠️ Amendment — the comment set is not "closed ahead of schedule"
+
+The entry above framed the 8/31 COR comment set as clearing the "PS30 draft MDD + SF30 language awaiting COR comment" watchlist item. A **9/1 afternoon live pass** read the comment sheet itself and the picture is materially worse:
+
+- The 8/31 COR comment sheet logs **17 comments on the draft — 8 Red (execution-blocking), 0 closed.**
+- **Comment #1, raised by Matt himself:** the Menlo settlement was computed as a **capital-balance buyout** rather than the **NPV-of-remaining-guaranteed-savings** method the ESPC termination construct calls for. That is a methodology objection, not a drafting nit.
+- **Comment #2:** no written **Bank of America concurrence** exists that the settlement discharges Menlo's financed balance.
+- **Comment #3:** the basis for the **11.2078% Menlo savings ratio** is not established.
+- On **8/27** Chapman told Honeywell's Stacy Garvey that execution was *"estimated September 11, 2026 or earlier."* That estimate does not reconcile with 8 open blockers logged four days later.
+
+**So the correct reading of 9/1 is:** Chapman re-submitted PS30 to OGC **with the blocking comments still open**, and the COR is a cc rather than an addressee on that transmittal.
+
+🔴 **This raises the priority of the verification action, it does not satisfy it.** John Moore returned the March version in a single day. A legal sufficiency opinion attaching to a version that still computes the settlement on the wrong basis does not fix the basis — it just makes the objection more expensive to raise. **Get the methodology objection in front of Chapman before Moore opines.**
+
+*(Note the evidence asymmetry: this session confirmed the 9/1 re-submission from the Gmail record directly; the 17-comment / 8-Red tally comes from the 9/1 afternoon pass's reading of the comment sheet and has not been re-verified here. Matt has the sheet — the count is his to confirm.)*

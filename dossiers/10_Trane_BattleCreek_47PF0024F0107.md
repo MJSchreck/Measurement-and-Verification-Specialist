@@ -263,3 +263,80 @@ The 8/25 blockage resolved through a same-week budget review.
 - **The outage excuse is gone.** The EASi–Pegasys partial outage announced 8/31 5:46 AM PT was declared **RESOLVED at 6:58 AM PT** the same morning (Gmail `1a0581df041ed5c4`): *"normal operations can resume. If you received a Pegasys failure message please use the RETRY button on the failure Task."*
 
 🔴 **This is now the oldest unworked item with a hard money deadline.** PR approved 8/27; escalation fired 8/31; still unsubmitted as of this sweep. Settlement is keyed to **11/1/2026 at $4,299,486.37** and funds must obligate **NLT 9/30/2026**. Submitting the acquisition package is the next gate and it is entirely COR-side.
+
+---
+
+## Delta update — 2026-09-02 sweep: 🔴→🟡 Acquisition package REJECTED; PR restructured as a mod; both CO determinations answered
+
+This is the largest single-day movement on this contract since the buyout notice. Three things changed on 9/1, and they resolve the two blockers this dossier has carried since 8/25.
+
+### 1. The standalone PR is dead — Budget's structural objection was sustained
+
+- **9/1/2026 8:51 AM PT — EASi: "Acquisition Package rejected for PR EQPMCDB-26-0006"** (Gmail `1a05dab3edd072f2`; notice to Ingersoll + Schreck). Package Reviewer: **Heidi Johnson**. Reviewer's comment, verbatim:
+  > "Matt, the funding associated with this PR is for an existing project and should be executed on an amendment to existing PR # EQ5P2SS2P1-24-0002. This is a new PR and a single task order cannot have more than one PR associated to it."
+
+- This closes the question Budget raised on **8/25** when Christina Hale cancelled routing and "questioned the standalone-PR structure … question remains open on Budget's side." It is now decided **against** the standalone PR. The COR's 8/25 basis for a separate PR did not survive review.
+- **Consequence:** EQPMCDB-26-0006 is a dead end. Any further submission on that PR number will be rejected on the same ground. The acquisition-package task that fired the 8/31 escalation is moot — the escalation was chasing a PR that could not be awarded.
+
+### 2. The obligation is rebuilt as EQ5P2SS2P1-24-0002-**M0003** at the full 11/1 settlement value
+
+- **9/1/2026 4:41 PM PT — COR to CO Conant** (Gmail `1a05f58fd5de8d39`, cc Parker/Ingersoll/Johnson):
+  > "**M0003 is built at the full settlement amount of $4,299,486.37** with the P&I split carried as a COR estimate pending Trane's breakdown. Once their figures are in I will issue a revised MFR reconciling the two."
+
+- **The $16,276.20 amount mismatch this dossier flagged is resolved.** The obligation now matches the 11/1 settlement basis established at the 8/26 review, rather than the superseded 10/1 figure the cancelled PR carried.
+- ⚠️ **Do not confuse this M0003 with the NORESCO one.** Battle Creek is **EQ5P2SS2P1-24-0002-M0003**; NORESCO Chicago's PY11 payment mod was **EQ5P2SS2P1-23-0002-M0003** (approved 6/16/2026, Gmail `19ed1ead7b2b7c02`). Same suffix, different base PR, different contract, different accounting strings.
+- No EASi approval notice for EQ5P2SS2P1-24-0002-M0003 appears in the record as of this sweep — it is built, not yet approved.
+
+### 3. CO Conant answers both determinations the COR put to him on 8/25 and 8/26
+
+**9/1/2026 3:23 PM PT — Conant to Schreck** (Gmail `1a05f12215881a12`, cc Parker/Ingersoll/Johnson):
+
+| COR question | Conant's determination |
+|---|---|
+| Who requests the principal/interest itemization from Trane — COR or CO? | **The CO.** *"I am reaching out to Trane now to request the P&I breakdown."* |
+| Net the prepaid performance-period credit into the termination? | **No.** *"the M&V credit will be incorporated via our review/acceptance of the M&V Report, which would then pertain to the **PY12 line item, not the termination**."* |
+| — | New CO requirement: *"I will need another MFR upon receiving their final proposal."* |
+
+- COR confirmed the same day: *"On the M&V credit, I will handle it through the PY12 M&V report review against the PY12 line item as you directed, not through the termination."*
+- **Effect:** the credit moves out of the buyout mod entirely and becomes a **PY12 M&V report review deliverable**. It is no longer a termination-settlement item and no longer gates the mod.
+
+### 4. Superseding MFR content now on the record (corrects three items in the 8/14 memo)
+
+The full text of the COR's 8/26 transmittal (Gmail `1a04027d5b464aef`) is now readable and supersedes several figures this dossier carried from the 8/14 memorandum:
+
+| Item | 8/14 memo (superseded) | 8/26 superseding MFR |
+|---|---|---|
+| TO-5 GY12 cancellation ceiling at 11/1 | ~$4,353,148 (guarantee-year-end value) | **$4,303,896.43** — outstanding balance × 1.03 at each month, confirmed against Parker's workbook |
+| Margin under ceiling | "$86,152 / $69,938 … ≈$250–300K vs pro-rated ceiling" — **overstated by interpolating between guarantee-year-end values** | **$4,410.06** at 11/1. Per **J-5.1.6** that is the limit on any termination cost above the payoff; Trane has claimed none |
+| Guarantee Year 12 period | assumed calendar year | **3/1/2026 – 2/28/2027** (TO-5 year-end ceilings land exactly on the February 1 amortization rows) |
+| Unearned prepaid period at 11/1 | 61 days ≈ $8,547 | **120 days** → **$16,813.11** full pro rata, or **$9,654.24** if the M&V line is treated as earned through the Final M&V Report |
+| GY12 component figures | transcribed from the **GY13** column | corrected |
+
+**P&I composition at 11/1 (COR estimate from the TO-3 amortization, pending Trane's figures):**
+
+| Component | Amount |
+|---|---|
+| Principal | $4,053,657.55 |
+| Accrued interest | $124,882.68 |
+| Prepayment premium | $120,946.14 |
+| **Total** | **$4,299,486.37** |
+
+- The PR line item carries a **period of performance through November 30** so either settlement date is covered.
+- 🔎 **Note the direction of the correction.** The margin under the TO-5 ceiling is not ~$250–300K; it is **$4,410.06**. That is a *thin* cushion, and it means any Trane claim for termination costs above the payoff — settlement expenses, demobilization, anything — has almost no headroom under J-5.1.6 before it breaches the ceiling. The 8/14 framing would have led the CO to believe there was room to negotiate that does not exist.
+
+### Where this stands
+
+| Blocker as of 8/31 | Status 9/2 |
+|---|---|
+| Acquisition package not submitted (escalation 8/31) | **Moot** — the PR it referenced was rejected as structurally wrong |
+| PR amount ($4,283,210.17) ≠ settlement basis ($4,299,486.37) | **Resolved** — M0003 built at $4,299,486.37 |
+| J-type principal/interest itemization | **Reassigned to the CO** — Conant is requesting it from Trane directly |
+| O&M / prepaid credit netting | **Determined** — routes through PY12 M&V report review, not the termination |
+| CO silence since 8/25 | **Broken** — Conant answered both questions 9/1 |
+
+🟡 **The critical path is now: (a) route and approve EQ5P2SS2P1-24-0002-M0003, (b) Trane returns the P&I split to Conant, (c) COR issues the revised MFR reconciling the COR estimate to Trane's figures, (d) CO executes PS0006.** Funds must obligate **NLT 9/30/2026**; Ellers confirmed on 8/26 that the 9/30 award target holds under either settlement scenario (Gmail `1a03ee1db6253190`).
+
+**COR actions:**
+1. Confirm M0003 routing destination — the funding side goes to the **FCO Building Operations (BA61) NEH Enterprise (Zones 2-4-5)** group per Ellers' 8/20 direction (Gmail `1a01c9967e131d65`); this is a mod to an existing PR, so the acquisition-package step follows approval, not the dead 26-0006 task.
+2. Draft the revised MFR skeleton now so it can be issued the day Trane's split arrives — Conant has pre-committed to needing it.
+3. Open the **PY12 M&V report review** file for the credit ($16,813.11 / $9,654.24 depending on the M&V-line treatment), since that is now where it lives.

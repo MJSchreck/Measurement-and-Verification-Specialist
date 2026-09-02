@@ -173,3 +173,26 @@ Prepared for Matt Schreck (GSA Zone 7 COR, matthew.schreck@gsa.gov) — compiled
 
 - **8/26/2026 2:02 AM PT — HSPD-12 certificate-expiry notice for Kolin Dean Christiansen** (McKinstry / MSS84), certificates expire **10/10/2026** (Gmail `1a03d4e509c7c45b`; Matt cc'd with Aaron Rock, Dylan White, Felipe Jolles, Kristen Christiansen, Shantelle Brungardt, Tracey C. at McKinstry). Routine renewal — card terminates if certificates are not updated before expiry.
 - Rides alongside the still-unanswered **CIW/ROCAL package from 8/14**.
+
+---
+
+## Delta update — 2026-09-02 sweep: weekly progress meeting held; no substantive change on the COR items
+
+- **9/1/2026 11:03 AM PT — Gemini notes issued for "NDER6 DFC ESPC - Weekly Project Progress Meeting," Sep 1, 2026** (Gmail `1a05e244916f6056`). The notes document was not retrievable from Drive at sweep time (not yet indexed or not shared), so **no content claims are made here** — the meeting is logged as having occurred, nothing more. Pull the notes doc before relying on any outcome from this session.
+- **No movement on the two open COR items:** the **CIW/ROCAL package outstanding since 8/14** and the **Year 11 M&V review**. No correspondence in this window on either.
+
+🟠 **Standing:** McKinstry's CIW/ROCAL is now **19 days** unanswered — the oldest of the three live HSPD-12 packages in the portfolio, and unlike Detroit (contact data received 9/1) and ABM LA (new request 8/31), nothing has moved it. It needs an escalation or a direct ask, not another wait.
+
+### ✏️ Correction — the CIW/ROCAL package is closed, not 19 days outstanding
+
+The entry above called the McKinstry HSPD-12 package "19 days unanswered since 8/14" and the oldest in the portfolio. A **9/1 afternoon live pass** established that the 8/14 PIV thread actually **closed**:
+
+- **8/19/2026** — McMullin's badge shipped.
+- **8/21/2026** — receipt confirmed.
+- PIV POC on this contract is now **Gacnik / McMullin** (Cousins departed).
+
+**No escalation is needed.** The three live CIW/ROCAL packages are ABM LA (8/31 request, awaiting Matt's completed return) and Detroit (unblocked 9/1, Hamilton departure to resolve) — McKinstry is not one of them.
+
+🟡 **A separate, newer PIV item on this contract does remain open:** **Kolin Christiansen's** PIV certificate renewal (expires 10/10/2026). A reminder was sent 8/31 and acknowledged; he reports his in-person update appointment already succeeded, and confirmation is awaited on whether a return visit is needed.
+
+⚠️ **Naming-collision caution, worth carrying:** Drive holds an active, separate **"NDER6 DFC ESPC" design/construction project** also at the Denver Federal Center, with its own weekly progress meetings (the 9/1 notes logged above belong to that project). Confirm with CO Jolles before filing any "DFC"-labeled document against **47PJ0024F0020** — the two are different awards.
