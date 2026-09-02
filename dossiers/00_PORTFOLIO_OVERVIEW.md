@@ -28,7 +28,7 @@ All 13 are covered here so nothing falls through. If one of them shouldn't be co
 | 10 | [Trane HDI Battle Creek](10_Trane_BattleCreek_47PF0024F0107.md) | 47PF0024F0107 | Trane | R5 Battle Creek | Conant | $13.2M | 🟡 **Standalone PR rejected 9/1 — rebuilt as EQ5P2SS2P1-24-0002-M0003 at $4,299,486.37**; both CO determinations answered; obligate NLT 9/30 |
 | 11 | [JCI PJKK Honolulu](11_JCI_PJKK_47PK0223F0041.md) | 47PK0223F0041 | JCI | R9 Honolulu | Conant | $15.2M | 🔴 **Performance completed 8/31/26**; end-date correction mod **32 days overdue, still not started**; Y15 comments due 9/4 (count disputed: 15 vs 19) |
 | 12 | [Honeywell NDER2 LA](12_Honeywell_LA_GSP0816JE7081.md) | GS-P-08-16-JE-7081 | Honeywell | R9 LA | Chapman | $65.0M | Year 9 paid; **N. Spring St FAR 49.109-7 unilateral path — 9/1 legal call left no written record**; HW missed a third deadline 8/31 |
-| 13 | [Honeywell NDER2 SF](13_Honeywell_SF_GSP0816JE7140.md) | GS-P-08-16-JE-7140 | Honeywell | R9 SF | Chapman | $40.8M | 🔴 **PS30 back at OGC 9/1 over 8 open Red comments**; **Year 7 PR still held behind PS30** with FY-end fund-expiry risk |
+| 13 | [Honeywell NDER2 SF](13_Honeywell_SF_GSP0816JE7140.md) | GS-P-08-16-JE-7140 | Honeywell | R9 SF | Chapman | $40.8M | 🔴 **PS30 at OGC since 9/1 — COR comments never transmitted**; **Year 7 PR still held behind PS30** with FY-end fund-expiry risk |
 
 ## 🔴 Time-Critical Watchlist (next 40 days)
 
@@ -36,7 +36,7 @@ All 13 are covered here so nothing falls through. If one of them shouldn't be co
 |------|----------|------|
 | **TODAY 9/2 2:30 PT** | Sansome | 🔴 **"Sansome Fume Hoods - CBP"** — Cawthorne + Almeida + Townsend + Gomez. TEL controllers installed under this UESC that *"have never worked correctly"*; tenant very dissatisfied. Test acceptance and what savings have been booked against them |
 | **TODAY 9/2** | Battle Creek | 🟡 **Route EQ5P2SS2P1-24-0002-M0003** ($4,299,486.37). The standalone PR EQPMCDB-26-0006 was **rejected 9/1 by Heidi Johnson** — a task order cannot carry two PRs. Obligate NLT 9/30 |
-| **TODAY 9/2** | Honeywell SF | 🔴 **Chapman re-submitted PS30 to OGC 9/1 with the 8 Red comments still open** (17 logged 8/31, 0 closed). Comment #1 is Matt's own: the Menlo settlement used a capital-balance buyout, not NPV of remaining guaranteed savings. Get that to Chapman **before** Moore opines — he turned the March version in one day |
+| **TODAY 9/2** | Honeywell SF | 🔴 **The 8/31 PS30 comments were never sent.** Sent-file check: nothing to Chapman on 8/31, and both Drive documents are shared with no one. Chapman transmitted PS30 to OGC 9/1 11:46 AM without them, and the 9/1 reply asserting they "went back on 8/31" is still an unsent draft. **Transmit the comment set and get Chapman's call on the package already at Legal** — Moore turned the March version in one day |
 | **9/2 1:00 PT** | ABM LA | Phase 2B check-in with ABM + EMP2 (Frank, Bonus) |
 | **9/3 8:00 PT** | Honeywell SF | NDER2 SF monthly Service Center cadence (Cawthorne accepted) |
 | **9/3 12:30 PT** | — | CO Cadence: Jerrud Parker biweekly 1:1 (moved from 9/2) |

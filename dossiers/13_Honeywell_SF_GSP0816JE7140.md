@@ -350,3 +350,37 @@ The entry above framed the 8/31 COR comment set as clearing the "PS30 draft MDD 
 🔴 **This raises the priority of the verification action, it does not satisfy it.** John Moore returned the March version in a single day. A legal sufficiency opinion attaching to a version that still computes the settlement on the wrong basis does not fix the basis — it just makes the objection more expensive to raise. **Get the methodology objection in front of Chapman before Moore opines.**
 
 *(Note the evidence asymmetry: this session confirmed the 9/1 re-submission from the Gmail record directly; the 17-comment / 8-Red tally comes from the 9/1 afternoon pass's reading of the comment sheet and has not been re-verified here. Matt has the sheet — the count is his to confirm.)*
+
+### 🔴 Sent-file reconciliation, 2026-09-02 — the PS30 comments were never transmitted
+
+Reconciling the record against Matt's actual **Gmail Sent** folder overturns the framing in both entries above.
+
+**What Sent shows for 8/31/2026.** Four messages went out that day, none of them to Chapman:
+- 8:32 AM PT — reply to hspd12.security re the ABM LA CIW attachment (Gmail `1a058c637c51de0a`)
+- 8:32 AM PT — Kolin Christiansen PIV certificate reminder, McKinstry (Gmail `1a0587329638e146`)
+- 8:32 AM PT — Jose Topete PIV certificate reminder, Honeywell LA (Gmail `1a05873533e2d0d3`)
+- 8:46 AM PT — Sieglinde Kinne, Detroit CIW phone number request (Gmail `1a0587fe8da26af6`)
+
+**There is no 8/31 transmittal of the PS30 comment set to CO Chapman, or to anyone.**
+
+**Drive corroborates.** Both work products were created and saved, and both are shared with **no one**:
+- `PS30_MJS_Review_Comments_20260831` (Drive `1rFxbcycN3l-RGWxQ4He1zIpKGXuZkrXz2MdjUuwE8MA`) — permissions: `matthew.schreck@gsa.gov` (owner) only
+- `PS30_MDD_COR_Revised_20260831` (Drive `1bNq9rGCQBvg7wmMZ5-IfDzGFYzlOPF9jEniQTMqQCE0`) — permissions: `matthew.schreck@gsa.gov` (owner) only
+
+**The draft that says otherwise.** An unsent draft to Chapman dated **9/1/2026 12:42 PM PT** (draft `r2099242177437106608`, cc Johnson, Ingersoll, Frank) opens: *"My PS30 comments went back on 8/31 with the revised MDD and verification memo, so this note is about the piece you flagged to Honeywell on 8/14: PS31."* **That premise is not supported by the Sent file or by the Drive permissions.** The draft itself has also never been sent.
+
+**Sequence, corrected:**
+
+| When | What |
+|---|---|
+| 8/28 11:53 AM PT | Chapman circulates the draft MDD + SF30 language for pre-review |
+| 8/31 | COR produces the comment sheet and a revised MDD in Drive — **not shared, not emailed** |
+| **9/1 11:46 AM PT** | **Chapman transmits PS30 to OGC (John Moore) for legal sufficiency** — without the COR comments |
+| 9/1 12:42 PM PT | COR drafts a reply to Chapman asserting the comments "went back on 8/31" — **left unsent** |
+| 9/2 | Sweep confirms: nothing sent, nothing shared |
+
+🔴 **This changes the action.** The earlier entries framed the task as *verify the comments were incorporated*. They were not incorporated because they were never delivered. **The comment set has to be transmitted, and Chapman has to decide what to do about a package already sitting with Legal.** John Moore returned the March version in one day.
+
+**Action taken this sweep (drafts only — nothing sent):** the 9/1 draft to Chapman was rewritten to remove the unsupported "went back on 8/31" claim, to transmit the comment set explicitly, to acknowledge that the package went to Moore first, and to put three handling options to the CO (supplement Moore now / disposition on return / fold into PS31 scope). The blocking comments themselves are left as a marked placeholder for Matt to populate from his own sheet — this sweep verified that a comment sheet exists and is unshared, but has not read its contents and will not paraphrase them.
+
+⚠️ **Consequence for the earlier "17 comments, 8 Red, 0 closed" figure:** that tally came from a different automated pass reading the sheet, and this sweep did not re-verify it. Whatever the count, the operative fact is that none of it reached the CO.
