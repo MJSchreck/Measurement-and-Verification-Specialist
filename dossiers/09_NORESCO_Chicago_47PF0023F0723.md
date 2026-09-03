@@ -337,3 +337,6 @@ A separate live pass on **9/1 afternoon** read the 8/31 "NDER7 Midwest – 536 C
 **The structured Decisions record is the stronger evidence and governs.** Treat the 8/31 delta's "buyout decided" framing as superseded. 🟡 Matt should still confirm this directly against his own meeting notes before it is repeated externally — two automated passes have now read the same document differently, which is itself a reason not to cite either summary without the underlying record.
 
 **Standing open item:** the efficiency-equivalency memo, and the Vol I §3 advance-engagement duty toward NORESCO, which is not cured by deferring the buyout.
+
+### 9/3 sweep — follow-on to the PR09 closeout
+- **9/2/2026 6:19 AM PT — HSPD-12: "Access Card for Finder, Nicholas Martin Must be Returned"** (Gmail `1a06245dadbf693b`; to nick.finder@comcast.net, cc Rudder, Blue, Schreck, Cabana, Ryan). Finder is inactive in GCIMS but still holds a PIV — this is the individual Todd Ryan confirmed off the contract on 9/2. Card return is NORESCO's to chase; no COR action unless HSPD-12 escalates to the POCs.

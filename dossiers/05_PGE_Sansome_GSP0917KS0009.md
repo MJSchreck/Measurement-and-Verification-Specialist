@@ -261,3 +261,38 @@ Rachel confirmed 8/20 she has **no documentation** of attending the Y3/Y4 ABM vi
 4. Get Almeida's documentation on the record — the tenant-dissatisfaction history is the factual basis for anything that follows.
 
 ⏭️ Year 10 payment remains due **12/1** to MassMutual under the Assignment of Claims. Do not let the fume-hood finding get resolved informally before its effect on the payment position is understood.
+
+---
+
+## Delta update — 2026-09-03 sweep: 9/2 fume-hood meeting — COR handout reframes the issue; corrects this dossier's 9/2 posture
+
+The 9/2 2:30 PT "Sansome Fume Hoods — CBP" meeting has **no Gemini notes and no minutes in the record.** What exists is the COR's handout, created 2:28 PM PT — two minutes before the meeting — **"Sansome Fume Hoods (CBP) — Energy Division Record Summary"** (Drive `1yKwSAJosVGliw4QO0klTOKsG6FvB_z27xHCzHMuYgOs`). It is the best evidence of the position GSA Energy took into the room.
+
+### ✏️ Correction to the 9/2 entry above
+Yesterday's entry framed this as an *acceptance-and-booked-savings* question — "a measure that never worked was still accepted; what savings have been booked against it." The COR's own record summary does not take that line, and on the contract facts it is the weaker one:
+
+- ECM 4.2 (TEL fume hood controls) was **accepted 6/30/2020**. The issues were **reported and closed in every annual review** Yr1–Yr5 — not hidden.
+- **This is a UESC.** The PA Plan says the *Customer* is responsible for corrective actions at its sole cost. The PA reporting term **ended with Year 5** (12/1/2023–11/30/2024). The parts warranty expired **2/1/2024**. TEL discontinued the product line.
+- **A latent-defect theory was evaluated and is not supported; a memorandum is on file with the CO** (MFR, fume hood latent-defect analysis, **8/28/2026**).
+- Net: **there is no remaining performance-assurance or warranty vehicle over PG&E or ABM under this task order.** The handout says so in terms.
+
+So the honest framing is the handout's: **an end-of-life lifecycle replacement with a life-safety driver (negative pressure in CBP chemical labs, floors 14–15) that needs an owner and a funding path** — not a recovery against the UESC. Yesterday's watchlist line is superseded.
+
+### What the record shows (from the handout)
+
+| Year | Reported on ECM 4.2 | Disposition |
+|---|---|---|
+| Yr1 (Feb 2021) | Sensor faults; Labs 1471 and 1555 reading 32 °F; fume hood summary "not reliable" | GSA to work with O&M on calibration |
+| Yr3 (Feb 2023) | TEL no longer supports the line; site O&M power-cycling controllers weekly | Comments closed; **CO accepted 3/1/2024** |
+| Yr4 (Feb 2024) | Parts warranty expired 2/1/2024 | ABM: working with vendor; "Accepted" |
+| Yr5 (Jan 2025) | Hoods on 24/7 by agency mandate; controls "need constant resets"; Lab 1471 still 32 °F | ABM: corrective action is GSA responsibility; EMP2 recommended acceptance; Lab 1471 sensor flagged for O&M replacement |
+
+### What GSA Energy offered and asked
+- **Offered:** a consolidated scope-and-record package for whoever replaces the controls (ECM 4.2 design basis, sequence of operation, trend data, Yr1–Yr5 issue log); coordination with PG&E (Gabe Andrade) on whether replacement can ride a **new** PG&E action in R9; documentation support for an R&R request or a CBP RWA.
+- **Asked of the room:** Pundir Group O&M scope — are the TEL controllers in it or a workaround? (field office) · **Who issued the 24/7 override, when, and does it end?** ABM was told Nov 2024 and pointed to Kwan/Bogni/Akrami; nobody has answered · CBP complaint history and any IH / pressure-test findings (Townsend) · **Funding path and owner** — R&R, CBP RWA, or new PG&E action (Cawthorne).
+- **Immediate, no project required:** Lab 1471 room sensor has read 32 °F in Yr1 and Yr5; ABM and EMP2 both recommended replacement Jan 2025. **O&M work order — closable this month.**
+- **Proposed next step:** Energy Division delivers the one-page scope-and-record package to the replacement owner by an agreed date. *No commitment to corrective action, cost, or schedule under the UESC.*
+
+🟠 **Open:** whether the room accepted that framing and who was named owner is **not on the record**. Matt is OOO 9/4–9/13; a two-line outcome note before leaving would close the loop that the 8/28 meeting also left open.
+
+⏭️ Year 10 payment due **12/1** to MassMutual — unaffected by any of this.

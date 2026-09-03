@@ -340,3 +340,7 @@ The full text of the COR's 8/26 transmittal (Gmail `1a04027d5b464aef`) is now re
 1. Confirm M0003 routing destination — the funding side goes to the **FCO Building Operations (BA61) NEH Enterprise (Zones 2-4-5)** group per Ellers' 8/20 direction (Gmail `1a01c9967e131d65`); this is a mod to an existing PR, so the acquisition-package step follows approval, not the dead 26-0006 task.
 2. Draft the revised MFR skeleton now so it can be issued the day Trane's split arrives — Conant has pre-committed to needing it.
 3. Open the **PY12 M&V report review** file for the credit ($16,813.11 / $9,654.24 depending on the M&V-line treatment), since that is now where it lives.
+
+### 9/3 sweep — no movement; the 9/30 wall now has a 9-day hole in it
+- No EASi notice for **EQ5P2SS2P1-24-0002-M0003**, no Trane P&I split, no Conant traffic in this window.
+- **Matt is OOO 9/4–9/13.** Funds must obligate NLT 9/30. That leaves **12 business days after return**, and the mod still needs: M0003 approval → Trane's split → revised COR MFR → PS0006 award. 🔴 **Route M0003 today** so the funding side clears while he is out, and tell Conant in writing who covers the revised MFR if Trane's figures land before 9/14 (Ingersoll is the natural backstop; the MFR skeleton should be drafted and left with him).

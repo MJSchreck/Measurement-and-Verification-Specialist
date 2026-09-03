@@ -54,6 +54,8 @@
 | 02 McKinstry | Withholding-record conflict ($130K FEMP vs $216K PMO) | **$86K delta** | Records reconciliation |
 | 03 ABM LA | RY10 consolidated miss labeled "govt responsibility" at $0 impact, never collected | **$93,808** | CO determination |
 
+**Status note 2026-09-03 — ABM LA Phase 2B (in play, no rollup change).** At the 9/2 check-in ABM conceded on the record that the BESS did not perform and a fire occurred, agreed to physical removal (abandon-in-place rejected), and disclaimed a rates dispute. ABM's $7.3M "consideration" decomposes as ~$1.8M of GSA's own withholdings + a $4.0M buydown carrying an unsubstantiated 4% premium + ~$1.3M Schedule 3 cut that ABM admitted is partly non-Phase-2B ("fungible"). GSA reference remains the 6/3 COR memo NTV **$7,174,008**. Methodology (terminate-as-never-included vs. re-amortize) goes to CO Jolles after confirmation with Heidi Johnson. Evidence: COR minutes Gmail `1a06443718bf775d`, Drive `19CIBVGwNbKawVn9gISqFEAiewPQPJyuafaUvbHBCOb0`.
+
 ## E — Integrity & Avoidance Wins (unquantified or structural)
 
 | Date | Contract | Event | Actor(s) |

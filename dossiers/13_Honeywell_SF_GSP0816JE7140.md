@@ -384,3 +384,15 @@ Reconciling the record against Matt's actual **Gmail Sent** folder overturns the
 **Action taken this sweep (drafts only — nothing sent):** the 9/1 draft to Chapman was rewritten to remove the unsupported "went back on 8/31" claim, to transmit the comment set explicitly, to acknowledge that the package went to Moore first, and to put three handling options to the CO (supplement Moore now / disposition on return / fold into PS31 scope). The blocking comments themselves are left as a marked placeholder for Matt to populate from his own sheet — this sweep verified that a comment sheet exists and is unshared, but has not read its contents and will not paraphrase them.
 
 ⚠️ **Consequence for the earlier "17 comments, 8 Red, 0 closed" figure:** that tally came from a different automated pass reading the sheet, and this sweep did not re-verify it. Whatever the count, the operative fact is that none of it reached the CO.
+
+---
+
+## Delta update — 2026-09-03 sweep: PS30 comment transmittal still unsent; Chapman on sick leave today; Matt OOO tomorrow
+
+- **The rewritten draft to Chapman (`r2099242177437106608`) has not been sent.** Sent folder since 9/2: one message, the ABM LA minutes. Nothing to Chapman.
+- **9/3 3:18 AM PT — Chapman declines today's "GSA-TRM and M&V Review" (1:00–2:00 PM PDT):** *"On S/L today."* (Gmail `1a066c7170809200`). So the TRM discussion does not happen today either.
+- **Matt is OOO 9/4–9/13** (per the ABM LA minutes, §11).
+
+🔴 **This is now a nine-day exposure window.** PS30 has been with John Moore since 9/1 11:46 AM; Moore returned the March version in one day. If the comments are not transmitted today, the earliest they can go is 9/14 — and the Year 7 PR that sits behind PS30 has FY-end fund expiry on 9/30. Chapman being out today does not change the math: an email sent today is in his queue when he returns; one sent 9/14 is not. **Send the draft today, with the attachments, before leaving.** If the blocking-comment placeholder can't be filled in the time available, send it with the comment sheet attached and the placeholder line removed — the attachment carries the content.
+
+*(Housekeeping: the 9/3 decline shows org codes "PMDDB" for Chapman and "PMDDC" for Matt — different from the "PMCDC/PMCDB" codes on 9/1 traffic. Possibly a reorg code change; not a contract event.)*
