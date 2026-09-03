@@ -1,0 +1,398 @@
+# Contract 13 — Honeywell NDER2 San Francisco ESPC (GS-P-08-16-JE-7140)
+
+**Dossier prepared for Matt Schreck (COR, GSA Zone 7) — records from January 2025 (first touchpoint) through 2026-08-24.**
+All dated claims traced to Gmail threads or Google Drive documents; gaps are marked "not found in Drive/Gmail."
+
+---
+
+## Snapshot
+
+| Field | Value |
+|---|---|
+| PIID | GS-P-08-16-JE-7140 (PDN: EP-GSP0816JE7140) |
+| Vehicle | NDER2 ESPC Task Order under DOE FEMP IDIQ DE-AM36-09GO29035 |
+| Vendor | Honeywell International Inc. (ESCO) |
+| Financier / trustee | Wells Fargo Trust Company NA (invoices submitted as Wells Fargo); financier review of T.O. Schedules involved Bank of America (per Zone 7 baseline); Menlo settlement paid via buyer escrow EFT |
+| Site | San Francisco Service Center federal buildings, Region 9 — incl. Burton, Dellums, Shea (Santa Rosa), Ryan (San Bruno), Moss, Matsui, Coyle, Peckham, Cottage Way; Menlo Park Complex removed 2025 |
+| Awarded / ends | 9/23/2016 → 1/31/2038 |
+| Obligated / total value | $10,433,458.51 obligated (per FCO Jay Wong, 1/29/26); total value $40,767,515.20, corrected to **$38,869,532.89** after Menlo Park cancellation ($1,897,982.31) |
+| Payment cadence | Annual debt-service payment ~3/1; monthly TRM ("Total Resource Manager") invoices ($8,204.27, dropping to $7,286.33 post-Menlo); annual M&V payment in arrears after report acceptance (~$11.8–12.5K) |
+| CO | Patrick Chapman (Sr. CO, FAC-C Professional) — lineage: Joshua Chung (9PQ, through Sep 2025) → Heidi Johnson (9/3/2025) → Patrick Chapman (by late 2025/Jan 2026; Heidi Johnson is now Branch Chief/supervisor, not CO) |
+| COR | Matthew Schreck — officially delegated **9/8/2025** by CO Heidi Johnson (PIB 21-05 delegation letter via DocuSign) |
+| PF / reviewers | David Frank (EMP2 Project Facilitator), David Berezovskiy (GSA PMAB-C) |
+| Honeywell POCs | Stacey Pitts (financial schedules), Stacy Garvey (TRM / M&V, also stacy.garvey@gsa.gov PFC-C address), Monica Kroeger, Kris Okonski (invoicing), Aamer Athar, Shahar Sapir (Asst. General Counsel), Caitlin Correa (contracts manager, added June 2026 at GSA's urging), Gail Prager, Abdul Hakim Khan |
+| Performance year | PY6 = 3/1/2025–2/28/2026; Year 6 M&V Report V04 accepted 3/17/2026; PY7 running now |
+| Current center of gravity | Modification **PS30** (T.O. Schedules incorporation / Menlo removal cleanup) — schedules finalized 8/21/2026; CO moving to execute; SF30 language meeting on calendar for **today, 8/24/2026 12:00 PT** |
+
+---
+
+## Contract Overview & Scope
+
+Deep-energy-retrofit ESPC awarded 9/23/2016 covering the San Francisco Service Center portfolio (13 buildings at PY6 review time). Modification **AS11** (Full Project Acceptance, executed 3/2/2020) shifted the start of Performance Period 1 from 4/1/2018 to **3/1/2020**; the contract has operated on the AS11 T.O. Schedules ever since. Performance-period payment structure: annual principal-and-interest debt service, monthly TRM services, and annual M&V payment in arrears upon GSA acceptance of the annual M&V report (Year 1 M&V payment $11,543.00).
+
+The contract has run a **consistent savings shortfall**: PY3 + PY4 shortfalls of $384,387 were offset against payments in December 2024 (Amanda Hustrulid-era methodology); PY6 added $229,317, bringing cumulative shortfalls to at least **$613,704** through PY6.
+
+The defining event of the record period is the **sale of the Menlo Park Complex** and its removal from the contract (Mod PS26, effective 8/1/2025; settlement $1,897,982.31 paid to Honeywell from buyer Presidio Bay Ventures' escrow at closing — no GSA funds moved), followed by a year-long struggle to get corrected T.O. financial schedules incorporated (Mod PS30, still pending as of 8/24/2026).
+
+---
+
+## Complete Timeline
+
+### 2025 — Zone C M&V Specialist era (pre-COR)
+
+- **1/14/2025** — First touchpoint: Matt cc'd on "SF HW YR 5 Discussion Coordination" thread (Amanda Hustrulid coordinating Year 5 M&V review with Stacy Garvey/Honeywell; David Frank, Joshua Chung, Remy Range on thread). GSA "had less comments than in the past."
+- **1/23/2025** — "GSA year 6-10 summary" PDF in SF submissions Drive folder (earliest Drive artifact in the folder).
+- **1/30/2025** — Matt asks David Berezovskiy for background on "the agreements that happened for R9 NDER2 San Francisco" (ESPC M&V Workspace/Smartsheet thread) — his self-directed onboarding to this contract.
+- **2/12–13/2025** — Honeywell Partial Termination Letter (Menlo Park Complex) issued; forwarded to Matt via Rebecca Martinez/Joshua Chung (Menlo sale in motion).
+- **3/26/2025** — Heidi Johnson (ESC PMO assist) requests full invoice/payment expenditure history for the PDN from Rajesh Shandal (cc Matt); pivot table of 2017–2025 payments delivered 4/3/2025.
+- **3/28 & 4/1/2025** — Joshua Chung forwards aging Honeywell invoices to Matt (25-day-old $8,035.52 invoice 5269294596R; March 2025 monthly TRM invoice) — Matt's entry into the SF invoice-chasing lane during CO/COR transition.
+- **4/16/2025** — "GSA-SF Yr#5 M&V Report Final" review exchange with David Frank.
+- **4/21/2025** — **Mod AA25** (SF30) — Year 6 Annual Debt Payment mod circulated by Joshua Chung.
+- **4/23–5/12/2025 — Menlo buyout review sprint:** Chung requests Matt + David Frank review of Honeywell's buyout estimate. Frank challenges Honeywell's cost-ratio method (his savings-based figure ≈ $1,740,867; general position $1.8–2.0M so remaining payments stay whole). Pitts delivers revised termination value **$1,801,413.38** on 5/12 (4 days late, documented later in the communications MFR). Final settlement lands at **$1,897,982.31** (buy-down $1,851,690.06 + 2.5% termination premium $46,292.25, plus legal fees consideration $13,787.99 in the derivation).
+- **5/1–5/6/2025 — Year 3 shortfall verification:** Chung questions Honeywell's $10,091 Year 3 shortfall vs GSA's $233,685. Kris Okonski shows $223,594 was already deducted on invoice F6290DE070224A (July 2024). Frank reconstructs the shortfall-carryover chain; Danielle Bogni supplies the 2024 agreed-shortfall summary (Shahar Sapir 6/6/2024 email) and the joint HW/GSA shortfalls spreadsheet. Matt: "I'm going through the M&V submittals and am coming across more questions than answers."
+- **5/7–5/8/2025** — Urgent 66-day-old invoice alerts (5269294596R $8,035.52 + annual invoice **F6290DE013025A $886,684.94**); Nora Ezequiel engaged. (Annual Year 6 debt payment stream.)
+- **5/29/2025** — **Year 5 M&V Report V2 acceptance letter** issued by CO Joshua Chung (signed letter attached; Matt, Frank, Stevens, Kumar cc'd).
+- **6–7/2025** — Wells Fargo invoice aging saga (5270074173R $12,285.59 Year 5 M&V; 5270069844R & 5270325945R $8,204.27 monthly TRM). RRs executed via DocuSign GSA3025 forms (7/1/2025); PDE Tool cases 00194795/00195761.
+- **7/16–7/30/2025** — Menlo Park Partial Termination meetings (Chung-led, three sessions).
+- **7/28/2025** — SF30 cancellation language drafted citing FAR 52.217-2 (Cancellation Under Multi-year Contracts); "7/28/25 schedules" produced — the reference schedule set for everything that follows.
+- **7/31/2025** — **Mod PS26 executed** (Menlo Park partial cancellation; effective date 8/1/2025; finalized in EASi 8/6/2025). Same day: first Pegasys manual-processing collaboration with **Tamira Mitchell** (Branch Chief, Financial Mgmt Div) on the 28-day-old Wells Fargo invoice 5270325945R — manually processed as **RW202507310012** on acct line 275. Tamira: *"The past few years we have had to do manual receiving reports on this order."* Lupe (AP) adds the contract to the "process manually" tracker. Matt's signature thank-you: "Your support and commitment on this endeavor has been second to none."
+- **8/12–8/28/2025** — RR EC2025081200243 stuck in Pegasys validation-failure loop (daily EASi dashboards, Blanche Lovell forwards); resolved via Tamira 8/28 after Jay Wong's "URGENT: 3025 RR" flag. EASi Tier 2 ticket INC4690490 for Mod PS26 interface failure (Jonathan Mann).
+- **9/3/2025** — **CO change: Joshua Chung → Heidi Johnson** (formal notice to Honeywell). Mod PA27 finalized in EASi same day. (An "Award Package (Mod PC03).zip" also appears in Drive dated 9/3/2025 — content not read; role not established from Drive/Gmail.)
+- **9/8/2025** — **Matt officially delegated COR** (PIB 21-05 Attachment B & C designation letter, DocuSign completed; Heidi announces to Honeywell "Matthew Schreck is officially delegated COR authority").
+- **9/10/2025** — Heidi: "San Francisco 7140 - COR File location" + Mod PS26 supporting-documents thread — COR file organization begins.
+- **9/11/2025** — Menlo Park Partial Termination Settlement Documentation (6/18/2025 package) filed to Drive.
+- **9/16/2025** — Heidi asks Honeywell (Sapir) to consent to sharing the IGA with **PG&E and LBNL** for a demand-response program, citing the contract "running at a consistent shortfall." Sapir defers to technical team; later requests a PIA — still open.
+- **9/22–10/6/2025** — More RR/validation cycles (EC2025091700201, EC2025092300210, EC2025100600123 approved).
+- **9/25/2025** — Heidi-led "Honeywell (7140) administrative modification" meeting.
+- **10/20/2025** — Mod PA28 finalized in EASi.
+- **10/31/2025** — CPARS Contractor Performance Self-Assessment notice.
+- **11/3–12/2/2025** — Monthly TRM invoice cycle continues (Okonski/Kroeger "Action needed in Pegasys" pattern); Nov 2025: monthly TRM + yearly M&V invoices; RR EC2025120100141 fails validation, resolved by Tamira 12/2.
+- **12/5–12/23/2025** — RR **EC2025120500178** stuck ~3 weeks in Pegasys validation-failure loop (daily ACTION REQUIRED emails); Angela Long "Acct Line Fails" escalation 12/18; approved 12/23 after retries; Tamira resolves.
+- **12/31/2025** — Incident **INC4754221** opened for Mod PA29 (Tamira); retried 1/9/26, reviewed 1/12/26; **Mod PA29 finalized 1/13/2026**.
+
+### 2026 — CO Chapman era, PS30 saga
+
+- **1/2/2026** — Kroeger flags Dec 2025 monthly TRM invoice in Pegasys; RR EC2025123000147 aging loop runs into mid-January.
+- **1/8/2026** — David Frank shares LA/SF ESPC documentation package with Matt.
+- **1/22–2/6/2026** — RR **EC2026012200170** validation-failure loop; Angela Long/Tamira resolve 2/2; 25-day-old Wells Fargo invoice 5271856612R ($8,204.27) and 5272086826R processed (Tamira COMPLETED 2/6).
+- **1/29/2026** — **De-obligation discovery** (Patrick Chapman now CO): after PS26, funds were never de-obligated; total contract value still $40,767,515.20 vs corrected $38,869,532.89. FCO **Jay Wong** explains: settlement was paid from future payments never obligated; obligated-to-date is **$10,433,458.51**; residual **$62,755.93** (FY22–FY25 lines) needs de-obligation; and the recurring Pegasys validation failures are caused by the **inactive Menlo building code CA0915OO** — the EASi–Pegasys interface fails on every action touching those accounting strings, requiring IT Tier 2 XML stripping or manual RR processing.
+- **1/30/2026** — CO billing reconciliation ("GSA San Francisco M&V Contract 40212426 billing review," from Honeywell/Gail Prager): Chapman finds the annual M&V payment stream misaligned since AS11 (Year 1 M&V report accepted 5/18/2023 for period 3/1/2020–2/28/2021; first M&V payment should have been $11,543.00). No overpayment — dates/labels need realignment to AS11.
+- **2/24–2/25/2026** — Chapman drafts the Menlo de-obligation CLIN breakdown ($62,755.93 across CLINs 0021/0023/0026/0029/0030); Jay Wong re-runs Pegasys: residual on CLIN 0030 reduced to $4,279.83 by two January/February Menlo M&V payments; also notes EASi shows $3,929.92 paid vs actual $4,586.26 because **several RRs were processed manually in Pegasys** (EASi and Pegasys diverge on this contract). Matt confirms consistency with Jay's figures.
+- **3/4/2026** — PS30 obtains **legal sufficiency** (cited in Matt's 8/5/2026 brief to Cawthorne).
+- **3/6/2026** — "DRAFT MODIFICATION PS30 ESPC SF Needed Revisions" email (filed to Drive).
+- **3/10–3/25/2026** — Chapman compresses financier vetting: directs Honeywell to complete T.O. Schedule vetting/approval "by Wednesday, March 25, 2026, or earlier." **3/17/2026:** Year 6 M&V Report V04 (dated 3/13/2026) accepted — the official acceptance date. **3/17–18:** Pitts says the financier must re-approve schedules ("too much time has passed"); warns the bank took 2 weeks last time. Chapman documents; per Zone 7 baseline the financier (Bank of America review) vetting extension ran to **4/1/2026**. (Direct 4/1 extension email not separately located in Gmail; date carried from contracts.md baseline.)
+- **4/8–4/28/2026** — Chapman chases financier review (4/8, 4/13 follow-ups; no substantive updates). **4/28/2026:** Honeywell delivers the **Combined April 2026 Financial Schedules** ("GSA SF – Financial Schedules_Menlo Termination_04.28.26") — 20 calendar days after first inquiry.
+- **4/30/2026** — Chapman issues line-by-line response: (i) TRM adjustment effective-date error (8/1/2025 vs 9/1/2025); (ii) credit understated by $917.94/mo (correct $6,425.28 vs stated $5,507.64); (iii) PS26 not incorporated despite August 2025 escrow EFT; (iv) TO-1/TO-3 reconciliation gap $1,903,489.95.
+- **5/4–5/5/2026** — Matt + Chapman + Berezovskiy review session; Matt's recap memo defines the TRM calculation-backup ask (credit derivation, Year 7 add-back driver, wash-vs-independent confirmation). Chapman authorizes Matt to lead the outbound.
+- **5/7/2026** — Matt sends the **TRM Adjustment question** to Pitts/Kroeger; Pitts replies in **37 minutes** ("The TRM Adjustment tab was just to note what you overpaid… giving you a credit back"). Matt forwards to Chapman flagging the effective-date item tied to Chapman's 4/30 position.
+- **5/12/2026** — Chapman's detailed feedback: the "wash" may actually cost GSA (credit offset by Early Termination Payment increase $388,923 → $394,439); agrees $917.94/mo basis; holds **8/1/2025** effective date per PS26 → 7 months × $917.94 = **$6,425.28**, not $5,507.64. **This is the "TRM adjustment on the 9/1 invoice/schedule" issue** — Honeywell started the credit 9/1/2025 (first invoice due date) instead of the PS26 effective date.
+- **5/14/2026** — **Heidi Johnson requests the communications MFR** ("Please provide background information explaining the communication challenges… Patrick, David and I layer in our experiences"). Scope confirmed same day: "any and all persistent communication challenges."
+- **5/15/2026** — Chapman recommends CO/COR-level resolution before escalation, documenting the attempt first; Heidi "100% agrees."
+- **5/19–5/21/2026** — Matt holds Honeywell pending consolidated comments; internal alignment meeting 5/21 ("HW Response Alignment - TRM Adjustments"); **5/21:** Matt issues consolidated 3-item comment letter: (1) TRM credit/ETP offset — written confirmation required; (2) TRM effective date → 8/1/25, add August's $917.94; (3) **termination payment misdated 4/1/2026 instead of August 2025 actual escrow receipt — ~$32,000 unsupported interest accrual to GSA**. Revised-schedule target: Friday **6/5/2026**.
+- **5/22–5/27/2026** — Chapman's PS30 reminder (Year 6 acceptance letter will attach to PS30, acceptance date 3/17/2026). Matt's COR Review Memorandum on the draft acceptance letter: subject-line version fix; **$229,317 shortfall disposition language added** (Task Order §C.4.6 — CO shall reduce next year's P&I payment by the shortfall); departed-staff CC cleanup; V03-vs-V04 version question resolved (V04 supersedes).
+- **5/27/2026** — Matt delivers the **MFR "Honeywell Communication Background — Menlo Park Partial Termination"** (dated 27 May 2026) to Heidi: quantifies the pattern (4-day slip May 2025; 20 days for schedule delivery Apr 2026; 37-minute counter-indicator on narrow questions); files to Tab 43. *(Note: task-brief date of "6/2/2026" for the MFR — the record shows the MFR dated 5/27/2026, transmitted 5/27, with CO acknowledgment 6/1/2026.)*
+- **6/1/2026** — Chapman: continued communication problems will draw a **Cure Notice** (then Show Cause); MFR is the historical record. Same day Matt transmits a **Cure Notice package for CO review** ("administrative sequence of the Cure Notice followed by the Show Cause, with the MFR serving as the supporting record"). Chapman: "This is the first time I've had a COR draft documents for me and I'm very impressed" — package held in reserve; agreement not to push toward issuing; T4D not appropriate. Chapman also clarifies authority lines: Heidi is his supervisor, not the CO — tasking should run through the cognizant CO.
+- **6/5–6/6/2026** — Honeywell's revised schedules delivered late Friday 6/5. Frank's quick look: payments still pushed 3 months; termination payment still applied 4/1/26 not 9/1/25.
+- **6/8–6/16/2026** — Chapman opens a shared Review Comments spreadsheet; team review meeting 6/11; Frank's 6/15 comments (TO-1 up $214,670; TO-1/TO-3 still don't tie; TO-5a J121 shows $1,851,585 vs $1,897,982; interest-credit concern); Chapman's own cell-level findings 6/16 (formula pointing at empty cell; TO-1 total reduced $42,991.83).
+- **6/16/2026** — Stacy Garvey sends red-lined Year 6 acceptance letter; GSA-Honeywell meeting on 6/5 revised T.O. Schedules (6/16, 11:00 PT).
+- **6/18/2026** — **PS30 walk-through with Stacey Pitts**; Matt produces the **PS30 Schedule Findings Summary** and Walk-Through Cell Map: the 6/5 workbook "does not fully calculate" — Term Value Calc tab #REF! end-to-end, TO-1 G57/E46/G46 broken, TO-3 L22 pointing at empty J114, orphan Sheet1/Sheet6 references; $388K item resolved; $104.20 buy-down delta unresolvable until derivation repaired. Close-out ask: one clean redelivery.
+- **6/22/2026** — Shawna Ramthun (Energy Division Director) relays SF Service Center Director **Jason Cawthorne's** status inquiry from the Zone 7 call; Nathan Ingersoll tasks Matt with briefing Cawthorne and standing up a service-center briefing cadence. Matt: "You've got it."
+- **6/28/2026** — Third schedule submission (referenced in the 8/5 brief as containing errors). Direct email not separately located in Gmail.
+- **7/9/2026** — First Cawthorne briefing (8:00 PT).
+- **7/13/2026** — Matt gives Stacy Garvey written Year 6 status for Honeywell leadership: acceptance stands as of 3/17/2026; letter issues with PS30.
+- **7/20–7/27/2026** — PS30 Modification Review (7/20, Frank); PS30 Schedule Discrepancy Discussion re-scheduled to 7/27 11:00 PT (Chapman, Frank; Heidi declined; Stacey Pitts attending). "PS30 SF Consensus Walkthrough" slide decks built 7/27.
+- **7/31 → 8/4 → 8/7/2026** — Honeywell schedule-delivery commitments slip three times in a week; Chapman documents each extension in writing.
+- **8/3–8/5/2026** — PS30 thread formalized ("T.O. Schedules Incorporation (Menlo Removal) via Modification PS30"). **8/5:** Matt's monthly Service Center brief to Cawthorne (Drive doc "2026-08-05_Brief_Service Center Director Status Brief PY6-PS30") and forward of the PS30 thread: PS30 is holding up the Year 6 acceptance letter, the $229,317 shortfall offset, the $62,755.93 de-obligation, and payment true-ups; MFR on file; cure package in reserve.
+- **8/10/2026** — **Honeywell (Pitts) delivers revised schedules** (after one more EOD slip): admits an unexplained **$2,022.82 [sic — actually $2,022.62] variance** on Combined Schedule TO-1 that she cannot trace ("manual adjustments John made at the beginning that don't link"); offers "HON can cover any discrepancies… it can be stated in the mod"; full rebuild not possible until Q4.
+- **8/11/2026** — Chapman proposes simply removing the deduction; Pitts agrees but notes schedules then don't tie. **Frank recommends accepting**: termination costs reduced $1,897,982 → **$1,685,165** (Honeywell's method — remaining-balance basis — favors GSA); overall payments reduced $27,554,059 → $27,491,173; TO-1/TO-3 now match; TRM credit unchanged.
+- **8/13/2026** — Chapman requests the cell note ("Honeywell is responsible for and will cover this unknown discrepancy") + PDF version; **Matt's concurrence review**: independently reconstructs Honeywell's revised termination figure within $95 (11.21% Menlo savings ratio applied to capital balance net of buy-down ≈ $14,546,745 vs original $16,398,435.39 basis); notes revised value favors Government by ~$212,800; corrects the $2,022.82 typo to **$2,022.62**; recommends fixed agreed settlement value in mod language. **GSA decision to accept the 8/10 schedules.**
+- **8/14/2026** — Chapman adds a **Contractor's Statement of Release** (GSA Legal-recommended) to PS30; announces **PS31** will follow immediately to fix the unknown discrepancy. Matt's four drafting notes: scope anchor reciting PS26/settlement facts; one-direction release preserving GSA remedies ($229,317 offset, TRM credit delta, schedule-rebuild findings); move Honeywell's "will cover" commitment into the mod text (cell comment isn't a commitment); scope PS31 as a full schedule rebuild with a written Q4 date.
+- **8/17–8/21/2026** — Chapman starts the **Modification Decision Document (MDD)** for PS30 and invites Matt's input. Final-copy churn: 8/18 Pitts sends Excel/PDF without the requested note; 8/20 resend still misplaced; **8/21** Chapman adds the note to TO-1 row 58 column D himself and declares: **"GSA will move forward with Modification PS30."**
+- **8/19/2026** — ORNL FEMP Post-M&V Visit Survey (annual check, to Nathan Ingersoll, cc Matt/Heidi). (Pre-M&V survey was 4/10/2026; annual M&V site visits complete for 2026, incl. water-conservation testing at Shea 8/10 and Ryan 8/11 with Lupe Novoa.)
+- **8/21/2026** — Chapman schedules "**SF ESPC - Menlo SF30 Modification Language**" meeting for **Monday 8/24/2026, 12:00–13:00 PT** — i.e., today.
+
+---
+
+## M&V / Performance Status
+
+- **M&V structure:** 13 buildings (PY6); annual M&V reports by Honeywell (Stacy Garvey, TRM); reviewed by COR + PF David Frank (EMP2) + David Berezovskiy; annual M&V payment in arrears upon acceptance.
+- **Year 5** (3/1/2024–2/28/2025): report reviewed Jan–Apr 2025 (Matt's first exposure, 1/14/2025); **V2 accepted 5/29/2025** (Chung letter). Year 5 M&V payment $12,543.59 due 9/1/2025 per current schedules ($11,840.66 on pending post-Menlo schedules).
+- **Year 6** (3/1/2025–2/28/2026): report V1 Nov 2025 → **V04 (dated 3/13/2026) accepted 3/17/2026** after three GSA-driven revisions. **Shortfall $229,317 (16.4%)** — verified $1,168,311 vs guarantee $1,397,628. Root cause: mostly structural as-built guarantee-vs-verified spread (largely Dellums HVAC), ~$39K GSA-operational, ~$12K Honeywell-performance. Disposition per TO §C.4.6: full shortfall deducted from Honeywell's Year 7 P&I payment (same methodology as the 12/17/2024 PY3/PY4 handling). Acceptance letter finalized (COR memo 5/22, red-lines reconciled) and packaged to issue with PS30.
+- **Cumulative shortfalls:** ≥ $613,704 through PY6 (PY3+PY4 $384,387 previously offset; Year 3 residual $10,091 carried after the $223,594 July 2024 deduction).
+- **Witnessing/site work 2026:** annual site visits complete; water-conservation testing Shea (8/10) and Ryan (8/11). Persistent data gaps: Dellums energy meter not recording 2+ years, Ryan irrigation controller unused, Shea chilled-water sensor unreliable, trend gaps at Matsui/Coyle/Peckham — service-center asks documented in the 8/5 Cawthorne brief.
+- **ADR/BMS opportunity:** ~$82,000 PG&E Automated Demand Response incentive (Peckham 726 kW, Dellums 3,377 kW) tied to BMS remediation scope (~$77,694 actionable impacts); **stalled** since Honeywell's 1/6/2026 update (awaiting HW upper-management adjustments); IGA sharing with PG&E/LBNL pending Honeywell PIA (open since Sep 2025).
+
+---
+
+## Financial & Payment History (manual RR process)
+
+**Structural problem — EASi↔Pegasys interface effectively broken for this contract:** the inactive Menlo Park building code **CA0915OO** causes the interface to fail on every action touching those accounting strings (Jay Wong diagnosis, 1/29/2026). Practical effect: nearly **every invoice requires a manual receiving-report match** — either IT Tier 2 strips the XML references, or Finance (Tamira Mitchell, BR3F) processes RW-prefixed manual RRs in Pegasys ("The past few years we have had to do manual receiving reports on this order," 7/31/2025; contract is on AP's "process manually" tracker). Consequence: EASi payment totals diverge from Pegasys actuals (e.g., CLIN 0030: EASi $3,929.92 vs Pegasys $4,586.26). PS30's accounting-string cleanup is the permanent fix.
+
+**Payment streams:**
+- **Annual debt service** (~3/1): e.g., F6290DE013025A $886,684.94 (2025 cycle).
+- **Monthly TRM** ("Total Resource Manager"): $8,204.27/month via Wells Fargo Trust invoices (527xxxxxxR series); corrected schedules reduce to **$7,286.33** post-Menlo (the $917.94/mo delta at the heart of the TRM credit dispute). Now submitted in draft for GSA review before Pegasys entry; recent TRM and Year 5/6 M&V payments **held pending PS30** so amounts match corrected schedules (CO recommendation 3/17/2026).
+- **Annual M&V** in arrears (~$11.5–12.5K; Year 5 invoice 5270074173R $12,285.59).
+
+**Recurring cycle observed all through the record:** pbsaccountspayable aging alerts (10/15/20/25-day) → EASi "Pegasys Validation Failed" tasks → Angela Long "Acct Line Fails" / EASi support tickets (INC4690490, INC4754221, INC4821616) → Tamira Mitchell manual processing/resolution. Documented RR sagas: EC2025073100166 (7/2025), EC2025081200243 (8/2025), EC2025091700201/EC2025092300210 (9/2025), EC2025120100141 (12/2025), EC2025120500178 (12/5–12/23/2025), EC2025123000147 (12/2025–1/2026), EC2026012200170 (1/22–2/2/2026), EC2026020400226 (2/2026).
+
+**Billing reconciliation (Jan–Mar 2026):** annual M&V payment stream misaligned by one year since AS11 (Year 1 never invoiced as such; labels off) — realignment through corrected schedules; no overpayment identified. De-obligation of $62,755.93 Menlo residuals executes with PS30 (CLINs 0021, 0023, 0026, 0029, 0030; residual on 0030 reduced to $4,279.83 by early-2026 payments).
+
+---
+
+## Modifications
+
+| Mod | Date | Substance |
+|---|---|---|
+| PA02 | draft 11/2016 | Early admin mod (Drive PDF; not read) |
+| PS10 | ~3/2020 | Award modification (Drive PDF; not read) |
+| **AS11** | executed 3/2/2020 | Full Project Acceptance; shifted PP1 start 4/1/2018 → 3/1/2020; governing T.O. Schedules until PS30 |
+| AA25 | 4/2025 | Year 6 Annual Debt Payment (SF30), Chung era |
+| **PS26** | executed 7/31/2025, effective 8/1/2025 (EASi finalized 8/6/2025) | Menlo Park Complex partial cancellation under FAR 52.217-2; $1,897,982.31 settlement paid from buyer's (Presidio Bay Ventures) escrow via EFT; administrative removal only — value/obligation cleanup deferred to PS30 |
+| PA27 | finalized 9/3/2025 | Admin mod (CO-change era) |
+| PA28 | finalized 10/20/2025 | Admin mod |
+| PA29 | finalized 1/13/2026 | Admin mod (INC4754221 interface ticket to complete) |
+| PC03 | zip in Drive 9/3/2025 | Award package zip; substance not established from Drive/Gmail |
+| **PS30** | pending — execution imminent as of 8/24/2026 | The keystone: incorporates corrected T.O. Schedules (Menlo removal); attaches Year 6 M&V Acceptance Letter (3/17/2026) with $229,317 Year 7 P&I offset; de-obligates $62,755.93; retires CA0915OO accounting strings (fixes monthly Pegasys failures); Contractor's Statement of Release; termination value restated $1,897,982.31 → $1,685,165 (favors GSA ~$212,800); $2,022.62 TO-1 discrepancy noted as Honeywell's responsibility. Legal sufficiency 3/4/2026; schedules finalized 8/21/2026; MDD in drafting; SF30 language meeting 8/24/2026 |
+| PS31 | planned | Immediate follow-on to correct the unknown $2,022.62 TO-1 discrepancy; Matt recommends scoping as full schedule rebuild with written Q4 2026 commitment |
+
+**Schedules saga in one line:** 7/28/25 reference schedules → financier re-vetting (3/10–4/1/26) → 4/28/26 delivery (4 defects) → 6/5/26 redelivery (#REF! workbook, June 18 walk-through) → 6/28/26 submission (errors) → slips 7/31→8/4→8/7→8/10 → **8/10/26 delivery accepted by GSA (Frank 8/11 recommendation, Matt 8/13 concurrence)** → note/PDF churn 8/18–8/21 → CO closes it out 8/21 and moves to execute.
+
+---
+
+## Open Issues & Risks
+
+1. **PS30 not yet executed.** Everything downstream (Year 6 acceptance letter issuance, $229,317 offset, $62,755.93 de-obligation, TRM/M&V payment true-ups, Pegasys fix) rides on it. Risk: further Honeywell drift; mitigations in place (written extensions, MDD, release clause, agreed settlement value).
+2. **Communication pattern (MFR 5/27/2026, Heidi-requested).** Documented: 4-day slip (May 2025), 20-day schedule delivery (Apr 2026), 3 missed commitments in one week (Jul–Aug 2026), note/PDF churn (Aug 2026). Counter-indicator: 37-minute response to narrow questions. **Cure Notice package drafted by Matt (6/1/2026), held in reserve** — CO's escalation ladder: informal → Cure Notice → Show Cause, MFR as the factual record. Caitlin Correa added as HW contracts manager in June at GSA's urging.
+3. **TRM adjustment dispute (partially resolved).** GSA position stands: credit effective 8/1/2025 per PS26 → $6,425.28 (7 × $917.94) vs Honeywell's $5,507.64 (9/1 start); plus the "wash" concern (credit absorbed into Early Termination Payment). Frank's 8/11 read: original financial-schedule TRM credit unchanged in accepted schedules — the credit delta is expressly preserved as a GSA remedy in Matt's release-clause carve-outs. Confirm final treatment in executed PS30.
+4. **$2,022.62 TO-1 unknown discrepancy** — Honeywell responsibility note added by CO 8/21; underlying cause unknown; full rebuild (PS31) not before Q4 2026. Risk of drift if PS31 isn't dated in writing at PS30 execution.
+5. **Chronic savings shortfall** (≥$613,704 cumulative through PY6) with structural guarantee spread — expect PY7 shortfall too; demand-response/ADR and BMS remediation are the improvement levers, both stalled on Honeywell (mobilization + PIA for IGA sharing).
+6. **Manual invoice processing burden** persists until PS30 retires CA0915OO strings; every month costs COR/Finance manual effort and aging-invoice exposure (Prompt Payment risk).
+7. **HSPD-12:** contractor GSA Access Card (J. Topete) certificate renewal due by **9/8/2026** to avoid automatic termination.
+8. **Authority hygiene:** Chapman's 6/1 note — tasking through the cognizant CO (Chapman), with Heidi cc'd as supervisor — worth minding on future escalations.
+
+---
+
+## Current Status (as of 2026-08-24)
+
+- Final revised T.O. Schedules (Excel + PDF, with the $2,022.62 responsibility note added by the CO) locked **8/21/2026**; Chapman: "GSA will move forward with Modification PS30."
+- **Today 12:00–13:00 PT: "SF ESPC - Menlo SF30 Modification Language" meeting** (Chapman + Matt) — drafting the SF30 from the MDD, including the Contractor's Statement of Release and Matt's four drafting notes (scope anchor, one-way release, HW cover-commitment in mod text, PS31 rebuild scoped with date).
+- Year 6 acceptance letter (3/17/2026 acceptance date, §C.4.6 offset language) finalized and staged to issue with PS30; payments held pending PS30 remain held.
+- Cure Notice package remains in reserve; MFR current through the July–August slips (Matt committed to keep it updated).
+- ORNL FEMP post-M&V survey (8/19) in Nathan Ingersoll's court, Matt cc'd.
+- Monthly Cawthorne service-center briefing cadence established (next ~early September).
+
+---
+
+## Recommended Next Actions
+
+1. **Today's 12:00 meeting:** bring the 8/13 concurrence email and the four 8/14 release-clause notes; press to (a) recite the $1,685,165 fixed agreed settlement value, (b) embed Honeywell's $2,022.62 cover commitment in the mod text, (c) put a written Q4 2026 date on the PS31 schedule rebuild.
+2. Review Chapman's **MDD draft** (link in his 8/17 email) and add COR verbiage before he builds the SF30.
+3. On PS30 execution: confirm the **de-obligation posts correctly** (re-run with Jay Wong — residuals moved between Jan and Feb; re-verify CLIN 0030 at execution date) and that the **Year 6 acceptance letter issues** with correct CC list.
+4. Immediately after PS30: verify first corrected-schedule invoices (TRM at $7,286.33; realigned M&V dating), release held payments, and confirm the CA0915OO string retirement actually stops the monthly Pegasys failures — then ask AP/Tamira to take the contract off the manual tracker.
+5. Track **Year 7 payment mod** applying the $229,317 offset to the next P&I payment (due cycle ~3/1/2027; EASi PR mod lead time).
+6. Chase the **HSPD-12 card renewal (J. Topete) before 9/8**.
+7. Re-task Honeywell for a firm **ADR/BMS remediation mobilization date** and close the PIA question so the IGA can go to PG&E/LBNL before the ~$1.2M program budget closes.
+8. Keep the **MFR current** (log the 8/18–8/21 note churn); if PS31 or the Q4 rebuild slips, the Cure Notice package is staged.
+9. Complete the **ORNL post-M&V survey** with Nathan.
+10. CPARS: PY6 narrative should reflect the shortfall disposition, schedule-quality defects, and responsiveness record (self-assessment notice was 10/31/2025; check the FY26 evaluation window).
+
+---
+
+## Sources
+
+**Gmail (thread IDs):**
+- 19465c6d57876678 — SF HW YR 5 Discussion Coordination (1/14/2025, first touchpoint)
+- 194764bc5abd9361 — ESPC M&V Workspace (Berezovskiy background, 1/30/2025)
+- 19500a5c991cecd6 — Menlo Partial Termination Letter / buyout review (2/13–5/2025)
+- 1968e3360a9aa44a — NDER2 SFSC Yr. 3 Shortfall Verification (5/2025)
+- 195d3c46f7776ca4 — Expenditure history request (Heidi/Rajesh, 3/2025)
+- 1971e4fba38bef5f — Year 5 M&V V2 Acceptance Letter (5/29/2025)
+- 19862d5b3cb97b52 — Tamira Mitchell manual RR RW202507310012 (7/31/2025)
+- 19911a06f76cd3da — CO Change to Heidi Johnson (9/3/2025), COR delegation (9/8/2025), IGA-to-PG&E request (9/16/2025)
+- 199a5b55794a1f09 — Sept 2025 monthly TRM invoice handoff Chung→Johnson (10/2/2025)
+- 19b32d8c41ae7329 / 19c001864743f03e / 19c2070987753cad — RR acct-line failures & resolutions (12/2025–2/2026)
+- 19b7639ebd05b384 — INC4754221 Mod PA29 (12/31/2025–1/13/2026)
+- 19c0aa5e50de42eb — De-Obligation Menlo Park (Jay Wong analysis; CA0915OO diagnosis) (1/29–2/25/2026)
+- 19c11215d99aaaf0 — SF M&V billing review / AS11 realignment / financier re-vetting (1/30–3/18/2026)
+- 19df90b06a4c7eb0 — 5/4 Meeting Recap, TRM calculation backup (5/5–5/7/2026)
+- 19e039bdc835088a — TRM Adjustment thread (5/7–6/16/2026: wash analysis, MFR request, 5/21 consolidated comments, 6/5 redelivery, review comments)
+- 19e83e12aa375cd5 — Cure Notice Package for CO Review (6/1/2026)
+- 19ed1d0b6d9b8c45 — Red-Lined Yr 6 Acceptance Letter (6/16–7/13/2026)
+- 19e5076f96bca7ab — Yr 6 acceptance reminder + COR Review Memorandum (5/22–5/27/2026)
+- 19ef0e5addfb03ec — Cawthorne outreach tasking (6/22/2026)
+- 19fc7c7d5ecae8a3 — PS30 T.O. Schedules Incorporation master thread (8/3–8/21/2026)
+- 1a0252b58507d9c5 — SF30 Modification Language meeting invite (8/24/2026)
+- 1a01a7d718dbea6f / 19d78f49ec821dec — ORNL FEMP post/pre M&V surveys (8/19/2026, 4/10/2026)
+- Aging-invoice/EASi notification series: pbsaccountspayable + easi.admin threads Mar 2025–Feb 2026 (RR IDs in Financial section)
+
+**Google Drive:**
+- 14uinxQ5Qd0-ewMlBf-2HefKRDP1Pobq89LCs4u23Nt4 — MFR_HW_Communication_Menlo_27May2026
+- 1CvDFKOUj1WRo4cqy7rbLAdjWR55kOYDYafVa0BHYwwM — 2026-08-05 Service Center Director Status Brief (Cawthorne)
+- 18JT16A6blRpdFRvTFsNiX-D-83AyoKGsY00ts6h-0XA — NDER2 SF PS30 Findings Summary (6/18/2026); 1Jh-E5Ymf1S2b8mJblms2fXfvGBvoA5DPWmNb0deY6sE — Walk-Through Cell Map
+- 1RFl4dgDJs6LDu770NaKT-8veuCYeOkU3 — Menlo Park Partial Termination Settlement Documentation (6/18/2025)
+- 1KlR1naY0PD_3XR_HDF25ojx0b7sJ0ryC — Mod PS26; 1rtbFqwiUWa76YHei8MvKo-WFXfpMvi1y — Mod AS11 w/ financials; 1g5ZXykrWIaYgNk6LcBbpwMas_0rR9eY7 — Mod AA25 SF30
+- Financial-schedule workbooks: GSA SF Financial Schedules_Menlo Termination (02.28.25 r1, 05.07.25 r2, 9-15-16 set); GSA R2 Partial Termination 10.1.2025
+- 1wE6vCljhhF2b0fSBM1al3s4msN9Ny2zA — DRAFT MODIFICATION PS30 Needed Revisions email (3/6/2026)
+- PS30_SF_Consensus_Walkthrough decks (7/27/2026); 5/4/2026 COR Menlo Schedule Review doc set
+- Hub folders: 07 Honeywell SF NDER2 ESPC GSP0816JE7140 (1XEdSG1LZ9f5LzMREda2WQZmTEGbhRgTX, Tabs 37–45); 07 NDER2 SF Honeywell (1XOhLeGoBPy1W3X0l48DWU4ld_1ixHVCU); San Francisco NDER2 Submissions (1CKNBX7ilHHyhDYYgcKohNUBYHZjIHnVU)
+
+**Local baseline:** /root/.claude/skills/synced/zone7/references/contracts.md (contract 07 entry; BoA financier note; 4/1/26 vetting extension) and history.md (career timeline anchors).
+
+**Gaps / notes:** (1) The task brief's "6/2/2026 MFR" — record shows MFR dated 5/27/2026, CO acknowledgment 6/1/2026; no separate 6/2 MFR found in Drive/Gmail. (2) Direct email documenting the financier-vetting extension to 4/1/2026 not found in Gmail (carried from contracts.md). (3) Mod PC03 contents not read (zip). (4) The 6/28/2026 schedule submission is referenced in the 8/5 brief but its transmittal email was not separately located. (5) Pre-2025 contract history (award through 2024) exists only via mod PDFs and secondhand references — Matt's records begin 12/2024.
+
+---
+
+## Delta update — 2026-08-24, PS30 source documents read
+
+Read the two operative PS30 documents for the first time: the **Modification Decision Document** (Drive `1J1JaLKZtuFovqNsdnK-TlQxIfXs96fOZLtgTcoVkqAc`) and the **SF30 modification form** (Drive `1rV2ZFpNk10h_CrRixkIz6dfjZ8M5zPCx`), both linked in Chapman's 3/3/2026 legal-sufficiency request (Gmail `19cb53e6cb114d17`). They do not agree with each other, and both differ from figures previously carried in this dossier.
+
+**CORRECTION — de-obligation figure.** This dossier previously carried **$62,755.93**. The MDD states **$61,745.76**, and the MDD's five CLIN reductions sum to that figure exactly ($162.88 + $13,918.99 + $657.98 + $42,419.65 + $4,586.26). The $62,755.93 figure derives from the older CLIN 0030 residual of $3,269.66; the MDD now uses **$4,279.83** (early-2026 payments reduced the residual). Difference **$1,010.17**. The SF30 form still carries the old CLIN 0030 numbers in its narrative while stating the $61,745.76 total — it is internally inconsistent. **Confirm the operative figure with CO before execution; this is what posts to Pegasys.**
+
+**CORRECTION — total contract value.** This dossier previously carried the post-Menlo value as **$38,869,532.89** (SF30 basis, Menlo settlement only). The MDD supersedes this: total value reduced by **$8,115,716.57** — Menlo $1,897,982.31 **plus $6,217,734.26** of Years 2–5 annual funding obligations "erroneously added to the Contract Base and All Options amount" — to **$32,651,798.63**. Obligated order amount $10,433,458.51 → $10,371,712.75 (both documents agree).
+
+**Contractor's Statement of Release — actual text** (MDD): *"The contractor (Honeywell) hereby releases the Government from any and all liability under the contract for any future equitable adjustments or claims attributable to the facts or circumstances giving rise to the partial termination settlement mentioned in the modification."* Assessment: one-directional (Honeywell → GSA) and scoped to the Menlo partial termination, so it does not reach the lighting-measurement obligation or the 2021 M&V credit question. It contains **no affirmative reservation of Government rights** — recommend adding one.
+
+**Drafting defects identified for the 8/24 CO session:**
+- SF30 narrative CLIN 0030 arithmetic: $110,826.09 − $5,596.43 = $105,229.66, but the document states **$105,256.66** ($27.00 error).
+- MDD states the revised TO3/TO5a total payment as **$32,651,789.63** in two places vs the correct **$32,651,798.63** — transposed digits, $9.00.
+- SF30 attaches **"T.O. Schedules — Dated July 25, 2025"** (the version carrying the erroneous TO-3 R96 formula Frank caught 3/6/2026). MDD correctly attaches **August 10, 2026**.
+- MDD carries an unfilled placeholder: "partial cancellation in performance year **XX**"; signature block dated **8/00/2026**. GSA Legal (John Moore, 3/4/2026) expressly directed that the Effective Date (Box 3) be filled before signing.
+- MDD writes Menlo building code **CA091500** (numerals); the Pegasys interface failure is diagnosed against **CA0915OO** (letters). Verify against EASi — this typo class is the root of the manual-RR problem PS30 is meant to fix.
+- MDD header says award **10/1/2016**; MDD body and SF30 block 10B say **9/23/2016**.
+
+**MDD confirms on the record:** the termination fee is "established as a fixed, mutually agreed-upon settlement value, precluding any future reassessment of the underlying calculation methodology" — Matt's note #1 was adopted; the COR reconstruction "aligned with Honeywell's revised total within $95" and the Frank benefit read (~$212,800 to the Government) are both recited in the decision document. PS31 full schedule rebuild is committed in the MDD text for **Q4 of the calendar year**.
+
+---
+
+## Delta update — 2026-08-26 sweep: Year 7 payment PR being chased by Budget
+
+- **8/25/2026 4:30 PM PT — Chris Brown (Financial Management Specialist, Building Operations Branch BDBC, Enterprise B Zones 3/6/7)** to Matt, cc Joshua Chung, Guadalupe Novoa, Jay Wong (Gmail `1a03b429c036788d`), re **EQ9P3PME-16-5068 — NDER2 SFSC ESPC — Year 7 Payment**:
+  > "Checking the status of the PR for this project. **The other NDER2's in LA and SD have been received.** Funding is available and ready to commit."
+
+**COR significance:** SF is the only NDER2 in the family whose Year 7 payment PR has not been submitted — LA (7081) and San Diego (7074) are already in. Funding is staged and waiting. This is a new open item not previously on the watchlist.
+
+⚠️ **Interaction to resolve before submitting:** PS30 carries the Year 6 acceptance letter (accepted 3/17/2026, **$229,317 shortfall offset per §C.4.6**), the **$61,745.76** de-obligation, payment true-ups, and the **CA0915OO** Pegasys fix. Whether the Year 7 payment PR should be built before or after PS30 executes — and whether the §C.4.6 offset applies against Year 7 — needs to be settled with Chapman rather than assumed. Note also this contract has **no Pegasys interface** (manual RR every invoice) until the CA0915OO fix lands.
+
+🟠 **Action:** reply to Chris Brown with status, and confirm the PS30 sequencing question with CO Chapman.
+
+---
+
+## Delta update — 2026-08-27 sweep: Year 7 PR hold explained and accepted, with a year-end caveat
+
+- **8/26/2026 9:22 AM PT — COR replied to Chris Brown** (cc Chung, Novoa, Wong, Ingersoll; Gmail `1a03b429c036788d`): *"The SF Year 7 PR is not built yet, and that's deliberate. Modification PS30 removes Menlo Park from the Task Order Schedules and carries…"* — i.e. the hold is a sequencing decision, not an oversight.
+- **8/26/2026 3:12 PM PT — Chris Brown accepted with a caveat:** *"Thank you for the update Matthew. **We can hold off a little bit, but year end approaches and we don't want to let these funds expire.** Please let me know if you have any questions or I can assist."*
+
+🟠 **Net:** the sequencing rationale is on the record and Budget is standing by, but this now has a **soft FY-end clock**. PS30 execution is the gating event — the longer it slips, the tighter the Year 7 obligation window. Worth a status ping to Chapman on PS30 timing specifically framed around the expiring-funds risk.
+
+---
+
+## Delta update — 2026-08-28 sweep: 🗓️ PS30 execution date set — 9/11/2026 or earlier
+
+- **8/27/2026 8:47 AM PT — Stacy Garvey (Honeywell)** to Chapman, Matt, Frank, Berezovskiy (cc Correa, Kroeger, Prager, Athar, Pitts, Khan, Ingersoll, Johnson), Gmail `1a043e7bf584a36d`: *"I believe discussions and revisions of the TO Schedules have been resolved for the above-mentioned report. With that said, **when can HW expect receipt of the Acceptance Letter and…**"*
+- **9:22 AM PT — CO Chapman:** *"Thanks for your inquiry regarding San Francisco ESPC modification PS30. **The estimated execution date is September 11, 2026 or earlier.**"*
+
+**Why this matters beyond PS30 itself.** PS30 is the gating event for four downstream items: the Year 6 acceptance letter (accepted 3/17/2026, $229,317 §C.4.6 shortfall offset), the **$61,745.76** de-obligation, the payment true-ups, and the **CA0915OO** Pegasys fix that ends the manual-RR-every-invoice era.
+
+🟠 **It also sets the clock on the Year 7 payment PR.** Chris Brown (Budget) accepted the sequencing hold on 8/26 but warned *"year end approaches and we don't want to let these funds expire."* With PS30 landing **9/11 or earlier**, the Year 7 PR has roughly **two and a half weeks** between execution and the 9/30 fiscal-year wall. That is workable but not comfortable — worth staging the PR build now so it can route the day PS30 executes.
+
+---
+
+## Delta update — 2026-08-31 sweep: PS30 draft MDD + SF30 language circulated for pre-review
+
+- **8/28/2026 11:52 AM PT — CO Chapman circulated the pre-review package** (Gmail `1a049b8017ddc61b`) to **Matt, John P. Moore, and Carey Bergeron** (cc Heidi Johnson, Ingersoll):
+  > "Please find a pre-review of the SF PS30 Modification Decision Document (MDD) and the draft SF30 modification language. Please feel free to comment, or make suggestions. The full package…"
+
+**This is the COR's comment window**, and it lands against the **9/11-or-earlier execution date** Chapman gave Honeywell on 8/27. The COR already holds a full analysis of an earlier version of this same document set — the PS30 brief built 8/24 identified MDD-vs-SF30 discrepancies and four CO asks. Those should be checked against this draft:
+
+1. Whether the **operative CLIN 0030 figure** is stated correctly (de-obligation **$61,745.76**, CLIN 0030 residual **$4,279.83** — earlier drafts carried the superseded $62,755.93).
+2. Whether the SF30 is synced to the corrected **post-Menlo contract value $32,651,798.63** and the **Aug 10 2026** schedules.
+3. Whether an **affirmative reservation of Government rights** sentence was added — the release as drafted is one-directional (Honeywell→GSA) and Menlo-scoped, so the residual ask was only a rights reservation, not a lighting/M&V-credit carve-out.
+4. Housekeeping including the **CA091500 vs CA0915OO** building-code check that the Pegasys fix depends on.
+
+Note counsel (Moore, Bergeron) is on this distribution as well as tomorrow's LA unilateral-settlement call — the same two attorneys are now carrying both Chapman matters.
+
+- **9/3/2026 8:00–8:30 AM PT — NDER2 SF monthly Service Center cadence**; Jason Cawthorne accepted 8/28 (Gmail `1a04b2f0be20fede`).
+
+---
+
+## Delta update — 2026-09-02 sweep: ✅ PS30 re-submitted to OGC for legal sufficiency — COR comments delivered first
+
+- **8/31/2026 (evening) — COR comment set produced.** Four Drive artifacts created/revised:
+  - `PS30_MJS_Review_Comments_20260831` (three saves, 3:19 / 3:30 / 3:32 PM PT — Drive `1G1ojmirvmoCs0q8uslHEFIpgT2VhuhUbm3a-zsqbPUk`, `1tY9mZhKaduiw8CsXG9xGsp95qpUyVUCoYKF2fBn7ezQ`, `1rFxbcycN3l-RGWxQ4He1zIpKGXuZkrXz2MdjUuwE8MA`)
+  - `PS30_MDD_COR_Revised_20260831` (3:08 PM PT — Drive `1bNq9rGCQBvg7wmMZ5-IfDzGFYzlOPF9jEniQTMqQCE0`)
+  This closes the **"by 9/11 — PS30 draft MDD + SF30 language awaiting COR comment"** watchlist item ahead of schedule.
+
+- **9/1/2026 — the PS30 package documents were revised in Drive** ahead of transmittal: `Draft Modification Decision Document GSP0816JE7140 PS30` (11:15 AM PT, Drive `1J1JaLKZtuFovqNsdnK-TlQxIfXs96fOZLtgTcoVkqAc`) and `Modification PS30 - SF30 Modification Language` (11:12 AM PT, Drive `14CPJ94wIVmuo4rdSBeS2vfZh8cTDnZqBDPsGcbEvgRU`).
+
+- **9/1/2026 11:46 AM PT — CO Chapman re-submits PS30 to FM Legal** (Gmail `1a05e4ba86c0d0c0`; to John Moore, cc Healy, Bergeron, fmlegal, Johnson, **Schreck**):
+  > "I previously submitted this modification (PS30) for sufficiency review on March 3, 2026. John reviewed on March 4, 2026. **This modification wasn't awarded because the Task Order Schedules required many revisions between Honeywell and GSA over the past 5 months.** Please find the revised modification PS30 links for your review."
+
+  Package contents linked: the MDD, the **SF30 Modification** (Drive `16AbE6l6V-rFOae_euuWtjwivqjZPnr70`) with a **Task Order Schedule** attachment (Drive `12KiDwQPf1o4-v6tz-rB8hf5PBcVcjcKq`) **and an M&V Acceptance Letter** (Drive `1YKKeT2N9ZM5w7e5R_lkxdT86TgmjC8Vtni_BW4ju3G0`), plus the PS30 folder (`1DSkFhLpOwaZ8z3AVJPB7UBkFZndcFef_`).
+
+🆕 **New element vs. the March package: the M&V Acceptance Letter.** The March 3 submission listed only the MDD, SF30, and TO Schedule. The Year 6 acceptance letter now rides inside the same modification — which is consistent with this dossier's record that the **Y6 $229,317 recovery is embedded in PS30**. That makes PS30 the instrument that both de-obligates the Menlo residual and papers the Y6 M&V acceptance.
+
+🟠 **COR action, time-sensitive:** Matt is cc'd but the transmittal does not say whether his 8/31 comments were incorporated into the MDD/SF30 Chapman sent. The MDD was last touched 31 minutes before the email went out. **Verify the comment disposition before OGC signs off** — once Moore returns a sufficiency opinion on a version, reopening it costs another review cycle, and the March precedent shows Moore turns these around in about one day.
+
+⏭️ **Downstream, unchanged:** execution target 9/11 or earlier, then the **Year 7 payment PR** before FY-end. The Year 7 PR remains held behind PS30 with fund-expiry risk — the 9/1 re-submission is the event that unblocks it, so track Moore's response as the gating signal.
+
+### ⚠️ Amendment — the comment set is not "closed ahead of schedule"
+
+The entry above framed the 8/31 COR comment set as clearing the "PS30 draft MDD + SF30 language awaiting COR comment" watchlist item. A **9/1 afternoon live pass** read the comment sheet itself and the picture is materially worse:
+
+- The 8/31 COR comment sheet logs **17 comments on the draft — 8 Red (execution-blocking), 0 closed.**
+- **Comment #1, raised by Matt himself:** the Menlo settlement was computed as a **capital-balance buyout** rather than the **NPV-of-remaining-guaranteed-savings** method the ESPC termination construct calls for. That is a methodology objection, not a drafting nit.
+- **Comment #2:** no written **Bank of America concurrence** exists that the settlement discharges Menlo's financed balance.
+- **Comment #3:** the basis for the **11.2078% Menlo savings ratio** is not established.
+- On **8/27** Chapman told Honeywell's Stacy Garvey that execution was *"estimated September 11, 2026 or earlier."* That estimate does not reconcile with 8 open blockers logged four days later.
+
+**So the correct reading of 9/1 is:** Chapman re-submitted PS30 to OGC **with the blocking comments still open**, and the COR is a cc rather than an addressee on that transmittal.
+
+🔴 **This raises the priority of the verification action, it does not satisfy it.** John Moore returned the March version in a single day. A legal sufficiency opinion attaching to a version that still computes the settlement on the wrong basis does not fix the basis — it just makes the objection more expensive to raise. **Get the methodology objection in front of Chapman before Moore opines.**
+
+*(Note the evidence asymmetry: this session confirmed the 9/1 re-submission from the Gmail record directly; the 17-comment / 8-Red tally comes from the 9/1 afternoon pass's reading of the comment sheet and has not been re-verified here. Matt has the sheet — the count is his to confirm.)*
+
+### 🔴 Sent-file reconciliation, 2026-09-02 — the PS30 comments were never transmitted
+
+Reconciling the record against Matt's actual **Gmail Sent** folder overturns the framing in both entries above.
+
+**What Sent shows for 8/31/2026.** Four messages went out that day, none of them to Chapman:
+- 8:32 AM PT — reply to hspd12.security re the ABM LA CIW attachment (Gmail `1a058c637c51de0a`)
+- 8:32 AM PT — Kolin Christiansen PIV certificate reminder, McKinstry (Gmail `1a0587329638e146`)
+- 8:32 AM PT — Jose Topete PIV certificate reminder, Honeywell LA (Gmail `1a05873533e2d0d3`)
+- 8:46 AM PT — Sieglinde Kinne, Detroit CIW phone number request (Gmail `1a0587fe8da26af6`)
+
+**There is no 8/31 transmittal of the PS30 comment set to CO Chapman, or to anyone.**
+
+**Drive corroborates.** Both work products were created and saved, and both are shared with **no one**:
+- `PS30_MJS_Review_Comments_20260831` (Drive `1rFxbcycN3l-RGWxQ4He1zIpKGXuZkrXz2MdjUuwE8MA`) — permissions: `matthew.schreck@gsa.gov` (owner) only
+- `PS30_MDD_COR_Revised_20260831` (Drive `1bNq9rGCQBvg7wmMZ5-IfDzGFYzlOPF9jEniQTMqQCE0`) — permissions: `matthew.schreck@gsa.gov` (owner) only
+
+**The draft that says otherwise.** An unsent draft to Chapman dated **9/1/2026 12:42 PM PT** (draft `r2099242177437106608`, cc Johnson, Ingersoll, Frank) opens: *"My PS30 comments went back on 8/31 with the revised MDD and verification memo, so this note is about the piece you flagged to Honeywell on 8/14: PS31."* **That premise is not supported by the Sent file or by the Drive permissions.** The draft itself has also never been sent.
+
+**Sequence, corrected:**
+
+| When | What |
+|---|---|
+| 8/28 11:53 AM PT | Chapman circulates the draft MDD + SF30 language for pre-review |
+| 8/31 | COR produces the comment sheet and a revised MDD in Drive — **not shared, not emailed** |
+| **9/1 11:46 AM PT** | **Chapman transmits PS30 to OGC (John Moore) for legal sufficiency** — without the COR comments |
+| 9/1 12:42 PM PT | COR drafts a reply to Chapman asserting the comments "went back on 8/31" — **left unsent** |
+| 9/2 | Sweep confirms: nothing sent, nothing shared |
+
+🔴 **This changes the action.** The earlier entries framed the task as *verify the comments were incorporated*. They were not incorporated because they were never delivered. **The comment set has to be transmitted, and Chapman has to decide what to do about a package already sitting with Legal.** John Moore returned the March version in one day.
+
+**Action taken this sweep (drafts only — nothing sent):** the 9/1 draft to Chapman was rewritten to remove the unsupported "went back on 8/31" claim, to transmit the comment set explicitly, to acknowledge that the package went to Moore first, and to put three handling options to the CO (supplement Moore now / disposition on return / fold into PS31 scope). The blocking comments themselves are left as a marked placeholder for Matt to populate from his own sheet — this sweep verified that a comment sheet exists and is unshared, but has not read its contents and will not paraphrase them.
+
+⚠️ **Consequence for the earlier "17 comments, 8 Red, 0 closed" figure:** that tally came from a different automated pass reading the sheet, and this sweep did not re-verify it. Whatever the count, the operative fact is that none of it reached the CO.
+
+---
+
+## Delta update — 2026-09-03 sweep: PS30 comment transmittal still unsent; Chapman on sick leave today; Matt OOO tomorrow
+
+- **The rewritten draft to Chapman (`r2099242177437106608`) has not been sent.** Sent folder since 9/2: one message, the ABM LA minutes. Nothing to Chapman.
+- **9/3 3:18 AM PT — Chapman declines today's "GSA-TRM and M&V Review" (1:00–2:00 PM PDT):** *"On S/L today."* (Gmail `1a066c7170809200`). So the TRM discussion does not happen today either.
+- **Matt is OOO 9/4–9/13** (per the ABM LA minutes, §11).
+
+🔴 **This is now a nine-day exposure window.** PS30 has been with John Moore since 9/1 11:46 AM; Moore returned the March version in one day. If the comments are not transmitted today, the earliest they can go is 9/14 — and the Year 7 PR that sits behind PS30 has FY-end fund expiry on 9/30. Chapman being out today does not change the math: an email sent today is in his queue when he returns; one sent 9/14 is not. **Send the draft today, with the attachments, before leaving.** If the blocking-comment placeholder can't be filled in the time available, send it with the comment sheet attached and the placeholder line removed — the attachment carries the content.
+
+*(Housekeeping: the 9/3 decline shows org codes "PMDDB" for Chapman and "PMDDC" for Matt — different from the "PMCDC/PMCDB" codes on 9/1 traffic. Possibly a reorg code change; not a contract event.)*
