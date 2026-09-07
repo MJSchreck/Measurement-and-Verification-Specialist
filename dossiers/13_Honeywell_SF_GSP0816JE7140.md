@@ -396,3 +396,13 @@ Reconciling the record against Matt's actual **Gmail Sent** folder overturns the
 🔴 **This is now a nine-day exposure window.** PS30 has been with John Moore since 9/1 11:46 AM; Moore returned the March version in one day. If the comments are not transmitted today, the earliest they can go is 9/14 — and the Year 7 PR that sits behind PS30 has FY-end fund expiry on 9/30. Chapman being out today does not change the math: an email sent today is in his queue when he returns; one sent 9/14 is not. **Send the draft today, with the attachments, before leaving.** If the blocking-comment placeholder can't be filled in the time available, send it with the comment sheet attached and the placeholder line removed — the attachment carries the content.
 
 *(Housekeeping: the 9/3 decline shows org codes "PMDDB" for Chapman and "PMDDC" for Matt — different from the "PMCDC/PMCDB" codes on 9/1 traffic. Possibly a reorg code change; not a contract event.)*
+
+---
+
+## Delta update — 2026-09-07 sweep: transmittal still unsent into leave; PS31 source files staged
+
+- **The PS30 comment transmittal to Chapman was not sent before leave.** The draft (`r2099242177437106608`) was last edited **9/3 11:11 AM PT** and still sits in Drafts; Sent 9/3–9/7 has nothing to Chapman. PS30 has been with OGC since 9/1; earliest transmittal is now **9/14**. The Year 7 PR with 9/30 fund expiry remains behind it.
+- **9/3 — "NDER2_SF ESPC_Status Brief_Cawthorne"** updated (Drive `1nAdx-jqA30xFBKh4adS4Rnc8cDvYcTdgZC5Bd_5kxwU`) — a COR status brief for the SF service center.
+- **9/3 ~2:00 PM PT — predecessor (Bogni) NDER2 SF files migrated into the Zone 7 structure**: the 9/27/2019 Post Installation Report (32.6 MB, `1NBTl8xXyxYpK-0yr7F-hUKzontmxEqiH`), Financial Schedules 1-30-20 (`15y97AE0k04vwGfIhCubBis0whnqRDoew`), the Xeriscape IGEs and savings memos, O&M Savings CAP analysis, and contract mods PA09/PA22/PS02/PS04. This is the source material the **PS31 full-rebuild** scope memo calls for; it is now in one place.
+
+🔴 **On return 9/14, first thing:** send the Chapman transmittal with attachments. Check first whether Moore has already returned a sufficiency opinion — if so, the ask changes from "before you opine" to "here is what the opinion did not consider."

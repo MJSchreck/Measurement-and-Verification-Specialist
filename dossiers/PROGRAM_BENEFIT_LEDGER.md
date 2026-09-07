@@ -54,6 +54,8 @@
 | 02 McKinstry | Withholding-record conflict ($130K FEMP vs $216K PMO) | **$86K delta** | Records reconciliation |
 | 03 ABM LA | RY10 consolidated miss labeled "govt responsibility" at $0 impact, never collected | **$93,808** | CO determination |
 
+**Status note 2026-09-07 — ABM LA Phase 2B (in play, no rollup change).** ABM's 9/4 written answer puts its "$7.3M" at **$7,324,684** = $1,882,667 of GSA short pays (Yr10 $457,154 / Yr11 $482,673 / Yr12 $942,840) + $4,075,798 HASI buydown + $1,366,217 O&M reduction. The short pays are the Government's own withholdings and are already carried in Section C of this ledger (ABM LA $1,221,140 held — note ABM's Yr12 figure differs from the $994,074 carried here by $51,234; reconcile). ABM refused the variance comparison against the 6/3 memo (NTV $7,174,008), asserting the memo's cost basis wrongly included JCI, and did not address the 4% premium. Evidence: Gmail `1a06db1821b0e57b`, `1a06e4a809be0999`.
+
 **Status note 2026-09-03 — ABM LA Phase 2B (in play, no rollup change).** At the 9/2 check-in ABM conceded on the record that the BESS did not perform and a fire occurred, agreed to physical removal (abandon-in-place rejected), and disclaimed a rates dispute. ABM's $7.3M "consideration" decomposes as ~$1.8M of GSA's own withholdings + a $4.0M buydown carrying an unsubstantiated 4% premium + ~$1.3M Schedule 3 cut that ABM admitted is partly non-Phase-2B ("fungible"). GSA reference remains the 6/3 COR memo NTV **$7,174,008**. Methodology (terminate-as-never-included vs. re-amortize) goes to CO Jolles after confirmation with Heidi Johnson. Evidence: COR minutes Gmail `1a06443718bf775d`, Drive `19CIBVGwNbKawVn9gISqFEAiewPQPJyuafaUvbHBCOb0`.
 
 ## E — Integrity & Avoidance Wins (unquantified or structural)

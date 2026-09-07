@@ -196,3 +196,6 @@ The entry above called the McKinstry HSPD-12 package "19 days unanswered since 8
 🟡 **A separate, newer PIV item on this contract does remain open:** **Kolin Christiansen's** PIV certificate renewal (expires 10/10/2026). A reminder was sent 8/31 and acknowledged; he reports his in-person update appointment already succeeded, and confirmation is awaited on whether a return visit is needed.
 
 ⚠️ **Naming-collision caution, worth carrying:** Drive holds an active, separate **"NDER6 DFC ESPC" design/construction project** also at the Denver Federal Center, with its own weekly progress meetings (the 9/1 notes logged above belong to that project). Confirm with CO Jolles before filing any "DFC"-labeled document against **47PJ0024F0020** — the two are different awards.
+
+### 9/7 sweep — DFC touch-base rescheduled to 9/17
+- **9/3 10:05 AM PT — Leanne Jones (McKinstry)** asks to reschedule the SkySpark/BAS-access + PY12 M&V touch-base cancelled 7/20 (Gmail thread `19f80c1051fa2c48`). **Matt picks Thu 9/17, 1:00–2:00 PM (MT)** (`1a068d141da70548`). **9/4 8:07 AM PT — Jones:** *"are you able to schedule the Google Meet with your team?"* (`1a06cf5fcf26a74e`). 🟡 **On return: send the Meet invite** (Jolles, Luke G. cc'd on thread; earlier list included Blatt, Beadle, Barber, Miller). This is the SkySpark trend-gap conversation that gates PY12 analysis.

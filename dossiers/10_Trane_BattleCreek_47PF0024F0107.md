@@ -344,3 +344,7 @@ The full text of the COR's 8/26 transmittal (Gmail `1a04027d5b464aef`) is now re
 ### 9/3 sweep — no movement; the 9/30 wall now has a 9-day hole in it
 - No EASi notice for **EQ5P2SS2P1-24-0002-M0003**, no Trane P&I split, no Conant traffic in this window.
 - **Matt is OOO 9/4–9/13.** Funds must obligate NLT 9/30. That leaves **12 business days after return**, and the mod still needs: M0003 approval → Trane's split → revised COR MFR → PS0006 award. 🔴 **Route M0003 today** so the funding side clears while he is out, and tell Conant in writing who covers the revised MFR if Trane's figures land before 9/14 (Ingersoll is the natural backstop; the MFR skeleton should be drafted and left with him).
+
+### 9/7 sweep — no movement; 17 calendar days to the wall
+- No EASi notice on EQ5P2SS2P1-24-0002-M0003, no Trane P&I split, no Conant traffic 9/3–9/7. No note to Conant or Ingersoll on leave coverage in Sent.
+- 🔴 Matt returns 9/14 with **12 business days** to 9/30 and the chain unchanged: M0003 approval → Trane split → revised MFR → PS0006. Ingersoll is on the Honeywell LA thread and the ABM LA minutes; whether he knows he is the Battle Creek backstop is not on the record.

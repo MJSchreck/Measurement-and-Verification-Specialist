@@ -316,3 +316,25 @@ Under a unilateral determination the Government sets the settlement amount itsel
 
 **Also this window (housekeeping, not COR-actionable):**
 - **9/1/2026 2:00 AM PT — HSPD-12 notice: Jose Topete's GSA Access Card *certificates* expire 09-08-2026** (Gmail `1a05c33224caeccf`; cc Susan Gjeltema/Honeywell, Chapman, Schreck). This is a certificate renewal, not a card replacement — the card itself is not expiring. No COR action unless Topete is blocked from site access.
+
+---
+
+## Delta update — 2026-09-07 sweep (covers 9/3–9/7): ✏️ the Notice of Intent DID issue 9/1 — Honeywell's package due 9/8; COR sets the requirements
+
+### Correction to the 9/2 and 9/3 entries
+Both said the 9/1 legal call "left no written record" and that issuance was unconfirmed. **Wrong.** CO Chapman sent the **Notice of Intent to Issue Unilateral Settlement Determination** to Honeywell (Sapir, Correa, Pitts; cc Schreck, Johnson, Ingersoll, Kroeger, Garvey, Athar, Khor) on **9/1/2026 at 1:30 PM PT** — ninety minutes after the noon call (Gmail thread `1a05eaa509d0c43c`, message `1a05eaa509d0c43c`, attachment: the Notice). Matt's read receipt went 1:57 PM. The sweep missed it because Matt's copy sits in **Trash**; the thread is live. The FAR 49.109-7 path is on the record and the 15-day clock from receipt is running.
+
+### Honeywell responds — and the COR sets the bar for the package
+- **9/3 7:12 AM PT — Stacey Pitts (Honeywell):** *"We have received feedback from Bostonia. I will provide the proposal document and updated financial schedules by Tuesday now that they have confirmed the amount."* (`1a0679cee8dba481`)
+- **9/3 7:41 AM PT — COR to Pitts** (`1a067b7583b3b49d`, all parties cc'd): package due **Tue 9/8**; per the 8/4 notice for 312 N. Spring St (CA0041ZZ) it must contain (1) the settlement as-of date, (2) the allocation methodology for the building's share of the outstanding balance, (3) updated **TO-1 and TO-5A** with restated guaranteed savings for the remaining term, (4) treatment of the **PY9 stub (3/1/2026–2/28/2027)**, (5) invoice submission and payment dates. Also: **identify "Bostonia" and its relationship to MassMutual Asset Finance LLC** so the chain of approval on the confirmed amount is clear. Government is working to the **9/30 obligation deadline**.
+- **9/3 9:54 AM PT — COR addendum** (`1a068314fc857aef`): *"GSA's budget office requires the settlement amount itemized by principal, accrued interest, and prepayment premium as of the settlement date, identified consistently with the contract's Schedule TO-3 amortization. A single payoff figure from the financier will not clear certification."* — the Battle Creek lesson (Budget's 8/25 J-type rejection) applied proactively so this PR does not bounce.
+
+### Separately — Garvey tries to defer the lighting test; COR declines
+- **9/3 8:24 AM PT — Stacy Garvey:** wants to *"discuss the deferral of the lighting testing for the Year 9 report so we can close Year 8"*; she is engaging a lighting company (`1a067ded94a3d70f`).
+- **9/3 10:03 AM PT — COR** (`1a0683a1bcba8f40`, cc Chapman): *"I'm not in a position to agree to rolling it into the Year 9 report cycle. This item has been open since the Year 6 comments in 2024, and it's tied to an active compliance matter on our side"* — i.e., the queued lighting cure notice. Asked for the lighting company's **proposed scope and earliest testing window for Chambers and Santa Ana** (the two sites required by the M&V Plan). Cadence stands; the 9/3 TRM/M&V meeting was cancelled by Matt for FY-closeout conflicts.
+
+### Where this stands
+- 🟠 **Honeywell's package is due 9/8 — during Matt's leave.** Chapman and Ingersoll are on the thread; Chapman receives. The five requirements plus the P&I split are on the record, so the package can be checked against them by whoever opens it.
+- The 9/30 obligation wall holds. If the 9/8 package is complete, the PR build follows the Battle Creek pattern (amendment to the existing PR, not a standalone).
+- Year 8 acceptance is now explicitly gated on the lighting test, not deferred. Garvey owes a scope and a date.
+- Matt's copy of the 9/1 Notice is in Trash — restore it to the labeled thread so the COR file carries the CO's issuance.
