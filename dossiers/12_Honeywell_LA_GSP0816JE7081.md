@@ -338,3 +338,6 @@ Both said the 9/1 legal call "left no written record" and that issuance was unco
 - The 9/30 obligation wall holds. If the 9/8 package is complete, the PR build follows the Battle Creek pattern (amendment to the existing PR, not a standalone).
 - Year 8 acceptance is now explicitly gated on the lighting test, not deferred. Garvey owes a scope and a date.
 - Matt's copy of the 9/1 Notice is in Trash — restore it to the labeled thread so the COR file carries the CO's issuance.
+
+### 9/8 sweep — package day; nothing in yet
+- Honeywell's N. Spring St proposal + updated schedules were due **today, 9/8** (Pitts, 9/3). **Not received as of 6:00 AM PT.** Chapman receives; Matt's auto-reply is on. Requirements incl. the TO-3 P&I split are on the thread (`1a05eaa509d0c43c`).

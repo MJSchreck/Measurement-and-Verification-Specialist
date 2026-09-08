@@ -1,7 +1,7 @@
 # Zone 7 Active Contract Portfolio — Deep-Dive Overview
 
 **Prepared for:** Matt Schreck, CEM — Energy Program Specialist / Zone 7 COR & M&V Lead, GSA Energy Division
-**Prepared:** 2026-08-24 | **Last delta sweep:** 2026-09-07 (covers 9/3–9/7; the 9/4 firing was lost to a connector outage) | **Coverage:** earliest records on each contract through today
+**Prepared:** 2026-08-24 | **Last delta sweep:** 2026-09-08 | **Coverage:** earliest records on each contract through today
 **Method:** 13 parallel deep-dive investigations across Google Drive (files owned by and shared with matthew.schreck@gsa.gov), Gmail history (Dec 2024 → today), and the live "Workload ESC" management sheets. Every dossier traces dated claims to documents or emails actually read; gaps are flagged explicitly.
 
 ## Scope note
@@ -28,7 +28,7 @@ All 13 are covered here so nothing falls through. If one of them shouldn't be co
 | 10 | [Trane HDI Battle Creek](10_Trane_BattleCreek_47PF0024F0107.md) | 47PF0024F0107 | Trane | R5 Battle Creek | Conant | $13.2M | 🟡 **Standalone PR rejected 9/1 — rebuilt as EQ5P2SS2P1-24-0002-M0003 at $4,299,486.37**; both CO determinations answered; obligate NLT 9/30 |
 | 11 | [JCI PJKK Honolulu](11_JCI_PJKK_47PK0223F0041.md) | 47PK0223F0041 | JCI | R9 Honolulu | Conant | $15.2M | 🔴 **Performance completed 8/31/26**; end-date mod **37 days overdue**; **Y15 comment deadline 9/4 passed with nothing sent** |
 | 12 | [Honeywell NDER2 LA](12_Honeywell_LA_GSP0816JE7081.md) | GS-P-08-16-JE-7081 | Honeywell | R9 LA | Chapman | $65.0M | Year 9 paid; ✏️ **Notice of Intent to Issue Unilateral Settlement Determination issued 9/1 1:30 PM** (earlier entries wrong); Honeywell package due 9/8 with COR requirements on record |
-| 13 | [Honeywell NDER2 SF](13_Honeywell_SF_GSP0816JE7140.md) | GS-P-08-16-JE-7140 | Honeywell | R9 SF | Chapman | $40.8M | 🔴 **PS30 at OGC since 9/1 — COR comment transmittal never sent; earliest 9/14**; **Year 7 PR still held behind PS30** with FY-end fund-expiry risk |
+| 13 | [Honeywell NDER2 SF](13_Honeywell_SF_GSP0816JE7140.md) | GS-P-08-16-JE-7140 | Honeywell | R9 SF | Chapman | $40.8M | 🔴 **PS30 MDD edited 9/8: COR de-ob figure adopted, methodology objection foreclosed**; comment transmittal never sent; **Year 7 PR still held behind PS30** with FY-end fund-expiry risk |
 
 ## 🔴 Time-Critical Watchlist (next 40 days)
 
@@ -36,8 +36,9 @@ All 13 are covered here so nothing falls through. If one of them shouldn't be co
 
 | Date | Contract | Item |
 |------|----------|------|
-| **9/8 (leave)** | Honeywell LA | 🟠 **Honeywell's N. Spring St proposal + updated TO-1/TO-5A due** (Pitts, after Bostonia confirmed the amount). Requirements are on the record: as-of date, allocation method, restated savings, PY9 stub, invoice/payment dates, Bostonia-vs-MassMutual chain, **P&I/premium split per TO-3**. Chapman receives. 9/30 obligation wall |
-| **9/14 first** | Honeywell SF | 🔴 **Send the PS30 comment transmittal.** Still in Drafts (last edit 9/3 11:11 AM). PS30 at OGC since 9/1. Check whether Moore has already opined; if so, reframe. Year 7 PR fund-expiry 9/30 sits behind this |
+| **9/8 (leave)** | Honeywell LA | 🟠 **Honeywell's N. Spring St proposal + updated TO-1/TO-5A due today — not in as of 6 AM PT** (Pitts, after Bostonia confirmed the amount). Requirements are on the record: as-of date, allocation method, restated savings, PY9 stub, invoice/payment dates, Bostonia-vs-MassMutual chain, **P&I/premium split per TO-3**. Chapman receives. 9/30 obligation wall |
+| **9/14 first** | Honeywell SF | 🔴 **PS30 MDD was edited 9/8 5:21 AM.** It now carries the COR's $61,745.76 de-ob figure, HW-absorbs-variance on the $2,022.62, and a PS31 rebuild commitment ("Q4," no date certain) — but it **forecloses the settlement-methodology objection** ("precluding any future reassessment") instead of answering it, and introduces an $8,774,335.09 "erroneous" TCV add-back to reconcile against the memo's $3,413,498.05. Transmittal still in Drafts. On return: decide whether the objection goes to file as a COR memo, and send the comment sheet regardless |
+| **during leave** | Honeywell SF | 🟠 **Finance (Raj Shandal, BFFB) wants the latest TO3/ECM Excel schedules to reconcile payments**; Kirk forwarded 9/8. Whoever answers must send the **8/10/2026 accepted revision** from the PS30 folder, not the 4/28 workbook with detached formulas |
 | **9/14** | Battle Creek | 🔴 **Route EQ5P2SS2P1-24-0002-M0003** ($4,299,486.37). Nothing moved 9/3–9/7. 12 business days to 9/30 for approval → Trane split → revised MFR → PS0006 |
 | **9/14** | PJKK | 🔴 **Y15 comments — deadline 9/4 passed silently.** Send with an acknowledgment; put the end-date mod (37 days overdue) to Conant in the same note |
 | **9/14** | ABM LA | 🟠 ABM answered 9/4: items 1 and 2 not delivered as asked (no by-year split; 6/3 memo "does not permit a meaningful comparison"), 4% premium unaddressed, $7,324,684 decomposed ($1,882,667 GSA short pays + $4,075,798 buydown + $1,366,217 O&M cut). **Reconcile Yr12 short pay $942,840 vs dossier $994,074.** Becker's "$9.1M or netted?" question is item 6 — Jolles + Johnson, not an email answer |

@@ -406,3 +406,30 @@ Reconciling the record against Matt's actual **Gmail Sent** folder overturns the
 - **9/3 ~2:00 PM PT — predecessor (Bogni) NDER2 SF files migrated into the Zone 7 structure**: the 9/27/2019 Post Installation Report (32.6 MB, `1NBTl8xXyxYpK-0yr7F-hUKzontmxEqiH`), Financial Schedules 1-30-20 (`15y97AE0k04vwGfIhCubBis0whnqRDoew`), the Xeriscape IGEs and savings memos, O&M Savings CAP analysis, and contract mods PA09/PA22/PS02/PS04. This is the source material the **PS31 full-rebuild** scope memo calls for; it is now in one place.
 
 🔴 **On return 9/14, first thing:** send the Chapman transmittal with attachments. Check first whether Moore has already returned a sufficiency opinion — if so, the ask changes from "before you opine" to "here is what the opinion did not consider."
+
+---
+
+## Delta update — 2026-09-08 sweep: the PS30 MDD was edited this morning — several COR items landed, the methodology objection was foreclosed rather than answered
+
+**9/8/2026 5:21 AM PT — `Draft Modification Decision Document GSP0816JE7140 PS30` modified** (Drive `1J1JaLKZtuFovqNsdnK-TlQxIfXs96fOZLtgTcoVkqAc`); **5:48 AM PT — the Year 6 Acceptance Letter modified** (Drive `1YKKeT2N9ZM5w7e5R_lkxdT86TgmjC8Vtni_BW4ju3G0`). Editor not visible to the sweep; both are Chapman's documents in the PS30 folder and the hour fits Fort Worth. No email from Moore or Chapman on the sufficiency thread since 9/1, so **whether OGC has opined is still unknown** — but someone is working the package.
+
+### What the MDD now says, read against the COR's open items
+
+| COR item (PS31 memo / 8/31 comments) | MDD as of 9/8 | Status |
+|---|---|---|
+| De-obligation figure: $61,745.76 vs $62,755.93 | **$61,745.76** — CLINs 0021/0023/0026/0029/0030 itemized to that total; obligated amount $10,433,458.51 → $10,371,712.75 | ✅ COR figure adopted |
+| $2,022.62 Misc Adj responsibility | Retained on TO1; *"Honeywell agreed to include an explanatory note on the schedules and absorb any associated financial discrepancies"* | ✅ Honeywell-bears-variance is in |
+| PS31 commitment | *"HW will resolve this adjustment via a complete schedule rebuild scheduled for formal execution under Modification PS31 in Q4 of the calendar year"* | 🟡 Commitment is in; **no 12/31/26 date certain** — "Q4" only |
+| **Comment #1 — settlement computed as capital-balance buyout, not NPV of remaining guaranteed savings** | *"PF David Frank observed that while this approach is self-referential, it reflects Honeywell's own submitted calculation and yields a benefit to the Government of roughly $212,800. Therefore, the termination fee is established as a fixed, mutually agreed-upon settlement value, **precluding any future reassessment of the underlying calculation methodology**."* | 🔴 **Not answered — foreclosed.** The MDD converts the number into a stipulated settlement so the method can never be revisited. That is a defensible CO choice, but it is a *decision about* the objection, not a disposition *of* it, and it was made without the comment sheet ever reaching Chapman |
+| Bank of America concurrence that the settlement discharges Menlo's financed balance (comment #2) | Not mentioned | 🔴 Open |
+| Basis for the 11.2078% ratio (comment #3) | Stated as "11.21% Menlo savings ratio," applied to $16,398,435.39 (8/31/25 balance) → preliminary $1,897,982.31, then to the post-buydown balance (~$14,546,745) → **$1,685,165** | 🟡 Applied, not derived |
+| Unobligated CLIN restatement ($3,413,498.05 overstatement vs revised TCV) | TCV reduced **$10,459,500.71** ($40,767,515.20 → **$30,308,014.49**) = $1,685,165.62 settlement + **$8,774,335.09** of annual funding for Years 2–5 "erroneously added to the Contract Base and All Options amount." Unobligated balances restated: CLIN 0001 $16,525,256.65 · CLIN 0002 $4,938,515.62 · CLIN 0003 $1,886,027.52 | 🟡 **Different framing and a new figure.** The $8,774,335.09 "erroneous" add-back needs to be reconciled to the $3,413,498.05 the COR memo carries before either is cited |
+
+**Drafting defects still in the text:** "performance year XX"; Attachment 1 (Year 6 Acceptance Letter) is *"Dated September 28, 2026"* — a future date, presumably the intended execution date rather than the letter date (Year 6 was accepted 3/17/2026); signature block "9/00/2026"; the schedules attachment is "Dated August 8, 2026" (the accepted revision this dossier carries as 8/10).
+
+**Net:** three of the COR's asks are in the MDD without the comment sheet ever having been transmitted — which means Chapman got them from the 8/24 SF30 meeting or the PS31 draft memo's earlier circulation, or arrived at them independently. The one that matters most, the settlement methodology, was closed by making the number non-reviewable. If Matt still wants that on the record, the vehicle is now a **COR memorandum to file** noting the objection and the CO's stipulated-settlement determination, not a comment on the MDD.
+
+### Also today — Finance is reconciling against the schedules
+- **9/4 9:52 AM — Rajesh Shandal (BFFB)** to Kirk Doll: *"I am trying to reconcile payments with the latest TO3 and ECM breakout schedules for this contract. Can you please send me the most recent excel schedules (To3, ECM schedules)?"* **9/8 3:38 AM PT — Doll forwards to Matt** (`1a08098e25ea2a67`); auto-reply returned ("out of office until September 11th").
+- 🟠 **Risk while Matt is out:** the "most recent" Excel schedules are the **8/10/2026 accepted revision** in the PS30 folder (the one PS30 incorporates), not the 4/28/26 workbook with 45,616 detached formulas and seven #REF!s. If Kirk pulls from the wrong place, Finance reconciles against a broken file. Whoever answers Raj should send the PS30-folder version and say which one it is.
+

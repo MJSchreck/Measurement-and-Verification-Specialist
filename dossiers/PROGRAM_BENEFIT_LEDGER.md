@@ -58,6 +58,8 @@
 
 **Status note 2026-09-03 — ABM LA Phase 2B (in play, no rollup change).** At the 9/2 check-in ABM conceded on the record that the BESS did not perform and a fire occurred, agreed to physical removal (abandon-in-place rejected), and disclaimed a rates dispute. ABM's $7.3M "consideration" decomposes as ~$1.8M of GSA's own withholdings + a $4.0M buydown carrying an unsubstantiated 4% premium + ~$1.3M Schedule 3 cut that ABM admitted is partly non-Phase-2B ("fungible"). GSA reference remains the 6/3 COR memo NTV **$7,174,008**. Methodology (terminate-as-never-included vs. re-amortize) goes to CO Jolles after confirmation with Heidi Johnson. Evidence: COR minutes Gmail `1a06443718bf775d`, Drive `19CIBVGwNbKawVn9gISqFEAiewPQPJyuafaUvbHBCOb0`.
 
+**Status note 2026-09-08 — Honeywell SF PS30 (Section A/E, no rollup change).** The PS30 MDD as edited 9/8 adopts the COR's de-obligation figure of **$61,745.76** (over Honeywell's $62,755.93 — a $1,010.17 correction), fixes the $2,022.62 Misc Adj with Honeywell absorbing any discrepancy, and records the $1,685,165.62 Menlo settlement as a stipulated value with the COR's independent calculation within $95 (the ~$212,800 GSA-favorable result already in Section E). The MDD's TCV reduction of $10,459,500.71 includes $8,774,335.09 of annual funding "erroneously added" to the contract ceiling — a correction, not a recovery, and not yet reconciled to the COR's $3,413,498.05 figure. Evidence: Drive `1J1JaLKZtuFovqNsdnK-TlQxIfXs96fOZLtgTcoVkqAc`.
+
 ## E — Integrity & Avoidance Wins (unquantified or structural)
 
 | Date | Contract | Event | Actor(s) |
