@@ -348,3 +348,40 @@ The full text of the COR's 8/26 transmittal (Gmail `1a04027d5b464aef`) is now re
 ### 9/7 sweep — no movement; 17 calendar days to the wall
 - No EASi notice on EQ5P2SS2P1-24-0002-M0003, no Trane P&I split, no Conant traffic 9/3–9/7. No note to Conant or Ingersoll on leave coverage in Sent.
 - 🔴 Matt returns 9/14 with **12 business days** to 9/30 and the chain unchanged: M0003 approval → Trane split → revised MFR → PS0006. Ingersoll is on the Honeywell LA thread and the ABM LA minutes; whether he knows he is the Battle Creek backstop is not on the record.
+
+---
+
+## Delta update — 2026-09-09 sweep: 🔴 Trane's FINAL proposal with the P&I detail landed 9/4 — the revised-MFR trigger has been sitting since Friday; a TO-3 discrepancy and an unwitnessed-by-COR site walk surface
+
+The buyout thread (`19fc95074a3c4764`, 40 messages) was re-pulled in full. The 8/27–9/8 traffic below was **not** in prior sweeps — it is all addressed to Conant with Matt only on cc, and the thread preview never surfaced it.
+
+### The settlement figure, the split, and the 3%
+| When (PT) | Who | What |
+|---|---|---|
+| 8/27 1:28 PM | Hanna (Trane) | After checking with the financier and **MOD 5**: *"There is a minor discrepancy in TO3 on the schedules you provided concerning the BACnet controller… this specific work was funded separately… your version of the TOs still rolls this cost into the total amount financed. The versions used by Trane and Hannon… correctly exclude"* it. **$4,299,486.37 stands.** (`1a044e96c7dfbadd`) |
+| 9/1 3:42 PM | Conant | Asks for an updated proposal **breaking down principal and interest** (`1a05f23ab22d8234`) |
+| 9/3 2:27 PM | Hanna | **Updated letter keyed to 11/01/2026.** *"the principal + interest cannot be broken down at this time. But the total amount for the date above does include **3% as early termination liability**."* — `GSA HDI - Early_Cancellation_Response (updated).pdf` (`1a0692cae0c4ca88`) |
+| 9/3 4:54 PM | Conant | *"What is your estimated timeline for the principal/interest breakdown? We need this breakdown to ensure proper accounting for the termination cost."* (`1a069b2348adf7f8`) |
+| **9/4 9:29 AM** | **Hanna** | **"Here is the final response which includes the details you have requested."** — `GSA HDI - Early_Cancellation_Response (FINAL).pdf` (`1a06d469d9cde56d`) |
+| 9/8 8:05 AM | Conant | *"Thank you for the updated proposal. GSA will review and reach back out if we have any questions."* (`1a0818e7e98af25a`). Matt's auto-reply fired |
+
+**What this means for the COR:**
+1. 🔴 **The revised MFR Conant said he would need (9/1) is now due.** Trane's FINAL letter arrived 9/4; it has sat unread by the COR for three business days and will sit until 9/14. The sweep cannot open the PDF; **whether it actually contains the P&I split, or only restates the 3% liability, has to be read from the attachment.** Neither the 9/3 "updated" nor the 9/4 "FINAL" PDF is filed in Drive — only the original 8/14 response is (`1S_A-SzE0uaQgPAI9uywm-1sxeqb63upm`, Tab 38 folder).
+2. **The 3% "early termination liability" is the TO-5 ceiling mechanism** (balance × 1.03) that the COR's 8/26 MFR already modelled as prepayment premium **$120,946.14**. If Trane's split lands at roughly principal $4,053,657.55 / interest $124,882.68 / premium $120,946.14, the COR estimate reconciles; if not, the difference is the MFR's job.
+3. 🟠 **TO-3 discrepancy in GSA's own executed PS07 schedules.** Trane says GSA's TO-3 rolls the BACnet controller cost into the financed amount when MOD 5 funded it separately. The COR's P&I estimate was derived *from the TO-3 amortization*. If the amortization base is overstated by the BACnet cost, the principal component of the estimate is overstated too. This needs a line in the revised MFR — either confirming PS07 TO-3 is correct or conceding the MOD 5 carve-out — before Budget certifies against a split.
+
+### Annual M&V witnessing walk — done 9/1 without the COR in the loop
+- **8/28 — Mark Kresge (Trane West Michigan)** to Abigail Phillips and Gina Morey (GSA PMAF): annual sample-set verification (lighting, water fixtures, two tunnel doors on video) normally done in November, *"due to the contractual cessation coming soon, I'd like to do this as soon as one of you is able."* Needs a GSA and a CMC escort *"to sign the co-experienced witnessing forms."* (`1a049e171f8fed1e`)
+- **Walk held Tue 9/1, 9:30 AM ET**, HDI GSA office 2-1-10 — Kresge (Trane witness), **Dan James (CMC witness)**, Gina Morey (GSA). Larry Harper (CMC FM) available as well. (`1a0597d327c25399`, `1a059b818cc43c6d`)
+- Matt (M&V Specialist / COR) was on the parent thread's cc but **not addressed on scheduling and not present.** This is the witnessing that feeds the **final PY12 M&V report** — the report Conant routed the prepaid-credit determination through on 9/1. Per the M&V Guidance §3.3 ("ensure witnessing of annual M&V activities") and Tab 42.14 / 30.16, the **signed witnessing forms need to reach the COR file**. Gina Morey holds the GSA copy.
+
+### Where this stands (9/9)
+| Chain step | Status |
+|---|---|
+| M0003 routed | ❌ no EASi notice, no record of routing before leave |
+| Trane P&I split | 🟡 FINAL letter received 9/4 — **contents unverified**; 3% liability confirmed in it |
+| Revised COR MFR | 🔴 **due now**; also needs the BACnet/MOD 5 TO-3 reconciliation |
+| PS0006 award | ⏳ after MFR; **9/30 wall = 12 business days from 9/14** |
+| PY12 final M&V witnessing | ✅ done 9/1 by Morey/James/Kresge — **forms not in COR file** |
+
+**On return 9/14, in order:** open the FINAL PDF → reconcile to the 8/26 estimate and the BACnet question → issue the revised MFR → route M0003 the same day → ask Morey for the 9/1 witnessing forms.

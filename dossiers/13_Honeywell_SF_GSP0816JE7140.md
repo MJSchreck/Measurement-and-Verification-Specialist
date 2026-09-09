@@ -433,3 +433,22 @@ Reconciling the record against Matt's actual **Gmail Sent** folder overturns the
 - **9/4 9:52 AM — Rajesh Shandal (BFFB)** to Kirk Doll: *"I am trying to reconcile payments with the latest TO3 and ECM breakout schedules for this contract. Can you please send me the most recent excel schedules (To3, ECM schedules)?"* **9/8 3:38 AM PT — Doll forwards to Matt** (`1a08098e25ea2a67`); auto-reply returned ("out of office until September 11th").
 - 🟠 **Risk while Matt is out:** the "most recent" Excel schedules are the **8/10/2026 accepted revision** in the PS30 folder (the one PS30 incorporates), not the 4/28/26 workbook with 45,616 detached formulas and seven #REF!s. If Kirk pulls from the wrong place, Finance reconciles against a broken file. Whoever answers Raj should send the PS30-folder version and say which one it is.
 
+
+---
+
+## Delta update — 2026-09-09 sweep: ✏️ Moore opined 9/3; Chapman closed his edits 9/8 — PS30 is sufficiency-cleared and sign-ready without the COR comments
+
+The sufficiency thread (`19cb53e6cb114d17`) was re-pulled in full. **Matt's copy of the whole thread is in Trash**, which is why the 9/3, 9/7 and 9/8 sweeps reported "whether Moore has opined is unknown." He had.
+
+| When (PT) | Who | What |
+|---|---|---|
+| 9/1 11:46 AM | Chapman | Re-submits PS30 (MDD, SF30, TO Schedules, **M&V Acceptance Letter**) |
+| **9/3 7:08 AM** | **Moore (OGC)** | *"I completed my review of the revised Mod PS30 package documents. I made some small suggested edits/comments directly into the Draft Mod, Acceptance Letter and Decision Document… **Once you address the suggested changes, I think the package is ready.** Please be sure to fill in the Effective Date (Box 3) of the Mod before signing."* (`1a06799f6823ce12`) |
+| **9/8 6:38 AM** | **Chapman** | *"I've completed all recommended edits for the Draft Mod, Acceptance Letter and Decision Document."* (`1a0813db233b6158`). Matt's auto-reply fired |
+| 9/8 5:21 AM / 1:56 PM | MDD edits | Yesterday's entry read the 5:21 AM state; the 1:56 PM edit added one sentence: *"Modification PS31 will formally incorporate the final revised T.O. Schedules."* |
+
+**So the 9/8 MDD edits were Chapman implementing Moore's markup, not a response to the COR.** Legal sufficiency is effectively complete; the Workload ESC sheet (modified 9/8 12:51 PM, `1QWEUJkaFZsCotCA4rY7nznqVTbPHFPWNlQP_cb5qqCA`) carries *"Modification anticipated by 9/11/26 or earlier."*
+
+**Net for the COR:** the comment transmittal in Drafts is now a post-hoc document. The three asks that landed (de-ob figure, $2,022.62, PS31 commitment) landed; the methodology objection was foreclosed by the stipulated-settlement sentence Moore has now cleared. **On 9/14 the only vehicle left is a COR memorandum to file** recording the objection and the CO's determination — and the PS31 scope memo, which is still the live document and should go to Chapman the day PS30 signs, as the draft itself proposes.
+
+⚠️ **Gmail hygiene finding.** Two consequential CO threads on this portfolio — the PS30 sufficiency thread and the Honeywell LA unilateral-notice thread — are sitting in **Trash** in Matt's mailbox, both labeled. Three sweeps mis-reported their status as a result. Whether that is a filter rule or manual, it should be checked before another CO thread disappears from the working view.

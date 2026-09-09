@@ -60,6 +60,8 @@
 
 **Status note 2026-09-08 — Honeywell SF PS30 (Section A/E, no rollup change).** The PS30 MDD as edited 9/8 adopts the COR's de-obligation figure of **$61,745.76** (over Honeywell's $62,755.93 — a $1,010.17 correction), fixes the $2,022.62 Misc Adj with Honeywell absorbing any discrepancy, and records the $1,685,165.62 Menlo settlement as a stipulated value with the COR's independent calculation within $95 (the ~$212,800 GSA-favorable result already in Section E). The MDD's TCV reduction of $10,459,500.71 includes $8,774,335.09 of annual funding "erroneously added" to the contract ceiling — a correction, not a recovery, and not yet reconciled to the COR's $3,413,498.05 figure. Evidence: Drive `1J1JaLKZtuFovqNsdnK-TlQxIfXs96fOZLtgTcoVkqAc`.
 
+**Status note 2026-09-09 — Battle Creek (Section E candidate, unquantified).** Trane's 8/27 review of GSA's executed PS07 schedules found that GSA's TO-3 rolls the BACnet controller cost into the total financed amount although MOD 5 funded it separately; Trane's and the financier's schedules exclude it. Trane holds the settlement at $4,299,486.37 regardless. The COR's 8/26 P&I estimate was derived from that TO-3 amortization, so the principal component may be overstated by the BACnet amount. Not a dollar movement; a schedule-integrity item to resolve in the revised MFR. Evidence: Gmail `1a044e96c7dfbadd`.
+
 ## E — Integrity & Avoidance Wins (unquantified or structural)
 
 | Date | Contract | Event | Actor(s) |

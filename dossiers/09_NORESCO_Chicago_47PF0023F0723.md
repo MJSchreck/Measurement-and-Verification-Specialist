@@ -340,3 +340,6 @@ A separate live pass on **9/1 afternoon** read the 8/31 "NDER7 Midwest – 536 C
 
 ### 9/3 sweep — follow-on to the PR09 closeout
 - **9/2/2026 6:19 AM PT — HSPD-12: "Access Card for Finder, Nicholas Martin Must be Returned"** (Gmail `1a06245dadbf693b`; to nick.finder@comcast.net, cc Rudder, Blue, Schreck, Cabana, Ryan). Finder is inactive in GCIMS but still holds a PIV — this is the individual Todd Ryan confirmed off the contract on 9/2. Card return is NORESCO's to chase; no COR action unless HSPD-12 escalates to the POCs.
+### 9/9 sweep — HSPD-12 housekeeping
+- **9/8 6:13 AM PT** — HSPD-12: Marcus Tennant's (F.E. Moran, NORESCO sub) GSA Access Card is located at JCK Chicago; return required if no longer on contract (thread `19fc7aaa61d64264`). Same pattern as Finder. NORESCO's to chase.
+- **9/8 2:00 AM PT** — Donald Hofmann (Aqualogix, NORESCO sub) card certificates expire 11/22/2026 (`1a0803f627239329`). Routine.
