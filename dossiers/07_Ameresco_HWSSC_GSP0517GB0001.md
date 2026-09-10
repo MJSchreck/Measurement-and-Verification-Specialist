@@ -318,3 +318,14 @@ Note: File Memo PO21 mentions "twenty modifications" issued to date as of Aug 20
 - COR added to the EASi Award Team for GS-P-05-17-GB-0001 (Gmail `1a043c77af7be96a`).
 
 **Closed.** PR M0012 → Mod PA23 → executed, all inside the 8/28 deadline. The final performance year is funded; remaining runway is closeout (contract ends **10/31/2027**): five PY8 carry-forward watch items with the Oct 1 2026 BAS/possession dependency, then final CPARS and the PMO package.
+
+---
+
+## Delta update — 2026-09-10 sweep: CO asks whether PY9 can end early; Ameresco says keep the full year — Parker accepts
+
+- **9/9 1:09 PM PT — Jerrud Parker → Fortman/Dairo (Ameresco), cc Schreck, Berezovskiy, Zuzic, Lindsey, Frank** (`1a087caa77d4e37d`): PY9's final payment is **$153,908** (incl. **$24,410** M&V + performance-period admin), ~41% of PY8's $379,273, because only **$129,205** remained to pay off the loan at the start of Year 9. Parker asks whether the PY9 performance period should **end on the date the ECMs have achieved $153,908 in savings** rather than run a full year, since GSA keeps the remaining proposed savings; not proposing to cut the M&V amount unless an earlier end measurably reduces M&V cost.
+- **9/10 5:34 AM PT — Josh Fortman (Ameresco M&V QC Manager)** (`1a08b5038d5ac25d`): *"fairly common that the final performance year payment is only a partial payment… we typically stay on the same M&V schedule and keep the due date the same. The final M&V Report typically still covers a full year. I would recommend that for M&V purposes we treat Year 9 as a full year and stay on the same schedule."*
+- **9/10 5:47 AM PT — Parker:** *"Understood. Thank you for the response and the clarification."* (`1a08b5c2f240f9bd`)
+
+**COR read.** Parker settled it without the COR (Matt on leave). Fortman's position is the right one for the record: the guarantee is annual, the M&V Plan's reporting cycle is annual, and an early end would need a mod to the performance period and the M&V schedule for no savings to the Government (the $24,410 M&V line is fixed; PA23 already obligated the full $153,908 on 8/27). Nothing to reverse. One thing worth noting to Parker on return: the **final-year report will therefore cover 8/1/2026–7/31/2027 in full**, so closeout (CPARS, PMO package) runs to the report's acceptance, not to the loan payoff date; the 10/31/2027 contract end stands.
+- Five PY8 carry-forward watch items and the Oct 1 2026 BAS/possession dependency unchanged.

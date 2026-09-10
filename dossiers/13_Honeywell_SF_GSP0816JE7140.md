@@ -452,3 +452,13 @@ The sufficiency thread (`19cb53e6cb114d17`) was re-pulled in full. **Matt's copy
 **Net for the COR:** the comment transmittal in Drafts is now a post-hoc document. The three asks that landed (de-ob figure, $2,022.62, PS31 commitment) landed; the methodology objection was foreclosed by the stipulated-settlement sentence Moore has now cleared. **On 9/14 the only vehicle left is a COR memorandum to file** recording the objection and the CO's determination — and the PS31 scope memo, which is still the live document and should go to Chapman the day PS30 signs, as the draft itself proposes.
 
 ⚠️ **Gmail hygiene finding.** Two consequential CO threads on this portfolio — the PS30 sufficiency thread and the Honeywell LA unilateral-notice thread — are sitting in **Trash** in Matt's mailbox, both labeled. Three sweeps mis-reported their status as a result. Whether that is a filter rule or manual, it should be checked before another CO thread disappears from the working view.
+
+---
+
+## Delta update — 2026-09-10 sweep: Finance chases the Year 7 PR again — "only two weeks left this year"
+
+- **9/9 10:20 AM PT — Chris Brown (BDBC)** on `1a03b429c036788d` (`1a0872f78dbb4629`; **Angie Poon added to cc**, with Chung, Novoa, Wong, Ingersoll): *"Checking on the status of this contract and how close we are to getting the year 7 payment processed. There are only two weeks left this year, so we're validating all unawarded projects."* Third chase (8/25, 8/26, 9/9). Matt's 8/26 position on the thread: PR held deliberately behind PS30 so it obligates against the incorporated schedules; offered to build against the current AS11 schedule and reconcile afterward "if you need the obligation in earlier for FY26 timing." Brown has now said, twice, that he does.
+- **PS30 status unchanged from 9/9:** sufficiency-cleared (Moore 9/3), Chapman's edits complete 9/8, Workload sheet "anticipated by 9/11/26 or earlier." **No SF30 execution notice as of 6:00 AM PT 9/10.** No reply from Matt (auto-reply on).
+- **Decision for 9/14, and it cannot slip:** if PS30 has executed by then, build the Year 7 PR against the PS30 schedules the same day, as promised. If it has not, take the offer Matt himself made on 8/26 — **build against AS11 now and reconcile to PS31** — because the alternative is the Year 7 obligation missing FY26. Either way Brown/Poon get a dated answer on 9/14.
+- Raj Shandal's TO3/ECM schedule request (via Doll, 9/8) — no reply visible; still needs the **8/10/2026 accepted revision**, not the 4/28 workbook.
+- Chapman transmittal draft (`r2099242177437106608`) unchanged since 9/3.

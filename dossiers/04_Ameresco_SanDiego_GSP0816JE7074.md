@@ -353,3 +353,13 @@ Ameresco now claims **~$425,000/yr from one DCV sequence on one air handler** �
 
 - **8/30/2026 2:00 AM PT — HSPD-12 certificate-expiry notice for Brett Perron** (Ameresco), certificates expire **11/13/2026** (Gmail `1a051e5f43579710`; Matt and CO Jolles cc'd). Routine.
 - No further response from Ameresco on the Year 7/Year 8 review questions over the weekend. The COR reply covering the O'Connor DCV scope question and the three unanswered sub-items **remains in draft, unsent.**
+
+---
+
+## Delta update — 2026-09-10 sweep: EMP2 asks about the Felipe call and an NLR call on 9/21
+
+- **9/9 3:39 PM PT — David Frank (EMP2), "EMP2 Services Bi-weekly Call"** (`1a0885391ed7c91e`, cc Ingersoll): *"San Diego (Ameresco) M&V — Did we setup a call with Felipe to discuss outstanding M&V Report updates, also **Sean with NLR wants a call on the 21st** to discuss their findings."* Two asks: (a) confirm/schedule the Jolles call on the Y5 acceptance recommendation (in his inbox since 8/11, no decision on record) and the Y6–Y8 reissue sequence; (b) **NLR (National Laboratory of the Rockies) is ready to present findings** on the Y7/Y8 review and wants **Monday 9/21** — the first full week after Matt's return. No invite is in Calendar yet; nothing has been booked.
+- Gemini notes from the same bi-weekly (`1a08799b4741bc47`) list *"[David] Send M&V Report List: distribute the list of remaining outstanding M&V reports."* San Diego's Y6–Y8 reissues will be on it.
+- Still unsent: the COR reply on the O'Connor DCV scope question (8/26 Ameresco response) and the three unanswered sub-items; Perron draft (`r6709241009243562001`) untouched.
+
+**On 9/14:** answer Frank in one note — Felipe call date, and accept or counter the 9/21 NLR slot with a Meet (no invitees added by the sweep; Matt sends).

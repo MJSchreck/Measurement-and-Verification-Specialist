@@ -1,7 +1,7 @@
 # Zone 7 Active Contract Portfolio — Deep-Dive Overview
 
 **Prepared for:** Matt Schreck, CEM — Energy Program Specialist / Zone 7 COR & M&V Lead, GSA Energy Division
-**Prepared:** 2026-08-24 | **Last delta sweep:** 2026-09-09 | **Coverage:** earliest records on each contract through today
+**Prepared:** 2026-08-24 | **Last delta sweep:** 2026-09-10 | **Coverage:** earliest records on each contract through today
 **Method:** 13 parallel deep-dive investigations across Google Drive (files owned by and shared with matthew.schreck@gsa.gov), Gmail history (Dec 2024 → today), and the live "Workload ESC" management sheets. Every dossier traces dated claims to documents or emails actually read; gaps are flagged explicitly.
 
 ## Scope note
@@ -19,46 +19,46 @@ All 13 are covered here so nothing falls through. If one of them shouldn't be co
 | 01 | [ABM ENABLE R8](01_ABM_ENABLE_R8_47PJ0019F0379.md) | 47PJ0019F0379 | ABM | R8 Denver | Jolles | $17.9M | CBCA appeal 8937 + OGC litigation hold; PY6 running; net withholding $221,597 |
 | 02 | [McKinstry DFC & Mt Plains](02_McKinstry_DFC_47PJ0024F0020.md) | 47PJ0024F0020 | McKinstry | R8 Denver | Jolles | $18.5M | PY12 paid ~2/6/26 after PR duplication; **Y11 M&V still unreviewed**; HSPD-12 8/14 package closed 8/21 |
 | 03 | [ABM LA Phase I & IIA](03_ABM_LA_47PK0324C0001.md) | 47PK0324C0001 | ABM | R9 LA | Jolles | $143.9M | 9/2 check-in on record; **ABM's 9/4 answers: $7,324,684 decomposed, variance comparison refused, 4% premium silent**; methodology with Johnson (item 6) |
-| 04 | [Ameresco NDER2 San Diego](04_Ameresco_SanDiego_GSP0816JE7074.md) | GS-P-08-16-JE-7074 | Ameresco | R9 SD | Jolles | $53.7M | Y5 acceptance rec with CO; **Y8 acceptance gated on an unscoped ~$425K/yr DCV sequence** (Ameresco response 8/26) |
+| 04 | [Ameresco NDER2 San Diego](04_Ameresco_SanDiego_GSP0816JE7074.md) | GS-P-08-16-JE-7074 | Ameresco | R9 SD | Jolles | $53.7M | Y5 acceptance rec with CO (no decision since 8/11); **Y8 acceptance gated on an unscoped ~$425K/yr DCV sequence**; **NLR wants a findings call 9/21** (Frank 9/9) |
 | 05 | [PG&E UESC Sansome](05_PGE_Sansome_GSP0917KS0009.md) | GS-P-09-17-KS-0009 | PG&E | R9 SF | Jolles | $11.6M | Fume hoods reframed 9/2 as **end-of-life replacement needing an owner + funding path** (no UESC vehicle remains); outcome not recorded; Year 10 payment due 12/1 |
 | 06 | [SDG&E UESC San Diego](06_SDGE_SanDiego_47PK0222F0014.md) | 47PK0222F0014 | SDG&E | R9 SD | Jolles | $8.4M | 🔴 Baseline error found Yrs 1–4 (EMP2-confirmed); **Y4 findings package 69 days with CO, zero reply** |
-| 07 | [Ameresco HWSSC](07_Ameresco_HWSSC_GSP0517GB0001.md) | GSP0517GB0001 | Ameresco | R5 Chicago | Parker | $17.7M | ✅ **PY9 fully executed — Mod PA23 finalized 8/27**; closeout runway to 10/31/27 |
+| 07 | [Ameresco HWSSC](07_Ameresco_HWSSC_GSP0517GB0001.md) | GSP0517GB0001 | Ameresco | R5 Chicago | Parker | $17.7M | ✅ **PY9 fully executed — Mod PA23 finalized 8/27**; Parker asked 9/9 whether PY9 could end early, Ameresco said keep the full year, Parker accepted 9/10 — final report covers 8/1/26–7/31/27 |
 | 08 | [Honeywell ENABLE Detroit](08_Honeywell_Detroit_47PF0020F0671.md) | 47PF0020F0671 | Honeywell | R5 Detroit | Parker | $24.7M | PY4 closed +$38,838 over guarantee; **ROCAL/CIW contact data received 9/1** — Hamilton departure to resolve |
 | 09 | [NORESCO NDER1 Chicago](09_NORESCO_Chicago_47PF0023F0723.md) | 47PF0023F0723 | NORESCO | R5 Chicago | Blue | $80.4M | On track; **536 S. Clark buyout deferred to FY27** (efficiency-equivalency memo assigned); Y4 AVR stipulation finding stands |
 | 10 | [Trane HDI Battle Creek](10_Trane_BattleCreek_47PF0024F0107.md) | 47PF0024F0107 | Trane | R5 Battle Creek | Conant | $13.2M | 🔴 **Trane FINAL proposal in 9/4; revised COR MFR due; M0003 not routed; PS07 TO-3/BACnet discrepancy flagged by Trane**; obligate NLT 9/30 |
-| 11 | [JCI PJKK Honolulu](11_JCI_PJKK_47PK0223F0041.md) | 47PK0223F0041 | JCI | R9 Honolulu | Conant | $15.2M | 🔴 **Performance completed 8/31/26**; end-date mod **37 days overdue**; **Y15 comment deadline 9/4 passed with nothing sent** |
-| 12 | [Honeywell NDER2 LA](12_Honeywell_LA_GSP0816JE7081.md) | GS-P-08-16-JE-7081 | Honeywell | R9 LA | Chapman | $65.0M | Year 9 paid; ✏️ **Notice of Intent to Issue Unilateral Settlement Determination issued 9/1 1:30 PM** (earlier entries wrong); Honeywell package due 9/8 with COR requirements on record |
-| 13 | [Honeywell NDER2 SF](13_Honeywell_SF_GSP0816JE7140.md) | GS-P-08-16-JE-7140 | Honeywell | R9 SF | Chapman | $40.8M | ✅ **PS30 legally sufficient (Moore 9/3, edits done 9/8) — signing ~9/11**; COR comments never transmitted; methodology objection → COR memo to file; **Year 7 PR still held behind PS30** with FY-end fund-expiry risk |
+| 11 | [JCI PJKK Honolulu](11_JCI_PJKK_47PK0223F0041.md) | 47PK0223F0041 | JCI | R9 Honolulu | Conant | $15.2M | ✅ **Y15 comments (COR's 19 + EMP2's 2) transmitted to JCI by Conant 9/9 — on the CO's 9/9 due date; earlier "9/4 passed" entries were wrong**; JCI responses due ~10/9; end-date mod **40 days overdue** |
+| 12 | [Honeywell NDER2 LA](12_Honeywell_LA_GSP0816JE7081.md) | GS-P-08-16-JE-7081 | Honeywell | R9 LA | Chapman | $65.0M | Year 9 paid; Notice of Intent issued 9/1; 🔴 **Honeywell's 9/8 settlement package is two days late, unchased**; 9/30 obligation wall |
+| 13 | [Honeywell NDER2 SF](13_Honeywell_SF_GSP0816JE7140.md) | GS-P-08-16-JE-7140 | Honeywell | R9 SF | Chapman | $40.8M | ✅ **PS30 legally sufficient — signing ~9/11**, not yet executed; COR comments never transmitted → memo to file; 🔴 **Finance chased the Year 7 PR a third time 9/9 ("two weeks left this year")** — build 9/14 against PS30 or AS11 |
 
 ## 🔴 Time-Critical Watchlist (next 40 days)
 
-**⚠️ Matt is OOO through 9/13; returns Mon 9/14.** Today 9/7 is Labor Day. Four items shipped on 9/3 (Honeywell LA package requirements, Garvey lighting refusal, ABM minutes, McKinstry reschedule). Three did not (PS30 transmittal, PJKK comments, Battle Creek M0003). The rows below are ordered for 9/14.
+**⚠️ Matt is OOO through 9/13; returns Mon 9/14.** Two things moved without him this week and both are fine: Conant transmitted the PJKK Y15 comment set 9/9 (on time — the "9/4 deadline passed" rows in earlier sweeps were wrong), and Parker settled the HWSSC PY9 end-date question with Ameresco. Two things did not move and are not fine: Honeywell's LA settlement package (due 9/8) and the SF Year 7 PR (Finance's third chase). Rows are ordered for 9/14.
 
 | Date | Contract | Item |
 |------|----------|------|
-| **9/8 (leave)** | Honeywell LA | 🟠 **Honeywell's N. Spring St proposal + updated TO-1/TO-5A due today — not in as of 6 AM PT** (Pitts, after Bostonia confirmed the amount). Requirements are on the record: as-of date, allocation method, restated savings, PY9 stub, invoice/payment dates, Bostonia-vs-MassMutual chain, **P&I/premium split per TO-3**. Chapman receives. 9/30 obligation wall |
-| **9/14** | Honeywell SF | ✏️ **Moore opined 9/3 ("once you address the suggested changes, the package is ready"); Chapman completed the edits 9/8.** PS30 is sufficiency-cleared and sign-ready, target 9/11. Both messages are in Matt's **Trash**. The comment transmittal is now post-hoc; the methodology objection goes to file as a COR memo; send the PS31 scope memo the day PS30 signs |
-| **9/14 (was first)** | Honeywell SF | 🔴 **PS30 MDD was edited 9/8 5:21 AM.** It now carries the COR's $61,745.76 de-ob figure, HW-absorbs-variance on the $2,022.62, and a PS31 rebuild commitment ("Q4," no date certain) — but it **forecloses the settlement-methodology objection** ("precluding any future reassessment") instead of answering it, and introduces an $8,774,335.09 "erroneous" TCV add-back to reconcile against the memo's $3,413,498.05. Transmittal still in Drafts. On return: decide whether the objection goes to file as a COR memo, and send the comment sheet regardless |
-| **during leave** | Honeywell SF | 🟠 **Finance (Raj Shandal, BFFB) wants the latest TO3/ECM Excel schedules to reconcile payments**; Kirk forwarded 9/8. Whoever answers must send the **8/10/2026 accepted revision** from the PS30 folder, not the 4/28 workbook with detached formulas |
-| **9/14 first** | Battle Creek | 🔴 **Trane's FINAL proposal landed 9/4** (Hanna to Conant, "includes the details you have requested"); the 9/3 letter says the financier could not split P&I but the total carries **3% early-termination liability**. Conant acknowledged 9/8. **The revised COR MFR Conant asked for on 9/1 is now due** — open the FINAL PDF, reconcile to the 8/26 estimate, and address Trane's 8/27 finding that GSA's **PS07 TO-3 wrongly rolls the MOD 5 BACnet cost into the financed amount**. Then route M0003 same day. 12 business days to 9/30 |
-| **9/14** | Battle Creek | 🟠 Trane's annual M&V witnessing walk (lighting, water, tunnel doors) was done **9/1** at HDI by Morey (GSA), James (CMC), Kresge (Trane) — pulled forward for cessation, scheduled without the COR. **Get the signed forms from Gina Morey** for the PY12 final report file |
-| **9/14** | PJKK | 🔴 **Y15 comments — deadline 9/4 passed silently.** Send with an acknowledgment; put the end-date mod (37 days overdue) to Conant in the same note |
-| **9/14** | ABM LA | 🟠 ABM answered 9/4: items 1 and 2 not delivered as asked (no by-year split; 6/3 memo "does not permit a meaningful comparison"), 4% premium unaddressed, $7,324,684 decomposed ($1,882,667 GSA short pays + $4,075,798 buydown + $1,366,217 O&M cut). **Reconcile Yr12 short pay $942,840 vs dossier $994,074.** Becker's "$9.1M or netted?" question is item 6 — Jolles + Johnson, not an email answer |
-| **9/14** | McKinstry | Send the Meet for the **9/17 1:00 MT** SkySpark/PY12 touch-base (Jones asked 9/4) |
-| **9/8** | Honeywell SF / LA | HSPD-12 renewal (SF); Topete certificates expire (LA) — during leave |
-| **by 9/11** | Honeywell SF | PS30 execution target — during leave, with COR comments never transmitted |
+| **9/14 first** | Honeywell LA | 🔴 **Honeywell's N. Spring St proposal + TO-1/TO-5A were due 9/8 — two days late, no explanation, nobody has chased.** One line to Pitts (cc Chapman/Ingersoll) for a date, or Chapman sends it. 14 business days to the 9/30 wall; the PR still has to survive Budget's J-type itemization. Unilateral path (9/1 Notice) is the fallback |
+| **9/14 first** | Honeywell SF | 🔴 **Year 7 PR: Chris Brown's third chase 9/9, Angie Poon now cc'd — "only two weeks left this year."** If PS30 has signed, build against PS30 schedules that day; if not, build against AS11 and reconcile to PS31 (Matt's own 8/26 offer). Give Brown a dated answer either way |
+| **9/14 first** | Battle Creek | 🔴 **Trane's FINAL proposal (9/4) is in; the revised COR MFR Conant asked for 9/1 is due.** Reconcile FINAL to the 8/26 estimate, resolve Trane's 8/27 finding on **PS07 TO-3 rolling the MOD 5 BACnet cost into the financed amount**, route M0003 same day. Get the 9/1 witnessing forms from Gina Morey |
+| **9/14** | Honeywell SF | ✏️ PS30 sufficiency-cleared (Moore 9/3, Chapman edits 9/8), target 9/11 — **no execution notice yet**. Methodology objection → COR memo to file; PS31 scope memo the day PS30 signs. Both CO messages are in Matt's **Trash** |
+| **9/14** | PJKK | ✅ **Y15 comments went to JCI 9/9 under Conant** (19 COR + 2 EMP2; responses due ~10/9). Two follow-ups: confirm to Frank/Johnson that the 20260701 PDF = the 8/13 SharePoint set = the reviewed version; and put the **end-date mod (40 days overdue)** to Conant on its own |
+| **9/14** | EMP2 / San Diego | Answer David Frank's three questions (`1a0885391ed7c91e`): Felipe call on San Diego M&V; **NLR wants a findings call 9/21**; "ABM UESC San Fran" annual-data question (not one of the 13 — confirm what he means) |
+| **9/14** | ABM LA | 🟠 EMP2 pegs the buyout dispute at **$1M–$3M** (O&M projections + JCI inclusions) and took the **Year 10 report chase** (due April; PY11 $227K retention rides on it). Frank's responses to ABM's 9/4 answers coming. Reconcile Yr12 $942,840 vs $994,074. Becker's netting question stays item 6 |
+| **9/14** | Honeywell SF | 🟠 Raj Shandal (BFFB) still needs the **8/10/2026 accepted** TO3/ECM schedules — not the 4/28 workbook |
+| **9/14** | McKinstry | Send the Meet for the **9/17 1:00 MT** SkySpark/PY12 touch-base |
+| **9/17 12:00 PT** | FEMP pilot | **AI/LLM ESPC Proposal Review pilot chat** (LBL Earni/Hubbard, DOE Rockwell) — Ingersoll named Matt the M&V specialist for the pilot |
 | **9/17 1:00 MT** | McKinstry | DFC touch-base — SkySpark trend gaps, PY12 M&V |
-| **open** | Honeywell LA | Year 8 acceptance gated on the lighting spot-check (Chambers + Santa Ana). Garvey owes scope + test window; COR declined deferral to Year 9 on 9/3 |
-| **open** | ABM LA / Detroit | Two live CIW/ROCAL packages (Detroit: Hamilton departed; ABM LA: awaiting Matt's return) |
+| **9/21** | San Diego | NLR findings call (proposed by NLR via Frank; not yet booked) |
+| **open** | Honeywell LA | Year 8 acceptance gated on the lighting spot-check (Chambers + Santa Ana); Garvey owes scope + window |
+| **open** | ABM LA / Detroit | Two live CIW/ROCAL packages awaiting Matt |
 | **open** | Battle Creek | Prepaid credit ($16,813.11 / $9,654.24) → PY12 M&V review per Conant 9/1 |
-| **stale 75 days** | SDG&E | 🔴 6/24 Y4 findings package to Jolles, zero reply. Escalate on return |
+| **stale 78 days** | SDG&E | 🔴 6/24 Y4 findings package to Jolles, zero reply. Escalate on return |
 | **~9/28** | ABM R8 | PY5 M&V report due from ABM |
-| **9/30** | Battle Creek + Honeywell LA | Buyout funds must obligate NLT FY-end for both |
+| **9/30** | Battle Creek + Honeywell LA + Honeywell SF Yr7 | FY-end obligation wall for all three |
+| **~10/9** | PJKK | JCI responses to Y15 comments due |
 | **10/28–29** | NORESCO + PJKK | CPARS PY10 close (10/28); PJKK PY15 PMO Final intake (10/29) |
 | **11/6** | — | DOE FEMP QA/QC call |
 | **12/1** | Sansome | Year 10 payment due (MassMutual) |
 | **deferred FY27** | NORESCO | 536 S. Clark buyout deferred; efficiency-equivalency memo assigned |
-
 
 ## Cross-Cutting Themes
 

@@ -62,6 +62,8 @@
 
 **Status note 2026-09-09 — Battle Creek (Section E candidate, unquantified).** Trane's 8/27 review of GSA's executed PS07 schedules found that GSA's TO-3 rolls the BACnet controller cost into the total financed amount although MOD 5 funded it separately; Trane's and the financier's schedules exclude it. Trane holds the settlement at $4,299,486.37 regardless. The COR's 8/26 P&I estimate was derived from that TO-3 amortization, so the principal component may be overstated by the BACnet amount. Not a dollar movement; a schedule-integrity item to resolve in the revised MFR. Evidence: Gmail `1a044e96c7dfbadd`.
 
+**Status note 2026-09-10 — ABM LA PY11 $227K M&V retention (Section D adjacent, no rollup change).** EMP2's 9/9 bi-weekly assigned the chase for the **Year 10 M&V report** (due April 2026, never received on this record). The PY11 retention of ~$227K was conditioned on that report's receipt and a constant-vs-variable savings breakdown (6/10/2025). If the report is not produced, the retention folds into the Phase 2B settlement (item 6) rather than being released — this is already on the record and should be stated in the settlement arithmetic. Separately, the PJKK Y15 comment set (19 COR comments) was transmitted to JCI by the CO on 9/9; no benefit event closes until JCI responds (~10/9) and the $38.02 Yr12 tie-out and Table 9 worksheet are resolved.
+
 ## E — Integrity & Avoidance Wins (unquantified or structural)
 
 | Date | Contract | Event | Actor(s) |

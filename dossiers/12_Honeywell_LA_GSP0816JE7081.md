@@ -341,3 +341,9 @@ Both said the 9/1 legal call "left no written record" and that issuance was unco
 
 ### 9/8 sweep — package day; nothing in yet
 - Honeywell's N. Spring St proposal + updated schedules were due **today, 9/8** (Pitts, 9/3). **Not received as of 6:00 AM PT.** Chapman receives; Matt's auto-reply is on. Requirements incl. the TO-3 P&I split are on the thread (`1a05eaa509d0c43c`).
+
+### 9/10 sweep — 🔴 Honeywell's 9/8 package is now two days late; nothing on the thread since Matt's 9/3 addendum
+- Thread `1a05eaa509d0c43c` re-pulled in full: last message is the COR's 9/3 9:54 AM addendum (P&I/premium itemization). **No proposal document, no updated TO-1/TO-5A, no note from Pitts explaining the slip.** Nobody at GSA has chased; Chapman and Ingersoll are on the thread.
+- Arithmetic: 9/30 is 14 business days out. The PR still has to be built as an amendment to the existing PR, routed through the Acquisition Package group, and survive Budget's J-type itemization check. Battle Creek's first pass took 8/25→9/1 to bounce. **A 9/14 package start is the latest that clears 9/30 with one rejection in hand.**
+- On 9/14, first thing: one line to Pitts (cc Chapman/Ingersoll) asking for a delivery date today, or Chapman sends it. The 9/1 Notice's unilateral path is the fallback and it is already on the record.
+- PR07 PIV collection reminder (`1a0343e35ff49070`, 9/9) and Topete certificate expiry: routine, during leave.
