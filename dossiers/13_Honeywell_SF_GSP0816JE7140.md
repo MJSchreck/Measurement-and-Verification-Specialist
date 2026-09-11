@@ -462,3 +462,13 @@ The sufficiency thread (`19cb53e6cb114d17`) was re-pulled in full. **Matt's copy
 - **Decision for 9/14, and it cannot slip:** if PS30 has executed by then, build the Year 7 PR against the PS30 schedules the same day, as promised. If it has not, take the offer Matt himself made on 8/26 — **build against AS11 now and reconcile to PS31** — because the alternative is the Year 7 obligation missing FY26. Either way Brown/Poon get a dated answer on 9/14.
 - Raj Shandal's TO3/ECM schedule request (via Doll, 9/8) — no reply visible; still needs the **8/10/2026 accepted revision**, not the 4/28 workbook.
 - Chapman transmittal draft (`r2099242177437106608`) unchanged since 9/3.
+
+---
+
+## Delta update — 2026-09-11 sweep: PS30 is at NCFR, not at signature; the MDD was edited again this morning
+
+- **Workload ESC sheet, SF row, 9/10 entry** (`1QWEUJkaFZsCotCA4rY7nznqVTbPHFPWNlQP_cb5qqCA`, modified 9/10 1:43 PM PT): *"Modification PS30 has been legally reviewed on 9/3/26. The modification was submitted to NCFR on 9/8/26."* So the 9/11 target was for NCFR submission, not execution — **PS30 is in the file-review queue and has not executed** as of 6:00 AM PT 9/11.
+- **MDD edited 9/11 5:36 AM PT** (`1J1JaLKZtuFovqNsdnK-TlQxIfXs96fOZLtgTcoVkqAc`). Re-read in full: substance unchanged from the 9/8 state ($61,745.76 de-ob across CLINs 0021/0023/0026/0029/0030; TCV −$10,459,500.71 = $1,685,165.62 + $8,774,335.09 "erroneous"; stipulated-value sentence intact; PS31 "Q4"). **The three placeholders are still there** — *"performance year XX,"* acceptance letter *"Dated September 28, 2026,"* signature date *"9/00/2026."* Whoever is editing at NCFR has not filled them.
+- **Year 7 PR:** no reply to Chris Brown's 9/9 chase. With PS30 in NCFR rather than signed, the **AS11-build-and-reconcile path is now the realistic one for 9/14** — waiting for PS30 to clear NCFR and execute inside the FY window is a bet Finance has said three times it does not want to make.
+- Raj Shandal (BFFB) schedules request (9/8, via Doll): still unanswered; and Shandal is now also on the PJKK title thread, so one reply on 9/14 can cover both — the **8/10/2026 accepted** TO3/ECM set for SF.
+- Calendar: **9/17 1:00 PM PT "GSA-TRM and M&V Review"** (Honeywell Khor/Garvey, Chapman, Frank, Johnson, Ingersoll) is on; **9/17 2:30 PT Chapman 1:1**. PS31 scope memo can be tabled at either.

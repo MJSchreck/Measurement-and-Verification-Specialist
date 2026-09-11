@@ -199,3 +199,10 @@ The entry above called the McKinstry HSPD-12 package "19 days unanswered since 8
 
 ### 9/7 sweep — DFC touch-base rescheduled to 9/17
 - **9/3 10:05 AM PT — Leanne Jones (McKinstry)** asks to reschedule the SkySpark/BAS-access + PY12 M&V touch-base cancelled 7/20 (Gmail thread `19f80c1051fa2c48`). **Matt picks Thu 9/17, 1:00–2:00 PM (MT)** (`1a068d141da70548`). **9/4 8:07 AM PT — Jones:** *"are you able to schedule the Google Meet with your team?"* (`1a06cf5fcf26a74e`). 🟡 **On return: send the Meet invite** (Jolles, Luke G. cc'd on thread; earlier list included Blatt, Beadle, Barber, Miller). This is the SkySpark trend-gap conversation that gates PY12 analysis.
+
+---
+
+## Delta update — 2026-09-11 sweep: calendar conflict on the 9/17 touch-base
+
+- The **9/17 1:00 MT (12:00 PT)** SkySpark/PY12 touch-base Jones asked for on 9/4 is **not on Matt's calendar** (Meet still owed), and the slot is now double-booked: **"AI Pilot Chat" 12:00–12:50 PT** (Ingersoll; LBL/DOE/PNNL) and **"Matt / Nathan Check In" 12:00–12:30 PT** both land there. Move the DFC touch-base (9/17 10:00–12:00 PT is a "do not book" deep-work block; 9/16 12:00–2:30 PT likewise; 9/16 3:00 PT is Parker) — propose **9/16 2:00 MT / 1:00 PT** or **9/18 morning** to Jones on 9/14.
+- No new McKinstry/Jones traffic 9/10–9/11.

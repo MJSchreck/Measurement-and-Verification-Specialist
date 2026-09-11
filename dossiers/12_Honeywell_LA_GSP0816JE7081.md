@@ -347,3 +347,9 @@ Both said the 9/1 legal call "left no written record" and that issuance was unco
 - Arithmetic: 9/30 is 14 business days out. The PR still has to be built as an amendment to the existing PR, routed through the Acquisition Package group, and survive Budget's J-type itemization check. Battle Creek's first pass took 8/25→9/1 to bounce. **A 9/14 package start is the latest that clears 9/30 with one rejection in hand.**
 - On 9/14, first thing: one line to Pitts (cc Chapman/Ingersoll) asking for a delivery date today, or Chapman sends it. The 9/1 Notice's unilateral path is the fallback and it is already on the record.
 - PR07 PIV collection reminder (`1a0343e35ff49070`, 9/9) and Topete certificate expiry: routine, during leave.
+
+### 9/11 sweep — 🔴 three days late; the Notice's own clock runs to 9/16
+- Nothing from Honeywell on `1a05eaa509d0c43c` since Pitts's 9/3 commitment; nothing from Chapman. **Three days past Pitts's 9/8 date.**
+- **Workload ESC sheet, LA row, 9/10 entry:** *"The notice gives HW **15 days** to submit final information regarding the partial cancellation settlement, or the CO can unilaterally execute a modification."* Fifteen days from 9/1 is **Wednesday 9/16**. So Pitts's 9/8 was a voluntary date; the CO's deadline is 9/16, after which Chapman may execute unilaterally on the 9/1 Notice.
+- **What that means for 9/14:** the chase note to Pitts should cite the 9/16 date, not 9/8. If nothing arrives by 9/16, the unilateral path starts 9/17 — which leaves **nine business days to obligate by 9/30**, with the PR still to be built and itemized. The COR's 9/3 requirements (as-of date, TO-3 P&I/premium split, Bostonia chain) are what the unilateral determination will have to carry itself.
+- 9/17 1:00 PM PT TRM/M&V review with Honeywell is on the calendar (Khor, Garvey) — the lighting-test scope and window (Garvey, open since 9/3) go on that agenda.
