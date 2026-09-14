@@ -385,3 +385,14 @@ The buyout thread (`19fc95074a3c4764`, 40 messages) was re-pulled in full. The 8
 | PY12 final M&V witnessing | ✅ done 9/1 by Morey/James/Kresge — **forms not in COR file** |
 
 **On return 9/14, in order:** open the FINAL PDF → reconcile to the 8/26 estimate and the BACnet question → issue the revised MFR → route M0003 the same day → ask Morey for the 9/1 witnessing forms.
+
+---
+
+## Delta update — 2026-09-14 sweep: 🔴 Budget wants a decommit/commit pair; Ingersoll's 9:00 AM touchbase is on the "is this still awarding by 9/30" question
+
+- **9/11 7:08 AM PT — Christina Hale (BA61 Budget) → Conant, Schreck, Ingersoll** on `1a03aac9ac7961dd` (`1a090cd644cc8dee`): *"Are there any updates on this Battle Creek ESPC PR? If you are still planning to award it by September 30th, we need the following items completed: **Submit a PR mod to decommit the funds from the incorrect PR (EQPMCDB-26-0006)**; **Submit a PR mod to COMMIT the funds on the correct PR (EQ5P2SS2P1-24-0002-M0003)**."* Matt's auto-reply fired (`1a090cd7180f9cc4`); no reply from Conant on the thread.
+- **Same text is the agenda of "Battle Creek Buyout Touchbase," today 9/14 9:00–9:15 AM PT** (Ingersoll organizer; Conant and Hale accepted; Nastasi tentative; Matt "needsAction," marked optional; invite `1a0912b9d3deffbc`; notes doc `1IYVAMCrD9rnElyRT7FLzm7kLZwjxYCWkaBUHlYe2YcI`, empty).
+- **What Hale is telling us:** the rejected standalone PR **EQPMCDB-26-0006 still has funds committed against it** in EASi. Rebuilding as M0003 on 9/1 did not release them. Until 26-0006 is decommitted, the M0003 commitment double-counts against BA61 and Budget cannot certify it. This is a Monday-morning EASi action, not a CO action: **decommit 26-0006 (PR mod to $0 / cancel), then confirm M0003's commit posts clean** — the 9/1 note to Hale already said the FY26 strings pre-validated.
+- **The rest of the critical path is unchanged and now has a clock on it in Nathan's calendar:** (1) open Trane's 9/4 FINAL (`1a06d469d9cde56d`) and reconcile to the 8/26 estimate; (2) resolve Trane's 8/27 finding that PS07 TO-3 rolls the MOD 5 BACnet cost into the financed amount — this changes the ceiling arithmetic if true; (3) issue the revised COR MFR Conant asked for 9/1; (4) route M0003 through the Acquisition Package group with the J-type principal/interest/premium itemization Budget rejected on 8/25. **Twelve business days to 9/30.**
+- Annual Funding Requests sheet (Heidi, 9/11) Battle Creek row still carries the 8/27 note ("PR approved $4,299,486.37… awaiting Trane's itemization") — it was not updated for the 9/1 rejection/rebuild.
+- Witnessing forms from Gina Morey (9/1 walk) still outstanding.

@@ -363,3 +363,14 @@ Ameresco now claims **~$425,000/yr from one DCV sequence on one air handler** �
 - Still unsent: the COR reply on the O'Connor DCV scope question (8/26 Ameresco response) and the three unanswered sub-items; Perron draft (`r6709241009243562001`) untouched.
 
 **On 9/14:** answer Frank in one note — Felipe call date, and accept or counter the 9/21 NLR slot with a Meet (no invitees added by the sweep; Matt sends).
+
+---
+
+## Delta update — 2026-09-14 sweep: NLR booked the findings call for 9/21 11:00 AM PT — on top of the Energy M&V Team Meet
+
+- **Thread `19f1a4d2d40bf98b` ("GSA R9 San Diego (Ameresco)") — most of it is in Trash**, including three messages this dossier had not recorded: Matt's **9/2 9:32 AM** "circling back" note to Pachuta; **Pachuta's 9/2 9:43 AM reply** (cc now includes **Rick Mears, DOE HQ**): *"I was just about to follow up with you later today to try and schedule a meeting. Can you provide some times that work for you and the team next week?"* — sent two days before Matt's leave and unanswered; and 9/3 delivery-delay bounces to both EMP2 addresses.
+- **9/9 1:35 PM PT — Pachuta:** *"Will you and your team be able to meet on 9/21 to discuss our findings? Matt [Joyner] will be out next week, and I will be out the following… David, if you're on this call as well we can cover the **Year 2 findings** we have."* (`1a087e17dd18992a`). 9/9 3:33 PM — Frank: free 9–10, 11–12, or after 1 PM on the 21st.
+- **9/11 1:03 PM PT — Pachuta sends a Teams invite** (`1a0921183c98266f`, `1a09211ae93100ff`: *"I tried to set this up for a time that works, but not sure on the timezone"*). It is on Matt's calendar as **"RE: GSA R9 San Diego (Ameresco)," Mon 9/21 11:00 AM–12:00 PM PT**, organizer Pachuta; required: Matt, Frank; optional: Ingersoll, Jolles, Mears, Kandt, Berezovskiy, Joyner. **Conflict: Kirk's recurring Energy M&V Team Meet is 11:00–12:00 PT the same day** (Matt accepted). Ask Pachuta to move to 9:00 or 1:00 PT (both in Frank's windows) — Pachuta himself flagged the timezone uncertainty.
+- "Year 2 findings" is the second NLR scope (the other Ameresco contract Pachuta mentioned in August); the San Diego scope is Y7/Y8. Agenda for the call should separate the two.
+- Still open and now four weeks stale: the Y5 acceptance decision with Jolles (rec sent 8/11), and the COR reply on the O'Connor DCV scope question. Frank's 9/9 "did we set up a call with Felipe?" is best answered at today's 1:00 PM PT Jolles hold.
+- HSPD-12: Perron certificate-expiry reminder repeated 9/14 (`1a09f266060d3daf`; expires 11/13). Routine.
