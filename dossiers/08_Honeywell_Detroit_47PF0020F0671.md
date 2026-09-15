@@ -260,3 +260,10 @@ The Detroit CIW/ROCAL rebuild moved forward on 8/31 after two prior HSPD-12 reje
 **Effect on the ROCAL rebuild.** The 8/31 sweep recorded the resubmission as unblocked pending contact data; the phone number is now in hand. The open item narrows to **Maury Hamilton's disposition** — if he has departed Honeywell, he should not carry forward on the CIW as an active contractor, and any existing credential in his name is a HSPD-12 termination action, not a renewal. Confirm with Kinne which of the two he is before the package goes to the helpdesk; submitting a CIW that lists a departed employee is what triggered the last rejection cycle.
 
 🟠 **COR action:** read the full Kinne message for the Hamilton detail, then rebuild and submit the CIW/ROCAL with Sullivan's number populated and Hamilton's line resolved one way or the other.
+
+
+---
+
+## Delta update — 2026-09-15 sweep: Hamilton's credential put to HSPD-12 as Lost/Stolen/Uncollectible
+
+- **9/14 3:15 PM PT — Matt → hspd12 helpdesk** (`1a0a1fd03a3630db`): Maury Hamilton left Honeywell per the ROCAL of 8/13; recommends closing his credential as **Lost/Stolen/Uncollectible** rather than a return; asked **Gjeltema** to confirm the disposition. This resolves the open line from the 9/2 sweep. The CIW/ROCAL rebuild with Sullivan's number (+1 980-867-0512) can go once the helpdesk acknowledges.

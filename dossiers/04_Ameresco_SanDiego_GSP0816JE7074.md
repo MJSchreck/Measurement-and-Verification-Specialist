@@ -374,3 +374,5 @@ Ameresco now claims **~$425,000/yr from one DCV sequence on one air handler** â€
 - "Year 2 findings" is the second NLR scope (the other Ameresco contract Pachuta mentioned in August); the San Diego scope is Y7/Y8. Agenda for the call should separate the two.
 - Still open and now four weeks stale: the Y5 acceptance decision with Jolles (rec sent 8/11), and the COR reply on the O'Connor DCV scope question. Frank's 9/9 "did we set up a call with Felipe?" is best answered at today's 1:00 PM PT Jolles hold.
 - HSPD-12: Perron certificate-expiry reminder repeated 9/14 (`1a09f266060d3daf`; expires 11/13). Routine.
+
+- **9/15 sweep:** no reply to Pachuta; the 9/21 11:00 PT conflict with the M&V Team Meet stands. Nathan opened the NLR-folder Year 5 inspection PDFs 9/14 PM (Drive activity, no edits). The 9/14 1:00 Jolles hold was deleted, so the Y5 acceptance decision and the SDG&E Y4 package need a new venue â€” the next biweekly 1:1 or a standalone email to Jolles.

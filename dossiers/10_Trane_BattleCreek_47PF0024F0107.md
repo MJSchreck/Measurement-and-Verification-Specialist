@@ -396,3 +396,31 @@ The buyout thread (`19fc95074a3c4764`, 40 messages) was re-pulled in full. The 8
 - **The rest of the critical path is unchanged and now has a clock on it in Nathan's calendar:** (1) open Trane's 9/4 FINAL (`1a06d469d9cde56d`) and reconcile to the 8/26 estimate; (2) resolve Trane's 8/27 finding that PS07 TO-3 rolls the MOD 5 BACnet cost into the financed amount — this changes the ceiling arithmetic if true; (3) issue the revised COR MFR Conant asked for 9/1; (4) route M0003 through the Acquisition Package group with the J-type principal/interest/premium itemization Budget rejected on 8/25. **Twelve business days to 9/30.**
 - Annual Funding Requests sheet (Heidi, 9/11) Battle Creek row still carries the 8/27 note ("PR approved $4,299,486.37… awaiting Trane's itemization") — it was not updated for the 9/1 rejection/rebuild.
 - Witnessing forms from Gina Morey (9/1 walk) still outstanding.
+
+
+---
+
+## Delta update — 2026-09-15 sweep: ✅ decommit done, M0003 routed, superseding COR MFR issued; Conant will process the award once the PR approves
+
+- **9/14 9:04 AM PT — EASi: EQPMCDB-26-0006-AM0001 approved at $0.00** (`1a0a0a9e82307e45`; thread in Trash) — the decommit Hale asked for 9/11 is done. The standalone PR no longer holds a commitment.
+- **9/14 12:42 PM PT — Appian task "Pegasys Pre-Validation Failed (EQ5P2SS2P1-24-0002-M0003)"** (`1a0a17166ffb663b`; in Trash). Per Matt's MFR cover email, the pre-validation returned only the **prior-year edit-7020 results on the old lines that Hale already cleared 9/2**; the FY26 strings are clean. **M0003 was routed 12:45 PM PT to Ingersoll, then BA61.**
+- **9/14 2:06 PM PT — Matt sends the superseding COR MFR** (`1a0a1bdd113bd23b`; PDF `1i4VLByWKb8AVRYy2dG1LKKE_PtwqKE18`) — this closes the 9/1 ask from Conant and the TO-3/BACnet question from Trane's 8/27 letter:
+  - **Settlement $4,299,486.37 at 11/1/2026** (unchanged from the 8/26 estimate).
+  - **TO-3 basis (the government's):** principal **$4,053,657.55**, interest + financing **$245,828.82** — BA61 concurred 9/14.
+  - **Trane's FINAL (9/4) split:** principal $4,158,456.48 / interest $15,802.13 / 3% fee $125,227.76. Trane capitalizes accrued interest into principal (the financier's payoff view), which is why its principal line is higher.
+  - **$4,281.62 balance/premium difference** between the two views = the **MOD 5 BACnet amortization** difference — explained, no effect on the settlement amount.
+  - CLIN 0017 lines 19–24 reallocated by building share (MI0509BC 40% / MI0501BC 28% / MI0503BC 32%).
+  - **Ceiling $4,303,896.43 (outstanding × 1.03); margin $4,410.06.**
+- **9/14 3:40 PM PT — Conant:** *"I will process the award documentation and await the PR approval"* (`1a0a214e8edc3d7a`). Hale was OOO 9/14 PM, so the BA61 certification on M0003 is a 9/15 action at the earliest.
+- **Where this stands (9/15 6 AM PT):**
+
+| Chain step | Status |
+|---|---|
+| 26-0006 decommit | ✅ AM0001 approved $0.00, 9/14 9:04 |
+| Revised COR MFR | ✅ issued 9/14 2:06 PM; BA61 concurred on the TO-3 basis |
+| M0003 routed | ✅ 9/14 12:45 PM → Ingersoll → BA61; pre-validation flag is the cleared 7020 only |
+| BA61 certification | ⏳ Hale (back 9/15) |
+| PS0006 award | ⏳ Conant ready; **11 business days to 9/30** |
+| PY12 witnessing forms (Morey) | ❌ still not in the COR file |
+
+- **COR action 9/15:** watch for the M0003 approval notice; if Hale flags the 7020 again, point her to her own 9/2 clearance. Ask Morey for the 9/1 witnessing forms — the one item on this contract that has not moved since August.
