@@ -424,3 +424,13 @@ The buyout thread (`19fc95074a3c4764`, 40 messages) was re-pulled in full. The 8
 | PY12 witnessing forms (Morey) | ❌ still not in the COR file |
 
 - **COR action 9/15:** watch for the M0003 approval notice; if Hale flags the 7020 again, point her to her own 9/2 clearance. Ask Morey for the 9/1 witnessing forms — the one item on this contract that has not moved since August.
+
+
+---
+
+## Delta update — 2026-09-16 sweep: ✅ M0003 approved 9/15 — the settlement is funded; award is Conant's
+
+- **9/15 9:13 AM PT — EASi: "PR Approved — EQ5P2SS2P1-24-0002-M0003"** (`1a0a5d85055cabad`; to Schreck, Novoa (proxy), Conant, Brown, Ingersoll, Nastasi, Wilburn, Lindsey, Hale, Trinh, Fauchier, Alexander, Choy, Diederich, Cosby). Title *"NDER Battle Creek ESPC — Early Cancellation Buyout Settlement"*; PR total as shown **$11,618,787.50** (the cumulative PR value across mods; the M0003 increment is the $4,299,486.37 settlement). One day after routing.
+- **9/15 7:28 AM PT — Hale:** *"Thank you for the status update."* (`1a0a579228f6beb0`); Matt 7:57 AM: thanks. The 9/14 "Pegasys Pre-Validation Failed" task did not block certification.
+- **Drive — "ESPC/UESC Center of Expertise Rolling Agenda"** (`1_QbJXIJ1b1QaQQe4OxcRsjp0k1i0JalIc-AyonLrR58`, edited 9/15 2:23 PM PT), Sept 15 entry: *"R5 BUYOUT/TERMINATION (Battle Creek Michigan): EP47PF0024F0103 — Per Christina Hale, pmt will be made in the amount of $4.299M. Estimated Completion date 9.30.26. (Raj) per TO3 schedule; principal liability remaining for future years (FY27+) is $22.6M."* Two things to fix in that record if it is going to be cited: the PIID is **0107**, not 0103; and the $22.6M "remaining principal liability" is not this contract's TO-3 (outstanding balance at 11/1 is ~$4.18M) — it reads like a portfolio or a different-order figure. Raise with Shandal/Doll before it propagates to the FY27 release.
+- **Where this stands:** decommit ✅ (9/14) → MFR ✅ (9/14) → M0003 approved ✅ (9/15) → **PS0006 award: Conant** ("I will process the award documentation," 9/14). Ten business days to 9/30. The only COR items left are the Morey witnessing forms and the PY12 prepaid-credit review.
