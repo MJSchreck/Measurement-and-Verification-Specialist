@@ -206,3 +206,7 @@ The entry above called the McKinstry HSPD-12 package "19 days unanswered since 8
 
 - The **9/17 1:00 MT (12:00 PT)** SkySpark/PY12 touch-base Jones asked for on 9/4 is **not on Matt's calendar** (Meet still owed), and the slot is now double-booked: **"AI Pilot Chat" 12:00–12:50 PT** (Ingersoll; LBL/DOE/PNNL) and **"Matt / Nathan Check In" 12:00–12:30 PT** both land there. Move the DFC touch-base (9/17 10:00–12:00 PT is a "do not book" deep-work block; 9/16 12:00–2:30 PT likewise; 9/16 3:00 PT is Parker) — propose **9/16 2:00 MT / 1:00 PT** or **9/18 morning** to Jones on 9/14.
 - No new McKinstry/Jones traffic 9/10–9/11.
+
+
+### 9/17 sweep
+- Berezovskiy 9/16 (`1a0ab9bf6286a616`, item 8): the scorecard shows PY10 missing because **the Year 10 report was never submitted through the intake form** — submit it and the row clears; Year 10 acceptance and the PR are not in question. Y11 review status unchanged. 9/17 1:00 MT touch-base with Jones: still double-booked, no reschedule sent.
