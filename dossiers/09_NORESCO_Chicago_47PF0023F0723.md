@@ -354,3 +354,5 @@ A separate live pass on **9/1 afternoon** read the 8/31 "NDER7 Midwest – 536 C
 - No NORESCO correspondence 9/11–9/14. CPARS PY10 close 10/28 unchanged.
 
 - **9/15 sweep:** no NORESCO or EMP2 traffic on 536 S. Clark; Delaney card for the 12/14 milestone is routine. Wolff's 9/25 deliverable and the replaced-vs-superseded question are unchanged.
+
+- **9/18 sweep — HSPD-12: Gomez card.** 9/17 8:11 AM PT — Matt → Blue (`1a0afec9f2b5801d`): Alejandro Gomez's uncollected PIV has been in the 30–59-day bucket since mid-August; Todd Ryan (NORESCO) has promised an FPS number repeatedly since 8/26 with nothing delivered as of OMA's 9/15 note; **recommends a five-business-day deadline for NORESCO to produce the FPS number or return the card, then report it lost per HSPD-12 procedure**; asks whether Blue or Matt issues it. No reply from Blue as of 6 AM PT 9/18. Matt is on the PBS PIV Chase List (`1bVq59WPawoP3l4E_tk4Fk5HKYOefZtMVTYJe0zVfWDY`). 536 S. Clark: no traffic; Wolff's 9/25 deliverable stands.

@@ -210,3 +210,5 @@ The entry above called the McKinstry HSPD-12 package "19 days unanswered since 8
 
 ### 9/17 sweep
 - Berezovskiy 9/16 (`1a0ab9bf6286a616`, item 8): the scorecard shows PY10 missing because **the Year 10 report was never submitted through the intake form** — submit it and the row clears; Year 10 acceptance and the PR are not in question. Y11 review status unchanged. 9/17 1:00 MT touch-base with Jones: still double-booked, no reschedule sent.
+
+- **9/18 sweep — the 9/17 touch-base did not happen.** 9/17 7:20 AM PT — Jones (`1a0afbd68bf709ed`): *"I have a hold on my calendar today for a meeting from 1-2pm but haven't received an invite. Are you and your team still available to meet?"* No reply in Sent; Matt was in the FEMP AI pilot chat at 12:00 and the Honeywell TRM review at 1:00. This is the third slip on the SkySpark/BAS-access + PY12 M&V touch-base (cancelled 7/20; Jones's 9/3 availability; 9/17 hold with no invite). **Reply today with a date and send the Meet invite yourself** — Jones asked on 9/4 for GSA to host it. Berezovskiy's PY10 intake-form point (9/16) stands.
