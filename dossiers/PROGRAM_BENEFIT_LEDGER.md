@@ -74,6 +74,8 @@
 
 **Status note 2026-09-18 — the LA $547,703 candidate is now contested from inside the team (no rollup change).** EMP2's rebuilt termination estimate (Bonus, 9/17, `1a0b1193403074e5`) is **$3,136,587**, with a schedule-5A cross-check of $3,212,168 — i.e., ~27.8% of the $11,560,653.93 balance, not the Government's 24.1041%. Until the share is derived on the record from Schedule TO-4 (the 9/21 COR memo), the candidate Section B entry should be carried as *in play*: if 24.1041% holds, the stripped over-ask against Honeywell's $3,414,209.25 is $547,703; if the team lands on ~27.8%, the Government figure rises to ~$3.2M and the over-ask shrinks to ~$200K. Separately, Chapman's 9/17 position that Year 8 M&V acceptance and payment should be gated on the uncompleted lighting spot checks, with a possible deduction for the Year 6–8 checks Honeywell never performed (`1a0b0425582ca7f2`; TRM notes `1a0b11396a04472b`), opens a new Section B/C candidate — amount to be set by the breakout estimate Chapman is requesting from Honeywell.
 
+**Status note 2026-09-21 — LA candidate at risk of erosion (no rollup change).** Chapman replied to EMP2's rebuilt workbook on 9/18: "This looks good" (`1a0b5fc157236f03`). If the determination issues on EMP2's ~27.8% basis rather than the 24.1041% he agreed to on 9/16, the Government pays roughly $346K more than its own August 27 estimate and the stripped over-ask against Honeywell's $3,414,209.25 falls from $547,703 to ~$200K. The COR memo due today is the control; carry the Section B candidate as *in play* until the share is fixed on the record.
+
 ## E — Integrity & Avoidance Wins (unquantified or structural)
 
 | Date | Contract | Event | Actor(s) |

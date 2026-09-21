@@ -1,7 +1,7 @@
 # Zone 7 Active Contract Portfolio — Deep-Dive Overview
 
 **Prepared for:** Matt Schreck, CEM — Energy Program Specialist / Zone 7 COR & M&V Lead, GSA Energy Division
-**Prepared:** 2026-08-24 | **Last delta sweep:** 2026-09-18 | **Coverage:** earliest records on each contract through today
+**Prepared:** 2026-08-24 | **Last delta sweep:** 2026-09-21 | **Coverage:** earliest records on each contract through today
 **Method:** 13 parallel deep-dive investigations across Google Drive (files owned by and shared with matthew.schreck@gsa.gov), Gmail history (Dec 2024 → today), and the live "Workload ESC" management sheets. Every dossier traces dated claims to documents or emails actually read; gaps are flagged explicitly.
 
 ## Scope note
@@ -16,7 +16,7 @@ All 13 are covered here so nothing falls through. If one of them shouldn't be co
 
 | # | Contract | PIID | Vendor | Region | CO | Total Value | Status Headline |
 |---|----------|------|--------|--------|-----|------------|-----------------|
-| 01 | [ABM ENABLE R8](01_ABM_ENABLE_R8_47PJ0019F0379.md) | 47PJ0019F0379 | ABM | R8 Denver | Jolles | $17.9M | CBCA 8937: **mediation 10/20 10 AM DC — Jolles, Clynes and Matt all attending; Ingersoll approved travel 9/17**; OGC needs the multi-failure boiler chronology; PY5 report due ~9/28; net withholding $221,597 |
+| 01 | [ABM ENABLE R8](01_ABM_ENABLE_R8_47PJ0019F0379.md) | 47PJ0019F0379 | ABM | R8 Denver | Jolles | $17.9M | CBCA 8937: mediation 10/20 DC (all three attending; travel approved); **PY5 M&V report uploaded by ABM 9/18 via Tyler Cooper — review it as mediation evidence**; OGC needs the multi-failure boiler chronology; net withholding $221,597 |
 | 02 | [McKinstry DFC & Mt Plains](02_McKinstry_DFC_47PJ0024F0020.md) | 47PJ0024F0020 | McKinstry | R8 Denver | Jolles | $18.5M | PY12 paid ~2/6/26; **Y11 M&V still unreviewed**; 🟠 **9/17 SkySpark/PY12 touch-base slipped a third time (Jones held 1–2, no invite sent)** — reschedule and host it |
 | 03 | [ABM LA Phase I & IIA](03_ABM_LA_47PK0324C0001.md) | 47PK0324C0001 | ABM | R9 LA | Jolles | $143.9M | 9/17: ABM asked to go to HASI for a 10/1 payment; **Matt: not acceptable before validation, send the working schedules with formulas, hold off on HASI**; consolidated comments (Redline v2) now four days past "will follow separately" |
 | 04 | [Ameresco NDER2 San Diego](04_Ameresco_SanDiego_GSP0816JE7074.md) | GS-P-08-16-JE-7074 | Ameresco | R9 SD | Jolles | $53.7M | Y5 acceptance rec with CO (no decision since 8/11); Y8 gated on the unscoped DCV sequence; NLR call 9/21 11:00 PT (Doll now out that week; Rogers on); Year 8 table-gap agenda set; **resubmit PY7/PY8 reports through intake before 9/21**; Nathan assigned: set the Jolles call on Y5 acceptance (with Jolles since 8/11) |
@@ -25,39 +25,38 @@ All 13 are covered here so nothing falls through. If one of them shouldn't be co
 | 07 | [Ameresco HWSSC](07_Ameresco_HWSSC_GSP0517GB0001.md) | GSP0517GB0001 | Ameresco | R5 Chicago | Parker | $17.7M | ✅ **PY9 fully executed — Mod PA23 finalized 8/27**; Parker asked 9/9 whether PY9 could end early, Ameresco said keep the full year, Parker accepted 9/10 — final report covers 8/1/26–7/31/27 |
 | 08 | [Honeywell ENABLE Detroit](08_Honeywell_Detroit_47PF0020F0671.md) | 47PF0020F0671 | Honeywell | R5 Detroit | Parker | $24.7M | PY4 closed +$38,838 over guarantee; PIV POC Brush 9/17: wait a few more weeks on the Hamilton card since Honeywell is showing effort; CIW/ROCAL rebuild can go now |
 | 09 | [NORESCO NDER1 Chicago](09_NORESCO_Chicago_47PF0023F0723.md) | 47PF0023F0723 | NORESCO | R5 Chicago | Blue | $80.4M | PY10 paid; 536 S. Clark memo path (EMP2 deliverable 9/25; replaced-vs-superseded to decide); **Gomez PIV: Matt asked Blue 9/17 for a 5-business-day deadline to NORESCO, then report lost** |
-| 10 | [Trane HDI Battle Creek](10_Trane_BattleCreek_47PF0024F0107.md) | 47PF0024F0107 | Trane | R5 Battle Creek | Conant | $13.2M | ✅ M0003 approved 9/15; award PS0006 is Conant's; 🟠 **Finance (Shandal) thinks GSA owes $22.6M *plus* the $4.299M buyout — Hale asked Matt 9/16 to send the TO schedules and set him straight**; Eberhard (Trane) off the contract, HSPD-12 wants updated onboarding docs |
+| 10 | [Trane HDI Battle Creek](10_Trane_BattleCreek_47PF0024F0107.md) | 47PF0024F0107 | Trane | R5 Battle Creek | Conant | $13.2M | ✅ M0003 approved 9/15; award PS0006 is Conant's (no notice yet); 🟠 **Finance dropped the $22.6M but is now on a third wrong PIID (0403) and a $4,206,046.58 "principal liability" that matches nothing in the file — reply with PIID 0107 and the PS07 TO-3/TO-5**; onboarding docs to HSPD-12 |
 | 11 | [JCI PJKK Honolulu](11_JCI_PJKK_47PK0223F0041.md) | 47PK0223F0041 | JCI | R9 Honolulu | Conant | $15.2M | The "resubmitted" Year 15 is the 8/13 SharePoint set Nathan downloaded — same version question as 9/10; answer Nathan/Frank with the version of record; 🔴 Finance/Property title thread still unanswered; end-date mod **48 days overdue** |
-| 12 | [Honeywell NDER2 LA](12_Honeywell_LA_GSP0816JE7081.md) | GS-P-08-16-JE-7081 | Honeywell | R9 LA | Chapman | $65.0M | Fixed $2,866,506.67 agreed 9/16 (24.1041% share); 🔴 **EMP2's rebuild came back 9/17 at $3,136,587 — it still runs on ~27.8%, so the share derivation is now the crux of the 9/21 memo**; **PR amendment not routed — a $1,012,917 committed line is blocking it in EASi (Chapman help ticket)**; Year 8 acceptance now gated on Chapman's cure notice for the lighting spot checks (deduction from M&V payment on the table) |
-| 13 | [Honeywell NDER2 SF](13_Honeywell_SF_GSP0816JE7140.md) | GS-P-08-16-JE-7140 | Honeywell | R9 SF | Chapman | $40.8M | 🔴 **Year 7 PR still not routed (Brown OK'd AS11 9/16) — eight business days**; PS30 unsigned, Chapman's chase unanswered; **SF chosen as the FEMP AI pilot project 9/17** (M&V-plan review first; "SF MV Collaboration" folder); PY6 intake-form submission still open |
+| 12 | [Honeywell NDER2 LA](12_Honeywell_LA_GSP0816JE7081.md) | GS-P-08-16-JE-7081 | Honeywell | R9 LA | Chapman | $65.0M | 🔴 **Chapman told EMP2 on 9/18 its $3,136,587 rebuild (~27.8% share) "looks good" — the fixed $2,866,506.67 (24.1041%) he agreed to 9/16 is exposed; the COR memo due today must derive the share from TO-4 and be posted on Chapman's thread**; PR amendment still not routed (7 business days; $1,012,917 committed-line block); Year 8 acceptance gated on the lighting-spot-check cure notice |
+| 13 | [Honeywell NDER2 SF](13_Honeywell_SF_GSP0816JE7140.md) | GS-P-08-16-JE-7140 | Honeywell | R9 SF | Chapman | $40.8M | 🔴 **Year 7 PR still not routed (Brown OK'd AS11 9/16) — seven business days**; PS30 unsigned; SF is the FEMP AI pilot project; PY6 intake-form submission still open |
 
 ## 🔴 Time-Critical Watchlist (next 40 days)
 
-**Fri 9/18.** Two FY-end PRs are not in EASi with eight business days left: the SF Year 7 PR (Brown approved the AS11 build Wednesday) and the LA PA37 amendment (a $1,012,917 committed line from a prior obligation is blocking it; Chapman is opening a help ticket). On LA, EMP2's rebuilt estimate came back at $3,136,587, above the agreed fixed $2,866,506.67, because it still runs on the ~27.8% share rather than 24.1041% — the share derivation is now the whole ballgame for Monday's COR memo. Chapman has moved to gate Year 8 acceptance on a cure notice for the lighting spot checks. ABM asked to go to HASI and was told to send the working schedules first. The McKinstry touch-base slipped a third time.
+**Mon 9/21.** Quiet weekend, nothing sent since Thursday, and no EASi notices since 9/16: the SF Year 7 PR and the LA PA37 amendment are both still un-routed with seven business days to 9/30. The LA number is now exposed — Chapman told EMP2 on Friday that its $3,136,587 rebuild "looks good," three days after agreeing in writing to a fixed $2,866,506.67; the COR memo due today has to derive the 24.1041% share from TO-4 and land on Chapman's thread before he drafts PA37. ABM's R8 PY5 report arrived ten days early. Finance's Battle Creek confusion moved to a third wrong PIID. NLR call at 11:00 PT.
 
 | Date | Contract | Item |
 |------|----------|------|
-| **9/18** | Honeywell SF | 🔴 **Route the Year 7 PR against AS11.** Approved by Budget 9/16; nothing in EASi; eight business days to 9/30 |
-| **9/18** | Honeywell LA | 🔴 **Get the PA37 PR amendment routed.** If the $1,012,917 committed line cannot be cleared by Chapman's EASi ticket on Monday, agree the fallback (fresh PR) with Chapman today. Reply to Bonus: which share did EMP2 apply, and re-run at 24.1041% with remaining-payment count and dollars. Answer the acceptance-letter comments (promised EOD 9/17) recommending the letter hold pending the cure notice |
-| **9/18** | ABM LA | 🟠 Send the consolidated comments (Redline v2) — four days past "will follow separately"; ABM is waiting on them before HASI |
-| **9/18** | McKinstry | 🟠 Reply to Jones with a date and host the Meet invite — third slip on the SkySpark/PY12 touch-base |
-| **9/18** | Battle Creek | 🟠 Answer Hale/Shandal on the post-settlement picture (no $22.6M of debt service after 11/1); PIID 0103→0107; PS0006 award date from Conant; onboarding docs to HSPD-12 |
-| **9/18** | PJKK | 🟠 Tell Nathan/Frank which Year 15 version is of record (the 8/13 set they downloaded); Finance title thread; **end-date mod 48 days overdue** |
-| **by 9/21** | San Diego | Resubmit the PY7/PY8 *reports* through intake; set the Jolles call on Y5 acceptance (Nathan's action item) |
-| **9/21** | Honeywell LA | 🔴 **COR written review + memorandum:** derive the 24.1041% share from TO-4 line by line (buildings, gross vs net, Holifield), tie the fixed amount to TO-5A and §H.9.4, document Honeywell's 28.81% and EMP2's ~27.8% as departures; Component D reserved |
-| **9/21 11:00 PT** | San Diego | NLR findings call (Rogers on; Doll out 9/21–25): Year 8 Table 1.6 vs 1.7 gap ($421,899 / 23,602 MMBtu), Table 1.7e sign; Year 7 |
-| **9/25** | NORESCO | EMP2 (Wolff) deliverable on the 536 S. Clark memo; Gomez PIV deadline if Blue issues it |
-| **~9/28** | ABM R8 | PY5 M&V report due from ABM — review with the 10/20 mediation in mind |
-| **9/30** | Battle Creek + Honeywell LA + Honeywell SF Yr7 | FY-end obligation wall: Battle Creek funded (award pending); **LA amendment blocked in EASi; SF not routed** |
+| **9/21 first** | Honeywell LA | 🔴 **COR memo to Chapman today, posted on his 9/18 "Termination Calculator Rebuild" thread:** derive 24.1041% from Schedule TO-4 line by line and show what basis yields EMP2's 27.8%/Honeywell's 28.81%; tie $11,560,653.93, the 2.5% premium (§H.9.4) and $10,000 to sources; Component D reserved; EMP2's "Operation TRM" removal is a services question, not capital. Reply to Bonus asking for the 24.1041% run. Without this, "looks good" becomes the determination |
+| **9/21** | Honeywell LA | 🔴 **PR amendment: get it routed or agree the fallback (fresh PR) with Chapman today.** No help-ticket traffic on the $1,012,917 committed line since Thursday |
+| **9/21** | Honeywell SF | 🔴 **Route the Year 7 PR against AS11.** Approved 9/16; nothing in EASi; seven business days |
+| **9/21 11:00 PT** | San Diego | NLR findings call (Rogers on; Doll out): Year 8 Table 1.6 vs 1.7 gap ($421,899 / 23,602 MMBtu), Table 1.7e sign; Year 7. PY7/PY8 report resubmission through intake still open |
+| **9/21** | Battle Creek | 🟠 Reply to Shandal/Hale: PIID is 47PF0024F0107 (not 0103 or 0403); $4,206,046.58 matches nothing in the file; send the PS07 TO-3/TO-5 with the 11/1 row and the three-line reconciliation from the 9/14 MFR |
+| **9/21** | ABM R8 | 🟠 Confirm where Meehan uploaded the PY5 report (9/18, via Cooper); copy to the COR file; log with the PMO; review as mediation evidence with Cooper |
+| **9/21** | ABM LA | 🟠 Consolidated comments (Redline v2) — six days past "will follow separately"; ABM is holding HASI on them |
+| **9/21** | McKinstry | 🟠 Reply to Jones with a date and host the invite — third slip, no reply since 9/17 |
+| **9/21** | PJKK | 🟠 Version-of-record answer to Nathan/Frank; Finance title thread; **end-date mod 51 days overdue** |
+| **9/25** | NORESCO | EMP2 (Wolff) 536 S. Clark deliverable; Gomez PIV deadline if Blue issues it (no reply from Blue since 9/17) |
+| **9/30** | Battle Creek + Honeywell LA + Honeywell SF Yr7 | FY-end obligation wall: Battle Creek funded (award pending); **LA amendment un-routed and number exposed; SF un-routed** |
 | **early Oct** | Detroit | Hamilton card: PIV POC says wait a few more weeks; then FPS reference / Lost-Stolen form |
 | **~10/9** | PJKK | JCI responses to Y15 comments due |
 | **10/19–21** | ABM R8 | 🔴 DC travel for the CBCA 8937 mediation (approved; submit the travel request, book on go.gov). 10/20: Falciani 8:30 AM, mediation 10:00. Deliverable: multi-failure boiler chronology |
 | **10/28–29** | NORESCO + PJKK | CPARS PY10 close (10/28); PJKK PY15 PMO Final intake (10/29) |
 | **11/6** | — | DOE FEMP QA/QC call |
 | **12/1** | Sansome | Year 10 payment due (MassMutual) |
-| **open** | Honeywell LA | Cure notice for the Year 6–8 lighting spot checks: Chapman to request a breakout estimate from Honeywell and decide the sequence vs Year 8 acceptance; Regional Counsel timeline |
-| **open** | Portfolio | FEMP AI pilot: SF NDER2 selected; GitHub repo access received; schedule kickoff with Hubbard/Earni. Kirk's "M&V Scheduled Outlook" sheet needs M&V plans and TO schedules. Three reports need intake-form submission (SF PY6, SD PY7/PY8, McKinstry PY10) |
+| **open** | Honeywell LA | Cure notice for the Year 6–8 lighting spot checks: Chapman to request a breakout estimate and decide the sequence vs Year 8 acceptance; acceptance-letter comment responses owed to Chapman since 9/17 |
+| **open** | Portfolio | FEMP AI pilot kickoff with Hubbard/Earni; Kirk's "M&V Scheduled Outlook" sheet; three reports need intake-form submission (SF PY6, SD PY7/PY8, McKinstry PY10); ePB shared login reset (epbaccess) |
 | **open** | ABM LA / SF | ABM LA CIW/ROCAL awaits Matt; SF: Topete badge return; Garvey PIV in production |
-| **stale 86 days** | SDG&E | 🔴 6/24 Y4 findings package to Jolles, zero reply |
+| **stale 89 days** | SDG&E | 🔴 6/24 Y4 findings package to Jolles, zero reply |
 | **deferred FY27** | NORESCO | 536 S. Clark buyout is the fallback behind the memo |
 
 ## Cross-Cutting Themes
