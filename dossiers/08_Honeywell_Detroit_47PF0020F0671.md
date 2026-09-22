@@ -271,3 +271,10 @@ The Detroit CIW/ROCAL rebuild moved forward on 8/31 after two prior HSPD-12 reje
 - **9/16 sweep — Hamilton card: Honeywell wants to keep trying.** 9/15 5:08 AM PT helpdesk *"Thank you for your assistance getting this resolved"* (`1a0a4f8a864a8107`); Parker added Sieglinde Kinne 5:11 AM; **Kinne 12:54 PM PT** (`1a0a6a328933df2a`): *"Maury actually stopped by on 8/27 reportedly but may have been too late or early. He said no one was at the office. We want to keep working with him to see if we can get it turned in."* So the Lost/Stolen/Uncollectible route is paused: Honeywell has contact with Hamilton and expects a physical return. Give it a bounded window (helpdesk asked 8/24 and 9/14) — if the card is not in hand by ~9/25, go to the FPS reference number. The CIW/ROCAL rebuild is independent and can go now.
 
 - **9/17 sweep.** William Brush (Facilities Management PIV Card POC) opened a formal "Uncollected Card" item for Hamilton 9/16 11:55 AM (`1a0ab939bd633ded`); Parker relayed Kinne's 8/27 account; **Brush 9/17 5:12 AM: "I suggest waiting a few more weeks to resolve this if the contractor has shown an effort to return the card"**; if local drop-off to OMA is a problem, the PIV Card Office can advise on mailing (`1a0af490fbea3893`). The ~9/25 bound in this dossier is now a PMO-endorsed "few more weeks" — no further COR action until early October unless Honeywell reports the card returned. Matt is on the PBS PIV Chase List (`1bVq59WPawoP3l4E_tk4Fk5HKYOefZtMVTYJe0zVfWDY`, shared 9/16).
+
+
+---
+
+## Delta update — 2026-09-22 sweep
+
+- **9/21 — HSPD-12** followed up with Kinne and Gjeltema on the Hamilton card (`1a0c4dbae508446b`, `1a0c4dcc9e1d849a`). Consistent with Brush's 9/17 "wait a few more weeks"; no COR action yet.

@@ -356,3 +356,13 @@ A separate live pass on **9/1 afternoon** read the 8/31 "NDER7 Midwest – 536 C
 - **9/15 sweep:** no NORESCO or EMP2 traffic on 536 S. Clark; Delaney card for the 12/14 milestone is routine. Wolff's 9/25 deliverable and the replaced-vs-superseded question are unchanged.
 
 - **9/18 sweep — HSPD-12: Gomez card.** 9/17 8:11 AM PT — Matt → Blue (`1a0afec9f2b5801d`): Alejandro Gomez's uncollected PIV has been in the 30–59-day bucket since mid-August; Todd Ryan (NORESCO) has promised an FPS number repeatedly since 8/26 with nothing delivered as of OMA's 9/15 note; **recommends a five-business-day deadline for NORESCO to produce the FPS number or return the card, then report it lost per HSPD-12 procedure**; asks whether Blue or Matt issues it. No reply from Blue as of 6 AM PT 9/18. Matt is on the PBS PIV Chase List (`1bVq59WPawoP3l4E_tk4Fk5HKYOefZtMVTYJe0zVfWDY`). 536 S. Clark: no traffic; Wolff's 9/25 deliverable stands.
+
+
+---
+
+## Delta update — 2026-09-22 sweep: cooling tower #2 overflow at 536 S. Clark; HSPD-12 still chasing Gomez and a second card
+
+- **9/22 5:17 AM PT — Todd Ryan** (`1a0c90ccb93e3771`): cooling tower #2 overflowed on 9/21; the return-valve actuator is faulty; JCI (Sharkey) is replacing it, back Thursday/Friday. Rudder acknowledged. Operational; note it against the 536 S. Clark stipulated-savings question (cooling-side equipment condition is relevant to replaced-vs-superseded).
+- **9/21 — HSPD-12** (`1a0c4e61e063a66c`) again chasing the Gomez FPS number and now **Nicholas Finder's card** too, addressed to Blue, Rudder, Matt, Cabana, Ryan. **No reply from Blue** to Matt's 9/17 five-business-day-deadline proposal.
+
+**COR actions:** nudge Blue for the deadline letter to NORESCO (Gomez, and now Finder); EMP2's 536 S. Clark deliverable due 9/25.

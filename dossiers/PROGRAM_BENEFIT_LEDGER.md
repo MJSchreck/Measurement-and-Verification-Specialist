@@ -76,6 +76,8 @@
 
 **Status note 2026-09-21 — LA candidate at risk of erosion (no rollup change).** Chapman replied to EMP2's rebuilt workbook on 9/18: "This looks good" (`1a0b5fc157236f03`). If the determination issues on EMP2's ~27.8% basis rather than the 24.1041% he agreed to on 9/16, the Government pays roughly $346K more than its own August 27 estimate and the stripped over-ask against Honeywell's $3,414,209.25 falls from $547,703 to ~$200K. The COR memo due today is the control; carry the Section B candidate as *in play* until the share is fixed on the record.
 
+**Status note 2026-09-22 — LA candidate reframed; Government figure revised upward (no rollup change).** On 9/21 Matt corrected his own determination to **$3,301,391.54** on the contract-method share of 27.8606% (AS26 Table 2; TO-4 "Remaining ECMs" financed set $969,371.92), replacing the $2,866,506.67 built on a denominator that included three ECMs terminated in 2017 (`1a0c60dda059da33`). The Section B over-ask candidate against Honeywell's $3,414,209.25 is therefore **$112,817.71**, not $547,703; the earlier figure was a COR arithmetic artifact, not Honeywell's overreach. What remains legitimately attributable to the COR: the derivation itself (Honeywell's 28.81% is still undocumented), the 2.5% vs 2.0% premium correction against EMP2's rebuild, and Component D reserved. On 9/22 Ingersoll told the CO that funding covers $3,414,209.25 and asked for the PR (`1a0c905a30547626`); if PA36 issues at Honeywell's number the candidate closes at zero. Carry $112,817.71 as *in play* pending the reply-all and the revised PR M0022.
+
 ## E — Integrity & Avoidance Wins (unquantified or structural)
 
 | Date | Contract | Event | Actor(s) |

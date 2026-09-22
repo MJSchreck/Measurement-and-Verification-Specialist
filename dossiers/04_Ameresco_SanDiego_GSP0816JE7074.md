@@ -384,3 +384,13 @@ Ameresco now claims **~$425,000/yr from one DCV sequence on one air handler** �
 - **9/17 sweep.** Berezovskiy 9/16 (`1a0ab9bf6286a616`, item 7): **the 8/11 intake submissions for PY7 and PY8 "appear to be appendix files, I don't see the M&V report included"** — that explains the identical figures; resubmit the reports themselves before 9/21. Frank's bi-weekly question (9/16) on whether a call is on the calendar for outstanding report updates — Matt said he would confirm with Jolles and get back on NLR's 9/21 (`1a0ac1f5fcdf3d62`); Frank was on the NLR thread and is invited.
 
 - **9/18 sweep.** Nathan's check-in notes (`1a0afc25acb66722`, doc `1YtLclclK9FP285sumG67G55JTcQCmbhpOAyzwufWHQk`) assign Matt: *"Did we setup a call with Felipe to discuss outstanding M&V Report updates, also Sean with NLR wants a call on the 21st."* The NLR call is set (9/21 11:00); the Jolles call on Y5 acceptance is not. **Kirk Doll is out all next week (9/21–25)** (`1a0b0ad51ab63ec9`) — he was added to the NLR call 9/15; Rogers remains. The PY7/PY8 intake resubmission (reports, not appendices) is still open before 9/21.
+
+
+---
+
+## Delta update — 2026-09-22 sweep: NLR call held 9/21; Year 6 report and transmittal put in the shared drive for Frank
+
+- **9/21 12:25 PM PT — Matt → Frank** (`1a0c56dcabe2e25c`), after the 11:00 NLR call: Year 6 M&V Report Rev 00 (7/3/2024) (`13Z6_1pob-SH8Vv7wZPBqUZzQWSIFQ7ms`) and its transmittal (`1kRb8QRbYY6Me7fSqevzEussKPpeJ_bTk`) are in the shared drive; Matt will send the NLR notes and set up an internal call with Jolles afterward.
+- No NLR notes or written findings in the inbox yet; the Year 8 Table 1.6 vs 1.7 gap and the Table 1.7e sign remain the open items from the agenda. Doll out through 9/25.
+
+**COR actions:** write up the NLR notes while fresh; put the Jolles call on Y5 acceptance and the Y8 scope on the calendar (Nathan's action item from 9/18); PY7/PY8 intake resubmission still open.

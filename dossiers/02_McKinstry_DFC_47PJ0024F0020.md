@@ -212,3 +212,14 @@ The entry above called the McKinstry HSPD-12 package "19 days unanswered since 8
 - Berezovskiy 9/16 (`1a0ab9bf6286a616`, item 8): the scorecard shows PY10 missing because **the Year 10 report was never submitted through the intake form** — submit it and the row clears; Year 10 acceptance and the PR are not in question. Y11 review status unchanged. 9/17 1:00 MT touch-base with Jones: still double-booked, no reschedule sent.
 
 - **9/18 sweep — the 9/17 touch-base did not happen.** 9/17 7:20 AM PT — Jones (`1a0afbd68bf709ed`): *"I have a hold on my calendar today for a meeting from 1-2pm but haven't received an invite. Are you and your team still available to meet?"* No reply in Sent; Matt was in the FEMP AI pilot chat at 12:00 and the Honeywell TRM review at 1:00. This is the third slip on the SkySpark/BAS-access + PY12 M&V touch-base (cancelled 7/20; Jones's 9/3 availability; 9/17 hold with no invite). **Reply today with a date and send the Meet invite yourself** — Jones asked on 9/4 for GSA to host it. Berezovskiy's PY10 intake-form point (9/16) stands.
+
+
+---
+
+## Delta update — 2026-09-22 sweep: Matt reset the SkySpark ask to Beadle and is rescheduling the touch-base over the next two weeks
+
+- **9/21 9:19 AM PT — Matt → Beadle** (`1a0c4c42dce9f1cc`; cc Blatt, Golter, Jolles, Ingersoll): restore the missing SkySpark trends or build Niagara histories — UT0035ZZ and SD0021ZZ are on Niagara; ND was not migrated. Matt is rescheduling the McKinstry touch-base and asked for availability over the next two weeks.
+- **Blatt** added Rick Miller to the thread (`1a0c5188c64857e9`).
+- Jones's 9/17 hold message is now in Trash; no separate reply to Jones — the reschedule went through Beadle's thread instead.
+
+**COR actions:** pick a slot from McKinstry's replies and host the invite; Y11 M&V review still unstarted; PY10 intake-form submission open.

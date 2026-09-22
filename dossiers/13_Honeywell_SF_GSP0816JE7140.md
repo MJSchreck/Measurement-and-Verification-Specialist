@@ -504,3 +504,14 @@ The sufficiency thread (`19cb53e6cb114d17`) was re-pulled in full. **Matt's copy
 - **9/18 sweep.** **Year 7 PR still not routed** — no EASi notice since 9/16; Brown's approval of the AS11 build is now three days old; **eight business days to 9/30.** Chapman said in the 9/17 TRM review that Honeywell's administrative delays extend to SF (PS30 unsigned since 9/11; his 9/16 chase unanswered). **SF NDER2 was chosen as the FEMP AI pilot project** at the 9/17 AI Pilot Chat (Gemini notes `1a0b0dae0169b116`; Drive `1kYMAV3CYm93py66fzcGaL2Bl5Sh6b2CGR3MSD2tWt90`): the tool is configured for M&V-plan review first, reports later; GSA internal AI with the LBNL repo (GitHub invite from Hubbard, `1a0b108e9c7e3e98`; access note `1a0b112c1647b05f`); Nathan created a shared **"SF MV Collaboration"** folder (`1a0b0d0fdf96271a`) that the MCP server will index; Matt to schedule the kickoff with Hubbard and Earni. *Gemini's "year 9 … recurring annual shortfall of $4 million" is wrong for this contract — SF is in Year 7 with Year 6 verified at ~$229K under guarantee; correct it before it propagates.*
 
 - **9/21 sweep.** Year 7 PR still not routed; no EASi notice since 9/16; no Honeywell word on PS30; **seven business days to 9/30.** Nothing sent on this contract 9/18–9/21 AM.
+
+
+---
+
+## Delta update — 2026-09-22 sweep: Year 7 PR still not routed — six business days
+
+- No EASi notice since 9/16; the Year 7 PR against the AS11 build (approved by Brown 9/16) is still not in the system. **Six business days to 9/30.**
+- **9/21 — Topete card chase** (`1a0c593b5c253844`): badge-return follow-up; no Honeywell word on PS30.
+- Ingersoll's 9/22 LA funding note (`1a0c905a30547626`) copies Brown and Zahora; nothing on SF in it.
+
+**COR actions:** route the Year 7 PR today; PS30 signature; PY6 intake-form submission.
