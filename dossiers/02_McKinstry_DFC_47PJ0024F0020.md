@@ -223,3 +223,11 @@ The entry above called the McKinstry HSPD-12 package "19 days unanswered since 8
 - Jones's 9/17 hold message is now in Trash; no separate reply to Jones — the reschedule went through Beadle's thread instead.
 
 **COR actions:** pick a slot from McKinstry's replies and host the invite; Y11 M&V review still unstarted; PY10 intake-form submission open.
+
+
+---
+
+## Delta update — 2026-09-23 sweep: PY10 intake form filed (Full Final)
+
+- **9/22 5:05 PM PT — PMO intake form, Year 10 Final** (`1a0cb953ba6bb5b3`): verified $763,245 vs guaranteed $733,771 (the report's Executive Summary transposes the two); actionable GSA-deficiency impact ($61,259); net savings $701,986; trend data severely limited, affected ECMs verified at commissioned levels; no performance-period witnessing; Appendices A and B unpopulated in the delivered report. PY10 instructional memo attached; no final comment form. **Closes the McKinstry PY10 intake item.**
+- No McKinstry reply yet to the 9/21 Beadle thread on touch-base times.

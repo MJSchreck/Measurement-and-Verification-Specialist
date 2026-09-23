@@ -329,3 +329,10 @@ Note: File Memo PO21 mentions "twenty modifications" issued to date as of Aug 20
 
 **COR read.** Parker settled it without the COR (Matt on leave). Fortman's position is the right one for the record: the guarantee is annual, the M&V Plan's reporting cycle is annual, and an early end would need a mod to the performance period and the M&V schedule for no savings to the Government (the $24,410 M&V line is fixed; PA23 already obligated the full $153,908 on 8/27). Nothing to reverse. One thing worth noting to Parker on return: the **final-year report will therefore cover 8/1/2026–7/31/2027 in full**, so closeout (CPARS, PMO package) runs to the report's acceptance, not to the loan payoff date; the 10/31/2027 contract end stands.
 - Five PY8 carry-forward watch items and the Oct 1 2026 BAS/possession dependency unchanged.
+
+
+---
+
+## Delta update — 2026-09-23 sweep: PY9 receiving report due ~10/6
+
+- **9/22 12:45 PM PT — Parker** (`1a0caa71e3defd4e`): reminder that the Chicago SSA PY9 payment needs a receiving report at the start of October, "by the 10/6 or so"; offered to work it together. **Matt 12:53 PM** (`1a0caae08e0ac635`): will handle it and submit before 10/6. Parker: "You da man."

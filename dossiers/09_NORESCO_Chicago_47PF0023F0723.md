@@ -366,3 +366,15 @@ A separate live pass on **9/1 afternoon** read the 8/31 "NDER7 Midwest – 536 C
 - **9/21 — HSPD-12** (`1a0c4e61e063a66c`) again chasing the Gomez FPS number and now **Nicholas Finder's card** too, addressed to Blue, Rudder, Matt, Cabana, Ryan. **No reply from Blue** to Matt's 9/17 five-business-day-deadline proposal.
 
 **COR actions:** nudge Blue for the deadline letter to NORESCO (Gomez, and now Finder); EMP2's 536 S. Clark deliverable due 9/25.
+
+
+---
+
+## Delta update — 2026-09-23 sweep: Blue approved the Gomez deadline; PY10 intake form filed (Pre-Final); cooling tower acknowledged
+
+- **9/22 8:08 AM PT — Blue** (`1a0c9a9b5174ea0f`): *"I agree with your outlined course of action. Please proceed with issuing the firm deadline to Noresco and reporting the card lost if they do not respond in a timely manner."* **Matt now issues the five-business-day letter to NORESCO** (Gomez FPS number or card return); add Finder's card, which HSPD-12 raised 9/21 (`1a0c4e61e063a66c`).
+- **9/22 3:02 PM PT — PMO intake form, PY10 Pre-Final** (`1a0cb2403d80ec9a`): verified $3,205,072 vs guaranteed $3,125,421 (+$79,652); O&M $457,698 (ECM-08 boiler watch only; Table 0-4's $531,301 also carries $73,602 ECM-07 rate-change savings); net Government impact +$8,894 (mission-driven +$18,025; actionable −$9,131 ECM-14 Metcalfe FPB airflow/AHU SAT reset, VAV occupancy control not re-implemented after Floor 7/8/21 renovations). AVR dated 7/31/2026; GSA-witnessed inspections March–June.
+- Rudder acknowledged Ryan's cooling tower #2 note (`1a0c9176dbdd582a`). Hofmann (Aqualogix) card certificates expire 11/22/2026 (`1a0cd7ea927c3cd8`) — routine.
+- EMP2's 536 S. Clark deliverable due 9/25.
+
+**COR actions:** send the deadline letter today (Blue authorized it); calendar the lost-card report date.

@@ -515,3 +515,16 @@ The sufficiency thread (`19cb53e6cb114d17`) was re-pulled in full. **Matt's copy
 - Ingersoll's 9/22 LA funding note (`1a0c905a30547626`) copies Brown and Zahora; nothing on SF in it.
 
 **COR actions:** route the Year 7 PR today; PS30 signature; PY6 intake-form submission.
+
+
+---
+
+## Delta update — 2026-09-23 sweep: PY6 intake form filed (Final); ORNL post-M&V survey sent; Chapman's 2nd request on PS30; Year 7 PR still not routed
+
+- **9/22 4:27 PM PT — PMO intake form submitted, Final** (`1a0cb729a78f93a1`): Year 6, guaranteed $1,397,628, verified $1,168,311 (shortfall $229,317); Government operational impact ($77,162) per Table 8 — mission-driven ($1,071) Burton PH-14 setpoint; actionable ($76,091) water fixture flow at six buildings, Shea irrigation, Ryan xeriscaping controls, Coyle AHU scheduling/min OA, Coyle EF#10, Moss CWP2 trends. Attached V04 report (3/13/2026), witness forms, final comment form (2/5/26), PY6 instructional memo. Note in the form: acceptance letter to issue with PS30. **Closes the PY6 intake item.**
+- **9/22 4:12 PM PT — Matt → Conger (ORNL)** (`1a0cb64afc611b7b`; cc Ingersoll, Johnson, FEMP): completed Post-M&V Visit Questionnaire for PY6; GSA accepted V04 on 3/17/2026, confirmed to Honeywell 7/13/2026; asks for the final multi-site witnessing guidance. Due date was 9/30 — **done.**
+- **9/22 7:04 AM PT — Chapman, "2nd Request"** to Honeywell on PS30 (`1a0c96eab9f89600`); read by Matt 7:35. No Honeywell reply.
+- **Year 7 PR:** the only EASi notice yesterday was LA's M0022. Nothing for SF. Brown approved the AS11 build 9/16. **Five business days to 9/30.**
+- Garvey re-enrollment notice (card expires 12/22/2026) (`1a0cd7e75383a06b`) — routine.
+
+**COR actions:** route the Year 7 PR; PS30 is the CO's chase.

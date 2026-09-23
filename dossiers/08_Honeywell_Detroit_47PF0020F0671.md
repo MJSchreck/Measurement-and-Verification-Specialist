@@ -278,3 +278,12 @@ The Detroit CIW/ROCAL rebuild moved forward on 8/31 after two prior HSPD-12 reje
 ## Delta update — 2026-09-22 sweep
 
 - **9/21 — HSPD-12** followed up with Kinne and Gjeltema on the Hamilton card (`1a0c4dbae508446b`, `1a0c4dcc9e1d849a`). Consistent with Brush's 9/17 "wait a few more weeks"; no COR action yet.
+
+
+---
+
+## Delta update — 2026-09-23 sweep: Hamilton has tried to return the card twice; Parker asking the Detroit office for hours
+
+- **9/22 6:10 AM PT — Kinne** (`1a0c93d0ffb5910a`): Hamilton tried to drop the card off twice and found no one in the office; adds Ann Nelson (Honeywell, in contact with him); asks for office hours or an alternate return method.
+- **6:19 / 6:22 AM — Parker** asks Brian Green (`1a0c945d74ef97a7`) and Essenmacher/Smith (`1a0c9491aec37fe7`) to confirm when someone is at the GSA office to receive it.
+- Reads as a collectible card, not Lost/Stolen — hold the L/S/U form; the mail-in address (HSPD-12 PMO, 1800 F St Room 2250) is the fallback if the office can't staff a handoff.
