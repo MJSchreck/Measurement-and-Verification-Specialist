@@ -394,3 +394,14 @@ Ameresco now claims **~$425,000/yr from one DCV sequence on one air handler** �
 - No NLR notes or written findings in the inbox yet; the Year 8 Table 1.6 vs 1.7 gap and the Table 1.7e sign remain the open items from the agenda. Doll out through 9/25.
 
 **COR actions:** write up the NLR notes while fresh; put the Jolles call on Y5 acceptance and the Y8 scope on the calendar (Nathan's action item from 9/18); PY7/PY8 intake resubmission still open.
+
+
+---
+
+## Delta update — 2026-09-24 sweep: Frank chasing the internal call on the revised Year 5 and its effect on Years 6–8
+
+- **9/23 2:08 PM PT — Frank** (`1a0d0194fbbe92a3`; cc Jolles, Ingersoll), on the 8/11 "Year 7 and Year 8 … COR Review Questions" thread: *"we need to schedule an internal call to discuss and then need to follow up with Ameresco on the revised Year 5 Report and how this impacts reports 6, 7, and 8."* Six weeks since Matt's 8/11 note that this was "a great conversation for our 11 am meeting tomorrow"; the four written questions to Perron (Year 8 step change, impact sign convention, witnessing, implementation-period disposition) were due 8/25 and are still unanswered in the file.
+- **EMP2 bi-weekly 9/23** (`1a0cfb16e99e26b4`): "San Diego reported an ECM sampling rate discrepancy impacting projected savings calculations"; Berezovskiy to contact Jolles "to resume the M&V report resolution and call coordination process for San Diego."
+- NLR notes from 9/21 still not written up; PY7/PY8 intake resubmission still open.
+
+**COR actions:** put the internal call (Frank, Berezovskiy, Jolles) on the calendar this week; bring the NLR notes and the 8/11 question list; then one letter to Ameresco covering Year 5 revision, Years 6–8 reissue, and the four open questions.

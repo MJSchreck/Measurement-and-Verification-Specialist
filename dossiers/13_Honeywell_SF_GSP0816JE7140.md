@@ -528,3 +528,11 @@ The sufficiency thread (`19cb53e6cb114d17`) was re-pulled in full. **Matt's copy
 - Garvey re-enrollment notice (card expires 12/22/2026) (`1a0cd7e75383a06b`) — routine.
 
 **COR actions:** route the Year 7 PR; PS30 is the CO's chase.
+
+
+---
+
+## Delta update — 2026-09-24 sweep: Year 7 PR still not routed — four business days
+
+- No EASi notice since LA's M0022 on 9/22. Year 7 PR against AS11 (approved by Brown 9/16) is still not in the system. Matt was out sick 9/23. **Four business days to 9/30.**
+- HSPD-12 third notice on Topete's card 9/23 (`1a0cf3dd0ece4b12`); OOO went back. Cawthorne accepted the 10/1 SF monthly service-center cadence (`1a0ce9b9ac3240b5`). No Honeywell reply to Chapman's PS30 second request.

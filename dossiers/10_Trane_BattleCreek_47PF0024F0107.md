@@ -449,3 +449,16 @@ The buyout thread (`19fc95074a3c4764`, 40 messages) was re-pulled in full. The 8
 - Award PS0006 remains Conant's; no notice yet.
 
 **COR actions:** send Shandal the PS07 TO-3/TO-5 with the 11/1 row and the 9/14 MFR reconciliation so her analysis lands on $4,053,657.55 principal + accrued interest, not the tracker's $4,206,046.58; watch for Conant's award notice before 9/30.
+
+
+---
+
+## Delta update — 2026-09-24 sweep: PS0006 SF30 issued to Trane for signature at $4,299,486.37; Trane confirms the fee but not the page-3 figures; Conant's Memo to File carries a fourth principal number
+
+- **9/23 8:42 AM PT — Conant → Hanna, Liu (cc Matt)** (`1a0ceefb8063764c`): SF30 **PS0006** "cancels this task order in its entirety"; sign and return. Bilateral. Drive: *v2 Draft SF30 47PF0024F0107, Mod PS0006.pdf* (`1zPvBx3fQRs1lUB4bob1dRAXbJwC-jX0T`, 7:19 AM) and *00 PS0006 Memo to File.pdf* (`17ZerV7XSfimMsKcU3XFom0S_mHRZw9A8`, DocuSign, Conant).
+- **12:16 PM — Hanna** (`1a0cfb422e799ca5`): *"the $4,299,486.37 is accurate but cannot confirm the rest"* on page 3; Conant may have been looking at an older TO schedule version; attaches *HDI_TO Schedule.xlsx* — "the version that Trane and the financier have." **12:33 PM — Conant** (`1a0cfc358b483fb9`): $7,270,406.99 is total obligated and paid to date; $11,569,893.36 is the new project total, "not captured in the TO-Schedules because we are cancelling the project early."
+- **Conant's Memo to File** recites the 45-mod history and the buyout chronology (8/3 notice; Trane 8/14 $4,266,995.59 / $4,283,210.17; 8/25 $4,299,486.37 for an 11/1 final payment; 8/27 BACnet-controller explanation; 9/4 breakdown **Principal $4,158,456.48, Interest $15,802.13, Balance $4,174,258.61, Early Termination Fee $125,227.76**, "3% termination premium") and finds the proposal fair and reasonable. Two slips: it says funding must be obligated "before September 30, **2025**," and lists PS0005 (7/6/2026) as incorporating the PY10 report, which PS0003 already did (PY11 is meant). It also calls $4,174,258.61 the "outstanding principal balance," which is Trane's balance including $15,802.13 interest.
+- **The principal question is now four-sided:** Pegasys tracker $4,206,046.58; CLIN 0017 build $4,210,357.48; TO-3 basis certified 9/2 **$4,053,657.55**; Trane 9/4 principal **$4,158,456.48**. The settlement fee is agreed; the page-3 figures and the "principal" language are not. This is the reconciliation Shandal asked for on 9/21 and the one Trane just asked Conant for.
+- Matt out sick 9/23; out-of-office went to Conant (`1a0ceefc9848d2dd`).
+
+**COR actions:** send Conant (and Shandal) the PS07 TO-3/TO-5 with the 11/1 row and the 9/14 MFR reconciliation today, before Trane signs, so the SF30 page-3 figures and the MFR's "principal" line tie to the executed schedules; flag the 2025 date and the PS0005 description for correction; watch for Trane's signed copy and Conant's distribution.
