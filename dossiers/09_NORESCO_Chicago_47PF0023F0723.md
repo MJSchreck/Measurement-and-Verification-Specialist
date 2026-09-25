@@ -389,3 +389,10 @@ A separate live pass on **9/1 afternoon** read the 8/31 "NDER7 Midwest – 536 C
 - **Gomez:** the deadline letter Blue authorized 9/22 is now paralleled by Ryan's commitment in the meeting to file the report himself. Send the letter anyway (it dates the clock) or, at minimum, an email to Ryan/Blue confirming the date by which the report and FPS number are due.
 
 **COR actions:** move the partnering meeting to 10/29; Gomez deadline email; ask Blue what the "procurement request… awarded before the 30th" is — if it is the 536 S. Clark action, the dossier's "memo path / buyout deferred to FY27" status is stale.
+
+
+---
+
+## Delta update — 2026-09-25 PM: cooling tower #2 back in service
+
+- **12:04 PM PT — Ryan** (`1a0d9f501a6967ef`): cooling tower #2 back in operation as of this morning; actuator replaced, calibrated, tested.

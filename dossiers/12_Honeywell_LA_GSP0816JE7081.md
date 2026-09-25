@@ -515,3 +515,15 @@ Both said the 9/1 legal call "left no written record" and that issuance was unco
 **COR read.** The determination is now well-papered from the CO's side: Legal has signed off in substance, the amount is fixed, the payment date is pushed 60 days, and PS37 has a deadline. Two things still belong to the COR before signature, and one after. (1) **The TCV restatement to $47,479,392.71** is the largest number change in the package and appeared overnight without a source; if it is the sum of the executed TO-1 through the current mod, say so in one line; if it isn't, Chapman will be certifying a figure nobody derived. (2) The premium arithmetic line ($83,265 vs $83,273.40) is a two-second fix. (3) After signature: the COR record of the 27.86% derivation and the reserved performance-period question needs to exist somewhere other than the 9/22 emails — the Component D memo Rev 2 is that document, and it now doubles as the COR's input to PS37 (Honeywell's schedules due 10/15).
 
 **COR actions 9/25:** (1) One reply on the "COMING SOON" thread before Chapman signs: ask for the derivation of $47,479,392.71 (or supply it), flag $83,265, and confirm 12/1 payment / 11/1 invoice is acceptable under H.9.4. (2) Calendar 10/15 (Honeywell schedules) and 11/1 (PS37). (3) Component D memo Rev 2 by early next week, framed as the PS37 schedule-review basis. (4) Reply to Frank/Bonus closing the 9/22 loop.
+
+
+---
+
+## Delta update — 2026-09-25 PM: PA36 awarded and finalized at $3,414,209.25; TCV in EASi now $47,479,392.71
+
+- **9/25 7:43 AM PT — Chapman → Moore** (`1a0d905bbf69ac9e`): MDD and SF30 updated per Legal; PS37 will carry the release language and go to OGC for review when drafted. 8:14 AM — OGC acknowledges (`1a0d9220dc7dbc0e`).
+- **2:30 PM PT — EASi: Award Mod Finalized, GS-P-08-16-JE-7081 Mod PA36** (`1a0da7a3931448ed`): Mod Obligated Amount **$3,414,209.25**; Obligated Value $19,396,039.23; **Base and All Options Value $47,479,392.71**; effective 9/25/2026; completion 3/1/2041; PR EQ9P3PME-16-5045. The FY26 obligation is done with three business days to spare.
+- Matt sent nothing on the "COMING SOON" thread before signature. The TCV restatement to $47,479,392.71 is now in the award record without a derivation in the file; the premium-line inconsistency ($83,265 vs $83,273.40) went to signature in the MDD.
+- Next dates from the MDD: Honeywell's revised TO schedules **10/15**; **PS37 bilateral before 11/1** (release language, OGC review); invoice **11/1**, payment **12/1**.
+
+**COR actions:** (1) File the executed PA36 and the final MDD to the COR file under the standardized name. (2) Component D memo Rev 2 as the COR basis for reviewing Honeywell's 10/15 schedules and PS37, including the TCV derivation question. (3) Close the loop with Frank/Bonus. (4) Confirm with Chapman the mod number for Year 8 acceptance.

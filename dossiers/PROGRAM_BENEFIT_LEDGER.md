@@ -82,6 +82,8 @@
 
 **Status note 2026-09-24 — no change; MDD now documents the basis.** Chapman's rewritten PA36 MDD (`1yNHRFlcEs0SqhTL7koZSFa0L4c5gu0ZY5d6b15ZU9ZM`, 9/23) states the settlement as Honeywell's proposed amount "accepted by GSA" and supports price reasonableness with EMP2's 9/23 run ($3,500,256 on 29.0046%, "3% higher" than the award). Package went to Legal 9/23 (`1a0cfda80038e420`); signature 9/25. The COR's $3,301,391.56 is not in the MDD. Candidate stays closed at zero; the Section E "avoided misstatement" note (under-obligation caught, 2.0% premium error, phantom fee) stands and should be captured in the Component D memo Rev 2 so the file shows it.
 
+**Status note 2026-09-25 PM — PA36 awarded; LA candidate retired (no rollup change).** EASi finalized GS-P-08-16-JE-7081 Mod PA36 at 2:30 PM PT on 9/25 at $3,414,209.25 (`1a0da7a3931448ed`). The Section B candidate is retired at zero. The Section E note stands as documented COR work with no dollar movement. Watch items for PS37 (schedules 10/15, mod by 11/1): the 27.86% vs 28.81% share and the reserved performance-period expense treatment can still shape the follow-on schedules even though the settlement amount is fixed.
+
 ## E — Integrity & Avoidance Wins (unquantified or structural)
 
 | Date | Contract | Event | Actor(s) |
