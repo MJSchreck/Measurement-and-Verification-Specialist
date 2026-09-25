@@ -210,3 +210,12 @@ EASi baseline: obligated $2,180,376.83 / total $8,384,152.20 (per briefing data;
 - CPARS self-assessment 3/20/26 — 19d0cecfbc999b3d
 
 **Local baseline:** /root/.claude/skills/synced/zone7/references/contracts.md (entry 04), history.md (2/10/26 designation).
+
+
+---
+
+## Delta update — 2026-09-25 sweep: ESC Scorecard COR fields corrected to Matt
+
+- **9/24 1:24 PM PT — Matt → Berezovskiy** (`1a0d5177d64a7baf`): corrected COR Designation and Reviewer for 47PK0222F0014 on the Active Projects tab from Kirk Doll to Matthew Schreck. Berezovskiy: "Sounds good, thank you!" (`1a0d52849127947c`).
+- **COR file:** *05 COR File Index_47PK0222F0014* built Thursday evening (`1gr8FvIBUXTWtg41lTx5ZQj3HAp_WGk_9in0iBCzWSOg`); as-built mechanical drawings and the 2022 payment/amortization/termination liability schedule filed under standardized names.
+- The 6/24 Y4 findings package to Jolles: **93 days, zero reply.**

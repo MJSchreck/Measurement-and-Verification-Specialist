@@ -405,3 +405,14 @@ Ameresco now claims **~$425,000/yr from one DCV sequence on one air handler** �
 - NLR notes from 9/21 still not written up; PY7/PY8 intake resubmission still open.
 
 **COR actions:** put the internal call (Frank, Berezovskiy, Jolles) on the calendar this week; bring the NLR notes and the 8/11 question list; then one letter to Ameresco covering Year 5 revision, Years 6–8 reissue, and the four open questions.
+
+
+---
+
+## Delta update — 2026-09-25 sweep: internal call offered for 9/24 2 PM; formal "San Diego ESPC (Ameresco) Review" set for Mon 9/28 9–10 AM PT with Jolles and Frank
+
+- **9/24 7:04 AM PT — Matt → Frank** (`1a0d3baf70eb138d`): "Does 2 pm Pacific today work for the team?" **8:22 AM — Frank:** "That works for me" (`1a0d4036d08ed5d5`). No Gemini notes or follow-up in the file for a 2 PM call.
+- **Calendar:** "San Diego ESPC (Ameresco) Review, GS-P-08-16-JE-7074" **Mon 9/28 9:00–10:00 AM PT** — Frank accepted 11:42 AM (`1a0d4ba5c050dd23`), Jolles accepted 1:00 PM (`1a0d501137219982`).
+- **COR file:** *03 COR File Index_GS-P-08-16-JE-7074* built Thursday evening (`1ttWxa3GRhBhUnneb_M2ioNK9kLrOTtOyIdVooOiCoKw`).
+
+**COR actions:** for Monday — the NLR 9/21 notes, the 8/11 four questions (unanswered by Ameresco since 8/25), the Year 5 revision → Years 6–8 reissue sequence, the Y5 acceptance recommendation with Jolles since 8/11, and the PY7/PY8 intake resubmission. One agenda, one page.

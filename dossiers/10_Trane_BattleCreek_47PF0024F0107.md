@@ -462,3 +462,14 @@ The buyout thread (`19fc95074a3c4764`, 40 messages) was re-pulled in full. The 8
 - Matt out sick 9/23; out-of-office went to Conant (`1a0ceefc9848d2dd`).
 
 **COR actions:** send Conant (and Shandal) the PS07 TO-3/TO-5 with the 11/1 row and the 9/14 MFR reconciliation today, before Trane signs, so the SF30 page-3 figures and the MFR's "principal" line tie to the executed schedules; flag the 2025 date and the PS0005 description for correction; watch for Trane's signed copy and Conant's distribution.
+
+
+---
+
+## Delta update — 2026-09-25 sweep: Trane will sign PS0006 "tomorrow or Monday at the latest" after checking with the financier
+
+- **9/24 3:38 PM PT — Conant → Hanna** (`1a0d592b623b50f6`): follow-up, wants to finalize; out of office 9/25. **3:40 PM — Hanna** (`1a0d594678cb6eda`): *"We will get it signed and to you tomorrow or Monday at the latest… We wanted to circle back with financier and make s[ure]…"* Conant 3:42: thanks.
+- Trane's page-3 objection from 9/23 was not resolved on the thread; it appears Trane will sign on the fee ($4,299,486.37) and let the descriptive figures stand. Matt did not send the PS07 schedules/MFR reconciliation Thursday.
+- **COR file:** Matt filed the PS0006 package under standardized names Thursday evening — CO Memo to File, the SF30 "Sent for Signature Not Executed," the request to Trane, the 8/4 Payment Status MFR, the PY10/PY11 reports and reviews, the PIR, the M&V Plan Rev 5 (`1G9RGLCBPtt9wAlSFjJKsYfDh7ZDoxW9a`, `1HenqNo2u2iVo0lVmxgJRxvF-VEzB2ASA`, `1ihVucmjFmAx2WyYKLK3ltN0DXkpIsEGO`, `1UXT5Q-sc9fHxrgWE9Rq_vmUmPBuAJOPL`, etc.), and *2026-04-06_CPARS_HDI PY11 CPARS Draft CO Conant* (`1eJtXFzzM9_IsNA4AssRaJvHMdngN91pC1L6_Sq0K5is`).
+
+**COR actions:** the reconciliation to Conant/Shandal is still the right move even after signature — the memo's "principal" line and the 2025 date are file errors that outlive the award. Send it Monday if not today.

@@ -378,3 +378,14 @@ A separate live pass on **9/1 afternoon** read the 8/31 "NDER7 Midwest – 536 C
 - EMP2's 536 S. Clark deliverable due 9/25.
 
 **COR actions:** send the deadline letter today (Blue authorized it); calendar the lost-card report date.
+
+
+---
+
+## Delta update — 2026-09-25 sweep: partnering meeting held 9/24 — Ryan to file the Gomez PIV report; 536 S. Clark PR approved for award before 9/30; Year 9 report mod; next meeting to 10/29
+
+- **9/24 8:00 AM PT — GSA/NORESCO/JLL monthly partnering** (Gemini notes `1a0d402bfcfe2812`; Parker declined `1a0d32bb77bb1e7e`): cooling tower #2 actuator install finishing by noon, no water damage or chemical-treatment impact; tower fan VFD replacement deferred until chillers go offline; fall shutdown scope revised (no NORESCO support needed), building loses power in October; **Blue: "the procurement request is approved and will be awarded before the 30th"** (536 S. Clark, per the next-steps item "Check Clark Project… verify if additional steps are required"); chiller 1 offline week of 10/29 for motor realignment. **Next steps: Ryan to file the official report on Gomez's missing PIV card and email the PIV number to Rudder**; Lindemann to chase the Year 10 report status; Blue to complete the contract mod for the Year 9 report; Rudder to have Matt move the meeting to 10/29.
+- Invite housekeeping: Bruschuk and Jackson off, Avila on (`1a0d4235ddb9ad3f`, done 10:09 AM); Avila accepted.
+- **Gomez:** the deadline letter Blue authorized 9/22 is now paralleled by Ryan's commitment in the meeting to file the report himself. Send the letter anyway (it dates the clock) or, at minimum, an email to Ryan/Blue confirming the date by which the report and FPS number are due.
+
+**COR actions:** move the partnering meeting to 10/29; Gomez deadline email; ask Blue what the "procurement request… awarded before the 30th" is — if it is the 536 S. Clark action, the dossier's "memo path / buyout deferred to FY27" status is stale.
