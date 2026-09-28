@@ -568,3 +568,14 @@ The sufficiency thread (`19cb53e6cb114d17`) was re-pulled in full. **Matt's copy
 **COR read.** The sequencing fight resolved itself: PS30 executed, the PR got rebuilt on the right schedules the same day, and Budget has the bypass list. What is open is administrative: Ingersoll's approval, Brown's bypass covering all 18 lines, and Chapman's package over the weekend. **Three business days.**
 
 **COR actions:** (1) Monday first thing: confirm Ingersoll approved M0026 and Brown's bypass covers lines 34–46 and 193/221/286/314/322; chase if not. (2) Draft the Year 6 acceptance letter now that PS30 is executed. (3) Reply-all to Casiano with Gjeltema: which "uncollectible" reason applies to Topete, or that Honeywell is still attempting return. (4) File the executed PS30 to the COR file.
+
+---
+
+## Delta update — 2026-09-28 sweep: Chapman opened the Year 7 award mod as PA31 at 5:55 AM PT; no EASi approval notice on M0026 yet — two business days
+
+- **5:55 AM PT Monday — Chapman created the mod folder** *"PA31 - SF ESPC YR7 Debt Service & M&V Funding Obligation"* (Drive folder `1PWtf-Iy0fYAxiuMmURlGpfsQxmWPQqRA`, under `1k-QO_yU_KTFsVFbN20lPb6Ve9NzRkB8L`). It was empty at 6:05 AM PT. So the Year 7 award will be **PA31**, and Chapman is building it this morning as he said he would (`1a0d9e647502b365`).
+- **M0026 status:** no *GSA EASi* notice for EQ9P3PME-16-5068-M0026 has arrived since the 2:15 PM PT routing Friday (`1a0da6c191947bb9`); the only EASi mail since then is the PA36 award on LA (`1a0da7a3931448ed`). Ingersoll's approval and Brown's bypass on the 18 legacy lines (34–46; 193, 221, 286, 314, 322) are therefore still open on the record as of 6 AM PT. **Two business days to 9/30.**
+- **Casiano/Topete** (`1a0da1f354be47b0`): no reply from Honeywell (Gjeltema) or from Matt over the weekend.
+- No other traffic on this contract since Friday's pull.
+
+**COR actions:** (1) Before 9:00 — check EASi for M0026's approval state; if it is still with Ingersoll, walk him through it this morning, and confirm with Brown that the bypass request lists all 18 lines; (2) tell Chapman the PR number and status on the Year 7 thread so PA31 can be built against the approved PR; (3) Year 6 acceptance letter and the Casiano reply remain from Friday's list.

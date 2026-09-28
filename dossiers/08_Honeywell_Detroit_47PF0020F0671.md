@@ -287,3 +287,13 @@ The Detroit CIW/ROCAL rebuild moved forward on 8/31 after two prior HSPD-12 reje
 - **9/22 6:10 AM PT — Kinne** (`1a0c93d0ffb5910a`): Hamilton tried to drop the card off twice and found no one in the office; adds Ann Nelson (Honeywell, in contact with him); asks for office hours or an alternate return method.
 - **6:19 / 6:22 AM — Parker** asks Brian Green (`1a0c945d74ef97a7`) and Essenmacher/Smith (`1a0c9491aec37fe7`) to confirm when someone is at the GSA office to receive it.
 - Reads as a collectible card, not Lost/Stolen — hold the L/S/U form; the mail-in address (HSPD-12 PMO, 1800 F St Room 2250) is the fallback if the office can't staff a handoff.
+
+---
+
+## Delta update — 2026-09-28 sweep: Detroit office hours answered; Parker offers the mail-back route for Hamilton's card
+
+- **9/28 5:54 AM PT — Brian Green → Parker** (`1a0e8158537ea8e9`, cc Essenmacher, Smith, Matt, Nelson, HSPD-12, Blake, Kinne): "Not sure if anyone replied. The office is open between 8:30 am and 3:00 pm but closes for a 30 minute lunch break that Timina schedules when possible. We are also short-staffed, so if someone is out…" (a six-day gap since Parker's 9/22 ask).
+- **5:59 AM — Parker → Green, Kinne** (`1a0e81a37b0cc147`): thanks; reminds Honeywell "the card can be mailed back to GSA if returning it to the office is too cumbersome. Collected GSA Access cards can be returned via mail: GSA Attn: HSPD…" (mail-in route now offered in writing to Honeywell).
+- Status unchanged: collectible, not Lost/Stolen. Honeywell now has both a window (8:30–3:00, lunch gap) and a mailing option; the next move is Kinne/Nelson's.
+
+**COR actions:** none owed by Matt. If nothing lands by ~10/6, ask Kinne whether Hamilton mailed it, then close the L/S/U question one way or the other.
