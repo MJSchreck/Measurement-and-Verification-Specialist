@@ -410,3 +410,9 @@ A separate live pass on **9/1 afternoon** read the 8/31 "NDER7 Midwest – 536 C
 - Cooling tower #2: Rudder's 9/28 5:56 AM "Thank you for the update, Todd!" (`1a0e8173761da2d2`) closes the thread.
 
 **COR actions:** (1) Reply on the Wolff thread (or to Ingersoll directly) concurring with the no-buyout path and offering to draft the memorialization memo, citing §J-8.3.8, Vol I Table 2.3, the R&R matrix and the §3 advance-engagement duty — that memo is the COR's product; (2) ask Ingersoll whether the FY27 buyout planning item from 8/31 is withdrawn so nobody budgets $320K for it; (3) the Gomez deadline email, the 10/29 meeting move, and the "which PR awards before the 30th" question to Blue stand from Friday.
+
+## Delta update — 2026-09-29 sweep: HSPD-12 third chase on the Gomez/Finder cards; cooling tower #2 thread closed
+
+- **9/28 9:13 AM PT** — HSPD-12 Contractor Support to Ryan (cc Blue, Rudder, Matt, Cabana; `1a0e8cb771c52b73`): "Have you reported Alejandro Gomez's card to FPS yet?… have you collected Nicholas Finder's card yet?" — third notice after 8/3 and 9/21. Ryan's 9/24 partnering-meeting commitment to file the FPS report is not yet on the record.
+- **Cooling tower #2** (`1a0c90ccb93e3771`): valve actuator failed 9/21, JCI replaced it, back in operation 9/25; Rudder closed the thread 9/28 5:56 AM. O&M event under the NORESCO O&M scope; no M&V impact asserted.
+- **536 S. Clark:** no COR reply to the Wolff deliverable on the record yet (owed to Ingersoll).

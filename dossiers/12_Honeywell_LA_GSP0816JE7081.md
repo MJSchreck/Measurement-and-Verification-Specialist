@@ -527,3 +527,9 @@ Both said the 9/1 legal call "left no written record" and that issuance was unco
 - Next dates from the MDD: Honeywell's revised TO schedules **10/15**; **PS37 bilateral before 11/1** (release language, OGC review); invoice **11/1**, payment **12/1**.
 
 **COR actions:** (1) File the executed PA36 and the final MDD to the COR file under the standardized name. (2) Component D memo Rev 2 as the COR basis for reviewing Honeywell's 10/15 schedules and PS37, including the TCV derivation question. (3) Close the loop with Frank/Bonus. (4) Confirm with Chapman the mod number for Year 8 acceptance.
+
+## Delta update — 2026-09-29 sweep: Chapman transmitted the executed PA36 to Honeywell 9/28
+
+- **9/28 12:48 PM PT** — Chapman, "Notice of Executed Unilateral Modification PA36 - NDER2 LA ESPC Spring St. Partial Cancellation Buyout" (`1a0e99010a7456c9`), to Correa, Sapir, Athar, Kroeger, Khor, Garvey and Pitts (Honeywell), cc Matt, Johnson, Ingersoll, Brown; attachment "Executed Mod PA36 ESPC LA HW Spring St Partial Cancellation Buyout 2026 09 25.pdf". Read receipt logged 1:10 PM. No Honeywell reply by 6 AM 9/29.
+- **Termination Calculator Rebuild** (`1a0b5e88a02dc9aa`): Frank's 9/22 telecom request is still unanswered on the thread; PA36 makes the comparison moot for this action. A two-line close-out to Frank/Bonus remains the courteous move.
+- **Next dated items unchanged:** Honeywell's revised TO schedules 10/15 (per the PA36 MDD); PS37 bilateral by 11/1; PA36 settlement payment 12/1. COR file: executed PA36 + final MDD to the COR file this week.
