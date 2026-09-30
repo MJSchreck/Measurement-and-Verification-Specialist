@@ -297,3 +297,9 @@ The Detroit CIW/ROCAL rebuild moved forward on 8/31 after two prior HSPD-12 reje
 - Status unchanged: collectible, not Lost/Stolen. Honeywell now has both a window (8:30–3:00, lunch gap) and a mailing option; the next move is Kinne/Nelson's.
 
 **COR actions:** none owed by Matt. If nothing lands by ~10/6, ask Kinne whether Hamilton mailed it, then close the L/S/U question one way or the other.
+
+## Delta update — 2026-09-30 sweep: ✅ Hamilton's card returned and terminated 9/29 — Detroit PIV item closed
+
+- **9/28 8:45 AM PT** — HSPD-12 Contractor Support to Parker, Green, Kinne, Essenmacher, Smith, Matt, Nelson (thread `1a0343e35ff49070`): have Maury Hamilton return the card to the HSPD-12 PMO, 1800 F St NW Room 2250. 8:54 Nelson (Honeywell): information sent to him.
+- **9/29 7:20 AM** — Nelson: Hamilton texted that "he was able to return his badge and that the system will be updated the morning per the GSA rep." **7:24 AM Timina Smith (GSA): "Mr. Hamilton has returned his card, which was checked in and terminated."** 7:45 AM helpdesk: "Thank you for the update."
+- **Status:** the L/S/U form was never needed; close the Detroit badge item in the COR file and the watchlist. CIW/ROCAL rebuild can proceed. PY9 receiving report still due ~10/6 (Parker 9/22).

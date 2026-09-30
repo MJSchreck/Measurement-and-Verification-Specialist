@@ -416,3 +416,7 @@ A separate live pass on **9/1 afternoon** read the 8/31 "NDER7 Midwest – 536 C
 - **9/28 9:13 AM PT** — HSPD-12 Contractor Support to Ryan (cc Blue, Rudder, Matt, Cabana; `1a0e8cb771c52b73`): "Have you reported Alejandro Gomez's card to FPS yet?… have you collected Nicholas Finder's card yet?" — third notice after 8/3 and 9/21. Ryan's 9/24 partnering-meeting commitment to file the FPS report is not yet on the record.
 - **Cooling tower #2** (`1a0c90ccb93e3771`): valve actuator failed 9/21, JCI replaced it, back in operation 9/25; Rudder closed the thread 9/28 5:56 AM. O&M event under the NORESCO O&M scope; no M&V impact asserted.
 - **536 S. Clark:** no COR reply to the Wolff deliverable on the record yet (owed to Ingersoll).
+
+## Delta update — 2026-09-30 sweep: HSPD-12 fourth chase on Gomez/Finder
+
+- **9/29 11:30 AM PT** — HSPD-12 Contractor Support to Ryan (cc Blue, Rudder, Matt, Cabana; thread `19fc8dc2faf4d668`): same two questions — Gomez's FPS report, Finder's card. Prior notices 8/3, 8/31, 9/9, 9/14, 9/21, 9/28. No Ryan reply on either thread. The 9/24 partnering-meeting commitment is now five days old; the COR's deadline email to Ryan/Blue is still the open action.
