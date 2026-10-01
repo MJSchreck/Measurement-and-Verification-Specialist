@@ -336,3 +336,7 @@ Note: File Memo PO21 mentions "twenty modifications" issued to date as of Aug 20
 ## Delta update — 2026-09-23 sweep: PY9 receiving report due ~10/6
 
 - **9/22 12:45 PM PT — Parker** (`1a0caa71e3defd4e`): reminder that the Chicago SSA PY9 payment needs a receiving report at the start of October, "by the 10/6 or so"; offered to work it together. **Matt 12:53 PM** (`1a0caae08e0ac635`): will handle it and submit before 10/6. Parker: "You da man."
+
+## Delta update — 2026-10-01 sweep: PY9 receiving report commitment restated
+
+- **9/30 7:53 AM PT** — FY26 close memo to Ingersoll (`1a0f2c62850b9fb0`): "PY9 final payment ($153,908) is obligated. Receiving report will be submitted before 10/6; payment due 11/1/2026."

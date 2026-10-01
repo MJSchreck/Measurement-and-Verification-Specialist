@@ -82,6 +82,8 @@
 
 **Status note 2026-09-24 — no change; MDD now documents the basis.** Chapman's rewritten PA36 MDD (`1yNHRFlcEs0SqhTL7koZSFa0L4c5gu0ZY5d6b15ZU9ZM`, 9/23) states the settlement as Honeywell's proposed amount "accepted by GSA" and supports price reasonableness with EMP2's 9/23 run ($3,500,256 on 29.0046%, "3% higher" than the award). Package went to Legal 9/23 (`1a0cfda80038e420`); signature 9/25. The COR's $3,301,391.56 is not in the MDD. Candidate stays closed at zero; the Section E "avoided misstatement" note (under-obligation caught, 2.0% premium error, phantom fee) stands and should be captured in the Component D memo Rev 2 so the file shows it.
 
+**Status note 2026-10-01 — no benefit event.** FY26 closed with all three obligations awarded ($8,941,946.97 per the COR's 9/30 memo); NORESCO EMD shutdown funding (PR mod M0004) to be withdrawn — a released commitment, not a benefit. Rollup unchanged.
+
 **Status note 2026-09-30 — no benefit event.** PA31 (SF Year 7, $1,228,251.35) awarded 9/29; an obligation, not a benefit. PJKK Year 15 responses in, not yet adjudicated. Rollup unchanged.
 
 **Status note 2026-09-29 — no benefit event.** SF Year 7 M0026 approved and certified 9/28 (an obligation, not a benefit); ABM R8 mediation prep only. Rollup unchanged.

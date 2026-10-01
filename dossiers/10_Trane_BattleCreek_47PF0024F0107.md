@@ -494,3 +494,7 @@ The buyout thread (`19fc95074a3c4764`, 40 messages) was re-pulled in full. The 8
 - No email traffic on this contract over the weekend; the Docusign completion is the only event.
 
 **COR actions:** (1) File the executed PS0006 to the Zone 7 COR file (Tab 41) and update the COR File Index; (2) send Conant/Shandal the reconciliation so the executed record and the memo agree on principal and dates; (3) calendar 10/28 for the PY12 final M&V report and ask Trane for its invoice; (4) update the Program Benefit Ledger status note (Section E ceiling correction is now embedded in an executed award).
+
+## Delta update — 2026-10-01 sweep: settlement payment date and FY27 funding-line recommendation on the record
+
+- **9/30 7:53 AM PT** — Matt's FY26 close memo to Ingersoll (`1a0f2c62850b9fb0`): "PS0006 executed with settlement paying 11/1/2026. Closeout to follow." FY27 Annual Funding Requests tab carries **$693,332 for 3/1/2027** — recommended removing that line and all out-year lines with Heidi Johnson, since PS0006 bought out the task order.
